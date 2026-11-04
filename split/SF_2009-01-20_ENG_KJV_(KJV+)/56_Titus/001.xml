@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="56" bname="Titus" bsname="Tit">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">
+        <gr str="3972">Paul</gr>, a <gr str="1401">servant </gr>of <gr str="2316">God</gr>, <gr str="1161">and </gr>an <gr str="652">apostle </gr>of <gr str="2424">Jesus </gr>
+        <gr str="5547">Christ</gr>, <gr str="2596">according </gr>to the <gr str="4102">faith </gr>of <gr str="2316">God </gr>'s <gr str="1588">elect</gr>, <gr str="2532">and </gr>the <gr str="1922">acknowledging </gr>of the <gr str="225">truth </gr>
+        <gr str="3588">which </gr>is <gr str="2596">after </gr>
+        <gr str="2150">godliness</gr>; </VERS>
+      <VERS vnumber="2">
+        <gr str="1909">In </gr>
+        <gr str="1680">hope </gr>of <gr str="166">eternal </gr>
+        <gr str="2222">life</gr>, <gr str="3739">which </gr>
+        <gr str="2316">God</gr>, that cannot <gr str="893">lie</gr>, <gr str="1861">promised </gr>
+        <gr str="4253">before </gr>the world <gr str="166 5550">began</gr>; </VERS>
+      <VERS vnumber="3">
+        <gr str="1161">But </gr>hath in <gr str="2398">due </gr>
+        <gr str="2540">times </gr>
+        <gr str="5319">manifested </gr>
+        <gr str="848">his </gr>
+        <gr str="3056">word </gr>
+        <gr str="1722">through </gr>
+        <gr str="2782">preaching</gr>, <gr str="3739">which </gr>is <gr str="4100">committed </gr>unto <gr str="1473">me </gr>
+        <gr str="2596">according </gr>to the <gr str="2003">commandment </gr>of <gr str="2316">God </gr>
+        <gr str="2257">our </gr>
+        <gr str="4990">Savior</gr>; </VERS>
+      <VERS vnumber="4"> To <gr str="5103">Titus</gr>, <STYLE css="color:#808080;font-style:italic"> mine </STYLE>
+        <gr str="1103">own </gr>
+        <gr str="5043">son </gr>
+        <gr str="2596">after </gr>the <gr str="2839">common </gr>
+        <gr str="4102">faith</gr>: <gr str="5485">Grace</gr>, <gr str="1656">mercy</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="1515">peace</gr>, <gr str="575">from </gr>
+        <gr str="2316">God </gr>the <gr str="3962">Father </gr>
+        <gr str="2532">and </gr>the <gr str="2962">Lord </gr>
+        <gr str="2424">Jesus </gr>
+        <gr str="5547">Christ </gr>
+        <gr str="2257">our </gr>
+        <gr str="4990">Savior</gr>. </VERS>
+      <VERS vnumber="5"> For this <gr str="5484 5127">cause </gr>
+        <gr str="2641">left </gr>I <gr str="4571">thee </gr>
+        <gr str="1722">in </gr>
+        <gr str="2914">Crete</gr>, <gr str="2443">that </gr>thou shouldest set in <gr str="1930">order </gr>the things that are <gr str="3007">wanting</gr>, <gr str="2532">and </gr>
+        <gr str="2525">ordain </gr>
+        <gr str="4245">elders </gr>in every <gr str="2596 4172">city</gr>, <gr str="5613">as </gr>
+        <gr str="1473">I </gr>had <gr str="1299">appointed </gr>
+        <gr str="4671">thee</gr>: </VERS>
+      <VERS vnumber="6"> If <gr str="1536">any </gr>
+        <gr str="2076">be </gr>
+        <gr str="410">blameless</gr>, the <gr str="435">husband </gr>of <gr str="3391">one </gr>
+        <gr str="1135">wife</gr>, <gr str="2192">having </gr>
+        <gr str="4103">faithful </gr>
+        <gr str="5043">children </gr>
+        <gr str="3361">not </gr>
+        <gr str="1722 2724">accused </gr>of <gr str="810">riot </gr>
+        <gr str="2228">or </gr>
+        <gr str="506">unruly</gr>. </VERS>
+      <VERS vnumber="7">
+        <gr str="1063">For </gr>a <gr str="1985">bishop </gr>
+        <gr str="1163">must </gr>
+        <gr str="1511">be </gr>
+        <gr str="410">blameless</gr>, <gr str="5613">as </gr>the <gr str="3623">steward </gr>of <gr str="2316">God</gr>; <gr str="3361">not </gr>
+        <gr str="829">self </gr>-willed, <gr str="3361">not </gr>soon <gr str="3711">angry</gr>, <gr str="3361">not </gr>given to <gr str="3943">wine</gr>, <gr str="3361">no </gr>
+        <gr str="4131">striker</gr>, <gr str="3361">not </gr>given to filthy <gr str="146">lucre</gr>; </VERS>
+      <VERS vnumber="8">
+        <gr str="235">But </gr>a lover of <gr str="5382">hospitality</gr>, a lover of good <gr str="5358">men</gr>, <gr str="4998">sober</gr>, <gr str="1342">just</gr>, <gr str="3741">holy</gr>, <gr str="1468">temperate</gr>; </VERS>
+      <VERS vnumber="9"> Holding <gr str="472">fast </gr>
+        <gr str="3588">the </gr>
+        <gr str="4103">faithful </gr>
+        <gr str="3056">word </gr>as he hath been <gr str="2596 1322">taught</gr>, <gr str="2443">that </gr>he may <gr str="5600">be </gr>
+        <gr str="1415">able </gr>
+        <gr str="1722">by </gr>
+        <gr str="5198">sound </gr>
+        <gr str="1319">doctrine </gr>
+        <gr str="2532">both </gr>to <gr str="3870">exhort </gr>
+        <gr str="2532">and </gr>to <gr str="1651">convince </gr>
+        <gr str="3588">the </gr>
+        <gr str="483">gainsayers</gr>. </VERS>
+      <VERS vnumber="10">
+        <gr str="1063">For </gr>there <gr str="1526">are </gr>
+        <gr str="4183">many </gr>
+        <gr str="*2532 506">unruly </gr>and vain <gr str="3151">talkers </gr>
+        <gr str="2532">and </gr>
+        <gr str="5423">deceivers</gr>, <gr str="3122">especially </gr>
+        <gr str="3588">they </gr>
+        <gr str="1537">of </gr>the <gr str="4061">circumcision</gr>: </VERS>
+      <VERS vnumber="11">
+        <gr str="3739">Whose </gr>mouths must be <gr str="1993 1163">stopped</gr>, <gr str="3748">who </gr>
+        <gr str="396">subvert </gr>
+        <gr str="3650">whole </gr>
+        <gr str="3624">houses</gr>, <gr str="1321">teaching </gr>things <gr str="3739">which </gr>they <gr str="1163">ought </gr>
+        <gr str="3361">not</gr>, for filthy lucre's <gr str="5484 150 2771">sake</gr>. </VERS>
+      <VERS vnumber="12">
+        <gr str="5100">One </gr>
+        <gr str="1537">of </gr>
+        <gr str="846">themselves</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE> a <gr str="4396">prophet </gr>of <gr str="846">their </gr>
+        <gr str="2398">own</gr>, <gr str="2036">said</gr>, The <gr str="2912">Cretians </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="104">always </gr>
+        <gr str="5583">liars</gr>, <gr str="2556">evil </gr>
+        <gr str="2342">beasts</gr>, <gr str="692">slow </gr>
+        <gr str="1064">bellies</gr>. </VERS>
+      <VERS vnumber="13">
+        <gr str="3778">This </gr>
+        <gr str="3141">witness </gr>
+        <gr str="2076">is </gr>
+        <gr str="227">true</gr>. <gr str="1223 3739 156">Wherefore </gr>
+        <gr str="1651">rebuke </gr>
+        <gr str="846">them </gr>
+        <gr str="664">sharply</gr>, <gr str="2443">that </gr>they may be <gr str="5198">sound </gr>
+        <gr str="1722">in </gr>
+        <gr str="3588">the </gr>
+        <gr str="4102">faith</gr>; </VERS>
+      <VERS vnumber="14">
+        <gr str="3361">Not </gr>giving <gr str="4337">heed </gr>to <gr str="2451">Jewish </gr>
+        <gr str="3454">fables</gr>, <gr str="2532">and </gr>
+        <gr str="1785">commandments </gr>of <gr str="444">men</gr>, that turn <gr str="654">from </gr>
+        <gr str="3588">the </gr>
+        <gr str="225">truth</gr>. </VERS>
+      <VERS vnumber="15"> Unto <gr str="3588">the </gr>
+        <gr str="2513">pure </gr>all <gr str="3956">things </gr>
+        <STYLE css="color:#808080;font-style:italic">
+          <gr str="*3303">are </gr>
+        </STYLE>
+        <gr str="2513">pure</gr>: <gr str="1161">but </gr>unto <gr str="3588">them </gr>that are <gr str="3392">defiled </gr>
+        <gr str="2532">and </gr>
+        <gr str="571">unbelieving </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3762">nothing </gr>
+        <gr str="2513">pure</gr>; <gr str="235">but </gr>
+        <gr str="2532">even </gr>
+        <gr str="846">their </gr>
+        <gr str="3563">mind </gr>
+        <gr str="2532">and </gr>
+        <gr str="4893">conscience </gr>is <gr str="3392">defiled</gr>. </VERS>
+      <VERS vnumber="16"> They <gr str="3670">profess </gr>that they <gr str="1492">know </gr>
+        <gr str="2316">God</gr>; <gr str="1161">but </gr>in <gr str="2041">works </gr>they <gr str="720">deny </gr>
+        <STYLE css="color:#808080;font-style:italic"> him, </STYLE>
+        <gr str="5607">being </gr>
+        <gr str="947">abominable</gr>, <gr str="2532">and </gr>
+        <gr str="545">disobedient</gr>, <gr str="2532">and </gr>
+        <gr str="4314">unto </gr>
+        <gr str="3956">every </gr>
+        <gr str="18">good </gr>
+        <gr str="2041">work </gr>
+        <gr str="96">reprobate</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

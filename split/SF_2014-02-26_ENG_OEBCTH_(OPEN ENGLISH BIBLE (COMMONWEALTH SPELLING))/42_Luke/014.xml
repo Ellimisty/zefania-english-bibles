@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="42" bname="Luke" bsname="Luk">
+    <CHAPTER cnumber="14">
+      <VERS vnumber="1">On one occasion, as Jesus was going, on a Sabbath into the house of one of the leading Pharisees to dine, they were watching him closely.</VERS>
+      <VERS vnumber="2">There he saw before him a man who was suffering from dropsy.</VERS>
+      <VERS vnumber="3">said Jesus, addressing the students of the law and the Pharisees,</VERS>
+      <VERS vnumber="4">They remained silent. Jesus took hold of the man and cured him, and sent him away.</VERS>
+      <VERS vnumber="5">And he said to them:</VERS>
+      <VERS vnumber="6">And they could not make any answer to that.</VERS>
+      <VERS vnumber="7">Observing that the guests were choosing the best places for themselves, Jesus told them this parable —</VERS>
+      <VERS vnumber="11" />
+      <VERS vnumber="12">Then Jesus went on to say to the man who had invited him:</VERS>
+      <VERS vnumber="14" />
+      <VERS vnumber="15">One of the guests heard what he said and exclaimed: “Happy will be the person who will eat bread in the kingdom of God!”</VERS>
+      <VERS vnumber="16">But Jesus said to him:</VERS>
+      <VERS vnumber="24" />
+      <VERS vnumber="25">One day, when great crowds of people were walking with Jesus, he turned and said to them:</VERS>
+      <VERS vnumber="35" />
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

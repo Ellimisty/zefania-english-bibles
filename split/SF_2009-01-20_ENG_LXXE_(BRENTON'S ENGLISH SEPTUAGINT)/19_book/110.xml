@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="110">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of David.</STYLE> - <DIV>
+          <NOTE type="x-studynote">Mt 22:44</NOTE>
+        </DIV> The Lord said to my Lord, Sit thou on my right hand, until I make thine enemies thy footstool.</VERS>
+      <VERS vnumber="2">The Lord shall send out a rod of power for thee out of Sion: rule thou in the midst of thine enemies.</VERS>
+      <VERS vnumber="3">With thee is dominion in the day of thy power, in the splendours of <DIV>
+          <NOTE type="x-studynote">Or, holiness, i. e. holy things</NOTE>
+        </DIV> thy saints: I have begotten thee from the womb before the morning.</VERS>
+      <VERS vnumber="4">The Lord sware, and will not repent, Thou art a priest for ever, after the order of Melchisedec.</VERS>
+      <VERS vnumber="5">The Lord at thy right hand has dashed in pieces kings in the day of his wrath.</VERS>
+      <VERS vnumber="6">He shall judge among the nations, he shall fill up the number of corpses, he shall crush the heads of many on the earth.</VERS>
+      <VERS vnumber="7">He shall drink of the brook in the way; therefore shall he lift up the head.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

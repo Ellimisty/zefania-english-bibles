@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="14">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief Musician, [A Psalm] of David.</STYLE> The fool hath said in his heart, <STYLE css="font-style:italic">There is</STYLE> no God. They are corrupt, they have done abominable works, <STYLE css="font-style:italic">there is</STYLE> none that doeth good.</VERS>
+      <VERS vnumber="2">The LORD looked down from heaven upon the children of men, to see if there were any that did understand, <STYLE css="font-style:italic">and</STYLE> seek God.</VERS>
+      <VERS vnumber="3">They are all gone aside, they are <STYLE css="font-style:italic">all</STYLE> together become filthy: <STYLE css="font-style:italic">there is</STYLE> none that doeth good, no, not one. <DIV>
+          <NOTE type="x-studynote">filthy: Heb. stinking</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">Have all the workers of iniquity no knowledge? who eat up my people <STYLE css="font-style:italic">as</STYLE> they eat bread, and call not upon the LORD.</VERS>
+      <VERS vnumber="5">There were they in great fear: for God <STYLE css="font-style:italic">is</STYLE> in the generation of the righteous. <DIV>
+          <NOTE type="x-studynote">were…: Heb. they feared a fear</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">Ye have shamed the counsel of the poor, because the LORD <STYLE css="font-style:italic">is</STYLE> his refuge.</VERS>
+      <VERS vnumber="7">O that the salvation of Israel <STYLE css="font-style:italic">were come</STYLE> out of Zion! when the LORD bringeth back the captivity of his people, Jacob shall rejoice, <STYLE css="font-style:italic">and</STYLE> Israel shall be glad. <DIV>
+          <NOTE type="x-studynote">Oh…: Heb. Who will give</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

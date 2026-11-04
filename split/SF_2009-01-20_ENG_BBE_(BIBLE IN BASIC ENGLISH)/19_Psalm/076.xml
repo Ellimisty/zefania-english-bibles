@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="76">
+      <VERS vnumber="1"> To the chief music-maker; put to Neginoth. A Psalm. Of Asaph. A Song. </VERS>
+      <VERS vnumber="2">\76:1\In Judah is the knowledge of God; his name is great in Israel,</VERS>
+      <VERS vnumber="3">\76:2\In Salem is his tent, his resting-place in Zion.</VERS>
+      <VERS vnumber="4">\76:3\There were the arrows of the bow broken, there he put an end to body-cover, sword, and fight. (Selah.)</VERS>
+      <VERS vnumber="5">\76:4\You are shining and full of glory, more than the eternal mountains.</VERS>
+      <VERS vnumber="6">\76:5\Gone is the wealth of the strong, their last sleep has overcome them; the men of war have become feeble.</VERS>
+      <VERS vnumber="7">\76:6\At the voice of your wrath, O God of Jacob, deep sleep has overcome carriage and horse.</VERS>
+      <VERS vnumber="8">\76:7\You, you are to be feared; who may keep his place before you in the time of your wrath?</VERS>
+      <VERS vnumber="9">\76:8\From heaven you gave your decision; the earth, in its fear, gave no sound,</VERS>
+      <VERS vnumber="10">\76:9\When God took his place as judge, for the salvation of the poor on the earth. (Selah.)</VERS>
+      <VERS vnumber="11">\76:10\The ... will give you praise; the rest of ...</VERS>
+      <VERS vnumber="12">\76:11\Give to the Lord your God what is his by right; let all who are round him give offerings to him who is to be feared.</VERS>
+      <VERS vnumber="13">\76:12\He puts an end to the wrath of rulers; he is feared by the kings of the earth.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

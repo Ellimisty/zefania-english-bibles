@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Modern KJV 1963" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="101">
+      <VERS vnumber="1">A Psalm of David. I will sing of mercy and judgment; to You, O LORD, I will sing praise.</VERS>
+      <VERS vnumber="2">I will behave myself wisely in a perfect way. O when will You come to me? I will walk within my house with a perfect heart.</VERS>
+      <VERS vnumber="3">I will set no wicked thing before my eyes. I have hated the work of those who turn aside; it shall not hold on to me.</VERS>
+      <VERS vnumber="4">A perverse heart will depart from me; I will not know the wicked.</VERS>
+      <VERS vnumber="5">[Whoever] secretly slanders his neighbor, I will cut him off; him who has a high look and a proud heart, I will not allow.</VERS>
+      <VERS vnumber="6">My eyes [shall be] on the faithful of the land, so that they may dwell with me; he who walks in a perfect way, he shall serve Me.</VERS>
+      <VERS vnumber="7">[He] who works falsely shall not dwell within my house; he who tells lies shall not stay in my sight.</VERS>
+      <VERS vnumber="8">I will early destroy all the wicked of the land, so that I may cut off all wicked doers from the city of the LORD.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

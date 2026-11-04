@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="135">
+      <VERS vnumber="1">
+        <gr str="1984">Praise </gr>ye the <gr str="3050">LORD</gr>. <gr str="1984">Praise </gr>ye <gr str="*853" />the <gr str="8034">name </gr>of the <gr str="3068">LORD</gr>; <gr str="1984">praise </gr>
+        <STYLE css="color:#808080;font-style:italic"> him </STYLE>, O ye <gr str="5650">servants </gr>of the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="2"> Ye that <gr str="7945 5975">stand </gr>in the <gr str="1004">house </gr>of the <gr str="3068">Lord</gr>, in the <gr str="2691">courts </gr>of the <gr str="1004">house </gr>of our <gr str="430">God</gr>, </VERS>
+      <VERS vnumber="3">
+        <gr str="1984">Praise </gr>the <gr str="3050">LORD</gr>; <gr str="3588">for </gr>the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2896">good</gr>: sing <gr str="2167">praises </gr>unto his <gr str="8034">name</gr>; <gr str="3588">for </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="5273">pleasant</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="3588">For </gr>the <gr str="3050">LORD </gr>hath <gr str="977">chosen </gr>
+        <gr str="3290">Jacob </gr>unto himself, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="3478">Israel </gr>for his peculiar <gr str="5459">treasure</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="3588">For </gr>
+        <gr str="589">I </gr>
+        <gr str="3045">know </gr>
+        <gr str="3588">that </gr>the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="1419">great</gr>, and <STYLE css="color:#808080;font-style:italic"> that </STYLE> our <gr str="113">Lord </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> above <gr str="4480 3605">all </gr>
+        <gr str="430">gods</gr>. </VERS>
+      <VERS vnumber="6">
+        <gr str="3605 834">Whatsoever </gr>the <gr str="3068">LORD </gr>
+        <gr str="2654">pleased</gr>, <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <gr str="6213">did </gr>he in <gr str="8064">heaven</gr>, and in <gr str="776">earth</gr>, in the <gr str="3220">seas</gr>, and <gr str="3605">all </gr>deep <gr str="8415">places</gr>. </VERS>
+      <VERS vnumber="7"> He causeth the <gr str="5387">vapors </gr>to <gr str="5927">ascend </gr>from the <gr str="4480 7097">ends </gr>of the <gr str="776">earth</gr>; he <gr str="6213">maketh </gr>
+        <gr str="1300">lightnings </gr>for the <gr str="4306">rain</gr>; he <gr str="3318">bringeth </gr>the <gr str="7307">wind </gr>out of his <gr str="4480 214">treasuries</gr>. </VERS>
+      <VERS vnumber="8"> Who <gr str="7945 5221">smote </gr>the <gr str="1060">firstborn </gr>of <gr str="4714">Egypt</gr>, both of <gr str="4480 120">man </gr>
+        <gr str="5704">and </gr>
+        <gr str="929">beast</gr>. </VERS>
+      <VERS vnumber="9">
+        <STYLE css="color:#808080;font-style:italic"> Who </STYLE>
+        <gr str="7971">sent </gr>
+        <gr str="226">tokens </gr>and <gr str="4159">wonders </gr>into the <gr str="8432">midst </gr>of thee, O <gr str="4714">Egypt</gr>, upon <gr str="6547">Pharaoh</gr>, and upon <gr str="3605">all </gr>his <gr str="5650">servants</gr>. </VERS>
+      <VERS vnumber="10"> Who <gr str="7945 5221">smote </gr>
+        <gr str="7227">great </gr>
+        <gr str="1471">nations</gr>, and <gr str="2026">slew </gr>
+        <gr str="6099">mighty </gr>
+        <gr str="4428">kings</gr>; </VERS>
+      <VERS vnumber="11">
+        <gr str="5511">Sihon </gr>
+        <gr str="4428">king </gr>of the <gr str="567">Amorites</gr>, and <gr str="5747">Og </gr>
+        <gr str="4428">king </gr>of <gr str="1316">Bashan</gr>, and <gr str="3605">all </gr>the <gr str="4467">kingdoms </gr>of <gr str="3667">Canaan</gr>: </VERS>
+      <VERS vnumber="12"> And <gr str="5414">gave </gr>their <gr str="776">land </gr>
+        <STYLE css="color:#808080;font-style:italic"> for </STYLE> a <gr str="5159">heritage</gr>, a <gr str="5159">heritage </gr>unto <gr str="3478">Israel </gr>his <gr str="5971">people</gr>. </VERS>
+      <VERS vnumber="13"> Thy <gr str="8034">name</gr>, O <gr str="3068">LORD</gr>, <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>; <STYLE css="color:#808080;font-style:italic"> and </STYLE> thy <gr str="2143">memorial</gr>, O <gr str="3068">LORD</gr>, throughout all <gr str="1755 1755">generations</gr>. </VERS>
+      <VERS vnumber="14">
+        <gr str="3588">For </gr>the <gr str="3068">LORD </gr>will <gr str="1777">judge </gr>his <gr str="5971">people</gr>, and he will repent <gr str="5162">himself </gr>
+        <gr str="5921">concerning </gr>his <gr str="5650">servants</gr>. </VERS>
+      <VERS vnumber="15"> The <gr str="6091">idols </gr>of the <gr str="1471">heathen </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="3701">silver </gr>and <gr str="2091">gold</gr>, the <gr str="4639">work </gr>of <gr str="120">men </gr>'s <gr str="3027">hands</gr>. </VERS>
+      <VERS vnumber="16"> They have <gr str="6310">mouths</gr>, but they <gr str="1696">speak </gr>
+        <gr str="3808">not</gr>; <gr str="5869">eyes </gr>have they, but they <gr str="7200">see </gr>
+        <gr str="3808">not</gr>; </VERS>
+      <VERS vnumber="17"> They have <gr str="241">ears</gr>, but they <gr str="238">hear </gr>
+        <gr str="3808">not</gr>; <gr str="637 369">neither </gr>is <gr str="3426">there </gr>
+        <STYLE css="color:#808080;font-style:italic"> any </STYLE>
+        <gr str="7307">breath </gr>in their <gr str="6310">mouths</gr>. </VERS>
+      <VERS vnumber="18"> They that <gr str="6213">make </gr>them <gr str="1961">are </gr>like unto <gr str="3644">them</gr>: <STYLE css="color:#808080;font-style:italic"> so </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> every <gr str="3605">one </gr>
+        <gr str="834">that </gr>
+        <gr str="982">trusteth </gr>in them. </VERS>
+      <VERS vnumber="19">
+        <gr str="1288">Bless </gr>
+        <gr str="*853">
+        </gr>the <gr str="3068">LORD</gr>, O <gr str="1004">house </gr>of <gr str="3478">Israel</gr>:  <gr str="*853" />
+        <gr str="1288">bless </gr>the <gr str="3068">LORD</gr>, O <gr str="1004">house </gr>of <gr str="175">Aaron</gr>: </VERS>
+      <VERS vnumber="20">
+        <gr str="1288">Bless </gr>
+        <gr str="*853">
+        </gr>the <gr str="3068">LORD</gr>, O <gr str="1004">house </gr>of <gr str="3878">Levi</gr>: ye that <gr str="3373">fear </gr>the <gr str="3068">LORD</gr>, <gr str="1288">bless </gr>
+        <gr str="*853" />the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="21">
+        <gr str="1288">Blessed </gr>be the <gr str="3068">LORD </gr>out of <gr str="4480 6726">Zion</gr>, which <gr str="7931">dwelleth </gr>at <gr str="3389">Jerusalem</gr>. <gr str="1984">Praise </gr>ye the <gr str="3050">LORD</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

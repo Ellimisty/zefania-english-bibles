@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="142">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of David; a prayer, when he was in the cave</STYLE> I cry unto the LORD with my voice; With my voice to the LORD do I make my supplication.</VERS>
+      <VERS vnumber="2">I pour out my complaint before him; I declare before him my distress.</VERS>
+      <VERS vnumber="3">When my spirit is overwhelmed within me, Thou knowest my path! In the way which I walk, they have hid a snare for me.</VERS>
+      <VERS vnumber="4">I look on my right hand, and behold, But no man knoweth me; Refuge faileth me; No one careth for me.</VERS>
+      <VERS vnumber="5">I cry unto thee, O LORD! I say, Thou art my refuge, My portion in the land of the living.</VERS>
+      <VERS vnumber="6">Attend to my cry, for I am brought very low; Deliver me from my persecutors, For they prevail against me!</VERS>
+      <VERS vnumber="7">Bring me out of prison, That I may praise thy name! The righteous shall gather around me, When thou shalt show me thy favor.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

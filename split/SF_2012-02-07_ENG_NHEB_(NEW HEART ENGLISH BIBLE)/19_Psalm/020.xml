@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="New Heart English Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="20">
+      <VERS vnumber="1">For the Chief Musician. A Psalm by David.May the <STYLE id="cl:divineName">Lord</STYLE> answer you in the day of trouble.May the name of the God of Jacob set you up on high,</VERS>
+      <VERS vnumber="2">send you help from the sanctuary,grant you support from Zion,</VERS>
+      <VERS vnumber="3">remember all your offerings,and accept your burnt sacrifice.Selah.</VERS>
+      <VERS vnumber="4">May He grant you your heart's desire,and fulfill all your counsel.</VERS>
+      <VERS vnumber="5">We will triumph in your salvation.In the name of our God, we will set up our banners.May the <STYLE id="cl:divineName">Lord</STYLE> grant all your requests.</VERS>
+      <VERS vnumber="6">Now I know that the <STYLE id="cl:divineName">Lord</STYLE> saves his anointed.He will answer him from his holy heaven,with the saving strength of his right hand.</VERS>
+      <VERS vnumber="7">Some trust in chariots, and some in horses,but we trust the name of the <STYLE id="cl:divineName">Lord</STYLE> our God.</VERS>
+      <VERS vnumber="8">They are bowed down and fallen,but we rise up, and stand upright.</VERS>
+      <VERS vnumber="9">Save, <STYLE id="cl:divineName">Lord</STYLE>!Let the King answer us when we call!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

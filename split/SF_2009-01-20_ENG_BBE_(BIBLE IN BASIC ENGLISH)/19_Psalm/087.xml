@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="87">
+      <VERS vnumber="1"> Of the sons of Korah. A Psalm. A Song. This house is resting on the holy mountain.</VERS>
+      <VERS vnumber="2">The Lord has more love for the doors of Zion than for all the tents of Jacob.</VERS>
+      <VERS vnumber="3">Noble things are said of you, O town of God. (Selah.)</VERS>
+      <VERS vnumber="4">Rahab and Babylon will be named among those who have knowledge of me; see, Philistia and Tyre, with Ethiopia; this man had his birth there.</VERS>
+      <VERS vnumber="5">And of Zion it will be said, This or that man had his birth there; and the Most High will make her strong.</VERS>
+      <VERS vnumber="6">The Lord will keep in mind, when he is writing the records of the people, that this man had his birth there. (Selah.)</VERS>
+      <VERS vnumber="7">The players on instruments will be there, and the dancers will say, All my springs are in you.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

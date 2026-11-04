@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="82">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of Asaph.</STYLE> God standeth in Gods assembly, He judgeth in the midst of the gods.</VERS>
+      <VERS vnumber="2">"How long will ye judge unjustly, And favor the cause of the wicked? <STYLE css="font-style:italic">Pause.</STYLE>
+      </VERS>
+      <VERS vnumber="3">Defend the poor and the fatherless; Do justice to the wretched and the needy!</VERS>
+      <VERS vnumber="4">Deliver the poor and the destitute; Save them from the hand of the wicked!</VERS>
+      <VERS vnumber="5">They are without knowledge and without understanding; They walk in darkness: Therefore all the foundations of the land are shaken.</VERS>
+      <VERS vnumber="6">I have said, Ye are gods, And all of you children of the Most High;</VERS>
+      <VERS vnumber="7">But ye shall die like men, And fall like the rest of the princes."</VERS>
+      <VERS vnumber="8">Arise, O God! judge the earth! For all the nations are thy possession.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

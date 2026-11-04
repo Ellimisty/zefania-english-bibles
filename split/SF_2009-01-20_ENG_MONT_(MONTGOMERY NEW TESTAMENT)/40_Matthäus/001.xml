@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Montgomery New Testament" type="x-bible">
+  <BIBLEBOOK bnumber="40" bname="Matthäus" bsname="Mt">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">The book of the generation of Jesus Christ, the son of David, the son of Abraham.</VERS>
+      <VERS vnumber="2">Abraham was the father of Isaac; Isaac was the father of Jacob;  Jacob, of Judah and his brethren;</VERS>
+      <VERS vnumber="3">Judah (by Tamar), of Perez and Zerah; Perez, of Hezron; Hezron, of Ram;</VERS>
+      <VERS vnumber="4">Ram, of Amminadab; Amminadab, of Nahshon; Nahshon, of Salmon;</VERS>
+      <VERS vnumber="5">Salmon (by Rahab), of Boaz; Boaz (by Ruth), of Obed; Obed, of Jesse;</VERS>
+      <VERS vnumber="6">And Jesse, of David the king. David (by Uriahs widow), was the father of Solomon;</VERS>
+      <VERS vnumber="7">Solomon, of Rehoboam; Rehoboam, of Abijah; Abijah, of Asa;</VERS>
+      <VERS vnumber="8">Asa, of Jehoshaphat; Jehoshaphat, of Joram; Joram, of Uzziah;</VERS>
+      <VERS vnumber="9">Uzziah, of Jotham; Jotham, of Ahaz; Ahaz, of Hezekiah;</VERS>
+      <VERS vnumber="10">Hezekiah, of Manasseh; Manasseh, of Amon; Amon, of Josiah;</VERS>
+      <VERS vnumber="11">Josiah, of Jechoniah and his brethren, at the time of the carrying away to Babylon.</VERS>
+      <VERS vnumber="12">And after the carrying away into Babylon, Jechoniah became the father of Shealtiel; Shealtiel, of Zerubbabel;</VERS>
+      <VERS vnumber="13">Zerubbabel, of Abiud; Abiud, of Eliakim; Eliakim, of Azor;</VERS>
+      <VERS vnumber="14">Azor, of Sadoc; Sadoc, of Achim; Achim, of Eliud;</VERS>
+      <VERS vnumber="15">Eliud, of Eleazar; Eleazar, of Matthan; Matthan, of Jacob;</VERS>
+      <VERS vnumber="16">And Jacob, of Joseph, the husband of Mary, of whom was born Jesus,  who is called Christ.</VERS>
+      <VERS vnumber="17">So the whole number of generations from Abraham to David is fourteen; from David to the exile to Babylon is fourteen; and from the exile to Babylon to Christ is fourteen.</VERS>
+      <VERS vnumber="18">The birth of Jesus Christ took place in this way. After his mother,  Mary, had been betrothed to Joseph, before they came together, she was found to be with child by the Holy Spirit.</VERS>
+      <VERS vnumber="19">But Joseph her husband, because he was just a man and unwilling to disgrace her, was minded to put her away secretly.</VERS>
+      <VERS vnumber="20">And while he was having this in mind, behold! an angel of the Lord appeared to him in a dream, saying.</VERS>
+      <VERS vnumber="21">"Joseph, son of David, do not be afraid to take Mary your wife home,  for what is begotten in her is by the Holy Spirit; and she will bear a son, and you are to call him Jesus, for he will save his people from their sins."</VERS>
+      <VERS vnumber="22">All this happened that the word of the Lord spoken through the prophet might be fulfilled.</VERS>
+      <VERS vnumber="23">Behold! the virgin shall be with child, and shall bear a son; and they shall call his name Immanuel, a word which means "God with us."</VERS>
+      <VERS vnumber="24">Now when Joseph awoke from his sleep he did as the angel of the Lord had directed him, and took his wife home,</VERS>
+      <VERS vnumber="25">but did not live with her until after the birth of her son, whom he called Jesus.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

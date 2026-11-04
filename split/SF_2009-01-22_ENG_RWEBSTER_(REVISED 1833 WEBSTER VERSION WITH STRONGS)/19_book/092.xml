@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="92">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm [or] <gr str="7892">Song </gr>for the <gr str="7676">sabbath </gr>
+          <gr str="3117">day</gr>.</STYLE>
+        <STYLE css="font-style:italic">It is a </STYLE>
+        <gr str="2896">good </gr>
+        <STYLE css="font-style:italic">thing</STYLE> to give <gr str="3034">thanks </gr>to the <gr str="3068">LORD</gr>, and to sing <gr str="2167">praises </gr>to thy <gr str="8034">name</gr>, O most <gr str="5945">High</gr>:</VERS>
+      <VERS vnumber="2">To show <gr str="5046">forth </gr>thy <gr str="2617">lovingkindness </gr>in the <gr str="1242">morning</gr>, and thy <gr str="530">faithfulness </gr>every <gr str="3915">night</gr>, <DIV>
+          <NOTE type="x-studynote">every…: Heb. in the nights</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">Upon an instrument of ten <gr str="6218">strings</gr>, and upon the <gr str="5035">psaltery</gr>; upon the <gr str="3658">harp </gr>with a solemn <gr str="1902">sound</gr>. <DIV>
+          <NOTE type="x-studynote">the harp…: or, the solemn sound with the harp</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">a solemn…: Heb. Higgaion</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">For thou, <gr str="3068">LORD</gr>, hast made me <gr str="8055">glad </gr>through thy <gr str="6467">work</gr>: I will <gr str="7442">triumph </gr>in the <gr str="4639">works </gr>of thy <gr str="3027">hands</gr>.</VERS>
+      <VERS vnumber="5">O <gr str="3068">LORD</gr>, how <gr str="1431">great </gr>are thy <gr str="4639">works</gr>! <STYLE css="font-style:italic">and</STYLE> thy <gr str="4284">thoughts </gr>are <gr str="3966">very </gr>
+        <gr str="6009">deep</gr>.</VERS>
+      <VERS vnumber="6">A <gr str="1198">stupid </gr>
+        <gr str="376">man </gr>
+        <gr str="3045">knoweth </gr>not; neither doth a <gr str="3684">fool </gr>
+        <gr str="995">understand </gr>this.</VERS>
+      <VERS vnumber="7">When the <gr str="7563">wicked </gr>
+        <gr str="6524">spring </gr>as the <gr str="6212">grass</gr>, and when all the <gr str="6466">workers </gr>of <gr str="205">iniquity </gr>do <gr str="6692">flourish</gr>; <STYLE css="font-style:italic">it is</STYLE> that they shall be <gr str="8045">destroyed </gr>for <gr str="5703">ever</gr>:</VERS>
+      <VERS vnumber="8">But thou, <gr str="3068">LORD</gr>, <STYLE css="font-style:italic">art most </STYLE>
+        <gr str="4791">high </gr>for <gr str="5769">evermore</gr>.</VERS>
+      <VERS vnumber="9">For, lo, thy <gr str="341">enemies</gr>, O <gr str="3068">LORD</gr>, for, lo, thy <gr str="341">enemies </gr>shall <gr str="6">perish</gr>; all the <gr str="6466">workers </gr>of <gr str="205">iniquity </gr>shall be <gr str="6504">scattered</gr>.</VERS>
+      <VERS vnumber="10">But my <gr str="7161">horn </gr>shalt thou <gr str="7311">exalt </gr>like <STYLE css="font-style:italic">the horn of</STYLE> an <gr str="7214">unicorn</gr>: I shall be <gr str="1101">anointed </gr>with <gr str="7488">fresh </gr>
+        <gr str="8081">oil</gr>.</VERS>
+      <VERS vnumber="11">My <gr str="5869">eye </gr>also shall <gr str="5027">see </gr>
+        <STYLE css="font-style:italic">my desire</STYLE> on my <gr str="7790">enemies</gr>, <STYLE css="font-style:italic">and</STYLE> my <gr str="241">ears </gr>shall <gr str="8085">hear </gr>
+        <STYLE css="font-style:italic">my desire</STYLE> of the <gr str="7489">wicked </gr>that rise <gr str="6965">up </gr>against me.</VERS>
+      <VERS vnumber="12">The <gr str="6662">righteous </gr>shall <gr str="6524">flourish </gr>like the palm <gr str="8558">tree</gr>: he shall <gr str="7685">grow </gr>like a <gr str="730">cedar </gr>in <gr str="3844">Lebanon</gr>.</VERS>
+      <VERS vnumber="13">Those that are <gr str="8362">planted </gr>in the <gr str="1004">house </gr>of the <gr str="3068">LORD </gr>shall <gr str="6524">flourish </gr>in the <gr str="2691">courts </gr>of our <gr str="430">God</gr>.</VERS>
+      <VERS vnumber="14">They shall still bring forth <gr str="5107">fruit </gr>in old <gr str="7872">age</gr>; they shall be <gr str="1879">fat </gr>and <gr str="7488">flourishing</gr>; <DIV>
+          <NOTE type="x-studynote">flourishing: Heb. green</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="15">To <gr str="5046">show </gr>that the <gr str="3068">LORD </gr>
+        <STYLE css="font-style:italic">is </STYLE>
+        <gr str="3477">upright</gr>: <STYLE css="font-style:italic">he is</STYLE> my <gr str="6697">rock</gr>, and <STYLE css="font-style:italic">there is</STYLE> no <gr str="5766 5766">unrighteousness </gr>in him.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

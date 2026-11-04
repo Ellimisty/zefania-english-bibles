@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="40" bname="Matthew" bsname="Mat">
+    <CHAPTER cnumber="24">
+      <VERS vnumber="1">Leaving the Temple Courts, Jesus was walking away, when his disciples came up to draw his attention to the Temple buildings.</VERS>
+      <VERS vnumber="2">was his answer.</VERS>
+      <VERS vnumber="3">so, while Jesus was sitting on the Mount of Olives, his disciples came up to him privately and said: “Tell us when this will be, and what will be the sign of your coming, and of the close of the age.”</VERS>
+      <VERS vnumber="4">Jesus replied to them:</VERS>
+      <VERS vnumber="15">(the reader must consider what this means)</VERS>
+      <VERS vnumber="51" />
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

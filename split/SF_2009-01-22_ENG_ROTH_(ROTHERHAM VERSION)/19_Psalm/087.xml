@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Rotherham Version" type="x-bible">
+  <BIBLEBOOK bname="Psalm" bnumber="19" bsname="Ps">
+    <CHAPTER cnumber="87">
+      <VERS vnumber="1">His foundation, is in the holy mountains:</VERS>
+      <VERS vnumber="2">Yahweh loveth the gates of Zion, More than all the dwellings of Jacob.</VERS>
+      <VERS vnumber="3">Glorious things, are to be spoken of thee, O city of God. <STYLE css="font-weight:bold"> Selah.</STYLE>
+      </VERS>
+      <VERS vnumber="4">I will mention Rahab and Babylon, to them who know meLo! Philistia and Tyre with Ethiopia, This one was born there.</VERS>
+      <VERS vnumber="5">But, of Zion, it shall be saidThis man and that were born in her, And the Highest himself shall establish her.</VERS>
+      <VERS vnumber="6">Yahweh, will record, when he enrolleth the peoples, This one was born there. <STYLE css="font-weight:bold"> Selah.</STYLE>
+      </VERS>
+      <VERS vnumber="7">As well the singers as the flute-players</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Green's Literal Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="121">
+      <VERS vnumber="1">  A Song of Ascents. I will lift up my eyes to the hills; from where shall my help come?</VERS>
+      <VERS vnumber="2"> My help comes from Jehovah, the Maker of the heavens and the earth.</VERS>
+      <VERS vnumber="3"> He will not give your foot to slip; He who keeps you will not slumber.</VERS>
+      <VERS vnumber="4"> Behold, He who keeps Israel will not slumber nor sleep.</VERS>
+      <VERS vnumber="5"> Jehovah is your keeper; Jehovah is your shade on your right hand.</VERS>
+      <VERS vnumber="6"> The sun shall not strike you by day, nor the moon by night;</VERS>
+      <VERS vnumber="7"> Jehovah shall keep you from all evil; He shall keep your soul.</VERS>
+      <VERS vnumber="8"> Jehovah shall keep your going out, and your coming in, from now on and till forever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="32">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">[A Psalm] of <gr str="1732">David</gr>, <gr str="4905">Maschil</gr>. </STYLE>
+        <gr str="835">Blessed </gr>
+        <STYLE css="font-style:italic">is he whose </STYLE>
+        <gr str="6588">transgression </gr>
+        <STYLE css="font-style:italic">is </STYLE>
+        <gr str="5375">forgiven</gr>, <STYLE css="font-style:italic">whose </STYLE>
+        <gr str="2401">sin </gr>
+        <STYLE css="font-style:italic">is </STYLE>
+        <gr str="3680">covered</gr>. <DIV>
+          <NOTE type="x-studynote">A Psalm…: or, A Psalm of David giving instruction</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">
+        <gr str="835">Blessed </gr>
+        <STYLE css="font-style:italic">is</STYLE> the <gr str="120">man </gr>to whom the <gr str="3068">LORD </gr>
+        <gr str="2803">imputeth </gr>not <gr str="5771">iniquity</gr>, and in whose <gr str="7307">spirit </gr>
+        <STYLE css="font-style:italic">there is</STYLE> no <gr str="7423">guile</gr>.</VERS>
+      <VERS vnumber="3">When I kept <gr str="2790">silence</gr>, my <gr str="6106">bones </gr>became <gr str="1086">old </gr>through my <gr str="7581">roaring </gr>all the <gr str="3117">day </gr>long.</VERS>
+      <VERS vnumber="4">For <gr str="3119">day </gr>and <gr str="3915">night </gr>thy <gr str="3027">hand </gr>was <gr str="3513">heavy </gr>upon me: my <gr str="3955">moisture </gr>is <gr str="2015">turned </gr>into the <gr str="2725">drought </gr>of <gr str="7019">summer</gr>. <gr str="5542">Selah</gr>.</VERS>
+      <VERS vnumber="5">I <gr str="3045">acknowledged </gr>my <gr str="2403">sin </gr>to thee, and my <gr str="5771">iniquity </gr>have I not <gr str="3680">hid</gr>. I <gr str="559">said</gr>, I will <gr str="3034">confess </gr>my <gr str="6588">transgressions </gr>to the <gr str="3068">LORD</gr>; and thou <gr str="5375">forgavest </gr>the <gr str="5771">iniquity </gr>of my <gr str="2403">sin</gr>. <gr str="5542">Selah</gr>.</VERS>
+      <VERS vnumber="6">For this shall every one that is <gr str="2623">godly </gr>
+        <gr str="6419">pray </gr>to thee in a <gr str="6256">time </gr>when thou mayest be <gr str="4672">found</gr>: surely in the <gr str="7858">floods </gr>of <gr str="7227">great </gr>
+        <gr str="4325">waters </gr>they shall not come <gr str="5060">near </gr>to him. <DIV>
+          <NOTE type="x-studynote">when…: Heb. of finding</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="7">Thou <STYLE css="font-style:italic">art</STYLE> my hiding <gr str="5643">place</gr>; thou shalt <gr str="5341">preserve </gr>me from <gr str="6862">trouble</gr>; thou shalt <gr str="5437">surround </gr>me with <gr str="7438">songs </gr>of <gr str="6405">deliverance</gr>. <gr str="5542">Selah</gr>.</VERS>
+      <VERS vnumber="8">I will <gr str="7919">instruct </gr>thee and <gr str="3384">teach </gr>thee in the <gr str="1870">way </gr>
+        <gr str="2098">which </gr>thou shalt <gr str="3212">go</gr>: I will <gr str="3289">guide </gr>thee with my <gr str="5869">eye</gr>. <DIV>
+          <NOTE type="x-studynote">guide…: Heb. counsel thee, mine eye shall be upon thee</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="9">Be ye not as the <gr str="5483">horse</gr>, <STYLE css="font-style:italic">or</STYLE> as the <gr str="6505">mule</gr>, <STYLE css="font-style:italic">which</STYLE> have no <gr str="995">understanding</gr>: whose <gr str="5716">mouth </gr>must be <gr str="1102">held </gr>in with <gr str="4964">bit </gr>and <gr str="7448">bridle</gr>, <gr str="1077">lest </gr>they come <gr str="7126">near </gr>to thee.</VERS>
+      <VERS vnumber="10">
+        <gr str="7227">Many </gr>
+        <gr str="4341">sorrows </gr>
+        <STYLE css="font-style:italic">shall be</STYLE> to the <gr str="7563">wicked</gr>: but he that <gr str="982">trusteth </gr>in the <gr str="3068">LORD</gr>, <gr str="2617">mercy </gr>shall <gr str="5437">surround </gr>him.</VERS>
+      <VERS vnumber="11">Be <gr str="8055">glad </gr>in the <gr str="3068">LORD</gr>, and <gr str="1523">rejoice</gr>, ye <gr str="6662">righteous</gr>: and <gr str="7442">shout </gr>for joy, all <STYLE css="font-style:italic">ye that are </STYLE>
+        <gr str="3477">upright </gr>in <gr str="3820">heart</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

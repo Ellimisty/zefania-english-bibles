@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="112">
+      <VERS vnumber="1">Hallelujah. Happy are those who fear the <STYLE id="cl:divineName">Lord</STYLE>,and greatly delight in his commandments.</VERS>
+      <VERS vnumber="2">Mighty on earth shall be their seed;a blessing shall rest on the race of the upright.</VERS>
+      <VERS vnumber="3">Wealth and riches are in their houses,their prosperity stands forever.</VERS>
+      <VERS vnumber="4">To the upright arises light in the darkness;full of favour and pity and kindness are they.</VERS>
+      <VERS vnumber="5">It is well with those who show pity and lend,who support all their affairs upon justice.</VERS>
+      <VERS vnumber="6">For they will never be shaken;the just will be forever remembered.</VERS>
+      <VERS vnumber="7">They will not be afraid of evil tidings,with steady heart they trust the <STYLE id="cl:divineName">Lord</STYLE>.</VERS>
+      <VERS vnumber="8">Their heart is firm and unafraid:they know they will feast their eyes on their enemies.</VERS>
+      <VERS vnumber="9">With lavish hands they give to the poor,and their prosperity stands forever.They are lifted to heights of triumph and honour.</VERS>
+      <VERS vnumber="10">The sight of them fills the wicked with anger:grinding their teeth with dispair.The hopes of the wicked will come to nothing.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

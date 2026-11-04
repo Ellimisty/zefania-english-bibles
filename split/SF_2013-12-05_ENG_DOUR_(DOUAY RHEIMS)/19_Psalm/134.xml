@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Douay Rheims" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="134">
+      <VERS vnumber="1">Behold how good and how pleasant it is for brethren to dwell in unity.</VERS>
+      <VERS vnumber="2">Like the precious ointment on the head, that ran down upon the beard, the beard of Aaron, Which ran down to the skirt of his garment:</VERS>
+      <VERS vnumber="3">as the dew of Hermon, which descendeth upon mount Sion. For there the Lord hath commandeth blessing, and life for evermore.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

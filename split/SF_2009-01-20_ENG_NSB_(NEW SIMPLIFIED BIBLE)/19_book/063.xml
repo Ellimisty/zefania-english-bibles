@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="63">
+      <CAPTION vref="1">Psalm of David in the wilderness of Judah:</CAPTION>
+      <VERS vnumber="1">O God, you are my God. At dawn I search for you. I thirst for you. My body longs for you in a dry, parched land where there is no water.</VERS>
+      <VERS vnumber="2">I look for you in the holy place to see your power and your glory.</VERS>
+      <VERS vnumber="3">My lips will praise you because your love <STYLE css="font-style:italic">mercy</STYLE>
+        <STYLE css="font-style:italic">loving kindness</STYLE>
+        <STYLE css="font-style:italic">steadfast love</STYLE> is better than life.</VERS>
+      <VERS vnumber="4">So I will bless <STYLE css="font-style:italic">thank</STYLE> you as long as I live. I will lift up my hands <STYLE css="font-style:italic">in prayer</STYLE> in your name.</VERS>
+      <VERS vnumber="5">You satisfy me with the richest foods. My mouth will sing your praise with joyful lips.</VERS>
+      <VERS vnumber="6">As I lie on my bed, I remember you. Through the long hours of the night, I think about you.</VERS>
+      <VERS vnumber="7">You have been my help. In the shadow <STYLE css="font-style:italic">defense</STYLE> of your wings, I sing joyfully.</VERS>
+      <VERS vnumber="8">I cling to you. Your right hand supports <STYLE css="font-style:italic">holds</STYLE> me.</VERS>
+      <VERS vnumber="9">But those who try to destroy my life will go into the depths of the earth.</VERS>
+      <VERS vnumber="10">Swords will cut them down. Their dead bodies will be left as food for jackals.</VERS>
+      <VERS vnumber="11">But the king will find joy in God. Everyone who takes an oath by God will speak praise, but the mouths of liars will be shut.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Darby Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="134">
+      <VERS vnumber="1">{A Song of degrees.} Behold, bless Jehovah, all ye servants of Jehovah, who by night stand in the house of Jehovah.</VERS>
+      <VERS vnumber="2">Lift up your hands in the sanctuary, and bless Jehovah.</VERS>
+      <VERS vnumber="3">Jehovah, the maker of heavens and earth, bless thee out of Zion.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

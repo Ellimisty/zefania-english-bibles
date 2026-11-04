@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="121">
+      <CAPTION vref="1">A Song of Ascents.</CAPTION>
+      <VERS vnumber="1">I lift up my eyes from hill to hill. From where does my help come?</VERS>
+      <VERS vnumber="2">My help comes from Jehovah, who made the heavens and the earth.</VERS>
+      <VERS vnumber="3">He will not allow your foot to slip; He who keeps you will not slumber.</VERS>
+      <VERS vnumber="4">Behold, He who keeps Israel shall neither slumber nor sleep.</VERS>
+      <VERS vnumber="5">Jehovah is your keeper; Jehovah is your shade at your right hand.</VERS>
+      <VERS vnumber="6">The sun shall not strike you by day, nor the moon by night.</VERS>
+      <VERS vnumber="7">Jehovah shall preserve you from all evil; He shall preserve your soul.</VERS>
+      <VERS vnumber="8">Jehovah shall preserve your going out and your coming in from this time forth, and even forevermore.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

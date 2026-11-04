@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="143">
+      <CAPTION vref="1">A Psalm of David.</CAPTION>
+      <VERS vnumber="1">Hear my prayer, O Jehovah, give ear to my supplications! In Your faithfulness and righteousness answer me.</VERS>
+      <VERS vnumber="2">Do not enter into judgment with Your servant, for in Your sight no one living is just.</VERS>
+      <VERS vnumber="3">For the enemy has persecuted my soul; he has crushed my life to the ground; he has made me dwell in darkness, like those long dead.</VERS>
+      <VERS vnumber="4">Therefore my spirit is faint within me; my heart within me is desolate.</VERS>
+      <VERS vnumber="5">I remember the days of old; I meditate on all Your works; I muse on the works of Your hands.</VERS>
+      <VERS vnumber="6">I have spread my hands toward You; my soul is like a weary land. Selah</VERS>
+      <VERS vnumber="7">Answer me speedily, O Jehovah; my spirit wastes away! Do not hide Your face from me, lest I be like those who go down into the pit.</VERS>
+      <VERS vnumber="8">Cause me to hear Your lovingkindness in the morning, for in You do I trust; cause me to know the way in which I should walk, for I lift up my soul unto You.</VERS>
+      <VERS vnumber="9">Rescue me, O Jehovah, from my enemies; in You I have taken cover.</VERS>
+      <VERS vnumber="10">Teach me to do Your will, for You are my God; Your Spirit is good. Lead me into the land of uprightness.</VERS>
+      <VERS vnumber="11">Revive me, O Jehovah, for Your names sake! For Your righteousnesssake bring my soul out of distress.</VERS>
+      <VERS vnumber="12">In Your mercy cut off my enemies, and destroy all those who afflict my soul; for I am Your servant.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="18" bname="Hiob" bsname="Hi">
+    <CHAPTER cnumber="14">
+      <VERS vnumber="1">
+        <gr str="120">Man </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3205">born </gr>of a <gr str="802">woman </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> of <gr str="7116">few </gr>
+        <gr str="3117">days</gr>, and <gr str="7649">full </gr>of <gr str="7267">trouble</gr>. </VERS>
+      <VERS vnumber="2"> He cometh <gr str="3318">forth </gr>like a <gr str="6731">flower</gr>, and is cut <gr str="5243">down</gr>: he <gr str="1272">fleeth </gr>also as a <gr str="6738">shadow</gr>, and <gr str="5975">continueth </gr>
+        <gr str="3808">not</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="637">And </gr>dost thou <gr str="6491">open </gr>thine <gr str="5869">eyes </gr>
+        <gr str="5921">upon </gr>such a <gr str="2088">one</gr>, and <gr str="935">bringest </gr>me into <gr str="4941">judgment </gr>
+        <gr str="5973">with </gr>thee? </VERS>
+      <VERS vnumber="4">
+        <gr str="4310">Who </gr>can <gr str="5414">bring </gr>a <gr str="2889">clean </gr>
+        <STYLE css="color:#808080;font-style:italic"> thing </STYLE> out of an <gr str="4480 2931">unclean</gr>? <gr str="3808">not </gr>
+        <gr str="259">one</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="518">Seeing </gr>his <gr str="3117">days </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="2782">determined</gr>, the <gr str="4557">number </gr>of his <gr str="2320">months </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="854">with </gr>thee, thou hast <gr str="6213">appointed </gr>his <gr str="2706">bounds </gr>that he <gr str="3808">cannot </gr>
+        <gr str="5674">pass</gr>; </VERS>
+      <VERS vnumber="6">
+        <gr str="8159">Turn </gr>
+        <gr str="4480 5921">from </gr>him, that he may <gr str="2308">rest</gr>, <gr str="5704">till </gr>he shall <gr str="7521">accomplish</gr>, as a <gr str="7916">hireling</gr>, his <gr str="3117">day</gr>. </VERS>
+      <VERS vnumber="7">
+        <gr str="3588">For </gr>there <gr str="3426">is </gr>
+        <gr str="8615">hope </gr>of a <gr str="6086">tree</gr>, <gr str="518">if </gr>it be cut <gr str="3772">down</gr>, that it will <gr str="2498">sprout </gr>
+        <gr str="5750">again</gr>, and that the <gr str="3127">tender </gr>branch thereof will <gr str="3808">not </gr>
+        <gr str="2308">cease</gr>. </VERS>
+      <VERS vnumber="8">
+        <gr str="518">Though </gr>the <gr str="8328">root </gr>thereof wax <gr str="2204">old </gr>in the <gr str="776">earth</gr>, and the <gr str="1503">stock </gr>thereof <gr str="4191">die </gr>in the <gr str="6083">ground</gr>; </VERS>
+      <VERS vnumber="9">
+        <STYLE css="color:#808080;font-style:italic"> Yet </STYLE> through the <gr str="4480 7381">scent </gr>of <gr str="4325">water </gr>it will <gr str="6524">bud</gr>, and bring <gr str="6213">forth </gr>
+        <gr str="7105">boughs </gr>
+        <gr str="3644">like </gr>a <gr str="5194">plant</gr>. </VERS>
+      <VERS vnumber="10"> But <gr str="1397">man </gr>
+        <gr str="4191">dieth</gr>, and wasteth <gr str="2522">away</gr>: yea, <gr str="120">man </gr>giveth up the <gr str="1478">ghost</gr>, and <gr str="346">where </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> he? </VERS>
+      <VERS vnumber="11">
+        <STYLE css="color:#808080;font-style:italic"> As </STYLE> the <gr str="4325">waters </gr>
+        <gr str="235">fail </gr>
+        <gr str="4480">from </gr>the <gr str="3220">sea</gr>, and the <gr str="5104">flood </gr>
+        <gr str="2717">decayeth </gr>and drieth <gr str="3001">up</gr>: </VERS>
+      <VERS vnumber="12"> So <gr str="376">man </gr>lieth <gr str="7901">down</gr>, and <gr str="6965">riseth </gr>
+        <gr str="3808">not</gr>: <gr str="5704">till </gr>the <gr str="8064">heavens </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> no <gr str="1115">more</gr>, they shall <gr str="3808">not </gr>
+        <gr str="6974">awake</gr>, <gr str="3808">nor </gr>be <gr str="5782">raised </gr>out of their <gr str="4480 8142">sleep</gr>. </VERS>
+      <VERS vnumber="13"> O <gr str="4310">that </gr>thou <gr str="5414">wouldest </gr>
+        <gr str="6845">hide </gr>me in the <gr str="7585">grave</gr>, that thou wouldest keep me <gr str="5641">secret</gr>, <gr str="5704">until </gr>thy <gr str="639">wrath </gr>be <gr str="7725">past</gr>, that thou wouldest <gr str="7896">appoint </gr>me a set <gr str="2706">time</gr>, and <gr str="2142">remember </gr>me! </VERS>
+      <VERS vnumber="14">
+        <gr str="518">If </gr>a <gr str="1397">man </gr>
+        <gr str="4191">die</gr>, shall he <gr str="2421">live </gr>
+        <STYLE css="color:#808080;font-style:italic"> again </STYLE>? <gr str="3605">all </gr>the <gr str="3117">days </gr>of my appointed <gr str="6635">time </gr>will I <gr str="3176">wait</gr>, <gr str="5704">till </gr>my <gr str="2487">change </gr>
+        <gr str="935">come</gr>. </VERS>
+      <VERS vnumber="15"> Thou shalt <gr str="7121">call</gr>, and <gr str="595">I </gr>will <gr str="6030">answer </gr>thee: thou wilt have a <gr str="3700">desire </gr>to the <gr str="4639">work </gr>of thine <gr str="3027">hands</gr>. </VERS>
+      <VERS vnumber="16">
+        <gr str="3588">For </gr>
+        <gr str="6258">now </gr>thou <gr str="5608">numberest </gr>my <gr str="6806">steps</gr>: dost thou <gr str="3808">not </gr>
+        <gr str="8104">watch </gr>
+        <gr str="5921">over </gr>my <gr str="2403">sin</gr>? </VERS>
+      <VERS vnumber="17"> My <gr str="6588">transgression </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> sealed <gr str="2856">up </gr>in a <gr str="6872">bag</gr>, and thou sewest <gr str="2950 5921">up </gr>mine <gr str="5771">iniquity</gr>. </VERS>
+      <VERS vnumber="18"> And <gr str="199">surely </gr>the <gr str="2022">mountain </gr>
+        <gr str="5307">falling </gr>cometh to <gr str="5034">naught</gr>, and the <gr str="6697">rock </gr>is <gr str="6275">removed </gr>out of his <gr str="4480 4725">place</gr>. </VERS>
+      <VERS vnumber="19"> The <gr str="4325">waters </gr>
+        <gr str="7833">wear </gr>the <gr str="68">stones</gr>: thou washest <gr str="7857">away </gr>the things which <gr str="5599">grow </gr>
+        <STYLE css="color:#808080;font-style:italic"> out </STYLE> of the <gr str="6083">dust </gr>of the <gr str="776">earth</gr>; and thou <gr str="6">destroyest </gr>the <gr str="8615">hope </gr>of <gr str="582">man</gr>. </VERS>
+      <VERS vnumber="20"> Thou <gr str="8630">prevailest </gr>
+        <gr str="5331">forever </gr>against him, and he <gr str="1980">passeth</gr>: thou <gr str="8138">changest </gr>his <gr str="6440">countenance</gr>, and sendest him <gr str="7971">away</gr>. </VERS>
+      <VERS vnumber="21"> His <gr str="1121">sons </gr>come to <gr str="3513">honor</gr>, and he <gr str="3045">knoweth </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <gr str="3808">not</gr>; and they are brought <gr str="6819">low</gr>, but he <gr str="995">perceiveth </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <gr str="3808">not </gr>of <gr str="3926">them</gr>. </VERS>
+      <VERS vnumber="22">
+        <gr str="389">But </gr>his <gr str="1320">flesh </gr>
+        <gr str="5921">upon </gr>him shall have <gr str="3510">pain</gr>, and his <gr str="5315">soul </gr>
+        <gr str="5921">within </gr>him shall <gr str="56">mourn</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

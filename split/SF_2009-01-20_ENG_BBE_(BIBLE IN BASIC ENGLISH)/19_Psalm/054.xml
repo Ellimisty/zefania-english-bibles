@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="54">
+      <VERS vnumber="1"> To the chief music-maker; on Neginoth. Maschil. Of David.\</VERS>
+      <VERS vnumber="2">\54:1\When the Ziphites came and said to Saul, Is not David keeping himself secret among us? </VERS>
+      <VERS vnumber="3">\54:1\Let your name be my salvation, O God; let my cause be judged by your strength.</VERS>
+      <VERS vnumber="4">\54:2\Let my prayer come before you, O God; give ear to the words of my mouth.</VERS>
+      <VERS vnumber="5">\54:3\For men who are going after me have come out against me, violent men are purposing to take my soul; they have not put God before their eyes. (Selah.)</VERS>
+      <VERS vnumber="6">\54:4\See, God is my helper: the Lord is the great supporter of my soul.</VERS>
+      <VERS vnumber="7">\54:5\Let the evil works of my haters come back on them again; let them be cut off by your good faith.</VERS>
+      <VERS vnumber="8">\54:6\Freely will I make my offerings to you; I will give praise to your name, O Lord, for it is good.</VERS>
+      <VERS vnumber="9">\54:7\Because it has been my saviour from all my trouble; and my eyes have seen the punishment of my haters.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

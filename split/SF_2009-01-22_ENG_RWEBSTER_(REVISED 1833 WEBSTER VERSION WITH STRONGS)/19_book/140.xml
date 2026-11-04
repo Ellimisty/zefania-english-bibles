@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="140">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief <gr str="5329">Musician</gr>, A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>. </STYLE>
+        <gr str="2502">Deliver </gr>me, O <gr str="3068">LORD</gr>, from the <gr str="7451">evil </gr>
+        <gr str="120">man</gr>: <gr str="5341">preserve </gr>me from the <gr str="2555">violent </gr>
+        <gr str="376">man</gr>; <DIV>
+          <NOTE type="x-studynote">violent…: Heb. man of violences</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">Who <gr str="2803">imagine </gr>
+        <gr str="7451">mischiefs </gr>in <STYLE css="font-style:italic">their </STYLE>
+        <gr str="3820">heart</gr>; <gr str="3117">continually </gr>are they gathered <gr str="1481">together </gr>
+        <STYLE css="font-style:italic">for </STYLE>
+        <gr str="4421">war</gr>.</VERS>
+      <VERS vnumber="3">They have <gr str="8150">sharpened </gr>their <gr str="3956">tongues </gr>like a <gr str="5175">serpent</gr>; <gr str="5919">adders</gr>’ <gr str="2534">poison </gr>
+        <STYLE css="font-style:italic">is</STYLE> under their <gr str="8193">lips</gr>. <gr str="5542">Selah</gr>.</VERS>
+      <VERS vnumber="4">
+        <gr str="8104">Keep </gr>me, O <gr str="3068">LORD</gr>, from the <gr str="3027">hands </gr>of the <gr str="7563">wicked</gr>; <gr str="5341">preserve </gr>me from the <gr str="2555">violent </gr>
+        <gr str="376">man</gr>; who have <gr str="2803">purposed </gr>to <gr str="1760">overthrow </gr>my <gr str="6471">goings</gr>.</VERS>
+      <VERS vnumber="5">The <gr str="1343">proud </gr>have <gr str="2934">hid </gr>a <gr str="6341">trap </gr>for me, and <gr str="2256">cords</gr>; they have <gr str="6566">spread </gr>a <gr str="7568">net </gr>by the way <gr str="3027 4570">side</gr>; they have <gr str="7896">set </gr>
+        <gr str="4170">snares </gr>for me. <gr str="5542">Selah</gr>.</VERS>
+      <VERS vnumber="6">I <gr str="559">said </gr>to the <gr str="3068">LORD</gr>, Thou <STYLE css="font-style:italic">art</STYLE> my <gr str="410">God</gr>: <gr str="238">hear </gr>the <gr str="6963">voice </gr>of my <gr str="8469">supplications</gr>, O <gr str="3068">LORD</gr>.</VERS>
+      <VERS vnumber="7">O <gr str="3069">GOD </gr>the <gr str="136">Lord</gr>, the <gr str="5797">strength </gr>of my <gr str="3444">salvation</gr>, thou hast <gr str="5526">covered </gr>my <gr str="7218">head </gr>in the <gr str="3117">day </gr>of <gr str="5402">battle</gr>.</VERS>
+      <VERS vnumber="8">
+        <gr str="5414">Grant </gr>not, O <gr str="3068">LORD</gr>, the <gr str="3970">desires </gr>of the <gr str="7563">wicked</gr>: <gr str="6329">further </gr>not his wicked <gr str="2162">device</gr>; <STYLE css="font-style:italic">lest</STYLE> they <gr str="7311">exalt </gr>themselves. <gr str="5542">Selah</gr>. <DIV>
+          <NOTE type="x-studynote">lest…: or, let them not be exalted</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="9">
+        <STYLE css="font-style:italic">As for</STYLE> the <gr str="7218">head </gr>of those that surroundeth <gr str="4524">me</gr>, let the <gr str="5999">mischief </gr>of their own <gr str="8193">lips </gr>
+        <gr str="3680">cover </gr>them.</VERS>
+      <VERS vnumber="10">Let burning <gr str="1513">coals </gr>
+        <gr str="4131">fall </gr>upon them: let them be <gr str="5307">cast </gr>into the <gr str="784">fire</gr>; into deep <gr str="4113">pits</gr>, that they rise not <gr str="6965">again</gr>.</VERS>
+      <VERS vnumber="11">Let not an evil <gr str="376 3956">speaker </gr>be <gr str="3559">established </gr>on the <gr str="776">earth</gr>: <gr str="7451">evil </gr>shall <gr str="6679">hunt </gr>the <gr str="2555">violent </gr>
+        <gr str="376">man </gr>to <gr str="4073">overthrow </gr>
+        <STYLE css="font-style:italic">him</STYLE>. <DIV>
+          <NOTE type="x-studynote">an…: or, an evil speaker (Heb. a man of tongue), a wicked man of violence, be established in the earth: let him be hunted to his overthrow</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="12">I <gr str="3045">know </gr>that the <gr str="3068">LORD </gr>will <gr str="6213">maintain </gr>the <gr str="1779">cause </gr>of the <gr str="6041">afflicted</gr>, <STYLE css="font-style:italic">and</STYLE> the <gr str="4941">right </gr>of the <gr str="34">poor</gr>.</VERS>
+      <VERS vnumber="13">Surely the <gr str="6662">righteous </gr>shall give <gr str="3034">thanks </gr>to thy <gr str="8034">name</gr>: the <gr str="3477">upright </gr>shall <gr str="3427">dwell </gr>in thy <gr str="6440">presence</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

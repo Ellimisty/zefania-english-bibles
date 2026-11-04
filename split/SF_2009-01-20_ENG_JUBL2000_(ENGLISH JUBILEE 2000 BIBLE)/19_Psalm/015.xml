@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="English Jubilee 2000 Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="15">
+      <VERS vnumber="1">&lt;&lt;A Psalm of David.&gt;&gt; LORD, who shall abide in thy tabernacle? who shall dwell in the mountain of thy holiness?</VERS>
+      <VERS vnumber="2">He that walks in integrity and works righteousness, and speaks the truth in his heart.</VERS>
+      <VERS vnumber="3">[He that] does not backbite with his tongue nor do evil to his neighbour nor take up a reproach against his neighbour.</VERS>
+      <VERS vnumber="4">In whose eyes the vile person is not esteemed; but he honours those that fear the LORD. [He that] swears to [his own] hurt and does not change.</VERS>
+      <VERS vnumber="5">[He that] does not put out his money to usury nor take a bribe against the innocent. He that does these [things] shall never be moved.:</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

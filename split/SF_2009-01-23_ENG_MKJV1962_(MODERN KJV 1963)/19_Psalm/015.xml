@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Modern KJV 1963" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="15">
+      <VERS vnumber="1">A Psalm of David. LORD, who shall dwell in Your tabernacle? Who shall dwell on Your holy hill?</VERS>
+      <VERS vnumber="2">He who walks uprightly, and works righteousness, and speaks the truth in his heart;</VERS>
+      <VERS vnumber="3">[he] does not backbite with his tongue, nor do evil to his neighbor, nor take up a reproach against his neighbor;</VERS>
+      <VERS vnumber="4">in whose eyes the reprobate is despised, but he honors those who fear the LORD; [he] has sworn to his hurt, and does not change it;</VERS>
+      <VERS vnumber="5">[he] has not put out his money at interest, nor has he taken a bribe against the innocent. He who does these [things] shall not be moved forever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

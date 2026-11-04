@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="2" bname="2 Mose" bsname="2Mo">
+    <CHAPTER cnumber="25">
+      <VERS vnumber="1"> And the <gr str="3068">LORD </gr>
+        <gr str="1696">spoke </gr>
+        <gr str="413">unto </gr>
+        <gr str="4872">Moses</gr>, <gr str="559">saying</gr>, </VERS>
+      <VERS vnumber="2">
+        <gr str="1696">Speak </gr>
+        <gr str="413">unto </gr>the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>, that they <gr str="3947">bring </gr>me an <gr str="8641">offering</gr>: <gr str="4480 854">of </gr>
+        <gr str="3605">every </gr>
+        <gr str="376">man </gr>
+        <gr str="834">that </gr>giveth it <gr str="5068">willingly </gr>with his <gr str="3820">heart </gr>ye shall <gr str="3947">take </gr>
+        <gr str="*853" />my <gr str="8641">offering</gr>. </VERS>
+      <VERS vnumber="3"> And <gr str="2063">this </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="8641">offering </gr>
+        <gr str="834">which </gr>ye shall <gr str="3947">take </gr>
+        <gr str="4480 854">of </gr>them; <gr str="2091">gold</gr>, and <gr str="3701">silver</gr>, and <gr str="5178">brass</gr>, </VERS>
+      <VERS vnumber="4"> And <gr str="8504">blue</gr>, and <gr str="713">purple</gr>, and <gr str="8438 8144">scarlet</gr>, and fine <gr str="8336">linen</gr>, and <gr str="5795">goats </gr>' <STYLE css="color:#808080;font-style:italic"> hair </STYLE>, </VERS>
+      <VERS vnumber="5"> And <gr str="352">rams </gr>' <gr str="5785">skins </gr>dyed <gr str="119">red</gr>, and <gr str="8476">badgers </gr>' <gr str="5785">skins</gr>, and <gr str="7848">shittim </gr>
+        <gr str="6086">wood</gr>, </VERS>
+      <VERS vnumber="6">
+        <gr str="8081">Oil </gr>for the <gr str="3974">light</gr>, <gr str="1314">spices </gr>for <gr str="4888">anointing </gr>
+        <gr str="8081">oil</gr>, and for <gr str="5561">sweet </gr>
+        <gr str="7004">incense</gr>, </VERS>
+      <VERS vnumber="7">
+        <gr str="7718">Onyx </gr>
+        <gr str="68">stones</gr>, and <gr str="68">stones </gr>to be <gr str="4394">set </gr>in the <gr str="646">ephod</gr>, and in the <gr str="2833">breastplate</gr>. </VERS>
+      <VERS vnumber="8"> And let them <gr str="6213">make </gr>me a <gr str="4720">sanctuary</gr>; that I may <gr str="7931">dwell </gr>
+        <gr str="8432">among </gr>them. </VERS>
+      <VERS vnumber="9"> According to <gr str="3605">all </gr>
+        <gr str="834">that </gr>
+        <gr str="589">I </gr>
+        <gr str="7200">show </gr>thee, <STYLE css="color:#808080;font-style:italic"> after </STYLE>
+        <gr str="*853" />the <gr str="8403">pattern </gr>of the <gr str="4908">tabernacle</gr>, and the <gr str="8403">pattern </gr>of <gr str="3605">all </gr>the <gr str="3627">instruments </gr>thereof, even <gr str="3651">so </gr>shall ye <gr str="6213">make </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>. </VERS>
+      <VERS vnumber="10"> And they shall <gr str="6213">make </gr>an <gr str="727">ark </gr>
+        <STYLE css="color:#808080;font-style:italic"> of </STYLE>
+        <gr str="7848">shittim </gr>
+        <gr str="6086">wood</gr>: two <gr str="520">cubits </gr>and a <gr str="2677">half </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> the <gr str="753">length </gr>thereof, and a <gr str="520">cubit </gr>and a <gr str="2677">half </gr>the <gr str="7341">breadth </gr>thereof, and a <gr str="520">cubit </gr>and a <gr str="2677">half </gr>the <gr str="6967">height </gr>thereof. </VERS>
+      <VERS vnumber="11"> And thou shalt <gr str="6823">overlay </gr>it with <gr str="2889">pure </gr>
+        <gr str="2091">gold</gr>, <gr str="4480 1004">within </gr>and <gr str="4480 2351">without </gr>shalt thou <gr str="6823">overlay </gr>it, and shalt <gr str="6213">make </gr>
+        <gr str="5921">upon </gr>it a <gr str="2213">crown </gr>of <gr str="2091">gold </gr>round <gr str="5439">about</gr>. </VERS>
+      <VERS vnumber="12"> And thou shalt <gr str="3332">cast </gr>
+        <gr str="702">four </gr>
+        <gr str="2885">rings </gr>of <gr str="2091">gold </gr>for it, and <gr str="5414">put </gr>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE>
+        <gr str="5921">in </gr>the <gr str="702">four </gr>
+        <gr str="6471">corners </gr>thereof; and <gr str="8147">two </gr>
+        <gr str="2885">rings </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="5921">in </gr>the <gr str="259">one </gr>
+        <gr str="6763">side </gr>of it, and <gr str="8147">two </gr>
+        <gr str="2885">rings </gr>
+        <gr str="5921">in </gr>the <gr str="8145">other </gr>
+        <gr str="6763">side </gr>of it. </VERS>
+      <VERS vnumber="13"> And thou shalt <gr str="6213">make </gr>
+        <gr str="905">staves </gr>
+        <STYLE css="color:#808080;font-style:italic"> of </STYLE>
+        <gr str="7848">shittim </gr>
+        <gr str="6086">wood</gr>, and <gr str="6823">overlay </gr>them with <gr str="2091">gold</gr>. </VERS>
+      <VERS vnumber="14"> And thou shalt <gr str="935">put </gr>
+        <gr str="*853" />the <gr str="905">staves </gr>into the <gr str="2885">rings </gr>
+        <gr str="5921">by </gr>the <gr str="6763">sides </gr>of the <gr str="727">ark</gr>, that <gr str="*853" />the <gr str="727">ark </gr>may be <gr str="5375">borne </gr>with them. </VERS>
+      <VERS vnumber="15"> The <gr str="905">staves </gr>shall <gr str="1961">be </gr>in the <gr str="2885">rings </gr>of the <gr str="727">ark</gr>: they shall <gr str="3808">not </gr>be <gr str="5493">taken </gr>
+        <gr str="4480">from </gr>it. </VERS>
+      <VERS vnumber="16"> And thou shalt <gr str="5414">put </gr>
+        <gr str="413">into </gr>the <gr str="727">ark </gr>
+        <gr str="*853" />the <gr str="5715">testimony </gr>
+        <gr str="834">which </gr>I shall <gr str="5414 413">give </gr>thee. </VERS>
+      <VERS vnumber="17"> And thou shalt <gr str="6213">make </gr>a mercy <gr str="3727">seat </gr>
+        <STYLE css="color:#808080;font-style:italic"> of </STYLE>
+        <gr str="2889">pure </gr>
+        <gr str="2091">gold</gr>: two <gr str="520">cubits </gr>and a <gr str="2677">half </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> the <gr str="753">length </gr>thereof, and a <gr str="520">cubit </gr>and a <gr str="2677">half </gr>the <gr str="7341">breadth </gr>thereof. </VERS>
+      <VERS vnumber="18"> And thou shalt <gr str="6213">make </gr>
+        <gr str="8147">two </gr>
+        <gr str="3742">cherubims </gr>
+        <STYLE css="color:#808080;font-style:italic"> of </STYLE>
+        <gr str="2091">gold</gr>, <STYLE css="color:#808080;font-style:italic"> of </STYLE> beaten <gr str="4749">work </gr>shalt thou <gr str="6213">make </gr>them, in the <gr str="4480 8147">two </gr>
+        <gr str="7098">ends </gr>of the mercy <gr str="3727">seat</gr>. </VERS>
+      <VERS vnumber="19"> And <gr str="6213">make </gr>
+        <gr str="259">one </gr>
+        <gr str="3742">cherub </gr>on the one <gr str="4480 2088 4480 7098">end</gr>, and the <gr str="259">other </gr>
+        <gr str="3742">cherub </gr>on the other <gr str="4480 2088 4480 7098">end</gr>: <STYLE css="color:#808080;font-style:italic"> even </STYLE>
+        <gr str="4480">of </gr>the mercy <gr str="3727">seat </gr>shall ye <gr str="6213">make </gr>
+        <gr str="*853" />the <gr str="3742">cherubims </gr>
+        <gr str="5921">on </gr>the <gr str="8147">two </gr>
+        <gr str="7098">ends </gr>thereof. </VERS>
+      <VERS vnumber="20"> And the <gr str="3742">cherubims </gr>
+        <gr str="1961">shall </gr>stretch <gr str="6566">forth </gr>
+        <STYLE css="color:#808080;font-style:italic"> their </STYLE>
+        <gr str="3671">wings </gr>on <gr str="4605">high</gr>, <gr str="5526 5921">covering </gr>the mercy <gr str="3727">seat </gr>with their <gr str="3671">wings</gr>, and their <gr str="6440">faces </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> look </STYLE>
+        <gr str="376">one </gr>
+        <gr str="413">to </gr>
+        <gr str="251">another</gr>; <gr str="413">toward </gr>the mercy <gr str="3727">seat </gr>shall the <gr str="6440">faces </gr>of the <gr str="3742">cherubims </gr>
+        <gr str="1961">be</gr>. </VERS>
+      <VERS vnumber="21"> And thou shalt <gr str="5414">put </gr>
+        <gr str="*853" />the mercy <gr str="3727">seat </gr>
+        <gr str="4480 4605">above </gr>
+        <gr str="5921">upon </gr>the <gr str="727">ark</gr>; and <gr str="413">in </gr>the <gr str="727">ark </gr>thou shalt <gr str="5414">put </gr>
+        <gr str="*853" />the <gr str="5715">testimony </gr>
+        <gr str="834">that </gr>I shall <gr str="5414 413">give </gr>thee. </VERS>
+      <VERS vnumber="22"> And <gr str="8033">there </gr>I will <gr str="3259">meet </gr>with thee, and I will <gr str="1696">commune </gr>
+        <gr str="854">with </gr>thee from <gr str="4480 5921">above </gr>the mercy <gr str="3727">seat</gr>, from <gr str="4480 996">between </gr>the <gr str="8147">two </gr>
+        <gr str="3742">cherubims </gr>
+        <gr str="834">which </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="5921">upon </gr>the <gr str="727">ark </gr>of the <gr str="5715">testimony</gr>,  <gr str="*853" />of <gr str="3605">all </gr>
+        <STYLE css="color:#808080;font-style:italic"> things </STYLE>
+        <gr str="834">which </gr>I will give thee in <gr str="6680 *853">commandment </gr>
+        <gr str="413">unto </gr>the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>. </VERS>
+      <VERS vnumber="23"> Thou shalt also <gr str="6213">make </gr>a <gr str="7979">table </gr>
+        <STYLE css="color:#808080;font-style:italic"> of </STYLE>
+        <gr str="7848">shittim </gr>
+        <gr str="6086">wood</gr>: two <gr str="520">cubits </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> the <gr str="753">length </gr>thereof, and a <gr str="520">cubit </gr>the <gr str="7341">breadth </gr>thereof, and a <gr str="520">cubit </gr>and a <gr str="2677">half </gr>the <gr str="6967">height </gr>thereof. </VERS>
+      <VERS vnumber="24"> And thou shalt <gr str="6823">overlay </gr>it with <gr str="2889">pure </gr>
+        <gr str="2091">gold</gr>, and <gr str="6213">make </gr>thereto a <gr str="2213">crown </gr>of <gr str="2091">gold </gr>round <gr str="5439">about</gr>. </VERS>
+      <VERS vnumber="25"> And thou shalt <gr str="6213">make </gr>unto it a <gr str="4526">border </gr>of a <gr str="2948">handbreadth </gr>round <gr str="5439">about</gr>, and thou shalt <gr str="6213">make </gr>a <gr str="2091">golden </gr>
+        <gr str="2213">crown </gr>to the <gr str="4526">border </gr>thereof round <gr str="5439">about</gr>. </VERS>
+      <VERS vnumber="26"> And thou shalt <gr str="6213">make </gr>for it <gr str="702">four </gr>
+        <gr str="2885">rings </gr>of <gr str="2091">gold</gr>, and <gr str="5414">put </gr>
+        <gr str="*853" />the <gr str="2885">rings </gr>
+        <gr str="5921">in </gr>the <gr str="702">four </gr>
+        <gr str="6285">corners </gr>
+        <gr str="834">that </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> on the <gr str="702">four </gr>
+        <gr str="7272">feet </gr>thereof. </VERS>
+      <VERS vnumber="27"> Over <gr str="5980">against </gr>the <gr str="4526">border </gr>shall the <gr str="2885">rings </gr>
+        <gr str="1961">be </gr>for <gr str="1004">places </gr>of the <gr str="905">staves </gr>to <gr str="5375">bear </gr>
+        <gr str="*853" />the <gr str="7979">table</gr>. </VERS>
+      <VERS vnumber="28"> And thou shalt <gr str="6213">make </gr>
+        <gr str="*853" />the <gr str="905">staves </gr>
+        <STYLE css="color:#808080;font-style:italic"> of </STYLE>
+        <gr str="7848">shittim </gr>
+        <gr str="6086">wood</gr>, and <gr str="6823">overlay </gr>them with <gr str="2091">gold</gr>, that <gr str="*853" />the <gr str="7979">table </gr>may be <gr str="5375">borne </gr>with them. </VERS>
+      <VERS vnumber="29"> And thou shalt <gr str="6213">make </gr>the <gr str="7086">dishes </gr>thereof, and <gr str="3709">spoons </gr>thereof, and <gr str="7184">covers </gr>thereof, and <gr str="4518">bowls </gr>thereof, to <gr str="5258">cover </gr>
+        <gr str="834 2004">withal</gr>: <STYLE css="color:#808080;font-style:italic"> of </STYLE>
+        <gr str="2889">pure </gr>
+        <gr str="2091">gold </gr>shalt thou <gr str="6213">make </gr>them. </VERS>
+      <VERS vnumber="30"> And thou shalt <gr str="5414">set </gr>
+        <gr str="5921">upon </gr>the <gr str="7979">table </gr>
+        <gr str="3899 6440">shewbread </gr>
+        <gr str="6440">before </gr>me <gr str="8548">always</gr>. </VERS>
+      <VERS vnumber="31"> And thou shalt <gr str="6213">make </gr>a <gr str="4501">candlestick </gr>
+        <STYLE css="color:#808080;font-style:italic"> of </STYLE>
+        <gr str="2889">pure </gr>
+        <gr str="2091">gold</gr>: <STYLE css="color:#808080;font-style:italic"> of </STYLE> beaten <gr str="4749">work </gr>shall the <gr str="4501">candlestick </gr>be <gr str="6213">made</gr>: his <gr str="3409">shaft</gr>, and his <gr str="7070">branches</gr>, his <gr str="1375">bowls</gr>, his <gr str="3730">knops</gr>, and his <gr str="6525">flowers</gr>, shall <gr str="1961">be </gr>
+        <gr str="4480">of </gr>the same. </VERS>
+      <VERS vnumber="32"> And <gr str="8337">six </gr>
+        <gr str="7070">branches </gr>shall come <gr str="3318">out </gr>of the <gr str="4480 6654">sides </gr>of it; <gr str="7969">three </gr>
+        <gr str="7070">branches </gr>of the <gr str="4501">candlestick </gr>out of the one <gr str="4480 6654 259">side</gr>, and <gr str="7969">three </gr>
+        <gr str="7070">branches </gr>of the <gr str="4501">candlestick </gr>out of the other <gr str="4480 6654 8145">side</gr>: </VERS>
+      <VERS vnumber="33">
+        <gr str="7969">Three </gr>
+        <gr str="1375">bowls </gr>made like unto <gr str="8246">almonds</gr>, <STYLE css="color:#808080;font-style:italic"> with </STYLE> a <gr str="3730">knop </gr>and a <gr str="6525">flower </gr>in <gr str="259">one </gr>
+        <gr str="7070">branch</gr>; and <gr str="7969">three </gr>
+        <gr str="1375">bowls </gr>made like <gr str="8246">almonds </gr>in the <gr str="259">other </gr>
+        <gr str="7070">branch</gr>, <STYLE css="color:#808080;font-style:italic"> with </STYLE> a <gr str="3730">knop </gr>and a <gr str="6525">flower</gr>: <gr str="3651">so </gr>in the <gr str="8337">six </gr>
+        <gr str="7070">branches </gr>that come <gr str="3318">out </gr>
+        <gr str="4480">of </gr>the <gr str="4501">candlestick</gr>. </VERS>
+      <VERS vnumber="34"> And in the <gr str="4501">candlestick </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="702">four </gr>
+        <gr str="1375">bowls </gr>made like unto <gr str="8246">almonds</gr>, <STYLE css="color:#808080;font-style:italic"> with </STYLE> their <gr str="3730">knops </gr>and their <gr str="6525">flowers</gr>. </VERS>
+      <VERS vnumber="35"> And <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> a <gr str="3730">knop </gr>
+        <gr str="8478">under </gr>
+        <gr str="8147">two </gr>
+        <gr str="7070">branches </gr>
+        <gr str="4480">of </gr>the same, and a <gr str="3730">knop </gr>
+        <gr str="8478">under </gr>
+        <gr str="8147">two </gr>
+        <gr str="7070">branches </gr>
+        <gr str="4480">of </gr>the same, and a <gr str="3730">knop </gr>
+        <gr str="8478">under </gr>
+        <gr str="8147">two </gr>
+        <gr str="7070">branches </gr>
+        <gr str="4480">of </gr>the same, according to the <gr str="8337">six </gr>
+        <gr str="7070">branches </gr>that proceed <gr str="3318">out </gr>
+        <gr str="4480">of </gr>the <gr str="4501">candlestick</gr>. </VERS>
+      <VERS vnumber="36"> Their <gr str="3730">knops </gr>and their <gr str="7070">branches </gr>shall <gr str="1961">be </gr>
+        <gr str="4480">of </gr>the same: <gr str="3605">all </gr>it <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="259">one </gr>beaten <gr str="4749">work </gr>
+        <STYLE css="color:#808080;font-style:italic"> of </STYLE>
+        <gr str="2889">pure </gr>
+        <gr str="2091">gold</gr>. </VERS>
+      <VERS vnumber="37"> And thou shalt <gr str="6213">make </gr>the <gr str="*853" />
+        <gr str="7651">seven </gr>
+        <gr str="5216">lamps </gr>thereof: and they shall <gr str="5927">light </gr>
+        <gr str="*853" />the <gr str="5216">lamps </gr>thereof, that they may give <gr str="215">light </gr>over <gr str="5921 5676 6440">against </gr>it. </VERS>
+      <VERS vnumber="38"> And the <gr str="4457">tongs </gr>thereof, and the <gr str="4289">censers </gr>thereof, <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> of </STYLE>
+        <gr str="2889">pure </gr>
+        <gr str="2091">gold</gr>. </VERS>
+      <VERS vnumber="39">
+        <STYLE css="color:#808080;font-style:italic"> Of </STYLE> a <gr str="3603">talent </gr>of <gr str="2889">pure </gr>
+        <gr str="2091">gold </gr>shall he <gr str="6213">make </gr>it, <gr str="854">with </gr>
+        <gr str="3605">all </gr>
+        <gr str="428">these </gr>
+        <gr str="3627">vessels</gr>. </VERS>
+      <VERS vnumber="40"> And <gr str="7200">look </gr>that thou <gr str="6213">make </gr>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE> after their <gr str="8403">pattern</gr>, <gr str="834">which </gr>was <gr str="7200">showed </gr>
+        <gr str="859">thee </gr>in the <gr str="2022">mount</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

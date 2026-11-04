@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="77">
+      <VERS vnumber="1">Loudly will I lift my cry to God,loudly to God, so he hears to me.</VERS>
+      <VERS vnumber="2">In the day of my trouble I seek the <STYLE id="cl:divineName">Lord</STYLE>;in the night I lift my hands in prayer,refusing all comfort. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">When I think of God, I moan;when I muse, my spirit is faint.  (Selah)</VERS>
+      <VERS vnumber="4">When you hold my eyes awake,and I am restless and speechless,</VERS>
+      <VERS vnumber="5">I think of the days of old,call to mind distant years.</VERS>
+      <VERS vnumber="6">I commune with my heart in the night,I muse with inquiring spirit.</VERS>
+      <VERS vnumber="7">“Will the <STYLE id="cl:divineName">Lord</STYLE> cast us off forever,will he be gracious no more?</VERS>
+      <VERS vnumber="8">Has his love vanished forever?Is his faithfulness utterly gone?</VERS>
+      <VERS vnumber="9">Has God forgotten to be gracious,or in anger withheld his compassion?”  (Selah)  <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="10">Then I said, “This it is that grieves me,that the hand of the Most High has changed.’</VERS>
+      <VERS vnumber="11">I will think of the deeds of the <STYLE id="cl:divineName">Lord</STYLE>,and remember your wonders of old.</VERS>
+      <VERS vnumber="12">I will muse on all you have wrought,and meditate on your deeds.</VERS>
+      <VERS vnumber="13">Then your way, O God, was majestic:what God was great as our God?</VERS>
+      <VERS vnumber="14">You were a God who did marvels,you did show your power to the world</VERS>
+      <VERS vnumber="15">by your arm you rescued your people,the children of Jacob and Joseph.  (Selah)  <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="16">The waters saw you, O God.The waters saw you and shivered;to their depths they trembled.</VERS>
+      <VERS vnumber="17">Clouds poured torrents of water,thunder rolled in the sky,your arrows sped to and fro.</VERS>
+      <VERS vnumber="18">Loud was the roll of your thunder,lightnings lit up the world.Earth quaked and trembled.</VERS>
+      <VERS vnumber="19">In your way, <STYLE id="cl:divineName">Lord</STYLE>, through the sea,in your path through the mighty waters,your footsteps were all unseen.</VERS>
+      <VERS vnumber="20">You did guide your folk like a flockby the hand of Moses and Aaron.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

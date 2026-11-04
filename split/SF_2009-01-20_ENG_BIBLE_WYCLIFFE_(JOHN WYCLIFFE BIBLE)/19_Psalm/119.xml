@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="John Wycliffe Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="119">
+      <VERS vnumber="1">
+The `title of the hundrid and nyntenthe salm. The song of greces. Whanne Y was set in tribulacioun, Y criede to the Lord; and he herde me.
+</VERS>
+      <VERS vnumber="2">
+Lord, delyuere thou my soule fro wickid lippis; and fro a gileful tunge.
+</VERS>
+      <VERS vnumber="3">
+What schal be youun to thee, ether what schal be leid to thee; to a gileful tunge?
+</VERS>
+      <VERS vnumber="4">
+Scharpe arowis of the myyti; with colis that maken desolat.
+</VERS>
+      <VERS vnumber="5">
+Allas to me! for my dwelling in an alien lond is maad long, Y dwellide with men dwellinge in Cedar; my soule was myche a comelyng.
+</VERS>
+      <VERS vnumber="6">
+I was pesible with hem that hatiden pees;
+</VERS>
+      <VERS vnumber="7">
+whanne Y spak to hem, thei ayenseiden me with outen cause.
+</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

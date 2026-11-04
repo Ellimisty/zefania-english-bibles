@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Rotherham Version" type="x-bible">
+  <BIBLEBOOK bname="Psalm" bnumber="19" bsname="Ps">
+    <CHAPTER cnumber="54">
+      <VERS vnumber="1">O God! by thine own Name, save me, And, by thine own strength, wilt thou vindicate me?</VERS>
+      <VERS vnumber="2">O God! Hear my prayer, Give ear to the sayings of my mouth;</VERS>
+      <VERS vnumber="3">For, aliens, have risen up against me, And, men of violence, have sought my life, They have not set God before them. <STYLE css="font-weight:bold"> Selah.</STYLE>
+      </VERS>
+      <VERS vnumber="4">Lo! God, is bringing me help, My Lord, is with the upholders of my life;</VERS>
+      <VERS vnumber="5">Let him turn back the mischief upon mine adversaries, In thy faithfulness, destroy them!</VERS>
+      <VERS vnumber="6">With a freewill-offering, will I sacrifice unto thee, I will praise thy Name, O Yahweh, for it is good;</VERS>
+      <VERS vnumber="7">For, out of all distress, hath he rescued me,And, upon my foes, hath, mine own eye, looked.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

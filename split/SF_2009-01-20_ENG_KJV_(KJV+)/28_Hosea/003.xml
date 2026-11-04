@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="28" bname="Hosea" bsname="Hos">
+    <CHAPTER cnumber="3">
+      <VERS vnumber="1"> Then <gr str="559">said </gr>the <gr str="3068">LORD </gr>
+        <gr str="413">unto </gr>me, <gr str="1980">Go </gr>
+        <gr str="5750">yet</gr>, <gr str="157">love </gr>a <gr str="802">woman </gr>
+        <gr str="157">beloved </gr>of <STYLE css="color:#808080;font-style:italic"> her </STYLE>
+        <gr str="7453">friend</gr>, yet an <gr str="5003">adulteress</gr>, according to the <gr str="160">love </gr>of the <gr str="3068">LORD </gr>toward <gr str="*853" />the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>, <gr str="1992">who </gr>
+        <gr str="6437">look </gr>
+        <gr str="413">to </gr>
+        <gr str="312">other </gr>
+        <gr str="430">gods</gr>, and <gr str="157">love </gr>
+        <gr str="809">flagons </gr>of <gr str="6025">wine</gr>. </VERS>
+      <VERS vnumber="2"> So I <gr str="3739">bought </gr>her to me for <gr str="2568 6240">fifteen </gr>
+        <STYLE css="color:#808080;font-style:italic"> pieces </STYLE> of <gr str="3701">silver</gr>, and <STYLE css="color:#808080;font-style:italic"> for </STYLE> a <gr str="2563">homer </gr>of <gr str="8184">barley</gr>, and a half <gr str="3963">homer </gr>of <gr str="8184">barley</gr>: </VERS>
+      <VERS vnumber="3"> And I <gr str="559">said </gr>
+        <gr str="413">unto </gr>her, Thou shalt <gr str="3427">abide </gr>for me <gr str="7227">many </gr>
+        <gr str="3117">days</gr>; thou shalt <gr str="3808">not </gr>play the <gr str="2181">harlot</gr>, and thou shalt <gr str="3808">not </gr>
+        <gr str="1961">be </gr>for <STYLE css="color:#808080;font-style:italic"> another </STYLE>
+        <gr str="376">man</gr>: so <STYLE css="color:#808080;font-style:italic"> will </STYLE>
+        <gr str="589">I </gr>
+        <gr str="1571">also </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="413">for </gr>thee. </VERS>
+      <VERS vnumber="4">
+        <gr str="3588">For </gr>the <gr str="1121">children </gr>of <gr str="3478">Israel </gr>shall <gr str="3427">abide </gr>
+        <gr str="7227">many </gr>
+        <gr str="3117">days </gr>
+        <gr str="369">without </gr>a <gr str="4428">king</gr>, and <gr str="369">without </gr>a <gr str="8269">prince</gr>, and <gr str="369">without </gr>a <gr str="2077">sacrifice</gr>, and <gr str="369">without </gr>an <gr str="4676">image</gr>, and <gr str="369">without </gr>an <gr str="646">ephod</gr>, and <STYLE css="color:#808080;font-style:italic"> without </STYLE>
+        <gr str="8655">teraphim</gr>: </VERS>
+      <VERS vnumber="5">
+        <gr str="310">Afterward </gr>shall the <gr str="1121">children </gr>of <gr str="3478">Israel </gr>
+        <gr str="7725">return</gr>, and <gr str="1245">seek </gr>
+        <gr str="*853" />the <gr str="3068">LORD </gr>their <gr str="430">God</gr>, and <gr str="1732">David </gr>their <gr str="4428">king</gr>; and shall <gr str="6342 413">fear </gr>the <gr str="3068">LORD </gr>and his <gr str="2898">goodness </gr>in the <gr str="319">latter </gr>
+        <gr str="3117">days</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

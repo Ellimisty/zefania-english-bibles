@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="129">
+      <VERS vnumber="1">“Sore have they vexed me from youth”thus let Israel say</VERS>
+      <VERS vnumber="2">“Sore have they vexed me from youth,but they have not prevailed against me. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">The ploughers ploughed on my back,they made their furrows long.</VERS>
+      <VERS vnumber="4">But the <STYLE id="cl:divineName">Lord</STYLE>, who is righteous, has cutthe cords of the wicked.” <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">Let all who are haters of Zionbe put to shame and defeated.</VERS>
+      <VERS vnumber="6">May they be as the grass on the house-top,which withers before it shoots up; <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">which fills not the arms of the reaper,nor the lap of the binder of sheaves,</VERS>
+      <VERS vnumber="8">whereof no one says as they pass,“The blessing of God be upon you.” <BR art="x-nl" /> In the name of the <STYLE id="cl:divineName">Lord</STYLE> we bless you.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Jewish Publication Society AT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="54">
+      <VERS vnumber="1">O God, save me by Thy name, and right me by Thy might.</VERS>
+      <VERS vnumber="2">O God, hear my prayer; give ear to the words of my mouth.</VERS>
+      <VERS vnumber="3">For strangers are risen up against me, and violent men have sought after my soul; they have not set God before them. Selah</VERS>
+      <VERS vnumber="4">Behold, God is my helper; the Lord is for me as the upholder of my soul.</VERS>
+      <VERS vnumber="5">He will requite the evil unto them that lie in wait for me; destroy Thou them in Thy truth.</VERS>
+      <VERS vnumber="6">With a freewill-offering will I sacrifice unto Thee; I will give thanks unto Thy name, O LORD, for it is good.</VERS>
+      <VERS vnumber="7">For He hath delivered me out of all trouble; and mine eye hath gazed upon mine enemies.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="81">
+      <VERS vnumber="1">Sing aloud to God our strength,shout for joy to the God of Jacob.</VERS>
+      <VERS vnumber="2">Raise a song, sound the timbrel,sweet lyre and harp.</VERS>
+      <VERS vnumber="3">On the new moon blow the horn,at the full moon, the day of our festival.</VERS>
+      <VERS vnumber="4">For this is a statute for Israel,a ruling of the God of Jacob,</VERS>
+      <VERS vnumber="5">a witness he set up in Joseph,when he marched against Egypt’s land,where he heard an unknown language. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="6">“I removed from your shoulder the burden,and freed your hands from the basket.</VERS>
+      <VERS vnumber="7">At your call of distress I delivered you,from the thundercloud I answered you.At Meribah’s waters I tested you.  (Selah)  <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="8">Listen, my people, to my warning,O Israel, if you would but listen</VERS>
+      <VERS vnumber="9">‘There must not be a strange god among you,you must bow to no foreign god.</VERS>
+      <VERS vnumber="10">I am the <STYLE id="cl:divineName">Lord</STYLE> your Godwho brought you up out of Egypt.Open your mouth, that I fill it.’ <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="11">But my people did not listen to my voice,Israel would have none of me.</VERS>
+      <VERS vnumber="12">So to their own hard hearts I left them,to follow their own devices.</VERS>
+      <VERS vnumber="13">O that my people would listen,that Israel would walk in my ways.</VERS>
+      <VERS vnumber="14">Soon would I humble their enemies,and turn my hand on their foes.</VERS>
+      <VERS vnumber="15">Those who hate the <STYLE id="cl:divineName">Lord</STYLE> would cringe before himin everlasting terror.</VERS>
+      <VERS vnumber="16">But you would I feed with the richest wheat,and with honey from the rock to your heart’s desire.”</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Douay Rheims" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="87">
+      <VERS vnumber="1">For the sons of Core, a psalm of a canticle. The foundations thereof are in the holy mountains:</VERS>
+      <VERS vnumber="2">The Lord loveth the gates of Sion above all the tabernacles of Jacob.</VERS>
+      <VERS vnumber="3">Glorious things are said of thee, O city of God.</VERS>
+      <VERS vnumber="4">I will be mindful of Rahab and of Babylon knowing me. Behold the foreigners, and Tyre, and the people of the Ethiopians, these were there.</VERS>
+      <VERS vnumber="5">Shall not Sion say: This man and that man is born in her? and the Highest himself hath founded her.</VERS>
+      <VERS vnumber="6">The Lord shall tell in his writings of peoples and of princes, of them that have been in her.</VERS>
+      <VERS vnumber="7">The dwelling in thee is as it were of all rejoicing.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

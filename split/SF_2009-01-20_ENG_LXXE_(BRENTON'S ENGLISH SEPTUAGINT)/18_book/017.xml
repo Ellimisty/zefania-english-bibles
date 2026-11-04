@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="18">
+    <CHAPTER cnumber="17">
+      <VERS vnumber="1">I perish, carried away by the wind, and I seek for burial, and obtain it not.</VERS>
+      <VERS vnumber="2">Weary I intreat; and what have I done? and strangers have stolen my goods.</VERS>
+      <VERS vnumber="3">Who is this? let him <DIV>
+          <NOTE type="x-studynote">Gr. be bound with my hand</NOTE>
+        </DIV> join hands with me.</VERS>
+      <VERS vnumber="4">For thou hast hid their heart from wisdom; therefore thou shalt not exalt them.</VERS>
+      <VERS vnumber="5">He shall promise mischief to his companions: but their eyes have failed for their children.</VERS>
+      <VERS vnumber="6">But thou has made me a byword amoung the nations, and I am become a scorn to them.</VERS>
+      <VERS vnumber="7">For my eyes are dimmed through pain; I have been grievously beset by all.</VERS>
+      <VERS vnumber="8">Wonder has seized true men upon this; and let the just rise up against the transgressor.</VERS>
+      <VERS vnumber="9">But let the faithful hold on his own way, and let him that is pure of hands take courage.</VERS>
+      <VERS vnumber="10">Howbeit, do ye all strengthen yourselves and come now, for I do not find truth in you.</VERS>
+      <VERS vnumber="11">My days have passed in groaning, and my heart-strings are broken.</VERS>
+      <VERS vnumber="12">I have turned the night into day: the light is short because of darkness.</VERS>
+      <VERS vnumber="13">For if I remain, Hades is my habitation: and my bed has been made in darkness.</VERS>
+      <VERS vnumber="14">I have called upon death to be my father, and corruption to be my mother and sister.</VERS>
+      <VERS vnumber="15">Where then is yet my hope? or where shall I see my good?</VERS>
+      <VERS vnumber="16">Will they go down with me to Hades, or shall we go down together to the tomb?</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

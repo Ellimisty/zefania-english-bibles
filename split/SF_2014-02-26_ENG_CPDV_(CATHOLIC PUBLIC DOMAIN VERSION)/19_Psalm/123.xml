@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="123">
+      <VERS vnumber="1">A Canticle in steps. If the Lord had not been with us, let Israel now say it:</VERS>
+      <VERS vnumber="2">if the Lord had not been with us, when men rose up against us,</VERS>
+      <VERS vnumber="3">perhaps they would have swallowed us alive. When their fury was enraged against us,</VERS>
+      <VERS vnumber="4">perhaps the waters would have engulfed us.</VERS>
+      <VERS vnumber="5">Our soul has passed through a torrent. Perhaps, our soul had even passed through intolerable water.</VERS>
+      <VERS vnumber="6">Blessed is the Lord, who has not given us into the harm of their teeth.</VERS>
+      <VERS vnumber="7">Our soul has been snatched away like a sparrow from the snare of the hunters. The snare has been broken, and we have been freed.</VERS>
+      <VERS vnumber="8">Our help is in the name of the Lord, who made heaven and earth.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

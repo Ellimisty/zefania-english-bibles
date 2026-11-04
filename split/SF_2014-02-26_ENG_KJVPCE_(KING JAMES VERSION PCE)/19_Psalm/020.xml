@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="King James Version PCE" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="20">
+      <VERS vnumber="1">To the chief Musician, A Psalm of David.  The <STYLE id="cl:divineName">Lord</STYLE> hear thee in the day of trouble; the name of the God of Jacob defend thee;</VERS>
+      <VERS vnumber="2">Send thee help from the sanctuary, and strengthen thee out of Zion;</VERS>
+      <VERS vnumber="3">Remember all thy offerings, and accept thy burnt sacrifice; Selah.</VERS>
+      <VERS vnumber="4">Grant thee according to thine own heart, and fulfil all thy counsel.</VERS>
+      <VERS vnumber="5">We will rejoice in thy salvation, and in the name of our God we will set up  our  banners: the <STYLE id="cl:divineName">Lord</STYLE> fulfil all thy petitions.</VERS>
+      <VERS vnumber="6">Now know I that the <STYLE id="cl:divineName">Lord</STYLE> saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand.</VERS>
+      <VERS vnumber="7">Some  trust  in chariots, and some in horses: but we will remember the name of the <STYLE id="cl:divineName">Lord</STYLE> our God.</VERS>
+      <VERS vnumber="8">They are brought down and fallen: but we are risen, and stand upright.</VERS>
+      <VERS vnumber="9">Save, <STYLE id="cl:divineName">Lord</STYLE>: let the king hear us when we call.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

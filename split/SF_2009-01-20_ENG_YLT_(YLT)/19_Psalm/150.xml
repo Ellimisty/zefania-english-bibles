@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="YLT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="150">
+      <VERS vnumber="1">Praise ye Jah! Praise ye God in His holy place, Praise Him  in the expanse of His strength.</VERS>
+      <VERS vnumber="2">Praise Him in His mighty acts, Praise Him according to the  abundance of His greatness.</VERS>
+      <VERS vnumber="3">Praise Him with blowing of trumpet, Praise Him with  psaltery and harp.</VERS>
+      <VERS vnumber="4">Praise Him with timbrel and dance, Praise Him with  stringed instruments and organ.</VERS>
+      <VERS vnumber="5">Praise Him with cymbals of sounding, Praise Him with  cymbals of shouting.</VERS>
+      <VERS vnumber="6">All that doth breathe doth praise Jah! Praise ye Jah!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

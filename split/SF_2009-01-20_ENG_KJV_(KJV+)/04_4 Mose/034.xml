@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="4" bname="4 Mose" bsname="4Mo">
+    <CHAPTER cnumber="34">
+      <VERS vnumber="1"> And the <gr str="3068">LORD </gr>
+        <gr str="1696">spoke </gr>
+        <gr str="413">unto </gr>
+        <gr str="4872">Moses</gr>, <gr str="559">saying</gr>, </VERS>
+      <VERS vnumber="2">
+        <gr str="6680">Command </gr>
+        <gr str="*853">
+        </gr>the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>, and <gr str="559">say </gr>
+        <gr str="413">unto </gr>them, <gr str="3588">When </gr>
+        <gr str="859">ye </gr>
+        <gr str="935">come </gr>
+        <gr str="413">into </gr>the <gr str="776">land </gr>of <gr str="3667">Canaan</gr>; (<gr str="2063">this </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="776">land </gr>
+        <gr str="834">that </gr>shall <gr str="5307">fall </gr>unto you for an <gr str="5159">inheritance</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE> the <gr str="776">land </gr>of <gr str="3667">Canaan </gr>with the <gr str="1367">coasts </gr>thereof:) </VERS>
+      <VERS vnumber="3"> Then your <gr str="5045">south </gr>
+        <gr str="6285">quarter </gr>shall <gr str="1961">be </gr>from the <gr str="4480 4057">wilderness </gr>of <gr str="6790">Zin </gr>along <gr str="5921">by </gr>the <gr str="3027">coast </gr>of <gr str="123">Edom</gr>, and your <gr str="5045">south </gr>
+        <gr str="1366">border </gr>shall <gr str="1961">be </gr>the outermost <gr str="4480 7097">coast </gr>of the <gr str="4417">salt </gr>
+        <gr str="3220">sea </gr>
+        <gr str="6924">eastward</gr>: </VERS>
+      <VERS vnumber="4"> And your <gr str="1366">border </gr>shall <gr str="5437">turn </gr>from the <gr str="4480 5045">south </gr>to the <gr str="4608">ascent </gr>of <gr str="6137">Akrabbim</gr>, and pass <gr str="5674">on </gr>to <gr str="6790">Zin</gr>: and the going <gr str="8444">forth </gr>thereof shall <gr str="1961">be </gr>from the <gr str="4480 5045">south </gr>to <gr str="6947">Kadesh </gr>-barnea, and shall go <gr str="3318">on </gr>to <gr str="2692">Hazar </gr>-addar, and pass <gr str="5674">on </gr>to <gr str="6111">Azmon</gr>: </VERS>
+      <VERS vnumber="5"> And the <gr str="1366">border </gr>shall fetch a <gr str="5437">compass </gr>from <gr str="4480 6111">Azmon </gr>unto the <gr str="5158">river </gr>of <gr str="4714">Egypt</gr>, and the goings <gr str="8444">out </gr>of it shall <gr str="1961">be </gr>at the <gr str="3220">sea</gr>. </VERS>
+      <VERS vnumber="6"> And <STYLE css="color:#808080;font-style:italic"> as </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> for </STYLE> the <gr str="3220">western </gr>
+        <gr str="1366">border</gr>, ye shall even <gr str="1961">have </gr>the <gr str="1419">great </gr>
+        <gr str="3220">sea </gr>for a <gr str="1366">border</gr>: <gr str="2088">this </gr>shall <gr str="1961">be </gr>your <gr str="3220">west </gr>
+        <gr str="1366">border</gr>. </VERS>
+      <VERS vnumber="7"> And <gr str="2088">this </gr>shall <gr str="1961">be </gr>your <gr str="6828">north </gr>
+        <gr str="1366">border</gr>: <gr str="4480">from </gr>the <gr str="1419">great </gr>
+        <gr str="3220">sea </gr>ye shall point <gr str="8376">out </gr>for you <gr str="2022">mount </gr>
+        <gr str="2023">Hor</gr>: </VERS>
+      <VERS vnumber="8"> From <gr str="2022">mount </gr>
+        <gr str="4480 2023">Hor </gr>ye shall point <gr str="8376">out </gr>
+        <STYLE css="color:#808080;font-style:italic"> your </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> border </STYLE> unto the <gr str="935">entrance </gr>of <gr str="2574">Hamath</gr>; and the goings <gr str="8444">forth </gr>of the <gr str="1366">border </gr>shall <gr str="1961">be </gr>to <gr str="6657">Zedad</gr>: </VERS>
+      <VERS vnumber="9"> And the <gr str="1366">border </gr>shall go <gr str="3318">on </gr>to <gr str="2202">Ziphron</gr>, and the goings <gr str="8444">out </gr>of it shall <gr str="1961">be </gr>at <gr str="2704">Hazar </gr>-enan: <gr str="2088">this </gr>shall <gr str="1961">be </gr>your <gr str="6828">north </gr>
+        <gr str="1366">border</gr>. </VERS>
+      <VERS vnumber="10"> And ye shall point <gr str="184">out </gr>your <gr str="6924">east </gr>
+        <gr str="1366">border </gr>from <gr str="4480 2704">Hazar </gr>-enan to <gr str="8221">Shepham</gr>: </VERS>
+      <VERS vnumber="11"> And the <gr str="1366">coast </gr>shall go <gr str="3381">down </gr>from <gr str="4480 8221">Shepham </gr>to <gr str="7247">Riblah</gr>, on the east <gr str="4480 6924">side </gr>of <gr str="5871">Ain</gr>; and the <gr str="1366">border </gr>shall <gr str="3381">descend</gr>, and shall <gr str="4229">reach </gr>
+        <gr str="5921">unto </gr>the <gr str="3802">side </gr>of the <gr str="3220">sea </gr>of <gr str="3672">Chinnereth </gr>
+        <gr str="6924">eastward</gr>: </VERS>
+      <VERS vnumber="12"> And the <gr str="1366">border </gr>shall go <gr str="3381">down </gr>to <gr str="3383">Jordan</gr>, and the goings <gr str="8444">out </gr>of it shall <gr str="1961">be </gr>at the <gr str="4417">salt </gr>
+        <gr str="3220">sea</gr>: <gr str="2063">this </gr>shall <gr str="1961">be </gr>your <gr str="776">land </gr>with the <gr str="1367">coasts </gr>thereof round <gr str="5439">about</gr>. </VERS>
+      <VERS vnumber="13"> And <gr str="4872">Moses </gr>
+        <gr str="6680">commanded </gr>
+        <gr str="*853" />the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>, <gr str="559">saying</gr>, <gr str="2063">This </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="776">land </gr>
+        <gr str="834">which </gr>ye shall <gr str="5157">inherit </gr>by <gr str="1486">lot</gr>, <gr str="834">which </gr>the <gr str="3068">LORD </gr>
+        <gr str="6680">commanded </gr>to <gr str="5414">give </gr>unto the <gr str="8672">nine </gr>
+        <gr str="4294">tribes</gr>, and to the <gr str="2677">half </gr>
+        <gr str="4294">tribe</gr>: </VERS>
+      <VERS vnumber="14">
+        <gr str="3588">For </gr>the <gr str="4294">tribe </gr>of the <gr str="1121">children </gr>of <gr str="7206">Reuben </gr>according to the <gr str="1004">house </gr>of their <gr str="1">fathers</gr>, and the <gr str="4294">tribe </gr>of the <gr str="1121">children </gr>of <gr str="1410">Gad </gr>according to the <gr str="1004">house </gr>of their <gr str="1">fathers</gr>, have <gr str="3947">received </gr>
+        <STYLE css="color:#808080;font-style:italic"> their </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> inheritance </STYLE>; and <gr str="2677">half </gr>the <gr str="4294">tribe </gr>of <gr str="4519">Manasseh </gr>have <gr str="3947">received </gr>their <gr str="5159">inheritance</gr>: </VERS>
+      <VERS vnumber="15"> The <gr str="8147">two </gr>
+        <gr str="4294">tribes </gr>and the <gr str="2677">half </gr>
+        <gr str="4294">tribe </gr>have <gr str="3947">received </gr>their <gr str="5159">inheritance </gr>on this <gr str="4480 5676">side </gr>
+        <gr str="3383">Jordan </gr>
+        <STYLE css="color:#808080;font-style:italic"> near </STYLE>
+        <gr str="3405">Jericho </gr>
+        <gr str="6924">eastward</gr>, toward the <gr str="4217">sunrising</gr>. </VERS>
+      <VERS vnumber="16"> And the <gr str="3068">LORD </gr>
+        <gr str="1696">spoke </gr>
+        <gr str="413">unto </gr>
+        <gr str="4872">Moses</gr>, <gr str="559">saying</gr>, </VERS>
+      <VERS vnumber="17">
+        <gr str="428">These </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> the <gr str="8034">names </gr>of the <gr str="376">men </gr>
+        <gr str="834">which </gr>shall <gr str="5157">divide </gr>
+        <gr str="*853" />the <gr str="776">land </gr>unto you: <gr str="499">Eleazar </gr>the <gr str="3548">priest</gr>, and <gr str="3091">Joshua </gr>the <gr str="1121">son </gr>of <gr str="5126">Nun</gr>. </VERS>
+      <VERS vnumber="18"> And ye shall <gr str="3947">take </gr>one <gr str="259 5387 259 5387">prince </gr>of every <gr str="4480 4294">tribe</gr>, to divide the land by <gr str="5157 *853 776">inheritance</gr>. </VERS>
+      <VERS vnumber="19"> And the <gr str="8034">names </gr>of the <gr str="376">men </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="428">these</gr>: Of the <gr str="4294">tribe </gr>of <gr str="3063">Judah</gr>, <gr str="3612">Caleb </gr>the <gr str="1121">son </gr>of <gr str="3312">Jephunneh</gr>. </VERS>
+      <VERS vnumber="20"> And of the <gr str="4294">tribe </gr>of the <gr str="1121">children </gr>of <gr str="8095">Simeon</gr>, <gr str="8050">Shemuel </gr>the <gr str="1121">son </gr>of <gr str="5989">Ammihud</gr>. </VERS>
+      <VERS vnumber="21"> Of the <gr str="4294">tribe </gr>of <gr str="1144">Benjamin</gr>, <gr str="449">Elidad </gr>the <gr str="1121">son </gr>of <gr str="3692">Chislon</gr>. </VERS>
+      <VERS vnumber="22"> And the <gr str="5387">prince </gr>of the <gr str="4294">tribe </gr>of the <gr str="1121">children </gr>of <gr str="1835">Dan</gr>, <gr str="1231">Bukki </gr>the <gr str="1121">son </gr>of <gr str="3020">Jogli</gr>. </VERS>
+      <VERS vnumber="23"> The <gr str="5387">prince </gr>of the <gr str="1121">children </gr>of <gr str="3130">Joseph</gr>, for the <gr str="4294">tribe </gr>of the <gr str="1121">children </gr>of <gr str="4519">Manasseh</gr>, <gr str="2592">Hanniel </gr>the <gr str="1121">son </gr>of <gr str="641">Ephod</gr>. </VERS>
+      <VERS vnumber="24"> And the <gr str="5387">prince </gr>of the <gr str="4294">tribe </gr>of the <gr str="1121">children </gr>of <gr str="669">Ephraim</gr>, <gr str="7055">Kemuel </gr>the <gr str="1121">son </gr>of <gr str="8204">Shiphtan</gr>. </VERS>
+      <VERS vnumber="25"> And the <gr str="5387">prince </gr>of the <gr str="4294">tribe </gr>of the <gr str="1121">children </gr>of <gr str="2074">Zebulun</gr>, <gr str="469">Elizaphan </gr>the <gr str="1121">son </gr>of <gr str="6535">Parnach</gr>. </VERS>
+      <VERS vnumber="26"> And the <gr str="5387">prince </gr>of the <gr str="4294">tribe </gr>of the <gr str="1121">children </gr>of <gr str="3485">Issachar</gr>, <gr str="6409">Paltiel </gr>the <gr str="1121">son </gr>of <gr str="5821">Azzan</gr>. </VERS>
+      <VERS vnumber="27"> And the <gr str="5387">prince </gr>of the <gr str="4294">tribe </gr>of the <gr str="1121">children </gr>of <gr str="836">Asher</gr>, <gr str="282">Ahihud </gr>the <gr str="1121">son </gr>of <gr str="8015">Shelomi</gr>. </VERS>
+      <VERS vnumber="28"> And the <gr str="5387">prince </gr>of the <gr str="4294">tribe </gr>of the <gr str="1121">children </gr>of <gr str="5321">Naphtali</gr>, <gr str="6300">Pedahel </gr>the <gr str="1121">son </gr>of <gr str="5989">Ammihud</gr>. </VERS>
+      <VERS vnumber="29">
+        <gr str="428">These </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> they </STYLE>
+        <gr str="834">whom </gr>the <gr str="3068">LORD </gr>
+        <gr str="6680">commanded </gr>to divide the <gr str="5157">inheritance </gr>
+        <gr str="*853" />unto the <gr str="1121">children </gr>of <gr str="3478">Israel </gr>in the <gr str="776">land </gr>of <gr str="3667">Canaan</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

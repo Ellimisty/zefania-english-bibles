@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James 2000" type="x-bible">
+  <BIBLEBOOK bnumber="24">
+    <CHAPTER cnumber="45">
+      <VERS vnumber="1">The word that Jeremiah the prophet spoke unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,</VERS>
+      <VERS vnumber="2">Thus says the LORD, the God of Israel, unto you, O Baruch;</VERS>
+      <VERS vnumber="3">
+        <STYLE css="color:#FF0000">You did say, Woe is me now! for the LORD has added grief to my sorrow; I fainted in my sighing, and I find no rest.</STYLE>
+      </VERS>
+      <VERS vnumber="4">
+        <STYLE css="color:#FF0000">Thus shall you say unto him, The LORD says thus; Behold, that which I have built will I break down, and that which I have planted I will pluck up, even this whole land.</STYLE>
+      </VERS>
+      <VERS vnumber="5">
+        <STYLE css="color:#FF0000">And seek you great things for yourself? seek them not: for, behold, I will bring disaster upon all flesh,</STYLE> says the LORD: <STYLE css="color:#FF0000">but your life will I give unto you for a prize in all places where you go.</STYLE>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="43">
+      <VERS vnumber="1">
+        <gr str="8199">Judge </gr>me, O <gr str="430">God</gr>, and <gr str="7378">plead </gr>my <gr str="7379">cause </gr>against an <gr str="3808 2623">ungodly </gr>
+        <gr str="1471">nation</gr>: O <gr str="6403">deliver </gr>me from the <gr str="4820">deceitful </gr>and <gr str="5766">unjust </gr>
+        <gr str="376">man</gr>. <DIV>
+          <NOTE type="x-studynote">ungodly: or, unmerciful</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">the deceitful…: Heb. a man of deceit and iniquity</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">For thou <STYLE css="font-style:italic">art</STYLE> the <gr str="430">God </gr>of my <gr str="4581">strength</gr>: why dost thou cast me <gr str="2186">off</gr>? why <gr str="1980">go </gr>I <gr str="6937">mourning </gr>because of the <gr str="3906">oppression </gr>of the <gr str="341">enemy</gr>?</VERS>
+      <VERS vnumber="3">O send <gr str="7971">out </gr>thy <gr str="216">light </gr>and thy <gr str="571">truth</gr>: let them <gr str="5148">lead </gr>me; let them <gr str="935">bring </gr>me to thy <gr str="6944">holy </gr>
+        <gr str="2022">hill</gr>, and to thy <gr str="4908">tabernacles</gr>.</VERS>
+      <VERS vnumber="4">Then will I <gr str="935">go </gr>to the <gr str="4196">altar </gr>of <gr str="430">God</gr>, to <gr str="410">God </gr>my <gr str="8057">exceeding </gr>
+        <gr str="1524">joy</gr>: yea, upon the <gr str="3658">harp </gr>will I <gr str="3034">praise </gr>thee, O <gr str="430">God </gr>my <gr str="430">God</gr>. <DIV>
+          <NOTE type="x-studynote">my exceeding…: Heb. the gladness of my joy</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="5">Why art thou cast <gr str="7817">down</gr>, O my <gr str="5315">soul</gr>? and why art thou <gr str="1993">disquieted </gr>within me? <gr str="3176">hope </gr>in <gr str="430">God</gr>: for I shall yet <gr str="3034">praise </gr>him, <STYLE css="font-style:italic">who is</STYLE> the <gr str="3444">health </gr>of my <gr str="6440">countenance</gr>, and my <gr str="430">God</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="100">
+      <VERS vnumber="1"> A <gr str="4210">Psalm </gr>of <gr str="8426">praise</gr>. Make a joyful <gr str="7321">noise </gr>unto the <gr str="3068">LORD</gr>, <gr str="3605">all </gr>ye <gr str="776">lands</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="5647">Serve </gr>the <gr str="*853" />
+        <gr str="3068">LORD </gr>with <gr str="8057">gladness</gr>: <gr str="935">come </gr>before his <gr str="6440">presence </gr>with <gr str="7445">singing</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="3045">Know </gr>ye <gr str="3588">that </gr>the <gr str="3068">LORD </gr>
+        <gr str="1931">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="430">God</gr>: <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="1931">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE> hath <gr str="6213">made </gr>us, and <gr str="3808">not </gr>we <gr str="587">ourselves</gr>; <STYLE css="color:#808080;font-style:italic"> we </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> his <gr str="5971">people</gr>, and the <gr str="6629">sheep </gr>of his <gr str="4830">pasture</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="935">Enter </gr>into his <gr str="8179">gates </gr>with <gr str="8426">thanksgiving</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> into his <gr str="2691">courts </gr>with <gr str="8416">praise</gr>: be <gr str="3034">thankful </gr>unto him, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="1288">bless </gr>his <gr str="8034">name</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="3588">For </gr>the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2896">good</gr>; his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="5769">everlasting</gr>; and his <gr str="530">truth </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5704">to </gr>all <gr str="1755 1755">generations</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

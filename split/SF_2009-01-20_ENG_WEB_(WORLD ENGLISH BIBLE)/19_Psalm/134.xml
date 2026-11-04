@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="World English Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="134">
+      <VERS vnumber="1">Look! Praise Yahweh, all you servants of Yahweh,    Who stand by night in Yahweh`s house!</VERS>
+      <VERS vnumber="2">Lift up your hands in the sanctuary.    Praise Yahweh!</VERS>
+      <VERS vnumber="3">May Yahweh bless you from Zion;    Even he who made heaven and earth.       Psalm 135</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

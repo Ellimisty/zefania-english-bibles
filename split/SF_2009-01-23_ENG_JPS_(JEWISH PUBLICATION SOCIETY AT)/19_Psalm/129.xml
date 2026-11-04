@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Jewish Publication Society AT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="129">
+      <VERS vnumber="1">A Song of Ascents. 'Much have they afflicted me from my youth up', let Israel now say;</VERS>
+      <VERS vnumber="2">'Much have they afflicted me from my youth up; but they have not prevailed against me.</VERS>
+      <VERS vnumber="3">The plowers plowed upon my back; they made long their furrows.</VERS>
+      <VERS vnumber="4">The LORD is righteous; He hath cut asunder the cords of the wicked.'</VERS>
+      <VERS vnumber="5">Let them be ashamed and turned backward, all they that hate Zion.</VERS>
+      <VERS vnumber="6">Let them be as the grass upon the housetops, which withereth afore it springeth up;</VERS>
+      <VERS vnumber="7">Wherewith the reaper filleth not his hand, nor he that bindeth sheaves his bosom.</VERS>
+      <VERS vnumber="8">Neither do they that go by say: 'The blessing of the LORD be upon you; we bless you in the name of the LORD.'</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

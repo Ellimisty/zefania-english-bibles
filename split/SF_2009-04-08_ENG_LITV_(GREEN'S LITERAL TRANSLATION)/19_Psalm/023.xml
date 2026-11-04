@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Green's Literal Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="23">
+      <VERS vnumber="1">  A Psalm of David. Jehovah is my shepherd; I shall not want.</VERS>
+      <VERS vnumber="2"> He makes me lie down in green pastures; He leads me beside the still waters;</VERS>
+      <VERS vnumber="3"> He restores my soul; He guides me in paths of righteousness for His name's sake.</VERS>
+      <VERS vnumber="4"> Yea, though I walk through the valley of the shadow of death I will fear no evil; for You are with me; Your rod and Your staff, they comfort me.</VERS>
+      <VERS vnumber="5"> You prepare a table for me before my enemies; You anoint my head with oil; my cup runs over.</VERS>
+      <VERS vnumber="6"> Surely, goodness and mercy shall follow me all the days of my life; and I shall dwell in the house of Jehovah for as long as my days.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

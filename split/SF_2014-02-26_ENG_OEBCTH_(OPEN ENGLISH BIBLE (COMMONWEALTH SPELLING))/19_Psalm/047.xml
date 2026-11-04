@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="47">
+      <VERS vnumber="1">Clap your hands, all you peoples:shout to God in ringing cries.</VERS>
+      <VERS vnumber="2">For the <STYLE id="cl:divineName">Lord</STYLE> is most high and dread,a great king over all the earth. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">He subdues the peoples under us,the nations under our feet;</VERS>
+      <VERS vnumber="4">he chooses our heritage for us,the glory of Jacob whom he loves.  (Selah)  <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">God is gone up with a shout,the <STYLE id="cl:divineName">Lord</STYLE> with the sound of a trumpet.</VERS>
+      <VERS vnumber="6">Sing praise to our God, sing praises:sing praise to our king, sing praises. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">For king of all earth is he:praise God in a skilful song.</VERS>
+      <VERS vnumber="8">God is king over all the nations,God sits on his holy throne. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="9">Princes of nations gatherwith the people of Abraham’s God:for the shields of the earth are God’s;greatly exalted is he.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

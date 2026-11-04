@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">Happy are thosewho do not follow the counsel of the wicked,not halting in ways frequented by sinners,nor taking a seat in a gathering of scoffers.</VERS>
+      <VERS vnumber="2">But the law of the <STYLE id="cl:divineName">Lord</STYLE> is their joy,they study it day and night.</VERS>
+      <VERS vnumber="3">They are like treesplanted by runlets of water,yielding fruit in due season,leaves never fading.In all that they do, they prosper. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="4">Not so fare the wicked, not so;like chaff are they, blown by the wind.</VERS>
+      <VERS vnumber="5">So the wicked will not stand firm in the judgment,nor sinners appear, when the righteous are gathered.</VERS>
+      <VERS vnumber="6">For the way of the righteous is dear to the <STYLE id="cl:divineName">Lord</STYLE>,but the way of the wicked will end in ruin.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

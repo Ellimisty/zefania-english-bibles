@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="42" bname="Luke" bsname="Luk">
+    <CHAPTER cnumber="17">
+      <VERS vnumber="1">Jesus said to his disciples:</VERS>
+      <VERS vnumber="5">“Give us more faith,” said the apostles to the Master;</VERS>
+      <VERS vnumber="6">but the Master said:</VERS>
+      <VERS vnumber="10" />
+      <VERS vnumber="11">On the way to Jerusalem Jesus passed between Samaria and Galilee.</VERS>
+      <VERS vnumber="12">As he was entering a village, ten lepers met him.</VERS>
+      <VERS vnumber="13">Standing still, some distance off, they called out loudly: “Jesus! Sir! Pity us!”</VERS>
+      <VERS vnumber="14">When Jesus saw them, he said: And, as they were on their way, they were made clean.</VERS>
+      <VERS vnumber="15">One of them, finding he was cured, came back, praising God loudly,</VERS>
+      <VERS vnumber="16">and threw himself on his face at Jesus’ feet, thanking him for what he had done; and this man was a Samaritan.</VERS>
+      <VERS vnumber="17">exclaimed Jesus.</VERS>
+      <VERS vnumber="19">he said to him,</VERS>
+      <VERS vnumber="20">Being once asked by the Pharisees when the kingdom of God was to come, Jesus answered:</VERS>
+      <VERS vnumber="22">he said to his disciples,</VERS>
+      <VERS vnumber="37">“Where will it be, Master?” asked the disciples. said Jesus, </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

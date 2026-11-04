@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="141">
+      <VERS vnumber="1">
+        <STYLE id="cl:divineName">Lord</STYLE>, I call to you: hasten, to me,give ear to my voice, when I call to you.</VERS>
+      <VERS vnumber="2">Let my prayer be presented as incense before you,and my uplifted hands as the evening meal-offering. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">Set, O <STYLE id="cl:divineName">Lord</STYLE>, a watch on my mouth,put a guard on the door of my lips.</VERS>
+      <VERS vnumber="4">Incline not my heart to an evil matter,to busy myself in deeds of wickedness,in company with workers of evil:never may I partake of their dainties. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">A wound or reproof from a good person in kindnessis oil which my head shall never refuse.In their misfortune my prayer is still with them. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="6">Abandoned they are to the hands of their judges:they shall learn that my words are true. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">Like stones on a country road cleft and brokenso lie our bones scattered for Death to devour.</VERS>
+      <VERS vnumber="8">But my eyes are turned towards you, O <STYLE id="cl:divineName">Lord</STYLE>.Do not pour out my life, for in you I take refuge.</VERS>
+      <VERS vnumber="9">Keep me safe from the trap they have laid for me,from the snares of the workers of trouble.</VERS>
+      <VERS vnumber="10">Into their own nets let wicked people fall;while I pass by in safety.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

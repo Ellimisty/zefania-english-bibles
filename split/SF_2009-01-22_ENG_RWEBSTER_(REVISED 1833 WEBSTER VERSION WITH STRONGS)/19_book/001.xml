@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">
+        <gr str="835">Blessed </gr>
+        <STYLE css="font-style:italic">is</STYLE> the <gr str="376">man </gr>that <gr str="1980">walketh </gr>not in the <gr str="6098">counsel </gr>of the <gr str="7563">ungodly</gr>, nor <gr str="5975">standeth </gr>in the <gr str="1870">way </gr>of <gr str="2400">sinners</gr>, nor <gr str="3427">sitteth </gr>in the <gr str="4186">seat </gr>of <gr str="3887">scoffers</gr>. <DIV>
+          <NOTE type="x-studynote">ungodly: or, wicked</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">But his <gr str="2656">delight </gr>
+        <STYLE css="font-style:italic">is</STYLE> in the <gr str="8451">law </gr>of the <gr str="3068">LORD</gr>; and in his <gr str="8451">law </gr>doth he <gr str="1897">meditate </gr>
+        <gr str="3119">day </gr>and <gr str="3915">night</gr>.</VERS>
+      <VERS vnumber="3">And he shall be like a <gr str="6086">tree </gr>
+        <gr str="8362">planted </gr>by the <gr str="6388">rivers </gr>of <gr str="4325">water</gr>, that bringeth <gr str="5414">forth </gr>its <gr str="6529">fruit </gr>in its <gr str="6256">season</gr>; its <gr str="5929">leaf </gr>also shall not <gr str="5034">wither</gr>; and whatever he <gr str="6213">doeth </gr>shall <gr str="6743">prosper</gr>. <DIV>
+          <NOTE type="x-studynote">wither: Heb. fade</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">The <gr str="7563">ungodly </gr>
+        <STYLE css="font-style:italic">are</STYLE> not so: but <STYLE css="font-style:italic">are</STYLE> like the <gr str="4671">chaff </gr>which the <gr str="7307">wind </gr>driveth <gr str="5086">away</gr>.</VERS>
+      <VERS vnumber="5">Therefore the <gr str="7563">ungodly </gr>shall not <gr str="6965">stand </gr>in the <gr str="4941">judgment</gr>, nor <gr str="2400">sinners </gr>in the <gr str="5712">congregation </gr>of the <gr str="6662">righteous</gr>.</VERS>
+      <VERS vnumber="6">For the <gr str="3068">LORD </gr>
+        <gr str="3045">knoweth </gr>the <gr str="1870">way </gr>of the <gr str="6662">righteous</gr>: but the <gr str="1870">way </gr>of the <gr str="7563">ungodly </gr>shall <gr str="6">perish</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

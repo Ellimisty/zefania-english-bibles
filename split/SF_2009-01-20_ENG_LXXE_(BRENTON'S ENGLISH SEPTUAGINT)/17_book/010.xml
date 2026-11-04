@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="17">
+    <CHAPTER cnumber="10">
+      <VERS vnumber="1">And the king levied a tax upon his kingdom both by land and sea.</VERS>
+      <VERS vnumber="2">And as for his strength and valour, and the wealth and glory of his kingdom, behold, they are written in the book of the Persians and Medes, for a memorial.</VERS>
+      <VERS vnumber="3">And Mardochaeus <DIV>
+          <NOTE type="x-studynote">Gr. succeeded to, or, came into the place of</NOTE>
+        </DIV> was viceroy to king Artaxerxes, and was a great man in the kingdom, and honoured by the Jews, and passed his life beloved of all his nation. <DIV>
+          <NOTE type="x-studynote">LXX text not in Heb. has been left out.</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

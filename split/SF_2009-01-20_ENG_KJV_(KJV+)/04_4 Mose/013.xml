@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="4" bname="4 Mose" bsname="4Mo">
+    <CHAPTER cnumber="13">
+      <VERS vnumber="1"> And the <gr str="3068">LORD </gr>
+        <gr str="1696">spoke </gr>
+        <gr str="413">unto </gr>
+        <gr str="4872">Moses</gr>, <gr str="559">saying</gr>, </VERS>
+      <VERS vnumber="2">
+        <gr str="7971">Send </gr>thou <gr str="376">men</gr>, that they may <gr str="8446">search </gr>
+        <gr str="*853" />the <gr str="776">land </gr>of <gr str="3667">Canaan</gr>, <gr str="834">which </gr>
+        <gr str="589">I </gr>
+        <gr str="5414">give </gr>unto the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>: of every <gr str="4294">tribe </gr>of their <gr str="1">fathers </gr>shall ye <gr str="7971">send </gr>
+        <gr str="259">a </gr>
+        <gr str="376">man</gr>, every <gr str="3605">one </gr>a <gr str="5387">ruler </gr>among them. </VERS>
+      <VERS vnumber="3"> And <gr str="4872">Moses </gr>
+        <gr str="5921">by </gr>the <gr str="6310">commandment </gr>of the <gr str="3068">LORD </gr>
+        <gr str="7971">sent </gr>them from the <gr str="4480 4057">wilderness </gr>of <gr str="6290">Paran</gr>: <gr str="3605">all </gr>
+        <gr str="1992">those </gr>
+        <gr str="376">men </gr>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE>
+        <gr str="7218">heads </gr>of the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>. </VERS>
+      <VERS vnumber="4"> And <gr str="428">these </gr>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE> their <gr str="8034">names</gr>: of the <gr str="4294">tribe </gr>of <gr str="7205">Reuben</gr>, <gr str="8051">Shammua </gr>the <gr str="1121">son </gr>of <gr str="2139">Zaccur</gr>. </VERS>
+      <VERS vnumber="5"> Of the <gr str="4294">tribe </gr>of <gr str="8095">Simeon</gr>, <gr str="8202">Shaphat </gr>the <gr str="1121">son </gr>of <gr str="2753">Hori</gr>. </VERS>
+      <VERS vnumber="6"> Of the <gr str="4294">tribe </gr>of <gr str="3063">Judah</gr>, <gr str="3612">Caleb </gr>the <gr str="1121">son </gr>of <gr str="3312">Jephunneh</gr>. </VERS>
+      <VERS vnumber="7"> Of the <gr str="4294">tribe </gr>of <gr str="3485">Issachar</gr>, <gr str="3008">Igal </gr>the <gr str="1121">son </gr>of <gr str="3130">Joseph</gr>. </VERS>
+      <VERS vnumber="8"> Of the <gr str="4294">tribe </gr>of <gr str="669">Ephraim</gr>, <gr str="1954">Oshea </gr>the <gr str="1121">son </gr>of <gr str="5126">Nun</gr>. </VERS>
+      <VERS vnumber="9"> Of the <gr str="4294">tribe </gr>of <gr str="1144">Benjamin</gr>, <gr str="6406">Palti </gr>the <gr str="1121">son </gr>of <gr str="7505">Raphu</gr>. </VERS>
+      <VERS vnumber="10"> Of the <gr str="4294">tribe </gr>of <gr str="2074">Zebulun</gr>, <gr str="1427">Gaddiel </gr>the <gr str="1121">son </gr>of <gr str="5476">Sodi</gr>. </VERS>
+      <VERS vnumber="11"> Of the <gr str="4294">tribe </gr>of <gr str="3130">Joseph</gr>, <STYLE css="color:#808080;font-style:italic"> namely </STYLE>, of the <gr str="4294">tribe </gr>of <gr str="4519">Manasseh</gr>, <gr str="1426">Gaddi </gr>the <gr str="1121">son </gr>of <gr str="5485">Susi</gr>. </VERS>
+      <VERS vnumber="12"> Of the <gr str="4294">tribe </gr>of <gr str="1835">Dan</gr>, <gr str="5988">Ammiel </gr>the <gr str="1121">son </gr>of <gr str="1582">Gemalli</gr>. </VERS>
+      <VERS vnumber="13"> Of the <gr str="4294">tribe </gr>of <gr str="836">Asher</gr>, <gr str="5639">Sethur </gr>the <gr str="1121">son </gr>of <gr str="4317">Michael</gr>. </VERS>
+      <VERS vnumber="14"> Of the <gr str="4294">tribe </gr>of <gr str="5321">Naphtali</gr>, <gr str="5147">Nahbi </gr>the <gr str="1121">son </gr>of <gr str="2058">Vophsi</gr>. </VERS>
+      <VERS vnumber="15"> Of the <gr str="4294">tribe </gr>of <gr str="1410">Gad</gr>, <gr str="1345">Geuel </gr>the <gr str="1121">son </gr>of <gr str="4352">Machi</gr>. </VERS>
+      <VERS vnumber="16">
+        <gr str="428">These </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> the <gr str="8034">names </gr>of the <gr str="376">men </gr>
+        <gr str="834">which </gr>
+        <gr str="4872">Moses </gr>
+        <gr str="7971">sent </gr>to spy <gr str="8446">out </gr>
+        <gr str="*853" />the <gr str="776">land</gr>. And <gr str="4872">Moses </gr>
+        <gr str="7121">called </gr>
+        <gr str="1954">Oshea </gr>the <gr str="1121">son </gr>of <gr str="5126">Nun </gr>
+        <gr str="3091">Joshua</gr>. </VERS>
+      <VERS vnumber="17"> And <gr str="4872">Moses </gr>
+        <gr str="7971">sent </gr>them to spy <gr str="8446">out </gr>
+        <gr str="*853" />the <gr str="776">land </gr>of <gr str="3667">Canaan</gr>, and <gr str="559">said </gr>
+        <gr str="413">unto </gr>them, Get you <gr str="5927">up </gr>
+        <gr str="2088">this </gr>
+        <STYLE css="color:#808080;font-style:italic"> way </STYLE>
+        <gr str="5045">southward</gr>, and go <gr str="5927">up </gr>
+        <gr str="854">into </gr>the <gr str="2022">mountain</gr>: </VERS>
+      <VERS vnumber="18"> And <gr str="7200">see </gr>
+        <gr str="*853" />the <gr str="776">land</gr>, <gr str="4100">what </gr>
+        <gr str="1931">it </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>; and the <gr str="5971">people </gr>that <gr str="3427">dwelleth </gr>
+        <gr str="5921">therein</gr>, whether <gr str="1931">they </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="2389">strong </gr>or <gr str="7504">weak</gr>, <gr str="4592">few </gr>
+        <gr str="518">or </gr>
+        <gr str="7227">many</gr>; </VERS>
+      <VERS vnumber="19"> And <gr str="4100">what </gr>the <gr str="776">land </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="834">that </gr>
+        <gr str="1931">they </gr>
+        <gr str="3427">dwell </gr>in whether <gr str="1931">it </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="2896">good </gr>
+        <gr str="518">or </gr>
+        <gr str="7451">bad</gr>; and <gr str="4100">what </gr>
+        <gr str="5892">cities </gr>
+        <STYLE css="color:#808080;font-style:italic"> they </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="834">that </gr>
+        <gr str="1931">they </gr>
+        <gr str="3427">dwell </gr>
+        <gr str="2007">in</gr>, whether in <gr str="4264">tents</gr>, <gr str="518">or </gr>in <gr str="4013">strongholds</gr>; </VERS>
+      <VERS vnumber="20"> And <gr str="4100">what </gr>the <gr str="776">land </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>, whether <gr str="1931">it </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="8082">fat </gr>
+        <gr str="518">or </gr>
+        <gr str="7330">lean</gr>, whether there <gr str="3426">be </gr>
+        <gr str="6086">wood </gr>therein, <gr str="518">or </gr>
+        <gr str="369">not</gr>. And be ye of good <gr str="2388">courage</gr>, and <gr str="3947">bring </gr>of the <gr str="4480 6529">fruit </gr>of the <gr str="776">land</gr>. Now the <gr str="3117">time </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE> the <gr str="3117">time </gr>of the <gr str="1061">firstripe </gr>
+        <gr str="6025">grapes</gr>. </VERS>
+      <VERS vnumber="21"> So they went <gr str="5927">up</gr>, and <gr str="8446">searched </gr>
+        <gr str="*853" />the <gr str="776">land </gr>from the <gr str="4480 4057">wilderness </gr>of <gr str="6790">Zin </gr>
+        <gr str="5704">unto </gr>
+        <gr str="7340">Rehob</gr>, as men <gr str="935">come </gr>to <gr str="2574">Hamath</gr>. </VERS>
+      <VERS vnumber="22"> And they <gr str="5927">ascended </gr>by the <gr str="5045">south</gr>, and <gr str="935">came </gr>
+        <gr str="5704">unto </gr>
+        <gr str="2275">Hebron</gr>; <gr str="8033">where </gr>
+        <gr str="289">Ahiman</gr>, <gr str="8344">Sheshai</gr>, and <gr str="8526">Talmai</gr>, the <gr str="3211">children </gr>of <gr str="6061">Anak</gr>, <STYLE css="color:#808080;font-style:italic"> were </STYLE>. (Now <gr str="2275">Hebron </gr>was <gr str="1129">built </gr>
+        <gr str="7651">seven </gr>
+        <gr str="8141">years </gr>
+        <gr str="6440">before </gr>
+        <gr str="6814">Zoan </gr>in <gr str="4714">Egypt</gr>.) </VERS>
+      <VERS vnumber="23"> And they <gr str="935">came </gr>
+        <gr str="5704">unto </gr>the <gr str="5158">brook </gr>of <gr str="812">Eshcol</gr>, and cut <gr str="3772">down </gr>from <gr str="4480 8033">thence </gr>a <gr str="2156">branch </gr>with <gr str="259">one </gr>
+        <gr str="811">cluster </gr>of <gr str="6025">grapes</gr>, and they <gr str="5375">bore </gr>it between <gr str="8147">two </gr>upon a <gr str="4132">staff</gr>; and <STYLE css="color:#808080;font-style:italic"> they </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> brought </STYLE>
+        <gr str="4480">of </gr>the <gr str="7416">pomegranates</gr>, and <gr str="4480">of </gr>the <gr str="8384">figs</gr>. </VERS>
+      <VERS vnumber="24"> The <gr str="4725">place </gr>was <gr str="7121">called </gr>the <gr str="5158">brook </gr>
+        <gr str="812">Eshcol</gr>, <gr str="5921 182">because </gr>of the cluster of <gr str="811">grapes </gr>
+        <gr str="834">which </gr>the <gr str="1121">children </gr>of <gr str="3478">Israel </gr>cut <gr str="3772">down </gr>from <gr str="4480 8033">thence</gr>. </VERS>
+      <VERS vnumber="25"> And they <gr str="7725">returned </gr>from <gr str="4480 8446">searching </gr>of the <gr str="776">land </gr>
+        <gr str="4480 7093">after </gr>
+        <gr str="705">forty </gr>
+        <gr str="3117">days</gr>. </VERS>
+      <VERS vnumber="26"> And they <gr str="1980">went </gr>and <gr str="935">came </gr>
+        <gr str="413">to </gr>
+        <gr str="4872">Moses</gr>, and <gr str="413">to </gr>
+        <gr str="175">Aaron</gr>, and <gr str="413">to </gr>
+        <gr str="3605">all </gr>the <gr str="5712">congregation </gr>of the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>, <gr str="413">unto </gr>the <gr str="4057">wilderness </gr>of <gr str="6290">Paran</gr>, to <gr str="6946">Kadesh</gr>; and brought <gr str="7725">back </gr>
+        <gr str="1697">word </gr>unto them, and unto <gr str="3605">all </gr>the <gr str="5712">congregation</gr>, and <gr str="7200">showed </gr>them <gr str="*853" />the <gr str="6529">fruit </gr>of the <gr str="776">land</gr>. </VERS>
+      <VERS vnumber="27"> And they <gr str="5608">told </gr>him, and <gr str="559">said</gr>, We <gr str="935">came </gr>
+        <gr str="413">unto </gr>the <gr str="776">land </gr>
+        <gr str="834">whither </gr>thou <gr str="7971">sentest </gr>us, and <gr str="1571">surely </gr>
+        <gr str="1931">it </gr>
+        <gr str="2100">floweth </gr>with <gr str="2461">milk </gr>and <gr str="1706">honey</gr>; and <gr str="2088">this </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="6529">fruit </gr>of it. </VERS>
+      <VERS vnumber="28">
+        <gr str="657 3588">Nevertheless </gr>the <gr str="5971">people </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="5794">strong </gr>that <gr str="3427">dwell </gr>in the <gr str="776">land</gr>, and the <gr str="5892">cities </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="1219">walled</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="3966">very </gr>
+        <gr str="1419">great</gr>: and <gr str="1571">moreover </gr>we <gr str="7200">saw </gr>the <gr str="3211">children </gr>of <gr str="6061">Anak </gr>
+        <gr str="8033">there</gr>. </VERS>
+      <VERS vnumber="29"> The <gr str="6003">Amalekites </gr>
+        <gr str="3427">dwell </gr>in the <gr str="776">land </gr>of the <gr str="5045">south</gr>: and the <gr str="2850">Hittites</gr>, and the <gr str="2983">Jebusites</gr>, and the <gr str="567">Amorites</gr>, <gr str="3427">dwell </gr>in the <gr str="2022">mountains</gr>: and the <gr str="3669">Canaanites </gr>
+        <gr str="3427">dwell </gr>
+        <gr str="5921">by </gr>the <gr str="3220">sea</gr>, and <gr str="5921">by </gr>the <gr str="3027">coast </gr>of <gr str="3383">Jordan</gr>. </VERS>
+      <VERS vnumber="30"> And <gr str="3612">Caleb </gr>
+        <gr str="2013">stilled </gr>
+        <gr str="*853" />the <gr str="5971">people </gr>
+        <gr str="413">before </gr>
+        <gr str="4872">Moses</gr>, and <gr str="559">said</gr>, Let us go up at <gr str="5927 5927">once</gr>, and <gr str="3423">possess </gr>it; <gr str="3588">for </gr>we are well <gr str="3201">able </gr>to <gr str="3201">overcome </gr>it. </VERS>
+      <VERS vnumber="31"> But the <gr str="376">men </gr>
+        <gr str="834">that </gr>went <gr str="5927">up </gr>
+        <gr str="5973">with </gr>him <gr str="559">said</gr>, We be not <gr str="3201 3808">able </gr>to go <gr str="5927">up </gr>
+        <gr str="413">against </gr>the <gr str="5971">people</gr>; <gr str="3588">for </gr>
+        <gr str="1931">they </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="2389">stronger </gr>
+        <gr str="4480">than </gr>we. </VERS>
+      <VERS vnumber="32"> And they brought <gr str="3318">up </gr>an evil <gr str="1681">report </gr>of the <gr str="776">land </gr>
+        <gr str="834">which </gr>they had <gr str="8446">searched </gr>
+        <gr str="413">unto </gr>the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>, <gr str="559">saying</gr>, The <gr str="776">land</gr>, through <gr str="834">which </gr>we have <gr str="5674">gone </gr>to <gr str="8446">search </gr>it, <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="776">land </gr>
+        <gr str="1931">that </gr>eateth <gr str="398">up </gr>the <gr str="3427">inhabitants </gr>thereof; and <gr str="3605">all </gr>the <gr str="5971">people </gr>
+        <gr str="834">that </gr>we <gr str="7200">saw </gr>
+        <gr str="8432">in </gr>it <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="376">men </gr>of a great <gr str="4060">stature</gr>. </VERS>
+      <VERS vnumber="33"> And <gr str="8033">there </gr>we <gr str="7200">saw </gr>
+        <gr str="*853" />the <gr str="5303">giants</gr>, the <gr str="1121">sons </gr>of <gr str="6061">Anak</gr>, <STYLE css="color:#808080;font-style:italic"> which </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> come </STYLE>
+        <gr str="4480">of </gr>the <gr str="5303">giants</gr>: and we <gr str="1961">were </gr>in our own <gr str="5869">sight </gr>as <gr str="2284">grasshoppers</gr>, and <gr str="3651">so </gr>we <gr str="1961">were </gr>in their <gr str="5869">sight</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

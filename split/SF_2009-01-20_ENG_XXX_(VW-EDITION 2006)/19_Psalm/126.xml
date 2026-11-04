@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="126">
+      <CAPTION vref="1">A Song of Ascents</CAPTION>
+      <VERS vnumber="1">When Jehovah brought back the captivity of Zion, we were like those who dream.</VERS>
+      <VERS vnumber="2">Then our mouth was filled with laughter, and our tongue with shouts of joy. Then they said among the nations, Jehovah has done great things for them.</VERS>
+      <VERS vnumber="3">Jehovah has done great things for us, and we are joyful.</VERS>
+      <VERS vnumber="4">Bring back our captivity, O Jehovah, as the streams in the South.</VERS>
+      <VERS vnumber="5">Those who sow in tears shall reap in joy.</VERS>
+      <VERS vnumber="6">He who goes forth with weeping, bearing seed for sowing, shall doubtless come again with rejoicing, bringing his sheaves with him.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

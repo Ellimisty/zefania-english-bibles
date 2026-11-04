@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="29">
+      <CAPTION vref="1">A Psalm of David.</CAPTION>
+      <VERS vnumber="1">Ascribe unto Jehovah, O you sons of God, ascribe unto Jehovah glory and strength.</VERS>
+      <VERS vnumber="2">Ascribe unto Jehovah the glory due His name; bow down before Jehovah in the beauty of holiness.</VERS>
+      <VERS vnumber="3">The voice of Jehovah is upon the waters; the Mighty God of Glory thunders; Jehovah is over many waters.</VERS>
+      <VERS vnumber="4">The voice of Jehovah is powerful, the voice of Jehovah is full of majesty.</VERS>
+      <VERS vnumber="5">The voice of Jehovah breaks the cedars; yea, Jehovah shatters the cedars of Lebanon.</VERS>
+      <VERS vnumber="6">He also makes them skip like a calf, Lebanon and Sirion like a young oryx.</VERS>
+      <VERS vnumber="7">The voice of Jehovah cleaves the flames of fire.</VERS>
+      <VERS vnumber="8">The voice of Jehovah shakes the wilderness; Jehovah shakes the wilderness of Kadesh.</VERS>
+      <VERS vnumber="9">The voice of Jehovah causes the deer to give birth, and lays bare the forests; and in His temple they all say, Glory!</VERS>
+      <VERS vnumber="10">Jehovah has dwelt at the Flood; yea, Jehovah remains as King forever.</VERS>
+      <VERS vnumber="11">Jehovah will give strength to His people; Jehovah will bless His people with peace.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

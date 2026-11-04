@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="YLT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="131">
+      <VERS vnumber="1">A Song of the Ascents, by David. Jehovah, my heart hath  not been haughty, Nor have mine eyes been high, Nor have I  walked in great things, And in things too wonderful for me.</VERS>
+      <VERS vnumber="2">Have I not compared, and kept silent my soul, As a weaned  one by its mother? As a weaned one by me [is] my soul.</VERS>
+      <VERS vnumber="3">Israel doth wait on Jehovah, From henceforth, and unto the  age!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

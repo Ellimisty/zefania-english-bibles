@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Douay Rheims" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="54">
+      <VERS vnumber="1">Unto the end, In verses, understanding for David.</VERS>
+      <VERS vnumber="2">When the men of Ziph had come and said to Saul: Is not David hidden with us?</VERS>
+      <VERS vnumber="3">Save me, O God, by thy name, and judge me in thy strength.</VERS>
+      <VERS vnumber="4">O God, hear my prayer: give ear to the words of my mouth.</VERS>
+      <VERS vnumber="5">For strangers have risen up against me; and the mighty have sought after my soul: and they have not set God before their eyes.</VERS>
+      <VERS vnumber="6">For behold God is my helper: and the Lord is the protector of my soul.</VERS>
+      <VERS vnumber="7">Turn back the evils upon my enemies; and cut them off in thy truth.</VERS>
+      <VERS vnumber="8">I will freely sacrifice to thee, and will give praise, O God, to thy name: because it is good:</VERS>
+      <VERS vnumber="9">For thou hast delivered me out of all trouble: and my eye hath looked down upon my enemies.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Green's Literal Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="100">
+      <VERS vnumber="1">  A Psalm of Thanksgiving. Shout joyfully to Jehovah, all the land.</VERS>
+      <VERS vnumber="2"> Worship Jehovah with gladness; come before His face with joyful singing.</VERS>
+      <VERS vnumber="3"> Know that Jehovah, He is God; He has made us, and not we ourselves, His people and the sheep of His pasture.</VERS>
+      <VERS vnumber="4"> Enter into His gates with thanksgiving, into His courts with praise; be thankful to Him; bless His name.</VERS>
+      <VERS vnumber="5"> For Jehovah is good; His mercy is everlasting, and His faithfulness to generation and generation.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Douay Rheims" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="115">
+      <VERS vnumber="1">I have loved, because the Lord will hear the voice of my prayer.</VERS>
+      <VERS vnumber="2">Because he hath inclined his ear unto me: and in my days I will call upon him.</VERS>
+      <VERS vnumber="3">The sorrows of death have encompassed me: and the perils of hell have found me. I met with trouble and sorrow:</VERS>
+      <VERS vnumber="4">and I called upon the name of the Lord. O Lord, deliver my soul.</VERS>
+      <VERS vnumber="5">The Lord is merciful and just, and our God sheweth mercy.</VERS>
+      <VERS vnumber="6">The Lord is the keeper of little ones: I was little and he delivered me.</VERS>
+      <VERS vnumber="7">Turn, O my soul, into thy rest: for the Lord hath been bountiful to thee.</VERS>
+      <VERS vnumber="8">For he hath delivered my soul from death: my eyes from tears, my feet from falling.</VERS>
+      <VERS vnumber="9">I will please the Lord in the land of the living.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

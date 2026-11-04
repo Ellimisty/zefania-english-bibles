@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="95">
+      <VERS vnumber="1">O come, let us make songs to the Lord; sending up glad voices to the Rock of our salvation.</VERS>
+      <VERS vnumber="2">Let us come before his face with praises; and make melody with holy songs.</VERS>
+      <VERS vnumber="3">For the Lord is a great God, and a great King over all gods.</VERS>
+      <VERS vnumber="4">The deep places of the earth are in his hand; and the tops of the mountains are his.</VERS>
+      <VERS vnumber="5">The sea is his, and he made it; and the dry land was formed by his hands.</VERS>
+      <VERS vnumber="6">O come, let us give worship, falling down on our knees before the Lord our Maker.</VERS>
+      <VERS vnumber="7">For he is our God; and we are the people to whom he gives food, and the sheep of his flock. Today, if you would only give ear to his voice!</VERS>
+      <VERS vnumber="8">Let not your hearts be hard, as at Meribah, as in the day of Massah in the waste land;</VERS>
+      <VERS vnumber="9">When your fathers put me to the test and saw my power and my work.</VERS>
+      <VERS vnumber="10">For forty years I was angry with this generation, and said, They are a people whose hearts are turned away from me, for they have no knowledge of my ways;</VERS>
+      <VERS vnumber="11">And I made an oath in my wrath, that they might not come into my place of rest.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

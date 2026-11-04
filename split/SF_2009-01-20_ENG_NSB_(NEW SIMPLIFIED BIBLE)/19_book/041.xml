@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="41">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">Blessed <STYLE css="font-style:italic">happy</STYLE> is the one who has concern for helpless people. Jehovah will rescue <STYLE css="font-style:italic">save</STYLE> him in times of trouble.</VERS>
+      <VERS vnumber="2">Jehovah will guard him and keep him alive. He will be blessed in the land. Do not place him at the mercy of his enemies.</VERS>
+      <VERS vnumber="3">Jehovah will support him on his sickbed. You will restore him to health when he is ill.</VERS>
+      <VERS vnumber="4">I said: »O Jehovah, be gracious to me! Heal me for I have sinned against you.«</VERS>
+      <VERS vnumber="5">My enemies say evil things about me: »When will he die, and when will his family name disappear?«</VERS>
+      <VERS vnumber="6">When one of them comes to visit me, he speaks falsehood. His heart collects gossip. Then he leaves to tell others.</VERS>
+      <VERS vnumber="7">All who hate me whisper together <STYLE css="font-style:italic">gossip</STYLE> against me; against me they devise my hurt, saying:</VERS>
+      <VERS vnumber="8">»A wicked thing is poured out upon him, that when he lies down, he will not rise up again.«</VERS>
+      <VERS vnumber="9">Even my close friend in whom I trusted, who ate my bread, has lifted up his heel against me.</VERS>
+      <VERS vnumber="10">Be gracious to me and raise me up, O Jehovah, that I may repay them.</VERS>
+      <VERS vnumber="11">By this I know that you are pleased with me, because my enemy does not shout in triumph over me.</VERS>
+      <VERS vnumber="12">You uphold me in my integrity. You set me in your presence forever.</VERS>
+      <VERS vnumber="13">Blessed be Jehovah, the God of Israel, from everlasting to everlasting. Amen and Amen.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

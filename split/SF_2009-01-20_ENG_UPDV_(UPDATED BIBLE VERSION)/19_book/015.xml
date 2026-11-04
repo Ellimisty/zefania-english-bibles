@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Updated Bible Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="15">
+      <VERS vnumber="1">A Psalm of David. Yahweh, who will sojourn in your tabernacle? Who will stay in your holy hill?</VERS>
+      <VERS vnumber="2">He who walks uprightly, and works righteousness, And speaks truth in his heart;</VERS>
+      <VERS vnumber="3">He who does not slander with his tongue, Nor does evil to his friend, Nor takes up a reproach against his fellow man;</VERS>
+      <VERS vnumber="4">In whose eyes a reprobate is despised, But who honors those who fear Yahweh; He who swears to his own hurt, and does not change;</VERS>
+      <VERS vnumber="5">He who does not put out his money to interest, Nor takes reward against the innocent. He who does these things will never be moved.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="38">
+      <VERS vnumber="1">Reprove me not, <STYLE id="cl:divineName">Lord</STYLE>, in your anger,and chasten me not in your wrath;</VERS>
+      <VERS vnumber="2">for your arrows have sunk into me,and your hand lies heavy upon me. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">In my flesh is no soundnessbecause of your anger,no health in my bones,because of my sin.</VERS>
+      <VERS vnumber="4">For that my guiltis gone over my head:it weighs like a burdentoo heavy for me. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">My wounds stink and fester,for my foolishness I am tormented.</VERS>
+      <VERS vnumber="6">Bent and bowed am I utterly,all the day going in mourning. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">My loins are filled with burning,and in my flesh is no soundness.</VERS>
+      <VERS vnumber="8">I am utterly crushed and numb;I cry louder than lion roars. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="9">
+        <STYLE id="cl:divineName">Lord</STYLE>, you know all that I long for,my groans are not hidden from you.</VERS>
+      <VERS vnumber="10">My heart is throbbing,my strength has failed me.The light of my eyes---even it is gone from me. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="11">My dear ones and friends keep aloof,and my neighbours stand afar off.</VERS>
+      <VERS vnumber="12">They who aim at my life lay their snares,they who seek my hurt speak of ruin,nursing treachery all the day long. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="13">But I turn a deaf ear and hear not;like the dumb I open not my mouth.</VERS>
+      <VERS vnumber="14">I am like one without hearing,with no arguments in their mouth. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="15">For my hope, O <STYLE id="cl:divineName">Lord</STYLE>, is in you.You will answer, O <STYLE id="cl:divineName">Lord</STYLE> my God,</VERS>
+      <VERS vnumber="16">when I utter the hope that thosewho made scorn of my tottering feetmay not rejoice over me. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="17">For I am ready to fall,my pain forsakes me never.</VERS>
+      <VERS vnumber="18">I acknowledge my guilt,I am anxious because of my sin: <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="19">My wanton assailants are strong,those who wrongfully hate me are many,</VERS>
+      <VERS vnumber="20">who render me evil for good,and oppose me, because I make good my goal. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="21">Do not forsake me, O <STYLE id="cl:divineName">Lord</STYLE>;my God, be not far from me.</VERS>
+      <VERS vnumber="22">Hasten to help me,O <STYLE id="cl:divineName">Lord</STYLE> my saviour.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

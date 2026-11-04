@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="61">
+      <VERS vnumber="1">To the choirmaster: with stringed instruments. A Psalm of David.</VERS>
+      <VERS vnumber="2">Hear my cry, O God, listen to my prayer;</VERS>
+      <VERS vnumber="3">from the end of the earth I call to thee, when my heart is faint. Lead thou me to the rock that is higher than I;</VERS>
+      <VERS vnumber="4">for thou art my refuge, a strong tower against the enemy.</VERS>
+      <VERS vnumber="5">Let me dwell in thy tent for ever! Oh to be safe under the shelter of thy wings! [Selah]</VERS>
+      <VERS vnumber="6">For thou, O God, hast heard my vows, thou hast given me the heritage of those who fear thy name.</VERS>
+      <VERS vnumber="7">Prolong the life of the king; may his years endure to all generations!</VERS>
+      <VERS vnumber="8">May he be enthroned for ever before God; bid steadfast love and faithfulness watch over him! [ (Psalms 61:9) So will I ever sing praises to thy name, as I pay my vows day after day. ]</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

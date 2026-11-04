@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="45" bname="Römer" bsname="Röm">
+    <CHAPTER cnumber="3">
+      <VERS vnumber="1">
+        <gr str="5101">What </gr>
+        <gr str="4053">advantage </gr>
+        <gr str="3767">then </gr>hath <gr str="3588">the </gr>
+        <gr str="2453">Jew</gr>? <gr str="2228">or </gr>
+        <gr str="5101">what </gr>
+        <gr str="5622">profit </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE> of <gr str="4061">circumcision</gr>? </VERS>
+      <VERS vnumber="2">
+        <gr str="4183">Much </gr>
+        <gr str="3956">every </gr>
+        <gr str="5158">way</gr>: <gr str="4412">chiefly <gr str="*3303" />
+        </gr>, <gr str="1063">because </gr>
+        <gr str="3754">that </gr>unto them were <gr str="4100">committed </gr>
+        <gr str="3588">the </gr>
+        <gr str="3051">oracles </gr>of <gr str="2316">God</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="1063">For </gr>
+        <gr str="5101">what </gr>
+        <gr str="1487">if </gr>
+        <gr str="5100">some </gr>did not <gr str="569">believe</gr>? shall <gr str="848">their </gr>
+        <gr str="570 *3361">unbelief </gr>make the faith of God without <gr str="2673 3588 4102 2316">effect</gr>? </VERS>
+      <VERS vnumber="4"> God <gr str="1096 3361">forbid</gr>: yea, let <gr str="2316">God </gr>
+        <gr str="1096">be </gr>
+        <gr str="227">true</gr>, <gr str="1161">but </gr>
+        <gr str="3956">every </gr>
+        <gr str="444">man </gr>a <gr str="5583">liar</gr>; <gr str="2531">as </gr>it is <gr str="1125">written</gr>, <gr str="3704">That </gr>thou mightest be <gr str="1344 302">justified </gr>
+        <gr str="1722">in </gr>
+        <gr str="4675">thy </gr>
+        <gr str="3056">sayings</gr>, <gr str="2532">and </gr>mightest <gr str="3528">overcome </gr>when <gr str="4571">thou </gr>art <gr str="2919">judged</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="1161">But </gr>
+        <gr str="1487">if </gr>
+        <gr str="2257">our </gr>
+        <gr str="93">unrighteousness </gr>
+        <gr str="4921">commend </gr>the <gr str="1343">righteousness </gr>of <gr str="2316">God</gr>, <gr str="5101">what </gr>shall we <gr str="2046">say</gr>? <STYLE css="color:#808080;font-style:italic"> Is </STYLE>
+        <gr str="2316">God </gr>
+        <gr str="94">unrighteous </gr>who <gr str="2018">taketh </gr>vengeance? <gr str="3709">I </gr>(<gr str="3004">speak </gr>
+        <gr str="2596">as </gr>a <gr str="444">man </gr>) </VERS>
+      <VERS vnumber="6"> God <gr str="1096 3361">forbid</gr>: for <gr str="1893">then </gr>
+        <gr str="4459">how </gr>shall <gr str="2316">God </gr>
+        <gr str="2919">judge </gr>
+        <gr str="3588">the </gr>
+        <gr str="2889">world</gr>? </VERS>
+      <VERS vnumber="7">
+        <gr str="1063">For </gr>
+        <gr str="1487">if </gr>
+        <gr str="3588">the </gr>
+        <gr str="225">truth </gr>of <gr str="2316">God </gr>hath more <gr str="4052">abounded </gr>
+        <gr str="1722">through </gr>
+        <gr str="1699">my </gr>
+        <gr str="5582">lie </gr>
+        <gr str="1519">unto </gr>
+        <gr str="848">his </gr>
+        <gr str="1391">glory</gr>; <gr str="5101">why </gr>
+        <gr str="2089">yet </gr>am I <gr str="2504">also </gr>
+        <gr str="2919">judged </gr>
+        <gr str="5613">as </gr>a <gr str="268">sinner</gr>? </VERS>
+      <VERS vnumber="8">
+        <gr str="2532">And </gr>
+        <gr str="3361">not </gr>
+        <STYLE css="color:#808080;font-style:italic"> rather, </STYLE> (<gr str="2531">as </gr>we be slanderously <gr str="987">reported</gr>, <gr str="2532">and </gr>
+        <gr str="2531">as </gr>
+        <gr str="5100">some </gr>
+        <gr str="5346">affirm </gr>that <gr str="2248">we </gr>say,) Let <gr str="3004">us </gr>
+        <gr str="4160">do </gr>
+        <gr str="2556">evil</gr>, <gr str="2443">that </gr>
+        <gr str="18">good </gr>may <gr str="2064">come</gr>? <gr str="3739">whose </gr>
+        <gr str="2917">damnation </gr>
+        <gr str="2076">is </gr>
+        <gr str="1738">just</gr>. </VERS>
+      <VERS vnumber="9">
+        <gr str="5101">What </gr>
+        <gr str="3767">then</gr>? are we <gr str="4284">better </gr>
+        <STYLE css="color:#808080;font-style:italic"> than </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> they </STYLE>? <gr str="3756">No</gr>, in no <gr str="3843">wise</gr>: <gr str="1063">for </gr>we have before <gr str="4256">proved </gr>
+        <gr str="5037">both </gr>
+        <gr str="2453">Jews </gr>
+        <gr str="2532">and </gr>
+        <gr str="1672">Gentiles</gr>, that they <gr str="1511">are </gr>
+        <gr str="3956">all </gr>
+        <gr str="5259">under </gr>
+        <gr str="266">sin</gr>; </VERS>
+      <VERS vnumber="10">
+        <gr str="2531">As </gr>it is <gr str="1125">written</gr>, There <gr str="2076">is </gr>
+        <gr str="3756">none </gr>
+        <gr str="1342">righteous</gr>, no, <gr str="3761">not </gr>
+        <gr str="1520">one</gr>: </VERS>
+      <VERS vnumber="11"> There <gr str="2076">is </gr>
+        <gr str="3756">none </gr>that <gr str="4920">understandeth</gr>, there <gr str="2076">is </gr>
+        <gr str="3756">none </gr>that seeketh <gr str="1567">after </gr>
+        <gr str="2316">God</gr>. </VERS>
+      <VERS vnumber="12"> They are <gr str="3956">all </gr>gone out of the <gr str="1578">way</gr>, they are <gr str="260">together </gr>become <gr str="889">unprofitable</gr>; there <gr str="2076">is </gr>
+        <gr str="3756">none </gr>that <gr str="4160">doeth </gr>
+        <gr str="5544">good</gr>, <gr str="*2076">no</gr>, <gr str="3756 *2193">not </gr>
+        <gr str="1520">one</gr>. </VERS>
+      <VERS vnumber="13">
+        <gr str="848">Their </gr>
+        <gr str="2995">throat </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> an <gr str="455">open </gr>
+        <gr str="5028">sepulcher</gr>; with <gr str="848">their </gr>
+        <gr str="1100">tongues </gr>they have used <gr str="1387">deceit</gr>; the <gr str="2447">poison </gr>of <gr str="785">asps </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="5259">under </gr>
+        <gr str="848">their </gr>
+        <gr str="5491">lips</gr>: </VERS>
+      <VERS vnumber="14">
+        <gr str="3739">Whose </gr>
+        <gr str="4750">mouth </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="1073">full </gr>of <gr str="685">cursing </gr>
+        <gr str="2532">and </gr>
+        <gr str="4088">bitterness</gr>: </VERS>
+      <VERS vnumber="15">
+        <gr str="848">Their </gr>
+        <gr str="4228">feet </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="3691">swift </gr>to <gr str="1632">shed </gr>
+        <gr str="129">blood</gr>: </VERS>
+      <VERS vnumber="16">
+        <gr str="4938">Destruction </gr>
+        <gr str="2532">and </gr>
+        <gr str="5004">misery </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="1722">in </gr>
+        <gr str="848">their </gr>
+        <gr str="3598">ways</gr>: </VERS>
+      <VERS vnumber="17">
+        <gr str="2532">And </gr>the <gr str="3598">way </gr>of <gr str="1515">peace </gr>have they <gr str="3756">not </gr>
+        <gr str="1097">known</gr>: </VERS>
+      <VERS vnumber="18"> There <gr str="2076">is </gr>
+        <gr str="3756">no </gr>
+        <gr str="5401">fear </gr>of <gr str="2316">God </gr>
+        <gr str="561">before </gr>
+        <gr str="848">their </gr>
+        <gr str="3788">eyes</gr>. </VERS>
+      <VERS vnumber="19">
+        <gr str="1161">Now </gr>we <gr str="1492">know </gr>
+        <gr str="3754">that </gr>what things <gr str="3745">soever </gr>
+        <gr str="3588">the </gr>
+        <gr str="3551">law </gr>
+        <gr str="3004">saith</gr>, it <gr str="2980">saith </gr>to <gr str="3588">them </gr>who are <gr str="1722">under </gr>
+        <gr str="3588">the </gr>
+        <gr str="3551">law</gr>: <gr str="2443">that </gr>
+        <gr str="3956">every </gr>
+        <gr str="4750">mouth </gr>may be <gr str="5420">stopped</gr>, <gr str="2532">and </gr>
+        <gr str="3956">all </gr>
+        <gr str="3588">the </gr>
+        <gr str="2889">world </gr>may <gr str="1096">become </gr>
+        <gr str="5267">guilty </gr>before <gr str="2316">God</gr>. </VERS>
+      <VERS vnumber="20">
+        <gr str="1360">Therefore </gr>
+        <gr str="1537">by </gr>the <gr str="2041">deeds </gr>of the <gr str="3551">law </gr>there shall <gr str="3756 3956">no </gr>
+        <gr str="4561">flesh </gr>be <gr str="1344">justified </gr>in his <gr str="1799 846">sight</gr>: <gr str="1063">for </gr>
+        <gr str="1223">by </gr>the <gr str="3551">law </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="1922">knowledge </gr>of <gr str="266">sin</gr>. </VERS>
+      <VERS vnumber="21">
+        <gr str="1161">But </gr>
+        <gr str="3570">now </gr>the <gr str="1343">righteousness </gr>of <gr str="2316">God </gr>
+        <gr str="5565">without </gr>the <gr str="3551">law </gr>is <gr str="5319">manifested</gr>, being <gr str="3140">witnessed </gr>
+        <gr str="5259">by </gr>
+        <gr str="3588">the </gr>
+        <gr str="3551">law </gr>
+        <gr str="2532">and </gr>
+        <gr str="3588">the </gr>
+        <gr str="4396">prophets</gr>; </VERS>
+      <VERS vnumber="22">
+        <gr str="1161">Even </gr>the <gr str="1343">righteousness </gr>of <gr str="2316">God </gr>
+        <STYLE css="color:#808080;font-style:italic"> which </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="1223">by </gr>
+        <gr str="4102">faith </gr>of <gr str="2424">Jesus </gr>
+        <gr str="5547">Christ </gr>
+        <gr str="1519">unto </gr>
+        <gr str="3956">all </gr>
+        <gr str="2532">and </gr>
+        <gr str="1909">upon </gr>
+        <gr str="3956">all </gr>them that <gr str="4100">believe</gr>: <gr str="1063">for </gr>there <gr str="2076">is </gr>
+        <gr str="3756">no </gr>
+        <gr str="1293">difference</gr>: </VERS>
+      <VERS vnumber="23">
+        <gr str="1063">For </gr>
+        <gr str="3956">all </gr>have <gr str="264">sinned</gr>, <gr str="2532">and </gr>come <gr str="5302">short </gr>of <gr str="3588">the </gr>
+        <gr str="1391">glory </gr>of <gr str="2316">God</gr>; </VERS>
+      <VERS vnumber="24"> Being <gr str="1344">justified </gr>
+        <gr str="1432">freely </gr>by <gr str="848">his </gr>
+        <gr str="5485">grace </gr>
+        <gr str="1223">through </gr>
+        <gr str="3588">the </gr>
+        <gr str="629">redemption </gr>
+        <gr str="3588">that </gr>is <gr str="1722">in </gr>
+        <gr str="5547">Christ </gr>
+        <gr str="2424">Jesus</gr>: </VERS>
+      <VERS vnumber="25">
+        <gr str="3739">Whom </gr>
+        <gr str="2316">God </gr>hath set <gr str="4388">forth </gr>
+        <STYLE css="color:#808080;font-style:italic"> to </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> a <gr str="2435">propitiation </gr>
+        <gr str="1223">through </gr>
+        <gr str="4102">faith </gr>
+        <gr str="1722">in </gr>
+        <gr str="848">his </gr>
+        <gr str="129">blood</gr>, to <gr str="1519 1732">declare </gr>
+        <gr str="848">his </gr>
+        <gr str="1343">righteousness </gr>
+        <gr str="1223">for </gr>
+        <gr str="3588">the </gr>
+        <gr str="3929">remission </gr>of <gr str="265">sins </gr>that are <gr str="4266">past</gr>, <gr str="1722">through </gr>
+        <gr str="3588">the </gr>
+        <gr str="463">forbearance </gr>of <gr str="2316">God</gr>; </VERS>
+      <VERS vnumber="26">
+        <gr str="4314">To </gr>
+        <gr str="1732">declare</gr>, <STYLE css="color:#808080;font-style:italic"> I </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> say, </STYLE>
+        <gr str="1722">at </gr>
+        <gr str="3568">this </gr>
+        <gr str="2540">time </gr>
+        <gr str="846">his </gr>
+        <gr str="1343">righteousness</gr>: that <gr str="846">he </gr>might <gr str="1511">be </gr>
+        <gr str="1342">just</gr>, <gr str="2532">and </gr>the <gr str="1344">justifier </gr>of <gr str="3588">him </gr>which <gr str="1537 4102">believeth </gr>in <gr str="2424">Jesus</gr>. </VERS>
+      <VERS vnumber="27">
+        <gr str="4226">Where </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2746">boasting </gr>
+        <gr str="3767">then</gr>? It is <gr str="1576">excluded</gr>. <gr str="1223">By </gr>
+        <gr str="4169">what </gr>
+        <gr str="3551">law</gr>? of <gr str="2041">works</gr>? <gr str="3780">Nay</gr>: <gr str="235">but </gr>
+        <gr str="1223">by </gr>the <gr str="3551">law </gr>of <gr str="4102">faith</gr>. </VERS>
+      <VERS vnumber="28">
+        <gr str="3767">Therefore </gr>we <gr str="3049">conclude </gr>that a <gr str="444">man </gr>is <gr str="1344">justified </gr>by <gr str="4102">faith </gr>
+        <gr str="5565">without </gr>the <gr str="2041">deeds </gr>of the <gr str="3551">law</gr>. </VERS>
+      <VERS vnumber="29">
+        <STYLE css="color:#808080;font-style:italic"> Is <gr str="*2228">he </gr>
+        </STYLE>
+        <gr str="3588">the </gr>
+        <gr str="2316">God </gr>of the <gr str="2453">Jews </gr>
+        <gr str="3440">only</gr>? <STYLE css="color:#808080;font-style:italic"> is <gr str="*1161">he </gr>
+        </STYLE>
+        <gr str="3780">not </gr>
+        <gr str="2532">also </gr>of the <gr str="1484">Gentiles</gr>? <gr str="3483">Yes</gr>, of the <gr str="1484">Gentiles </gr>
+        <gr str="2532">also</gr>: </VERS>
+      <VERS vnumber="30">
+        <gr str="1897">Seeing </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="1520">one </gr>
+        <gr str="2316">God</gr>, <gr str="3739">which </gr>shall <gr str="1344">justify </gr>the <gr str="4061">circumcision </gr>
+        <gr str="1537">by </gr>
+        <gr str="4102">faith</gr>, <gr str="2532">and </gr>
+        <gr str="203">uncircumcision </gr>
+        <gr str="1223">through </gr>
+        <gr str="4102">faith</gr>. </VERS>
+      <VERS vnumber="31"> Do we <gr str="3767">then </gr>make <gr str="2673">void </gr>the <gr str="3551">law </gr>
+        <gr str="1223">through </gr>
+        <gr str="4102">faith</gr>? God <gr str="1096 3361">forbid</gr>: <gr str="235">yea</gr>, we <gr str="2476">establish </gr>the <gr str="3551">law</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

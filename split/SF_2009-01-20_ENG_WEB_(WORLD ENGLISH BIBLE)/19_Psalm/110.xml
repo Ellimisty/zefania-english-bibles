@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="World English Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="110">
+      <VERS vnumber="1">Yahweh says to my Lord, "Sit at my right hand, Until I make your enemies your footstool for your feet."</VERS>
+      <VERS vnumber="2">Yahweh will send forth the rod of your strength out of Zion.    Rule in the midst of your enemies.</VERS>
+      <VERS vnumber="3">Your people offer themselves willingly in the day of your power,    In holy array. Out of the womb of the morning, you have the dew of your youth.</VERS>
+      <VERS vnumber="4">Yahweh has sworn, and will not change his mind:    "You are a priest forever in the order of Melchizedek."</VERS>
+      <VERS vnumber="5">The Lord is at your right hand.    He will crush kings in the day of his wrath.</VERS>
+      <VERS vnumber="6">He will judge among the nations.    He will heap up dead bodies.    He will crush the ruler of the whole earth.</VERS>
+      <VERS vnumber="7">He will drink of the brook in the way; Therefore will he lift up his head.      Psalm 111</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

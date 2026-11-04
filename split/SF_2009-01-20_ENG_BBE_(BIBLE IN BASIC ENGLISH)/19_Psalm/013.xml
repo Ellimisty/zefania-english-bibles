@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="13">
+      <VERS vnumber="1"> To the chief music-maker. A Psalm. Of David. Will you for ever put me out of your memory, O Lord? will your face for ever be turned away from me?</VERS>
+      <VERS vnumber="2">How long is my soul to be in doubt, with sorrow in my heart all the day? how long will he who is against me be given power over me?</VERS>
+      <VERS vnumber="3">Let my voice come before you, and give me an answer, O Lord my God; let your light be shining on me, so that the sleep of death may not overtake me;</VERS>
+      <VERS vnumber="4">And he who is against me may not say, I have overcome him; and those who are troubling me may not be glad when I am moved.</VERS>
+      <VERS vnumber="5">But I have had faith in your mercy; my heart will be glad in your salvation.</VERS>
+      <VERS vnumber="6">I will make a song to the Lord, because he has given me my reward.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="133">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A <gr str="7892">Song </gr>of <gr str="4609">degrees </gr>of <gr str="1732">David</gr>.</STYLE> Behold, how <gr str="2896">good </gr>and how <gr str="5273">pleasant </gr>
+        <STYLE css="font-style:italic">it is</STYLE> for <gr str="251">brethren </gr>to <gr str="3427">dwell </gr>
+        <gr str="3162">together </gr>in <gr str="3162">unity</gr>! <DIV>
+          <NOTE type="x-studynote">together…: Heb. even together</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">
+        <STYLE css="font-style:italic">It is</STYLE> like the <gr str="2896">precious </gr>
+        <gr str="8081">ointment </gr>upon the <gr str="7218">head</gr>, that ran <gr str="3381">down </gr>upon the <gr str="2206">beard</gr>, <STYLE css="font-style:italic">even </STYLE>
+        <gr str="175">Aaron’s </gr>
+        <gr str="2206">beard</gr>: that went <gr str="3381">down </gr>to the <gr str="6310">skirts </gr>of his <gr str="4060">garment</gr>;</VERS>
+      <VERS vnumber="3">As the <gr str="2919">dew </gr>of <gr str="2768">Hermon</gr>, <STYLE css="font-style:italic">and as the dew</STYLE> that <gr str="3381">descended </gr>upon the <gr str="2042">mountains </gr>of <gr str="6726">Zion</gr>: for there the <gr str="3068">LORD </gr>
+        <gr str="6680">commanded </gr>the <gr str="1293">blessing</gr>, <STYLE css="font-style:italic">even </STYLE>
+        <gr str="2416">life </gr>for <gr str="5769">evermore</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

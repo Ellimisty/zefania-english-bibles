@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="94">
+      <VERS vnumber="1">
+        <STYLE id="cl:divineName">Lord</STYLE>, God of vengeance,God of vengeance, shine forth.</VERS>
+      <VERS vnumber="2">Rise up, judge of the earth,pay back the proud what they deserve. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">
+        <STYLE id="cl:divineName">Lord</STYLE>, how long shall the wicked,how long shall the wicked exult,</VERS>
+      <VERS vnumber="4">with their blustering arrogant words,their braggart and wicked speech,</VERS>
+      <VERS vnumber="5">crushing your people, <STYLE id="cl:divineName">Lord</STYLE>,and afflicting your heritage,</VERS>
+      <VERS vnumber="6">murdering widows and strangers,slaying the fatherless?</VERS>
+      <VERS vnumber="7">They think that the <STYLE id="cl:divineName">Lord</STYLE> does not see,nor the God of Jacob regard it. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="8">Take heed, you dullest of people;when will you be wise, you fools?</VERS>
+      <VERS vnumber="9">Is he deaf, who planted the ear?Is he blind, who fashioned the eye?</VERS>
+      <VERS vnumber="10">Can he who trains nations not punish themhe who teaches knowledge to people?</VERS>
+      <VERS vnumber="11">The <STYLE id="cl:divineName">Lord</STYLE> knows the thoughts of people,that only a breath are they. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="12">Happy are those whom you chasten,and teach out of your law,</VERS>
+      <VERS vnumber="13">keeping them calm in the day of misfortune,till a pit be dug for the wicked. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="14">For the <STYLE id="cl:divineName">Lord</STYLE> will not leave his people,he will not forsake his inheritance.</VERS>
+      <VERS vnumber="15">For the righteous shall come to their rights,and all true-hearted people shall follow them. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="16">Who will rise up for me against those who do evil?Who will stand up for me against workers of wrong?</VERS>
+      <VERS vnumber="17">Were it not for the help of the <STYLE id="cl:divineName">Lord</STYLE>,I would soon have gone to the silent grave.</VERS>
+      <VERS vnumber="18">When I thought that my foot was slipping,your kindness, <STYLE id="cl:divineName">Lord</STYLE>, held me up.</VERS>
+      <VERS vnumber="19">When with cares my heart was crowded,your comforts make me glad. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="20">Can corrupt justice be your ally,framing mischief by statute?</VERS>
+      <VERS vnumber="21">They assail the life of the righteous,and innocent blood condemn.</VERS>
+      <VERS vnumber="22">But the <STYLE id="cl:divineName">Lord</STYLE> is my sure retreat,my God is the rock of my refuge.</VERS>
+      <VERS vnumber="23">He will bring back their sin upon them,for their wickedness he will destroy them;the <STYLE id="cl:divineName">Lord</STYLE> our God will destroy them.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

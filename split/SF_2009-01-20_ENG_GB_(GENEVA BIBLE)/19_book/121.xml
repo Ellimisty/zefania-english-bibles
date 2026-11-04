@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Geneva Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="121">
+      <VERS vnumber="1">A song of degrees. I will lift mine eyes vnto the mouuntaines, from whence mine helpe shall come.</VERS>
+      <VERS vnumber="2">My help [cometh] from the LORD, which made <DIV>
+          <NOTE type="x-studynote">He accuses man's ingratitude, which cannot depend on God's power.</NOTE>
+        </DIV> heaven and earth.</VERS>
+      <VERS vnumber="3">He will not suffer thy foot to be moved: he that keepeth thee will not <DIV>
+          <NOTE type="x-studynote">He shows that God's providence not only watches over his Church in general, but also over every member of it.</NOTE>
+        </DIV> slumber.</VERS>
+      <VERS vnumber="4">Beholde, he that keepeth Israel, wil neither slumber nor sleepe.</VERS>
+      <VERS vnumber="5">The Lord is thy keeper: the Lord is thy shadow at thy right hand.</VERS>
+      <VERS vnumber="6">The sun shall not <DIV>
+          <NOTE type="x-studynote">Neither heat nor cold, nor any inconvenience will be able to destroy God's Church, even though for a time they may molest it.</NOTE>
+        </DIV> smite thee by day, nor the moon by night.</VERS>
+      <VERS vnumber="7">The Lord shall preserue thee from all euil: he shall keepe thy soule.</VERS>
+      <VERS vnumber="8">The LORD shall preserve thy <DIV>
+          <NOTE type="x-studynote">Whatever you attempt will have good success.</NOTE>
+        </DIV> going out and thy coming in from this time forth, and even for evermore.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

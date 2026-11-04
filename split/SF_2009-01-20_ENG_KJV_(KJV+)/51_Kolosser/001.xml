@@ -1,0 +1,381 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="51" bname="Kolosser" bsname="Kol">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">
+        <gr str="3972">Paul</gr>, an <gr str="652">apostle </gr>of <gr str="2424">Jesus </gr>
+        <gr str="5547">Christ </gr>
+        <gr str="1223">by </gr>the <gr str="2307">will </gr>of <gr str="2316">God</gr>, <gr str="2532">and </gr>
+        <gr str="5095">Timothy </gr>
+        <STYLE css="color:#808080;font-style:italic"> our </STYLE>
+        <gr str="80">brother</gr>, </VERS>
+      <VERS vnumber="2"> To <gr str="3588">the </gr>
+        <gr str="40">saints </gr>
+        <gr str="2532">and </gr>
+        <gr str="4103">faithful </gr>
+        <gr str="80">brethren </gr>
+        <gr str="1722">in </gr>
+        <gr str="5547">Christ </gr>which are <gr str="1722">at </gr>
+        <gr str="2857">Colosse</gr>: <gr str="5485">Grace </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> unto <gr str="5213">you</gr>, <gr str="2532">and </gr>
+        <gr str="1515">peace</gr>, <gr str="575">from </gr>
+        <gr str="2316">God </gr>
+        <gr str="2257">our </gr>
+        <gr str="3962">Father </gr>
+        <gr str="2532">and </gr>the <gr str="2962">Lord </gr>
+        <gr str="2424">Jesus </gr>
+        <gr str="5547">Christ</gr>. </VERS>
+      <VERS vnumber="3"> We give <gr str="2168">thanks </gr>to <gr str="2316">God </gr>
+        <gr str="2532">and </gr>the <gr str="3962">Father </gr>of <gr str="2257">our </gr>
+        <gr str="2962">Lord </gr>
+        <gr str="2424">Jesus </gr>
+        <gr str="5547">Christ</gr>, <gr str="4336">praying </gr>
+        <gr str="3842">always </gr>
+        <gr str="4012">for </gr>
+        <gr str="5216">you</gr>, </VERS>
+      <VERS vnumber="4"> Since we <gr str="191">heard </gr>of <gr str="5216">your </gr>
+        <gr str="4102">faith </gr>
+        <gr str="1722">in </gr>
+        <gr str="5547">Christ </gr>
+        <gr str="2424">Jesus</gr>, <gr str="2532">and </gr>of <gr str="3588">the </gr>
+        <gr str="26">love </gr>
+        <STYLE css="color:#808080;font-style:italic"> which </STYLE>
+        <STYLE css="color:#808080;font-style:italic">
+          <gr str="*3588">ye </gr>
+        </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> have </STYLE>
+        <gr str="1519">to </gr>
+        <gr str="3956">all </gr>
+        <gr str="3588">the </gr>
+        <gr str="40">saints</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="1223">For </gr>
+        <gr str="3588">the </gr>
+        <gr str="1680">hope </gr>which is laid <gr str="606">up </gr>for <gr str="5213">you </gr>
+        <gr str="1722">in </gr>
+        <gr str="3772">heaven</gr>, <gr str="3739">whereof </gr>ye heard <gr str="4257">before </gr>
+        <gr str="1722">in </gr>
+        <gr str="3588">the </gr>
+        <gr str="3056">word </gr>of <gr str="3588">the </gr>
+        <gr str="225">truth </gr>of <gr str="3588">the </gr>
+        <gr str="2098">gospel</gr>; </VERS>
+      <VERS vnumber="6"> Which is <gr str="3918">come </gr>
+        <gr str="1519">unto </gr>
+        <gr str="5209">you</gr>, <gr str="2531">as </gr>
+        <STYLE css="color:#808080;font-style:italic">
+          <gr str="*2532">it </gr>
+        </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="1722">in </gr>
+        <gr str="3956">all </gr>
+        <gr str="3588">the </gr>
+        <gr str="2889">world</gr>; <gr str="2532 *2076">and </gr>bringeth forth <gr str="2592">fruit</gr>, <gr str="2531">as </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> doth </STYLE>
+        <gr str="2532">also </gr>
+        <gr str="1722">in </gr>
+        <gr str="5213">you</gr>, <gr str="575">since </gr>
+        <gr str="*3739">the </gr>
+        <gr str="2250">day </gr>ye <gr str="191">heard </gr>
+        <STYLE css="color:#808080;font-style:italic"> of </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> it, </STYLE>
+        <gr str="2532">and </gr>
+        <gr str="1921">knew </gr>
+        <gr str="3588">the </gr>
+        <gr str="5485">grace </gr>of <gr str="2316">God </gr>
+        <gr str="1722">in </gr>
+        <gr str="225">truth</gr>: </VERS>
+      <VERS vnumber="7">
+        <gr str="2531">As </gr>ye <gr str="2532">also </gr>
+        <gr str="3129">learned </gr>
+        <gr str="575">of </gr>
+        <gr str="1889">Epaphras </gr>
+        <gr str="2257">our </gr>
+        <gr str="27">dear </gr>fellow <gr str="4889">servant</gr>, <gr str="3739">who </gr>
+        <gr str="2076">is </gr>
+        <gr str="5228">for </gr>
+        <gr str="5216">you </gr>a <gr str="4103">faithful </gr>
+        <gr str="1249">minister </gr>of <gr str="5547">Christ</gr>; </VERS>
+      <VERS vnumber="8">
+        <gr str="3588">Who </gr>
+        <gr str="2532">also </gr>
+        <gr str="1213">declared </gr>unto <gr str="2254">us </gr>
+        <gr str="5216">your </gr>
+        <gr str="26">love </gr>
+        <gr str="1722">in </gr>the <gr str="4151">Spirit</gr>. </VERS>
+      <VERS vnumber="9">
+        <gr str="1223">For </gr>this <gr str="5124">cause </gr>
+        <gr str="2249">we </gr>
+        <gr str="2532">also</gr>, <gr str="575">since </gr>
+        <gr str="*3739">the </gr>
+        <gr str="2250">day </gr>we <gr str="191">heard </gr>
+        <STYLE css="color:#808080;font-style:italic"> it, </STYLE> do <gr str="3756">not </gr>
+        <gr str="3973">cease </gr>to <gr str="4336">pray </gr>
+        <gr str="5228">for </gr>
+        <gr str="5216">you</gr>, <gr str="2532">and </gr>to <gr str="154">desire </gr>
+        <gr str="2443">that </gr>ye might be <gr str="4137">filled </gr>with <gr str="3588">the </gr>
+        <gr str="1922">knowledge </gr>of <gr str="846">his </gr>
+        <gr str="2307">will </gr>
+        <gr str="1722">in </gr>
+        <gr str="3956">all </gr>
+        <gr str="4678">wisdom </gr>
+        <gr str="2532">and </gr>
+        <gr str="4152">spiritual </gr>
+        <gr str="4907">understanding</gr>; </VERS>
+      <VERS vnumber="10"> That <gr str="5209">ye </gr>might <gr str="4043">walk </gr>
+        <gr str="516">worthy </gr>of <gr str="3588">the </gr>
+        <gr str="2962">Lord </gr>
+        <gr str="1519">unto </gr>
+        <gr str="3956">all </gr>
+        <gr str="699">pleasing</gr>, being <gr str="2592">fruitful </gr>
+        <gr str="1722">in </gr>
+        <gr str="3956">every </gr>
+        <gr str="18">good </gr>
+        <gr str="2041">work</gr>, <gr str="2532">and </gr>
+        <gr str="837">increasing </gr>
+        <gr str="1519">in </gr>
+        <gr str="3588">the </gr>
+        <gr str="1922">knowledge </gr>of <gr str="2316">God</gr>; </VERS>
+      <VERS vnumber="11">
+        <gr str="1412">Strengthened </gr>
+        <gr str="1722">with </gr>
+        <gr str="3956">all </gr>
+        <gr str="1411">might</gr>, <gr str="2596">according </gr>to <gr str="846">his </gr>
+        <gr str="1391">glorious </gr>
+        <gr str="2904">power</gr>, <gr str="1519">unto </gr>
+        <gr str="3956">all </gr>
+        <gr str="5281">patience </gr>
+        <gr str="2532">and </gr>
+        <gr str="3115">longsuffering </gr>
+        <gr str="3326">with </gr>
+        <gr str="5479">joyfulness</gr>; </VERS>
+      <VERS vnumber="12"> Giving <gr str="2168">thanks </gr>unto <gr str="3588">the </gr>
+        <gr str="3962">Father</gr>, which hath made us <gr str="2427 2248">meet </gr>to be <gr str="1519 3310">partakers </gr>of <gr str="3588">the </gr>
+        <gr str="2819">inheritance </gr>of <gr str="3588">the </gr>
+        <gr str="40">saints </gr>
+        <gr str="1722">in </gr>
+        <gr str="5457">light</gr>: </VERS>
+      <VERS vnumber="13">
+        <gr str="3739">Who </gr>hath <gr str="4506">delivered </gr>
+        <gr str="2248">us </gr>
+        <gr str="1537">from </gr>
+        <gr str="3588">the </gr>
+        <gr str="1849">power </gr>of <gr str="4655">darkness</gr>, <gr str="2532">and </gr>hath <gr str="3179">translated </gr>
+        <STYLE css="color:#808080;font-style:italic"> us </STYLE>
+        <gr str="1519">into </gr>
+        <gr str="3588">the </gr>
+        <gr str="932">kingdom </gr>of <gr str="848">his </gr>
+        <gr str="26">dear </gr>
+        <gr str="5207">Son</gr>: </VERS>
+      <VERS vnumber="14">
+        <gr str="1722">In </gr>
+        <gr str="3739">whom </gr>we <gr str="2192">have </gr>
+        <gr str="629">redemption </gr>
+        <gr str="1223">through </gr>
+        <gr str="846">his </gr>
+        <gr str="129">blood</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE>
+        <gr str="3588">the </gr>
+        <gr str="859">forgiveness </gr>of <gr str="266">sins</gr>: </VERS>
+      <VERS vnumber="15">
+        <gr str="3739">Who </gr>
+        <gr str="2076">is </gr>the <gr str="1504">image </gr>of <gr str="3588">the </gr>
+        <gr str="517">invisible </gr>
+        <gr str="2316">God</gr>, the <gr str="4416">firstborn </gr>of <gr str="3956">every </gr>
+        <gr str="2937">creature</gr>: </VERS>
+      <VERS vnumber="16">
+        <gr str="3754">For </gr>
+        <gr str="1722">by </gr>
+        <gr str="846">him </gr>were all <gr str="3956">things </gr>
+        <gr str="2936">created</gr>, <gr str="3588">that </gr>are <gr str="1722">in </gr>
+        <gr str="3772">heaven</gr>, <gr str="2532">and </gr>
+        <gr str="3588">that </gr>are <gr str="1909">in </gr>
+        <gr str="1093">earth</gr>, <gr str="3707">visible </gr>
+        <gr str="2532">and </gr>
+        <gr str="517">invisible</gr>, <gr str="1535">whether </gr>
+        <STYLE css="color:#808080;font-style:italic"> they </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="2362">thrones</gr>, <gr str="1535">or </gr>
+        <gr str="2963">dominions</gr>, <gr str="1535">or </gr>
+        <gr str="746">principalities</gr>, <gr str="1535">or </gr>
+        <gr str="1849">powers</gr>: all <gr str="3956">things </gr>were <gr str="2936">created </gr>
+        <gr str="1223">by </gr>
+        <gr str="846">him</gr>, <gr str="2532">and </gr>
+        <gr str="1519">for </gr>
+        <gr str="846">him</gr>: </VERS>
+      <VERS vnumber="17">
+        <gr str="2532">And </gr>
+        <gr str="846">he </gr>
+        <gr str="2076">is </gr>
+        <gr str="4253">before </gr>all <gr str="3956">things</gr>, <gr str="2532">and </gr>
+        <gr str="1722">by </gr>
+        <gr str="846">him </gr>all <gr str="3956">things </gr>
+        <gr str="4921">consist</gr>. </VERS>
+      <VERS vnumber="18">
+        <gr str="2532">And </gr>
+        <gr str="846">he </gr>
+        <gr str="2076">is </gr>
+        <gr str="3588">the </gr>
+        <gr str="2776">head </gr>of <gr str="3588">the </gr>
+        <gr str="4983">body</gr>, <gr str="3588">the </gr>
+        <gr str="1577">church</gr>: <gr str="3739">who </gr>
+        <gr str="2076">is </gr>the <gr str="746">beginning</gr>, the <gr str="4416">firstborn </gr>
+        <gr str="1537">from </gr>
+        <gr str="3588">the </gr>
+        <gr str="3498">dead</gr>; <gr str="2443">that </gr>
+        <gr str="1722">in </gr>
+        <gr str="3956">all </gr>
+        <STYLE css="color:#808080;font-style:italic"> things </STYLE>
+        <gr str="846">he </gr>might <gr str="1096">have </gr>the <gr str="4409">preeminence</gr>. </VERS>
+      <VERS vnumber="19">
+        <gr str="3754">For </gr>it <gr str="2106">pleased </gr>
+        <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> Father </STYLE> that <gr str="1722">in </gr>
+        <gr str="846">him </gr>should <gr str="3956">all </gr>
+        <gr str="4138">fullness </gr>
+        <gr str="2730">dwell</gr>; </VERS>
+      <VERS vnumber="20">
+        <gr str="2532">And</gr>, having made <gr str="1517">peace </gr>
+        <gr str="1223">through </gr>
+        <gr str="3588">the </gr>
+        <gr str="129">blood </gr>of <gr str="846">his </gr>
+        <gr str="4716">cross</gr>, <gr str="1223">by </gr>
+        <gr str="846">him </gr>to <gr str="604">reconcile </gr>all <gr str="3956">things </gr>
+        <gr str="1519">unto </gr>
+        <gr str="848">himself</gr>; <gr str="1223">by </gr>
+        <gr str="846">him</gr>, <STYLE css="color:#808080;font-style:italic"> I </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> say, </STYLE>
+        <gr str="1535">whether </gr>
+        <STYLE css="color:#808080;font-style:italic"> they </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="3588">things </gr>
+        <gr str="1909">in </gr>
+        <gr str="1093">earth</gr>, <gr str="1535">or </gr>
+        <gr str="3588">things </gr>
+        <gr str="1722">in </gr>
+        <gr str="3772">heaven</gr>. </VERS>
+      <VERS vnumber="21">
+        <gr str="2532">And </gr>
+        <gr str="5209">you</gr>, that <gr str="5607">were </gr>
+        <gr str="4218">sometime </gr>
+        <gr str="526">alienated </gr>
+        <gr str="2532">and </gr>
+        <gr str="2190">enemies </gr>in <STYLE css="color:#808080;font-style:italic"> your </STYLE>
+        <gr str="1271">mind </gr>
+        <gr str="1722">by </gr>
+        <gr str="4190">wicked </gr>
+        <gr str="2041">works</gr>, <gr str="1161">yet </gr>
+        <gr str="3570">now </gr>hath he <gr str="604">reconciled </gr>
+      </VERS>
+      <VERS vnumber="22">
+        <gr str="1722">In </gr>
+        <gr str="3588">the </gr>
+        <gr str="4983">body </gr>of <gr str="848">his </gr>
+        <gr str="4561">flesh </gr>
+        <gr str="1223">through </gr>
+        <gr str="2288">death</gr>, to <gr str="3936">present </gr>
+        <gr str="5209">you </gr>
+        <gr str="40">holy </gr>
+        <gr str="2532">and </gr>
+        <gr str="299">unblamable </gr>
+        <gr str="2532">and </gr>
+        <gr str="410">unreprovable </gr>in his <gr str="2714 848">sight</gr>: </VERS>
+      <VERS vnumber="23">
+        <gr str="1489">If </gr>ye <gr str="1961">continue </gr>in <gr str="3588">the </gr>
+        <gr str="4102">faith </gr>
+        <gr str="2311">grounded </gr>
+        <gr str="2532">and </gr>
+        <gr str="1476">settled</gr>, <gr str="2532">and </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="3361">not </gr>moved <gr str="3334">away </gr>
+        <gr str="575">from </gr>
+        <gr str="3588">the </gr>
+        <gr str="1680">hope </gr>of <gr str="3588">the </gr>
+        <gr str="2098">gospel</gr>, <gr str="3739">which </gr>ye have <gr str="191">heard</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> which was <gr str="2784">preached </gr>
+        <gr str="1722">to </gr>
+        <gr str="3956">every </gr>
+        <gr str="2937">creature </gr>
+        <gr str="3588">which </gr>is <gr str="5259">under </gr>
+        <gr str="3772">heaven</gr>; <gr str="3739">whereof </gr>
+        <gr str="1473">I </gr>
+        <gr str="3972">Paul </gr>am <gr str="1096">made </gr>a <gr str="1249">minister</gr>; </VERS>
+      <VERS vnumber="24">
+        <gr str="3739">Who </gr>
+        <gr str="3568">now </gr>
+        <gr str="5463">rejoice </gr>
+        <gr str="1722">in </gr>
+        <gr str="3450">my </gr>
+        <gr str="3804">sufferings </gr>
+        <gr str="5228">for </gr>
+        <gr str="5216">you</gr>, <gr str="2532">and </gr>fill <gr str="466">up </gr>that which is <gr str="5303">behind </gr>of <gr str="3588">the </gr>
+        <gr str="2347">afflictions </gr>of <gr str="5547">Christ </gr>
+        <gr str="1722">in </gr>
+        <gr str="3450">my </gr>
+        <gr str="4561">flesh </gr>for his body's <gr str="5228 846 4983">sake</gr>, which <gr str="3603">is </gr>
+        <gr str="3588">the </gr>
+        <gr str="1577">church</gr>: </VERS>
+      <VERS vnumber="25">
+        <gr str="3739">Whereof </gr>
+        <gr str="1473">I </gr>am <gr str="1096">made </gr>a <gr str="1249">minister</gr>, <gr str="2596">according </gr>to <gr str="3588">the </gr>
+        <gr str="3622">dispensation </gr>of <gr str="2316">God </gr>which is <gr str="1325">given </gr>to <gr str="3427">me </gr>
+        <gr str="1519">for </gr>
+        <gr str="5209">you</gr>, to <gr str="4137">fulfill </gr>
+        <gr str="3588">the </gr>
+        <gr str="3056">word </gr>of <gr str="2316">God</gr>; </VERS>
+      <VERS vnumber="26">
+        <STYLE css="color:#808080;font-style:italic"> Even </STYLE>
+        <gr str="3588">the </gr>
+        <gr str="3466">mystery </gr>which hath been <gr str="613">hid </gr>
+        <gr str="575">from </gr>
+        <gr str="165">ages </gr>
+        <gr str="2532">and </gr>
+        <gr str="575">from </gr>
+        <gr str="1074">generations</gr>, <gr str="1161">but </gr>
+        <gr str="3570">now </gr>is made <gr str="5319">manifest </gr>to <gr str="846">his </gr>
+        <gr str="40">saints</gr>: </VERS>
+      <VERS vnumber="27"> To <gr str="3739">whom </gr>
+        <gr str="2316">God </gr>
+        <gr str="2309">would </gr>make <gr str="1107">known </gr>
+        <gr str="5101">what </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3588">the </gr>
+        <gr str="4149">riches </gr>of <gr str="3588">the </gr>
+        <gr str="1391">glory </gr>of <gr str="5127">this </gr>
+        <gr str="3466">mystery </gr>
+        <gr str="1722">among </gr>
+        <gr str="3588">the </gr>
+        <gr str="1484">Gentiles</gr>; <gr str="3739">which </gr>
+        <gr str="2076">is </gr>
+        <gr str="5547">Christ </gr>
+        <gr str="1722">in </gr>
+        <gr str="5213">you</gr>, <gr str="3588">the </gr>
+        <gr str="1680">hope </gr>of <gr str="1391">glory</gr>: </VERS>
+      <VERS vnumber="28">
+        <gr str="3739">Whom </gr>
+        <gr str="2249">we </gr>
+        <gr str="2605">preach</gr>, <gr str="3560">warning </gr>
+        <gr str="3956">every </gr>
+        <gr str="444">man</gr>, <gr str="2532">and </gr>
+        <gr str="1321">teaching </gr>
+        <gr str="3956">every </gr>
+        <gr str="444">man </gr>
+        <gr str="1722">in </gr>
+        <gr str="3956">all </gr>
+        <gr str="4678">wisdom</gr>; <gr str="2443">that </gr>we may <gr str="3936">present </gr>
+        <gr str="3956">every </gr>
+        <gr str="444">man </gr>
+        <gr str="5046">perfect </gr>
+        <gr str="1722">in </gr>
+        <gr str="5547">Christ </gr>
+        <gr str="2424">Jesus</gr>:
+ </VERS>
+      <VERS vnumber="29">
+        <gr str="1519 3739">Whereunto </gr>I <gr str="2532">also </gr>
+        <gr str="2872">labor</gr>, <gr str="75">striving </gr>
+        <gr str="2596">according </gr>to <gr str="846">his </gr>
+        <gr str="1753">working</gr>, which <gr str="1754">worketh </gr>
+        <gr str="1722">in </gr>
+        <gr str="1698">me </gr>
+        <gr str="1722 1411">mightily</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

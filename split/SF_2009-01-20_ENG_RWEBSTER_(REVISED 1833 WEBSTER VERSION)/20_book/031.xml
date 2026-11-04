@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="20">
+    <CHAPTER cnumber="31">
+      <VERS vnumber="1">The words of king Lemuel, the prophecy that his mother taught him.</VERS>
+      <VERS vnumber="2">What, my son? and what, the son of my womb? and what, the son of my vows?</VERS>
+      <VERS vnumber="3">Give not thy strength to women, nor thy ways to that which destroyeth kings.</VERS>
+      <VERS vnumber="4">
+        <STYLE css="font-style:italic">It is</STYLE> not for kings, O Lemuel, <STYLE css="font-style:italic">it is</STYLE> not for kings to drink wine; nor for princes strong drink:</VERS>
+      <VERS vnumber="5">Lest they drink, and forget the law, and pervert the judgment of any of the afflicted. <DIV>
+          <NOTE type="x-studynote">pervert: Heb. alter</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">of any…: Heb. of all the sons of affliction</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">Give strong drink to him that is ready to perish, and wine to those that are of heavy hearts. <DIV>
+          <NOTE type="x-studynote">of…: Heb. bitter of soul</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="7">Let him drink, and forget his poverty, and remember his misery no more.</VERS>
+      <VERS vnumber="8">Open thy mouth for the dumb in the cause of all such as are appointed to destruction. <DIV>
+          <NOTE type="x-studynote">such…: Heb. the sons of destruction</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="9">Open thy mouth, judge righteously, and plead the cause of the poor and needy.</VERS>
+      <VERS vnumber="10">Who can find a virtuous woman? for her price <STYLE css="font-style:italic">is</STYLE> far above rubies.</VERS>
+      <VERS vnumber="11">The heart of her husband doth safely trust in her, so that he shall have no need of spoil.</VERS>
+      <VERS vnumber="12">She will do him good and not evil all the days of her life.</VERS>
+      <VERS vnumber="13">She seeketh wool, and flax, and worketh willingly with her hands.</VERS>
+      <VERS vnumber="14">She is like the merchant ships; she bringeth her food from afar.</VERS>
+      <VERS vnumber="15">She riseth also while it is yet night, and giveth food to her household, and a portion to her maidens.</VERS>
+      <VERS vnumber="16">She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard. <DIV>
+          <NOTE type="x-studynote">buyeth: Heb. taketh</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="17">She girdeth her loins with strength, and strengtheneth her arms.</VERS>
+      <VERS vnumber="18">She perceiveth that her merchandise <STYLE css="font-style:italic">is</STYLE> good: her lamp goeth not out by night. <DIV>
+          <NOTE type="x-studynote">She…: Heb. She tasteth</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="19">She layeth her hands to the spindle, and her hands hold the distaff.</VERS>
+      <VERS vnumber="20">She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy. <DIV>
+          <NOTE type="x-studynote">She…: Heb. She spreadeth</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="21">She is not afraid of the snow for her household: for all her household <STYLE css="font-style:italic">are</STYLE> clothed with scarlet. <DIV>
+          <NOTE type="x-studynote">scarlet: or, double garments</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="22">She maketh herself coverings of tapestry; her clothing <STYLE css="font-style:italic">is</STYLE> silk and purple.</VERS>
+      <VERS vnumber="23">Her husband is known in the gates, when he sitteth among the elders of the land.</VERS>
+      <VERS vnumber="24">She maketh fine linen, and selleth <STYLE css="font-style:italic">it</STYLE>; and delivereth waistbands to the merchant.</VERS>
+      <VERS vnumber="25">Strength and honour <STYLE css="font-style:italic">are</STYLE> her clothing; and she shall rejoice in time to come.</VERS>
+      <VERS vnumber="26">She openeth her mouth with wisdom; and on her tongue <STYLE css="font-style:italic">is</STYLE> the law of kindness.</VERS>
+      <VERS vnumber="27">She looketh well to the ways of her household, and eateth not the bread of idleness.</VERS>
+      <VERS vnumber="28">Her children rise up, and call her blessed; her husband <STYLE css="font-style:italic">also</STYLE>, and he praiseth her.</VERS>
+      <VERS vnumber="29">Many daughters have done virtuously, but thou excellest them all. <DIV>
+          <NOTE type="x-studynote">have…: or, have gotten riches</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="30">Favour <STYLE css="font-style:italic">is</STYLE> deceitful, and beauty <STYLE css="font-style:italic">is</STYLE> vain: <STYLE css="font-style:italic">but</STYLE> a woman <STYLE css="font-style:italic">that</STYLE> feareth the LORD, she shall be praised.</VERS>
+      <VERS vnumber="31">Give her of the fruit of her hands; and let her own works praise her in the gates.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

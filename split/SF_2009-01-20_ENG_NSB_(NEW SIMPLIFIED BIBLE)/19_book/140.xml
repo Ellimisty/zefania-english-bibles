@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="140">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">Rescue me from evil people, O Jehovah. Keep me safe from violent people.</VERS>
+      <VERS vnumber="2">They plan evil things in their hearts. They start conflicts <STYLE css="font-style:italic">fights</STYLE>
+        <STYLE css="font-style:italic">wars</STYLE> every day.</VERS>
+      <VERS vnumber="3">They make their tongues as sharp as a snake's fang. Their lips hide the venom of poisonous snakes.</VERS>
+      <VERS vnumber="4">Protect me from the hands of wicked people, O Jehovah. Keep me safe from violent people. They try to trip me.</VERS>
+      <VERS vnumber="5">Arrogant people have laid a trap for me. They have spread out a net with ropes. They have set traps for me along the road.</VERS>
+      <VERS vnumber="6">I said to Jehovah: You are my God. O Jehovah, open your ears to hear my plea for pity.</VERS>
+      <VERS vnumber="7">O Lord Jehovah <STYLE css="font-style:italic">Almighty</STYLE>, the strong one who saves me, you have covered my head in the day of battle.</VERS>
+      <VERS vnumber="8">O Jehovah, do not give wicked people what they want. Do not let their evil plans succeed, or they will become arrogant.</VERS>
+      <VERS vnumber="9">Let the heads of those who surround me be covered with their own threats.</VERS>
+      <VERS vnumber="10">Let burning coals fall on them. Let them be thrown into a pit, never to rise again.</VERS>
+      <VERS vnumber="11">Do not let slanderers prosper on earth. Let evil hunt down violent people with one blow after another.</VERS>
+      <VERS vnumber="12">I know that Jehovah will defend the rights of those who are oppressed and the cause of those who are needy.</VERS>
+      <VERS vnumber="13">Indeed, righteous people will give thanks <STYLE css="font-style:italic">praise</STYLE>
+        <STYLE css="font-style:italic">reverence</STYLE>
+        <STYLE css="font-style:italic">worship</STYLE> to your name. Upright people will live in your presence.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

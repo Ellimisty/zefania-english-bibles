@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="John Wycliffe Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="12">
+      <VERS vnumber="1">
+The title of the twelfthe salm. To the victorie of Dauid.
+Lord, hou long foryetist thou me in to the ende? hou long turnest thou awei thi face fro me?
+</VERS>
+      <VERS vnumber="2">
+Hou long schal Y sette counsels in my soule; sorewe in my herte bi dai?
+</VERS>
+      <VERS vnumber="3">
+Hou long schal myn enemy be reisid on me?
+</VERS>
+      <VERS vnumber="4">
+My Lord God, biholde thou, and here thou me. Liytne thou myn iyen, lest ony tyme Y slepe in deth;
+</VERS>
+      <VERS vnumber="5">
+lest ony tyme myn enemye seie, Y hadde the maistri ayens hym. Thei, that troblen me, schulen haue ioie, if Y schal be stirid; forsothe Y hopide in thi merci.
+</VERS>
+      <VERS vnumber="6">
+Myn herte schal fulli haue ioie in thin helthe; Y schal synge to the Lord, that yyueth goodis to me, and Y schal seie salm to the name of the hiyeste Lord.
+</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="121">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Song of degrees.</STYLE> I will lift up my eyes to the hills, from which cometh my help. <DIV>
+          <NOTE type="x-studynote">I will…: or, Shall I lift up mine eyes to the hills? whence should my help come?</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">My help <STYLE css="font-style:italic">cometh</STYLE> from the LORD, who made heaven and earth.</VERS>
+      <VERS vnumber="3">He will not allow thy foot to be moved: he that keepeth thee will not slumber.</VERS>
+      <VERS vnumber="4">Behold, he that keepeth Israel shall neither slumber nor sleep.</VERS>
+      <VERS vnumber="5">The LORD <STYLE css="font-style:italic">is</STYLE> thy keeper: the LORD <STYLE css="font-style:italic">is</STYLE> thy shade upon thy right hand.</VERS>
+      <VERS vnumber="6">The sun shall not smite thee by day, nor the moon by night.</VERS>
+      <VERS vnumber="7">The LORD shall preserve thee from all evil: he shall preserve thy soul.</VERS>
+      <VERS vnumber="8">The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

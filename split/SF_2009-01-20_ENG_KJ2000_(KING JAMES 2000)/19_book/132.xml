@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James 2000" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="132">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic;font-weight:bold">A song of ascents.</STYLE> LORD, remember David, and all his afflictions:</VERS>
+      <VERS vnumber="2">How he swore unto the LORD, and vowed unto the mighty God of Jacob;</VERS>
+      <VERS vnumber="3">Surely I will not come into the tabernacle of my house, nor go up into my bed;</VERS>
+      <VERS vnumber="4">I will not give sleep to my eyes, or slumber to my eyelids,</VERS>
+      <VERS vnumber="5">Until I find out a place for the LORD, a habitation for the mighty God of Jacob.</VERS>
+      <VERS vnumber="6">Lo, we heard of it at Ephrathah: we found it in the fields of the woods.</VERS>
+      <VERS vnumber="7">We will go into his tabernacles: we will worship at his footstool.</VERS>
+      <VERS vnumber="8">Arise, O LORD, into your rest; you, and the ark of your strength.</VERS>
+      <VERS vnumber="9">Let your priests be clothed with righteousness; and let your saints shout for joy.</VERS>
+      <VERS vnumber="10">For your servant David's sake turn not away the face of your anointed.</VERS>
+      <VERS vnumber="11">The LORD has sworn in truth unto David; he will not turn from it; <STYLE css="color:#FF0000">Of the fruit of your body will I set upon your throne.</STYLE>
+      </VERS>
+      <VERS vnumber="12">
+        <STYLE css="color:#FF0000">If your children will keep my covenant and my testimony that I shall teach them, their children shall also sit upon your throne forevermore.</STYLE>
+      </VERS>
+      <VERS vnumber="13">For the LORD has chosen Zion; he has desired it for his habitation.</VERS>
+      <VERS vnumber="14">
+        <STYLE css="color:#FF0000">This is my rest forever: here will I dwell; for I have desired it.</STYLE>
+      </VERS>
+      <VERS vnumber="15">
+        <STYLE css="color:#FF0000">I will abundantly bless her provision: I will satisfy her poor with bread.</STYLE>
+      </VERS>
+      <VERS vnumber="16">
+        <STYLE css="color:#FF0000">I will also clothe her priests with salvation: and her saints shall shout aloud for joy.</STYLE>
+      </VERS>
+      <VERS vnumber="17">
+        <STYLE css="color:#FF0000">There will I make the horn of David to bud: I have ordained a lamp for my anointed.</STYLE>
+      </VERS>
+      <VERS vnumber="18">
+        <STYLE css="color:#FF0000">His enemies will I clothe with shame: but upon himself shall his crown flourish.</STYLE>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

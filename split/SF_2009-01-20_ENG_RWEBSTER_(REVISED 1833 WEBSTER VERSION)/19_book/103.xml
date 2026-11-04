@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="103">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">[A Psalm] of David.</STYLE> Bless the LORD, O my soul: and all that is within me, <STYLE css="font-style:italic">bless</STYLE> his holy name.</VERS>
+      <VERS vnumber="2">Bless the LORD, O my soul, and forget not all his benefits:</VERS>
+      <VERS vnumber="3">Who forgiveth all thy iniquities; who healeth all thy diseases;</VERS>
+      <VERS vnumber="4">Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;</VERS>
+      <VERS vnumber="5">Who satisfieth thy mouth with good <STYLE css="font-style:italic">things; so that</STYLE> thy youth is renewed like the eagle’s.</VERS>
+      <VERS vnumber="6">The LORD executeth righteousness and judgment for all that are oppressed.</VERS>
+      <VERS vnumber="7">He made known his ways to Moses, his acts to the children of Israel.</VERS>
+      <VERS vnumber="8">The LORD <STYLE css="font-style:italic">is</STYLE> merciful and gracious, slow to anger, and abundant in mercy. <DIV>
+          <NOTE type="x-studynote">plenteous…: Heb. great in mercy</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="9">He will not always chide: neither will he keep <STYLE css="font-style:italic">his anger</STYLE> for ever.</VERS>
+      <VERS vnumber="10">He hath not dealt with us according to our sins; nor rewarded us according to our iniquities.</VERS>
+      <VERS vnumber="11">For as the heaven is high above the earth, <STYLE css="font-style:italic">so</STYLE> great is his mercy toward them that fear him. <DIV>
+          <NOTE type="x-studynote">as…: Heb. according to the height of the heaven</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="12">As far as the east is from the west, <STYLE css="font-style:italic">so</STYLE> far hath he removed our transgressions from us.</VERS>
+      <VERS vnumber="13">Like as a father pitieth <STYLE css="font-style:italic">his</STYLE> children, <STYLE css="font-style:italic">so</STYLE> the LORD pitieth them that fear him.</VERS>
+      <VERS vnumber="14">For he knoweth our frame; he remembereth that we <STYLE css="font-style:italic">are</STYLE> dust.</VERS>
+      <VERS vnumber="15">
+        <STYLE css="font-style:italic">As for</STYLE> man, his days <STYLE css="font-style:italic">are</STYLE> as grass: as a flower of the field, so he flourisheth.</VERS>
+      <VERS vnumber="16">For the wind passeth over it, and it is gone; and its place shall know it no more. <DIV>
+          <NOTE type="x-studynote">it is…: Heb. it is not</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="17">But the mercy of the LORD <STYLE css="font-style:italic">is</STYLE> from everlasting to everlasting upon them that fear him, and his righteousness to children’s children;</VERS>
+      <VERS vnumber="18">To such as keep his covenant, and to those that remember his commandments to do them.</VERS>
+      <VERS vnumber="19">The LORD hath prepared his throne in the heavens; and his kingdom ruleth over all.</VERS>
+      <VERS vnumber="20">Bless the LORD, ye his angels, that excel in strength, that do his commandments, hearkening to the voice of his word. <DIV>
+          <NOTE type="x-studynote">that excel…: Heb. mighty in strength</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="21">Bless ye the LORD, all <STYLE css="font-style:italic">ye</STYLE> his hosts; <STYLE css="font-style:italic">ye</STYLE> ministers of his, that do his pleasure.</VERS>
+      <VERS vnumber="22">Bless the LORD, all his works in all places of his dominion: bless the LORD, O my soul.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

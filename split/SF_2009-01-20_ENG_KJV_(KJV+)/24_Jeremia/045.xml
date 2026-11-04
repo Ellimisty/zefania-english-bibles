@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="24" bname="Jeremia" bsname="Jer">
+    <CHAPTER cnumber="45">
+      <VERS vnumber="1"> The <gr str="1697">word </gr>
+        <gr str="834">that </gr>
+        <gr str="3414">Jeremiah </gr>the <gr str="5030">prophet </gr>
+        <gr str="1696">spoke </gr>
+        <gr str="413">unto </gr>
+        <gr str="1263">Baruch </gr>the <gr str="1121">son </gr>of <gr str="5374">Neriah</gr>, when he had <gr str="3789">written </gr>
+        <gr str="*853" />
+        <gr str="428">these </gr>
+        <gr str="1697">words </gr>
+        <gr str="5921">in </gr>a <gr str="5612">book </gr>at the <gr str="4480 6310">mouth </gr>of <gr str="3414">Jeremiah</gr>, in the <gr str="7243">fourth </gr>
+        <gr str="8141">year </gr>of <gr str="3079">Jehoiakim </gr>the <gr str="1121">son </gr>of <gr str="2977">Josiah </gr>
+        <gr str="4428">king </gr>of <gr str="3063">Judah</gr>, <gr str="559">saying</gr>, </VERS>
+      <VERS vnumber="2">
+        <gr str="3541">Thus </gr>
+        <gr str="559">saith </gr>the <gr str="3068">LORD</gr>, the <gr str="430">God </gr>of <gr str="3478">Israel</gr>, <gr str="5921">unto </gr>thee, O <gr str="1263">Baruch</gr>; </VERS>
+      <VERS vnumber="3"> Thou didst <gr str="559">say</gr>, <gr str="188">Woe </gr>is me <gr str="4994">now</gr>! <gr str="3588">for </gr>the <gr str="3068">LORD </gr>hath <gr str="3254">added </gr>
+        <gr str="3015">grief </gr>
+        <gr str="5921">to </gr>my <gr str="4341">sorrow</gr>; I <gr str="3021">fainted </gr>in my <gr str="585">sighing</gr>, and I <gr str="4672">find </gr>
+        <gr str="3808">no </gr>
+        <gr str="4496">rest</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="3541">Thus </gr>shalt thou <gr str="559">say </gr>
+        <gr str="413">unto </gr>him, The <gr str="3068">LORD </gr>
+        <gr str="559">saith </gr>
+        <gr str="3541">thus</gr>; <gr str="2009">Behold</gr>, <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <gr str="834">which </gr>I have <gr str="1129">built </gr>will <gr str="589">I </gr>break <gr str="2040">down</gr>, and that <gr str="834">which </gr>I have <gr str="5193">planted </gr>
+        <gr str="589">I </gr>will pluck <gr str="5428">up</gr>, even <gr str="1931">this </gr>
+        <gr str="3605">whole </gr>
+        <gr str="776">land</gr>. </VERS>
+      <VERS vnumber="5"> And <gr str="1245">seekest </gr>
+        <gr str="859">thou </gr>great <gr str="1419">things </gr>for thyself? <gr str="1245">seek </gr>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE>
+        <gr str="408">not</gr>: <gr str="3588">for</gr>, <gr str="2009">behold</gr>, I will <gr str="935">bring </gr>
+        <gr str="7451">evil </gr>
+        <gr str="5921">upon </gr>
+        <gr str="3605">all </gr>
+        <gr str="1320">flesh</gr>, <gr str="5002">saith </gr>the <gr str="3068">LORD</gr>: but <gr str="*853" />thy <gr str="5315">life </gr>will I <gr str="5414">give </gr>unto thee for a <gr str="7998">prey </gr>
+        <gr str="5921">in </gr>
+        <gr str="3605">all </gr>
+        <gr str="4725">places </gr>
+        <gr str="834 8033">whither </gr>thou <gr str="1980">goest</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

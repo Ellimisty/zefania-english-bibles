@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="10" bname="2 Samuel" bsname="2Sam">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1"> Now it came to <gr str="1961">pass </gr>
+        <gr str="310">after </gr>the <gr str="4194">death </gr>of <gr str="7586">Saul</gr>, when <gr str="1732">David </gr>was <gr str="7725">returned </gr>from the <gr str="4480 5221">slaughter </gr>of <gr str="*853" />the <gr str="6002">Amalekites</gr>, and <gr str="1732">David </gr>had <gr str="3427">abode </gr>
+        <gr str="8147">two </gr>
+        <gr str="3117">days </gr>in <gr str="6860">Ziklag</gr>; </VERS>
+      <VERS vnumber="2"> It came even to <gr str="1961">pass </gr>on the <gr str="7992">third </gr>
+        <gr str="3117">day</gr>, that, <gr str="2009">behold</gr>, a <gr str="376">man </gr>
+        <gr str="935">came </gr>out <gr str="4480">of </gr>the <gr str="4264">camp </gr>
+        <gr str="4480 5973">from </gr>
+        <gr str="7586">Saul </gr>with his <gr str="899">clothes </gr>
+        <gr str="7167">rent</gr>, and <gr str="127">earth </gr>
+        <gr str="5921">upon </gr>his <gr str="7218">head</gr>: and <STYLE css="color:#808080;font-style:italic"> so </STYLE> it <gr str="1961">was</gr>, when he <gr str="935">came </gr>
+        <gr str="413">to </gr>
+        <gr str="1732">David</gr>, that he <gr str="5307">fell </gr>to the <gr str="776">earth</gr>, and did <gr str="7812">obeisance</gr>. </VERS>
+      <VERS vnumber="3"> And <gr str="1732">David </gr>
+        <gr str="559">said </gr>unto him, From <gr str="335 4480 2088">whence </gr>
+        <gr str="935">comest </gr>thou? And he <gr str="559">said </gr>
+        <gr str="413">unto </gr>him, Out of the <gr str="4480 4264">camp </gr>of <gr str="3478">Israel </gr>am I <gr str="4422">escaped</gr>. </VERS>
+      <VERS vnumber="4"> And <gr str="1732">David </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>him, <gr str="4100">How </gr>
+        <gr str="1961">went </gr>the <gr str="1697">matter</gr>? I pray <gr str="4994">thee</gr>, <gr str="5046">tell </gr>me. And he <gr str="559">answered</gr>, <gr str="834">That </gr>the <gr str="5971">people </gr>are <gr str="5127">fled </gr>
+        <gr str="4480">from </gr>the <gr str="4421">battle</gr>, and <gr str="7235">many </gr>
+        <gr str="4480">of </gr>the <gr str="5971">people </gr>
+        <gr str="1571">also </gr>are <gr str="5307">fallen </gr>and <gr str="4191">dead</gr>; and <gr str="7586">Saul </gr>and <gr str="3083">Jonathan </gr>his <gr str="1121">son </gr>are <gr str="4191">dead </gr>
+        <gr str="1571">also</gr>. </VERS>
+      <VERS vnumber="5"> And <gr str="1732">David </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>the young <gr str="5288">man </gr>that <gr str="5046">told </gr>him, <gr str="349">How </gr>
+        <gr str="3045">knowest </gr>thou <gr str="3588">that </gr>
+        <gr str="7586">Saul </gr>and <gr str="3083">Jonathan </gr>his <gr str="1121">son </gr>be <gr str="4191">dead</gr>? </VERS>
+      <VERS vnumber="6"> And the young <gr str="5288">man </gr>that <gr str="5046">told </gr>him <gr str="559">said</gr>, As I <gr str="7136">happened </gr>by <gr str="7122">chance </gr>upon <gr str="2022">mount </gr>
+        <gr str="1533">Gilboa</gr>, <gr str="2009">behold</gr>, <gr str="7586">Saul </gr>
+        <gr str="8172">leaned </gr>
+        <gr str="5921">upon </gr>his <gr str="2595">spear</gr>; and, <gr str="2009">lo</gr>, the <gr str="7393">chariots </gr>and <gr str="1167 6571">horsemen </gr>followed <gr str="1692">hard </gr>after him. </VERS>
+      <VERS vnumber="7"> And when he <gr str="6437">looked </gr>
+        <gr str="310">behind </gr>him, he <gr str="7200">saw </gr>me, and <gr str="7121">called </gr>
+        <gr str="413">unto </gr>me. And I <gr str="559">answered</gr>, <gr str="2009">Here </gr>
+        <STYLE css="color:#808080;font-style:italic"> am </STYLE> I. </VERS>
+      <VERS vnumber="8"> And he <gr str="559">said </gr>unto me, <gr str="4310">Who </gr>
+        <STYLE css="color:#808080;font-style:italic"> art </STYLE>
+        <gr str="859">thou</gr>? And I <gr str="559">answered </gr>
+        <gr str="413">him</gr>, <gr str="595">I </gr>
+        <STYLE css="color:#808080;font-style:italic"> am </STYLE> an <gr str="6003">Amalekite</gr>. </VERS>
+      <VERS vnumber="9"> He <gr str="559">said </gr>
+        <gr str="413">unto </gr>me again, <gr str="5975">Stand</gr>, I pray <gr str="4994">thee</gr>, <gr str="5921">upon </gr>me, and <gr str="4191">slay </gr>me: <gr str="3588">for </gr>
+        <gr str="7661">anguish </gr>is <gr str="270">come </gr>upon me, <gr str="3588">because </gr>my <gr str="5315">life </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="5750">yet </gr>
+        <gr str="3605">whole </gr>in me. </VERS>
+      <VERS vnumber="10"> So I <gr str="5975">stood </gr>
+        <gr str="5921">upon </gr>him, and <gr str="4191">slew </gr>him, <gr str="3588">because </gr>I was <gr str="3045">sure </gr>
+        <gr str="3588">that </gr>he could <gr str="3808">not </gr>
+        <gr str="2421">live </gr>after <gr str="310">that </gr>he was <gr str="5307">fallen</gr>: and I <gr str="3947">took </gr>the <gr str="5145">crown </gr>
+        <gr str="834">that </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="5921">upon </gr>his <gr str="7218">head</gr>, and the <gr str="685">bracelet </gr>
+        <gr str="834">that </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="5921">on </gr>his <gr str="2220">arm</gr>, and have <gr str="935">brought </gr>them <gr str="2008">hither </gr>
+        <gr str="413">unto </gr>my <gr str="113">lord</gr>. </VERS>
+      <VERS vnumber="11"> Then <gr str="1732">David </gr>took <gr str="2388">hold </gr>on his <gr str="899">clothes</gr>, and <gr str="7167">rent </gr>them; and <gr str="1571">likewise </gr>
+        <gr str="3605">all </gr>the <gr str="376">men </gr>
+        <gr str="834">that </gr>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE>
+        <gr str="854">with </gr>him: </VERS>
+      <VERS vnumber="12"> And they <gr str="5594">mourned</gr>, and <gr str="1058">wept</gr>, and <gr str="6684">fasted </gr>
+        <gr str="5704">until </gr>
+        <gr str="6153">even</gr>, <gr str="5921">for </gr>
+        <gr str="7586">Saul</gr>, and <gr str="5921">for </gr>
+        <gr str="3083">Jonathan </gr>his <gr str="1121">son</gr>, and <gr str="5921">for </gr>the <gr str="5971">people </gr>of the <gr str="3068">LORD</gr>, and <gr str="5921">for </gr>the <gr str="1004">house </gr>of <gr str="3478">Israel</gr>; <gr str="3588">because </gr>they were <gr str="5307">fallen </gr>by the <gr str="2719">sword</gr>. </VERS>
+      <VERS vnumber="13"> And <gr str="1732">David </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>the young <gr str="5288">man </gr>that <gr str="5046">told </gr>him, <gr str="335 4480 4100">Whence </gr>
+        <STYLE css="color:#808080;font-style:italic"> art </STYLE>
+        <gr str="859">thou</gr>? And he <gr str="559">answered</gr>, <gr str="595">I </gr>
+        <STYLE css="color:#808080;font-style:italic"> am </STYLE> the <gr str="1121">son </gr>of a <gr str="376 1616">stranger</gr>, an <gr str="6003">Amalekite</gr>. </VERS>
+      <VERS vnumber="14"> And <gr str="1732">David </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>him, <gr str="349">How </gr>wast thou <gr str="3808">not </gr>
+        <gr str="3372">afraid </gr>to stretch <gr str="7971">forth </gr>thine <gr str="3027">hand </gr>to <gr str="7843">destroy </gr>
+        <gr str="*853" />the <gr str="3068">LORD </gr>'s <gr str="4899">anointed</gr>? </VERS>
+      <VERS vnumber="15"> And <gr str="1732">David </gr>
+        <gr str="7121">called </gr>
+        <gr str="259">one </gr>of the young <gr str="4480 5288">men</gr>, and <gr str="559">said</gr>, Go <gr str="5066">near</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="6293">fall </gr>upon him. And he <gr str="5221">smote </gr>him that he <gr str="4191">died</gr>. </VERS>
+      <VERS vnumber="16"> And <gr str="1732">David </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>him, Thy <gr str="1818">blood </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="5921">upon </gr>thy <gr str="7218">head</gr>; <gr str="3588">for </gr>thy <gr str="6310">mouth </gr>hath <gr str="6030">testified </gr>against thee, <gr str="559">saying</gr>, <gr str="595">I </gr>have <gr str="4191">slain </gr>
+        <gr str="*853" />the <gr str="3068">LORD </gr>'s <gr str="4899">anointed</gr>. </VERS>
+      <VERS vnumber="17"> And <gr str="1732">David </gr>
+        <gr str="6969">lamented </gr>
+        <gr str="854">with </gr>
+        <gr str="2063">this </gr>
+        <gr str="7015">lamentation </gr>
+        <gr str="5921">over </gr>
+        <gr str="7586">Saul </gr>and <gr str="5921">over </gr>
+        <gr str="3083">Jonathan </gr>his <gr str="1121">son</gr>: </VERS>
+      <VERS vnumber="18"> (Also he <gr str="559">bade </gr>them <gr str="3925">teach </gr>the <gr str="1121">children </gr>of <gr str="3063">Judah </gr>
+        <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> use </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> of </STYLE> the <gr str="7198">bow</gr>: <gr str="2009">behold</gr>, <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3789">written </gr>
+        <gr str="5921">in </gr>the <gr str="5612">book </gr>of <gr str="3477">Jasher</gr>.) </VERS>
+      <VERS vnumber="19"> The <gr str="6643">beauty </gr>of <gr str="3478">Israel </gr>is <gr str="2491">slain </gr>
+        <gr str="5921">upon </gr>thy high <gr str="1116">places</gr>: <gr str="349">how </gr>are the <gr str="1368">mighty </gr>
+        <gr str="5307">fallen</gr>! </VERS>
+      <VERS vnumber="20">
+        <gr str="5046">Tell </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <gr str="408">not </gr>in <gr str="1661">Gath</gr>, <gr str="1319">publish </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <gr str="408">not </gr>in the <gr str="2351">streets </gr>of <gr str="831">Askelon</gr>; <gr str="6435">lest </gr>the <gr str="1323">daughters </gr>of the <gr str="6430">Philistines </gr>
+        <gr str="8055">rejoice</gr>, <gr str="6435">lest </gr>the <gr str="1323">daughters </gr>of the <gr str="6189">uncircumcised </gr>
+        <gr str="5937">triumph</gr>. </VERS>
+      <VERS vnumber="21"> Ye <gr str="2022">mountains </gr>of <gr str="1533">Gilboa</gr>, <STYLE css="color:#808080;font-style:italic"> let </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="408">no </gr>
+        <gr str="2919">dew</gr>, <gr str="408">neither </gr>
+        <STYLE css="color:#808080;font-style:italic"> let </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="4306">rain</gr>, <gr str="5921">upon </gr>you, nor <gr str="7704">fields </gr>of <gr str="8641">offerings</gr>: <gr str="3588">for </gr>
+        <gr str="8033">there </gr>the <gr str="4043">shield </gr>of the <gr str="1368">mighty </gr>is vilely cast <gr str="1602">away</gr>, the <gr str="4043">shield </gr>of <gr str="7586">Saul</gr>, <STYLE css="color:#808080;font-style:italic"> as </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> though </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> he </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> had </STYLE>
+        <gr str="1097">not </gr>
+        <STYLE css="color:#808080;font-style:italic"> been </STYLE>
+        <gr str="4886">anointed </gr>with <gr str="8081">oil</gr>. </VERS>
+      <VERS vnumber="22"> From the <gr str="4480 1818">blood </gr>of the <gr str="2491">slain</gr>, from the <gr str="4480 2459">fat </gr>of the <gr str="1368">mighty</gr>, the <gr str="7198">bow </gr>of <gr str="3083">Jonathan </gr>
+        <gr str="7734">turned </gr>
+        <gr str="3808">not </gr>
+        <gr str="268">back</gr>, and the <gr str="2719">sword </gr>of <gr str="7586">Saul </gr>
+        <gr str="7725">returned </gr>
+        <gr str="3808">not </gr>
+        <gr str="7387">empty</gr>. </VERS>
+      <VERS vnumber="23">
+        <gr str="7586">Saul </gr>and <gr str="3083">Jonathan </gr>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE>
+        <gr str="157">lovely </gr>and <gr str="5273">pleasant </gr>in their <gr str="2416">lives</gr>, and in their <gr str="4194">death </gr>they were <gr str="3808">not </gr>
+        <gr str="6504">divided</gr>: they were <gr str="7043">swifter </gr>than <gr str="4480 5404">eagles</gr>, they were <gr str="1396">stronger </gr>than <gr str="4480 738">lions</gr>. </VERS>
+      <VERS vnumber="24"> Ye <gr str="1323">daughters </gr>of <gr str="3478">Israel</gr>, <gr str="1058">weep </gr>
+        <gr str="413">over </gr>
+        <gr str="7586">Saul</gr>, who <gr str="3847">clothed </gr>you in <gr str="8144">scarlet</gr>, <gr str="5973">with </gr>
+        <STYLE css="color:#808080;font-style:italic"> other </STYLE>
+        <gr str="5730">delights</gr>, who put <gr str="5927">on </gr>
+        <gr str="5716">ornaments </gr>of <gr str="2091">gold </gr>
+        <gr str="5921">upon </gr>your <gr str="3830">apparel</gr>. </VERS>
+      <VERS vnumber="25">
+        <gr str="349">How </gr>are the <gr str="1368">mighty </gr>
+        <gr str="5307">fallen </gr>in the <gr str="8432">midst </gr>of the <gr str="4421">battle</gr>! O <gr str="3083">Jonathan</gr>, <STYLE css="color:#808080;font-style:italic"> thou </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> wast </STYLE>
+        <gr str="2491">slain </gr>
+        <gr str="5921">in </gr>thine high <gr str="1116">places</gr>. </VERS>
+      <VERS vnumber="26"> I am <gr str="6887">distressed </gr>
+        <gr str="5921">for </gr>thee, my <gr str="251">brother </gr>
+        <gr str="3083">Jonathan</gr>: <gr str="3966">very </gr>
+        <gr str="5276">pleasant </gr>hast thou been unto me: thy <gr str="160">love </gr>to me was <gr str="6381">wonderful</gr>, passing the <gr str="4480 160">love </gr>of <gr str="802">women</gr>. </VERS>
+      <VERS vnumber="27">
+        <gr str="349">How </gr>are the <gr str="1368">mighty </gr>
+        <gr str="5307">fallen</gr>, and the <gr str="3627">weapons </gr>of <gr str="4421">war </gr>
+        <gr str="6">perished</gr>! </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

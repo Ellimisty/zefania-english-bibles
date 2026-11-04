@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="The Book of Mormon" type="x-bible">
+  <BIBLEBOOK bnumber="16" bname="Revelation" bsname="DNC">
+    <CHAPTER cnumber="91">
+      <VERS vnumber="1">[Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, March 9, 1833. HC 1: 331-332. The Prophet was at this time engaged in the translation of the Old Testament. Having come to that portion of the ancient writings called the Apocrypha, he inquired of the Lord and received this instruction.] VERILY, thus saith the Lord unto you concerning the Apocrypha-There are many things contained therein that are true, and it is mostly translated correctly;</VERS>
+      <VERS vnumber="2">There are many things contained therein that are not true, which are interpolations by the hands of men.</VERS>
+      <VERS vnumber="3">Verily, I say unto you, that it is not needful that the Apocrypha should be translated.</VERS>
+      <VERS vnumber="4">Therefore, whoso readeth it, let him understand, for the Spirit manifesteth truth;</VERS>
+      <VERS vnumber="5">And whoso is enlightened by the Spirit shall obtain benefit therefrom;</VERS>
+      <VERS vnumber="6">And whoso receiveth not by the Spirit, cannot be benefited. Therefore it is not needful that it should be translated. Amen.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

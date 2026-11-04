@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="24">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm for David on the first day of the week.</STYLE> - The earth is the Lord’s and the fullness thereof; the world, and all that dwell in it.</VERS>
+      <VERS vnumber="2">He has founded it upon the seas, and prepared it upon the rivers.</VERS>
+      <VERS vnumber="3">Who shall go up to the mountain of the Lord, and who shall stand in his holy place?</VERS>
+      <VERS vnumber="4">He that is innocent in his hands and pure in his heart; who has not lifted up his soul to vanity, nor sworn deceitfully <DIV>
+          <NOTE type="x-studynote">Gr. against</NOTE>
+        </DIV> to his neighbour.</VERS>
+      <VERS vnumber="5">He shall receive a blessing from the Lord, and mercy from God his Saviour.</VERS>
+      <VERS vnumber="6">This is the generation of them that seek him, that seek the face of the God of Jacob. Pause.</VERS>
+      <VERS vnumber="7">Lift up your gates, ye princes, and be ye lifted up, ye everlasting doors; and the king of glory shall come in.</VERS>
+      <VERS vnumber="8">Who is this king of Glory? the Lord strong and mighty, the Lord mighty in battle.</VERS>
+      <VERS vnumber="9">Lift up your gates, ye princes; and be ye lift up, ye everlasting doors; and the king of glory shall come in.</VERS>
+      <VERS vnumber="10">Who is this king of glory? The Lord of hosts, he is this king of glory.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="131">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A song of the degrees by David.</STYLE> O Lord, my heart was not haughty, nor were my eyes lofty: neither have I walked after matters too great, or those too wonderful for me.</VERS>
+      <VERS vnumber="2">Surely I have pacified and stilled my soul, like the suckling on its mothers breast: like a suckling is in me my soul.</VERS>
+      <VERS vnumber="3">Let Israel wait for the Lord from this time forth and for ever more.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="23">
+    <CHAPTER cnumber="12">
+      <VERS vnumber="1">And in that day thou shalt say, I will bless thee, O Lord; for thou wast angry with me, but thou hast turned aside thy wrath, and hast pitied me.</VERS>
+      <VERS vnumber="2">Behold, my God is my Saviour; I will trust in him, and not be afraid: for the Lord is my glory and my praise, and is become my salvation.</VERS>
+      <VERS vnumber="3">Draw ye therefore water with joy out of the wells of salvation.</VERS>
+      <VERS vnumber="4">And in that day thou shalt say, sing to the Lord, call aloud upon his name, proclaim his glorious deeds among the Gentiles; make mention that his name is exalted.</VERS>
+      <VERS vnumber="5">Sing praise to the name of the Lord; for he has done great things: declare this in all the earth.</VERS>
+      <VERS vnumber="6">Exalt and rejoice, ye that dwell in Sion: for the Holy One of Israel is exalted in the midst <DIV>
+          <NOTE type="x-studynote">Heb. and Alex. «of thee’</NOTE>
+        </DIV> of her.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="99">
+      <VERS vnumber="1"> The <gr str="3068">LORD </gr>
+        <gr str="4427">reigneth</gr>; let the <gr str="5971">people </gr>
+        <gr str="7264">tremble</gr>: he <gr str="3427">sitteth </gr>
+        <STYLE css="color:#808080;font-style:italic"> between </STYLE> the <gr str="3742">cherubims</gr>; let the <gr str="776">earth </gr>be <gr str="5120">moved</gr>. </VERS>
+      <VERS vnumber="2"> The <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="1419">great </gr>in <gr str="6726">Zion</gr>; and <gr str="1931">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="7311">high </gr>
+        <gr str="5921">above </gr>
+        <gr str="3605">all </gr>the <gr str="5971">people</gr>. </VERS>
+      <VERS vnumber="3"> Let them <gr str="3034">praise </gr>thy <gr str="1419">great </gr>and <gr str="3372">terrible </gr>
+        <gr str="8034">name</gr>; <STYLE css="color:#808080;font-style:italic"> for </STYLE>
+        <gr str="1931">it </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="6918">holy</gr>. </VERS>
+      <VERS vnumber="4"> The <gr str="4428">king </gr>'s <gr str="5797">strength </gr>also <gr str="157">loveth </gr>
+        <gr str="4941">judgment</gr>; <gr str="859">thou </gr>dost <gr str="3559">establish </gr>
+        <gr str="4339">equity</gr>, <gr str="859">thou </gr>
+        <gr str="6213">executest </gr>
+        <gr str="4941">judgment </gr>and <gr str="6666">righteousness </gr>in <gr str="3290">Jacob</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="7311">Exalt </gr>ye the <gr str="3068">LORD </gr>our <gr str="430">God</gr>, and <gr str="7812">worship </gr>at his <gr str="1916 7272">footstool</gr>; <STYLE css="color:#808080;font-style:italic"> for </STYLE>
+        <gr str="1931">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="6918">holy</gr>. </VERS>
+      <VERS vnumber="6">
+        <gr str="4872">Moses </gr>and <gr str="175">Aaron </gr>among his <gr str="3548">priests</gr>, and <gr str="8050">Samuel </gr>among them that call <gr str="7121">upon </gr>his <gr str="8034">name</gr>; they <gr str="7121">called </gr>
+        <gr str="413">upon </gr>the <gr str="3068">LORD</gr>, and <gr str="1931">he </gr>
+        <gr str="6030">answered </gr>them. </VERS>
+      <VERS vnumber="7"> He <gr str="1696">spoke </gr>
+        <gr str="413">unto </gr>them in the <gr str="6051">cloudy </gr>
+        <gr str="5982">pillar</gr>: they <gr str="8104">kept </gr>his <gr str="5713">testimonies</gr>, and the <gr str="2706">ordinance </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE> he <gr str="5414">gave </gr>them. </VERS>
+      <VERS vnumber="8"> Thou <gr str="6030">answeredst </gr>them, O <gr str="3068">LORD </gr>our <gr str="430">God</gr>: <gr str="859">thou </gr>
+        <gr str="1961">wast </gr>a <gr str="410">God </gr>that <gr str="5375">forgavest </gr>them, though thou tookest <gr str="5358">vengeance </gr>
+        <gr str="5921">of </gr>their <gr str="5949">inventions</gr>. </VERS>
+      <VERS vnumber="9">
+        <gr str="7311">Exalt </gr>the <gr str="3068">LORD </gr>our <gr str="430">God</gr>, and <gr str="7812">worship </gr>at his <gr str="6944">holy </gr>
+        <gr str="2022">hill</gr>; <gr str="3588">for </gr>the <gr str="3068">LORD </gr>our <gr str="430">God </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="6918">holy</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="128">
+      <CAPTION vref="1">A Song of Ascents.</CAPTION>
+      <VERS vnumber="1">Blessed is everyone who fears Jehovah, who walks in His ways.</VERS>
+      <VERS vnumber="2">You shall eat the labor of your hands, you shall be blessed, and it shall be well with you.</VERS>
+      <VERS vnumber="3">Your wife shall be like a fruitful vine inside your house, your children like olive plants around your table.</VERS>
+      <VERS vnumber="4">Behold, thus shall the man be blessed who fears Jehovah.</VERS>
+      <VERS vnumber="5">Jehovah bless you out of Zion, and may you see the good of Jerusalem all the days of your life.</VERS>
+      <VERS vnumber="6">Yea, may you see your childrens children. Peace be upon Israel!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

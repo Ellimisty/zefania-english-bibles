@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="15" bname="Esra" bsname="Esr">
+    <CHAPTER cnumber="2">
+      <VERS vnumber="1"> Now <gr str="428">these </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> the <gr str="1121">children </gr>of the <gr str="4082">province </gr>that went <gr str="5927">up </gr>out of the <gr str="4480 7628">captivity</gr>, of those which had been carried <gr str="1473">away</gr>, <gr str="834">whom </gr>
+        <gr str="5019">Nebuchadnezzar </gr>the <gr str="4428">king </gr>of <gr str="894">Babylon </gr>had carried <gr str="1540">away </gr>unto <gr str="894">Babylon</gr>, and came <gr str="7725">again </gr>unto <gr str="3389">Jerusalem </gr>and <gr str="3063">Judah</gr>, every <gr str="376">one </gr>unto his <gr str="5892">city</gr>; </VERS>
+      <VERS vnumber="2">
+        <gr str="834">Which </gr>
+        <gr str="935">came </gr>
+        <gr str="5973">with </gr>
+        <gr str="2216">Zerubbabel</gr>: <gr str="3442">Jeshua</gr>, <gr str="5166">Nehemiah</gr>, <gr str="8304">Seraiah</gr>, <gr str="7480">Reelaiah</gr>, <gr str="4782">Mordecai</gr>, <gr str="1114">Bilshan</gr>, <gr str="4558">Mispar</gr>, <gr str="902">Bigvai</gr>, <gr str="7348">Rehum</gr>, <gr str="1196">Baanah</gr>. The <gr str="4557">number </gr>of the <gr str="376">men </gr>of the <gr str="5971">people </gr>of <gr str="3478">Israel</gr>: </VERS>
+      <VERS vnumber="3"> The <gr str="1121">children </gr>of <gr str="6551">Parosh</gr>, two <gr str="505">thousand </gr>a <gr str="3967">hundred </gr>
+        <gr str="7657">seventy </gr>and <gr str="8147">two</gr>. </VERS>
+      <VERS vnumber="4"> The <gr str="1121">children </gr>of <gr str="8203">Shephatiah</gr>, <gr str="7969">three </gr>
+        <gr str="3967">hundred </gr>
+        <gr str="7657">seventy </gr>and <gr str="8147">two</gr>. </VERS>
+      <VERS vnumber="5"> The <gr str="1121">children </gr>of <gr str="733">Arah</gr>, <gr str="7651">seven </gr>
+        <gr str="3967">hundred </gr>
+        <gr str="7657">seventy </gr>and <gr str="2568">five</gr>. </VERS>
+      <VERS vnumber="6"> The <gr str="1121">children </gr>of <gr str="6355">Pahath </gr>-moab, of the <gr str="1121">children </gr>of <gr str="3442">Jeshua </gr>
+        <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="3097">Joab</gr>, two <gr str="505">thousand </gr>
+        <gr str="8083">eight </gr>
+        <gr str="3967">hundred </gr>and <gr str="8147 6240">twelve</gr>. </VERS>
+      <VERS vnumber="7"> The <gr str="1121">children </gr>of <gr str="5867">Elam</gr>, a <gr str="505">thousand </gr>two <gr str="3967">hundred </gr>
+        <gr str="2572">fifty </gr>and <gr str="702">four</gr>. </VERS>
+      <VERS vnumber="8"> The <gr str="1121">children </gr>of <gr str="2240">Zattu</gr>, <gr str="8672">nine </gr>
+        <gr str="3967">hundred </gr>
+        <gr str="705">forty </gr>and <gr str="2568">five</gr>. </VERS>
+      <VERS vnumber="9"> The <gr str="1121">children </gr>of <gr str="2140">Zaccai</gr>, <gr str="7651">seven </gr>
+        <gr str="3967">hundred </gr>and <gr str="8346">threescore</gr>. </VERS>
+      <VERS vnumber="10"> The <gr str="1121">children </gr>of <gr str="1137">Bani</gr>, <gr str="8337">six </gr>
+        <gr str="3967">hundred </gr>
+        <gr str="705">forty </gr>and <gr str="8147">two</gr>. </VERS>
+      <VERS vnumber="11"> The <gr str="1121">children </gr>of <gr str="893">Bebai</gr>, <gr str="8337">six </gr>
+        <gr str="3967">hundred </gr>
+        <gr str="6242">twenty </gr>and <gr str="7969">three</gr>. </VERS>
+      <VERS vnumber="12"> The <gr str="1121">children </gr>of <gr str="5803">Azgad</gr>, a <gr str="505">thousand </gr>two <gr str="3967">hundred </gr>
+        <gr str="6242">twenty </gr>and <gr str="8147">two</gr>. </VERS>
+      <VERS vnumber="13"> The <gr str="1121">children </gr>of <gr str="140">Adonikam</gr>, <gr str="8337">six </gr>
+        <gr str="3967">hundred </gr>
+        <gr str="8346">sixty </gr>and <gr str="8337">six</gr>. </VERS>
+      <VERS vnumber="14"> The <gr str="1121">children </gr>of <gr str="902">Bigvai</gr>, two <gr str="505">thousand </gr>
+        <gr str="2572">fifty </gr>and <gr str="8337">six</gr>. </VERS>
+      <VERS vnumber="15"> The <gr str="1121">children </gr>of <gr str="5720">Adin</gr>, <gr str="702">four </gr>
+        <gr str="3967">hundred </gr>
+        <gr str="2572">fifty </gr>and <gr str="702">four</gr>. </VERS>
+      <VERS vnumber="16"> The <gr str="1121">children </gr>of <gr str="333">Ater </gr>of <gr str="3169">Hezekiah</gr>, <gr str="8673">ninety </gr>and <gr str="8083">eight</gr>. </VERS>
+      <VERS vnumber="17"> The <gr str="1121">children </gr>of <gr str="1209">Bezai</gr>, <gr str="7969">three </gr>
+        <gr str="3967">hundred </gr>
+        <gr str="6242">twenty </gr>and <gr str="7969">three</gr>. </VERS>
+      <VERS vnumber="18"> The <gr str="1121">children </gr>of <gr str="3139">Jorah</gr>, a <gr str="3967">hundred </gr>and <gr str="8147 6240">twelve</gr>. </VERS>
+      <VERS vnumber="19"> The <gr str="1121">children </gr>of <gr str="2828">Hashum</gr>, two <gr str="3967">hundred </gr>
+        <gr str="6242">twenty </gr>and <gr str="7969">three</gr>. </VERS>
+      <VERS vnumber="20"> The <gr str="1121">children </gr>of <gr str="1402">Gibbar</gr>, <gr str="8673">ninety </gr>and <gr str="2568">five</gr>. </VERS>
+      <VERS vnumber="21"> The <gr str="1121">children </gr>of <gr str="1035">Bethlehem</gr>, a <gr str="3967">hundred </gr>
+        <gr str="6242">twenty </gr>and <gr str="7969">three</gr>. </VERS>
+      <VERS vnumber="22"> The <gr str="376">men </gr>of <gr str="5199">Netophah</gr>, <gr str="2572">fifty </gr>and <gr str="8337">six</gr>. </VERS>
+      <VERS vnumber="23"> The <gr str="376">men </gr>of <gr str="6068">Anathoth</gr>, a <gr str="3967">hundred </gr>
+        <gr str="6242">twenty </gr>and <gr str="8083">eight</gr>. </VERS>
+      <VERS vnumber="24"> The <gr str="1121">children </gr>of <gr str="5820">Azmaveth</gr>, <gr str="705">forty </gr>and <gr str="8147">two</gr>. </VERS>
+      <VERS vnumber="25"> The <gr str="1121">children </gr>of <gr str="7157">Kirjath </gr>-arim, <gr str="3716">Chephirah</gr>, and <gr str="881">Beeroth</gr>, <gr str="7651">seven </gr>
+        <gr str="3967">hundred </gr>and <gr str="705">forty </gr>and <gr str="7969">three</gr>. </VERS>
+      <VERS vnumber="26"> The <gr str="1121">children </gr>of <gr str="7414">Ramah </gr>and <gr str="1387">Gaba</gr>, <gr str="8337">six </gr>
+        <gr str="3967">hundred </gr>
+        <gr str="6242">twenty </gr>and <gr str="259">one</gr>. </VERS>
+      <VERS vnumber="27"> The <gr str="376">men </gr>of <gr str="4363">Michmas</gr>, a <gr str="3967">hundred </gr>
+        <gr str="6242">twenty </gr>and <gr str="8147">two</gr>. </VERS>
+      <VERS vnumber="28"> The <gr str="376">men </gr>of <gr str="1008">Bethel </gr>and <gr str="5857">Ai</gr>, two <gr str="3967">hundred </gr>
+        <gr str="6242">twenty </gr>and <gr str="7969">three</gr>. </VERS>
+      <VERS vnumber="29"> The <gr str="1121">children </gr>of <gr str="5015">Nebo</gr>, <gr str="2572">fifty </gr>and <gr str="8147">two</gr>. </VERS>
+      <VERS vnumber="30"> The <gr str="1121">children </gr>of <gr str="4019">Magbish</gr>, a <gr str="3967">hundred </gr>
+        <gr str="2572">fifty </gr>and <gr str="8337">six</gr>. </VERS>
+      <VERS vnumber="31"> The <gr str="1121">children </gr>of the <gr str="312">other </gr>
+        <gr str="5867">Elam</gr>, a <gr str="505">thousand </gr>two <gr str="3967">hundred </gr>
+        <gr str="2572">fifty </gr>and <gr str="702">four</gr>. </VERS>
+      <VERS vnumber="32"> The <gr str="1121">children </gr>of <gr str="2766">Harim</gr>, <gr str="7969">three </gr>
+        <gr str="3967">hundred </gr>and <gr str="6242">twenty</gr>. </VERS>
+      <VERS vnumber="33"> The <gr str="1121">children </gr>of <gr str="3850">Lod</gr>, <gr str="2307">Hadid</gr>, and <gr str="207">Ono</gr>, <gr str="7651">seven </gr>
+        <gr str="3967">hundred </gr>
+        <gr str="6242">twenty </gr>and <gr str="2568">five</gr>. </VERS>
+      <VERS vnumber="34"> The <gr str="1121">children </gr>of <gr str="3405">Jericho</gr>, <gr str="7969">three </gr>
+        <gr str="3967">hundred </gr>
+        <gr str="705">forty </gr>and <gr str="2568">five</gr>. </VERS>
+      <VERS vnumber="35"> The <gr str="1121">children </gr>of <gr str="5570">Senaah</gr>, <gr str="7969">three </gr>
+        <gr str="505">thousand </gr>and <gr str="8337">six </gr>
+        <gr str="3967">hundred </gr>and <gr str="7970">thirty</gr>. </VERS>
+      <VERS vnumber="36"> The <gr str="3548">priests</gr>: the <gr str="1121">children </gr>of <gr str="3048">Jedaiah</gr>, of the <gr str="1004">house </gr>of <gr str="3442">Jeshua</gr>, <gr str="8672">nine </gr>
+        <gr str="3967">hundred </gr>
+        <gr str="7657">seventy </gr>and <gr str="7969">three</gr>. </VERS>
+      <VERS vnumber="37"> The <gr str="1121">children </gr>of <gr str="564">Immer</gr>, a <gr str="505">thousand </gr>
+        <gr str="2572">fifty </gr>and <gr str="8147">two</gr>. </VERS>
+      <VERS vnumber="38"> The <gr str="1121">children </gr>of <gr str="6583">Pashur</gr>, a <gr str="505">thousand </gr>two <gr str="3967">hundred </gr>
+        <gr str="705">forty </gr>and <gr str="7651">seven</gr>. </VERS>
+      <VERS vnumber="39"> The <gr str="1121">children </gr>of <gr str="2766">Harim</gr>, a <gr str="505">thousand </gr>and <gr str="7651 6240">seventeen</gr>. </VERS>
+      <VERS vnumber="40"> The <gr str="3881">Levites</gr>: the <gr str="1121">children </gr>of <gr str="3442">Jeshua </gr>and <gr str="6934">Kadmiel</gr>, of the <gr str="1121">children </gr>of <gr str="1938">Hodaviah</gr>, <gr str="7657">seventy </gr>and <gr str="702">four</gr>. </VERS>
+      <VERS vnumber="41"> The <gr str="7891">singers</gr>: the <gr str="1121">children </gr>of <gr str="623">Asaph</gr>, a <gr str="3967">hundred </gr>
+        <gr str="6242">twenty </gr>and <gr str="8083">eight</gr>. </VERS>
+      <VERS vnumber="42"> The <gr str="1121">children </gr>of the <gr str="7778">porters</gr>: the <gr str="1121">children </gr>of <gr str="7967">Shallum</gr>, the <gr str="1121">children </gr>of <gr str="333">Ater</gr>, the <gr str="1121">children </gr>of <gr str="2929">Talmon</gr>, the <gr str="1121">children </gr>of <gr str="6126">Akkub</gr>, the <gr str="1121">children </gr>of <gr str="2410">Hatita</gr>, the <gr str="1121">children </gr>of <gr str="7630">Shobai</gr>, <STYLE css="color:#808080;font-style:italic"> in </STYLE>
+        <gr str="3605">all </gr>a <gr str="3967">hundred </gr>
+        <gr str="7970">thirty </gr>and <gr str="8672">nine</gr>. </VERS>
+      <VERS vnumber="43"> The <gr str="5411">Nethinims</gr>: the <gr str="1121">children </gr>of <gr str="6727">Ziha</gr>, the <gr str="1121">children </gr>of <gr str="2817">Hasupha</gr>, the <gr str="1121">children </gr>of <gr str="2884">Tabbaoth</gr>, </VERS>
+      <VERS vnumber="44"> The <gr str="1121">children </gr>of <gr str="7026">Keros</gr>, the <gr str="1121">children </gr>of <gr str="5517">Siaha</gr>, the <gr str="1121">children </gr>of <gr str="6303">Padon</gr>, </VERS>
+      <VERS vnumber="45"> The <gr str="1121">children </gr>of <gr str="3838">Lebanah</gr>, the <gr str="1121">children </gr>of <gr str="2286">Hagabah</gr>, the <gr str="1121">children </gr>of <gr str="6126">Akkub</gr>, </VERS>
+      <VERS vnumber="46"> The <gr str="1121">children </gr>of <gr str="2285">Hagab</gr>, the <gr str="1121">children </gr>of <gr str="8073">Shalmai</gr>, the <gr str="1121">children </gr>of <gr str="2605">Hanan</gr>, </VERS>
+      <VERS vnumber="47"> The <gr str="1121">children </gr>of <gr str="1435">Giddel</gr>, the <gr str="1121">children </gr>of <gr str="1515">Gahar</gr>, the <gr str="1121">children </gr>of <gr str="7211">Reaiah</gr>, </VERS>
+      <VERS vnumber="48"> The <gr str="1121">children </gr>of <gr str="7526">Rezin</gr>, the <gr str="1121">children </gr>of <gr str="5353">Nekoda</gr>, the <gr str="1121">children </gr>of <gr str="1502">Gazzam</gr>, </VERS>
+      <VERS vnumber="49"> The <gr str="1121">children </gr>of <gr str="5798">Uzza</gr>, the <gr str="1121">children </gr>of <gr str="6454">Paseah</gr>, the <gr str="1121">children </gr>of <gr str="1153">Besai</gr>, </VERS>
+      <VERS vnumber="50"> The <gr str="1121">children </gr>of <gr str="619">Asnah</gr>, the <gr str="1121">children </gr>of <gr str="4586">Mehunim</gr>, the <gr str="1121">children </gr>of <gr str="5304">Nephusim</gr>, </VERS>
+      <VERS vnumber="51"> The <gr str="1121">children </gr>of <gr str="1227">Bakbuk</gr>, the <gr str="1121">children </gr>of <gr str="2709">Hakupha</gr>, the <gr str="1121">children </gr>of <gr str="2744">Harhur</gr>, </VERS>
+      <VERS vnumber="52"> The <gr str="1121">children </gr>of <gr str="1213">Bazluth</gr>, the <gr str="1121">children </gr>of <gr str="4240">Mehida</gr>, the <gr str="1121">children </gr>of <gr str="2797">Harsha</gr>, </VERS>
+      <VERS vnumber="53"> The <gr str="1121">children </gr>of <gr str="1302">Barkos</gr>, the <gr str="1121">children </gr>of <gr str="5516">Sisera</gr>, the <gr str="1121">children </gr>of <gr str="8547">Thamah</gr>, </VERS>
+      <VERS vnumber="54"> The <gr str="1121">children </gr>of <gr str="5335">Neziah</gr>, the <gr str="1121">children </gr>of <gr str="2412">Hatipha</gr>. </VERS>
+      <VERS vnumber="55"> The <gr str="1121">children </gr>of <gr str="8010">Solomon </gr>'s <gr str="5650">servants</gr>: the <gr str="1121">children </gr>of <gr str="5479">Sotai</gr>, the <gr str="1121">children </gr>of <gr str="5618">Sophereth</gr>, the <gr str="1121">children </gr>of <gr str="6514">Peruda</gr>, </VERS>
+      <VERS vnumber="56"> The <gr str="1121">children </gr>of <gr str="3279">Jaalah</gr>, the <gr str="1121">children </gr>of <gr str="1874">Darkon</gr>, the <gr str="1121">children </gr>of <gr str="1435">Giddel</gr>, </VERS>
+      <VERS vnumber="57"> The <gr str="1121">children </gr>of <gr str="8203">Shephatiah</gr>, the <gr str="1121">children </gr>of <gr str="2411">Hattil</gr>, the <gr str="1121">children </gr>of Pochereth of <gr str="6380">Zebaim</gr>, the <gr str="1121">children </gr>of <gr str="532">Ami</gr>. </VERS>
+      <VERS vnumber="58">
+        <gr str="3605">All </gr>the <gr str="5411">Nethinims</gr>, and the <gr str="1121">children </gr>of <gr str="8010">Solomon </gr>'s <gr str="5650">servants</gr>, <STYLE css="color:#808080;font-style:italic"> were </STYLE>
+        <gr str="7969">three </gr>
+        <gr str="3967">hundred </gr>
+        <gr str="8673">ninety </gr>and <gr str="8147">two</gr>. </VERS>
+      <VERS vnumber="59"> And <gr str="428">these </gr>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE> they which went <gr str="5927">up </gr>from <gr str="4480 8528">Tel </gr>-melah, <gr str="8521">Tel </gr>-harsa, <gr str="3743">Cherub</gr>, <gr str="135">Addan</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="564">Immer</gr>: but they <gr str="3201">could </gr>
+        <gr str="3808">not </gr>
+        <gr str="5046">show </gr>their <gr str="1">father </gr>'s <gr str="1004">house</gr>, and their <gr str="2233">seed</gr>, <gr str="518">whether </gr>
+        <gr str="1992">they </gr>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE> of <gr str="4480 3478">Israel</gr>: </VERS>
+      <VERS vnumber="60"> The <gr str="1121">children </gr>of <gr str="1806">Delaiah</gr>, the <gr str="1121">children </gr>of <gr str="2900">Tobiah</gr>, the <gr str="1121">children </gr>of <gr str="5353">Nekoda</gr>, <gr str="8337">six </gr>
+        <gr str="3967">hundred </gr>
+        <gr str="2572">fifty </gr>and <gr str="8147">two</gr>. </VERS>
+      <VERS vnumber="61"> And of the <gr str="4480 1121">children </gr>of the <gr str="3548">priests</gr>: the <gr str="1121">children </gr>of <gr str="2252">Habaiah</gr>, the <gr str="1121">children </gr>of <gr str="6976">Koz</gr>, the <gr str="1121">children </gr>of <gr str="1271">Barzillai</gr>; <gr str="834">which </gr>
+        <gr str="3947">took </gr>a <gr str="802">wife </gr>of the <gr str="4480 1323">daughters </gr>of <gr str="1271">Barzillai </gr>the <gr str="1569">Gileadite</gr>, and was <gr str="7121">called </gr>
+        <gr str="5921">after </gr>their <gr str="8034">name</gr>: </VERS>
+      <VERS vnumber="62">
+        <gr str="428">These </gr>
+        <gr str="1245">sought </gr>their <gr str="3791">register </gr>
+        <STYLE css="color:#808080;font-style:italic"> among </STYLE> those that were reckoned by <gr str="3187">genealogy</gr>, but they were <gr str="3808">not </gr>
+        <gr str="4672">found</gr>: therefore were they, as polluted, <gr str="1351">put </gr>
+        <gr str="4480">from </gr>the <gr str="3550">priesthood</gr>. </VERS>
+      <VERS vnumber="63"> And the <gr str="8660">Tirshatha </gr>
+        <gr str="559">said </gr>unto them, <gr str="834">that </gr>they should <gr str="3808">not </gr>
+        <gr str="398">eat </gr>of the most holy <gr str="4480 6944 6944">things</gr>, <gr str="5704">till </gr>there stood <gr str="5975">up </gr>a <gr str="3548">priest </gr>with <gr str="224">Urim </gr>and with <gr str="8550">Thummim</gr>. </VERS>
+      <VERS vnumber="64"> The <gr str="3605">whole </gr>
+        <gr str="6951">congregation </gr>
+        <gr str="259">together </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="702 7239">forty </gr>and two <gr str="505">thousand </gr>
+        <gr str="7969">three </gr>
+        <gr str="3967">hundred </gr>
+        <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="8346">threescore</gr>, </VERS>
+      <VERS vnumber="65">
+        <gr str="4480 905">Beside </gr>their <gr str="5650">servants </gr>and their <gr str="519">maids</gr>, of <gr str="428">whom </gr>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE>
+        <gr str="7651">seven </gr>
+        <gr str="505">thousand </gr>
+        <gr str="7969">three </gr>
+        <gr str="3967">hundred </gr>
+        <gr str="7970">thirty </gr>and <gr str="7651">seven</gr>: and <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE> among them two <gr str="3967">hundred </gr>singing <gr str="7891">men </gr>and singing <gr str="7891">women</gr>. </VERS>
+      <VERS vnumber="66"> Their <gr str="5483">horses </gr>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE>
+        <gr str="7651">seven </gr>
+        <gr str="3967">hundred </gr>
+        <gr str="7970">thirty </gr>and <gr str="8337">six</gr>; their <gr str="6505">mules</gr>, two <gr str="3967">hundred </gr>
+        <gr str="705">forty </gr>and <gr str="2568">five</gr>; </VERS>
+      <VERS vnumber="67"> Their <gr str="1581">camels</gr>, <gr str="702">four </gr>
+        <gr str="3967">hundred </gr>
+        <gr str="7970">thirty </gr>and <gr str="2568">five</gr>; <STYLE css="color:#808080;font-style:italic"> their </STYLE>
+        <gr str="2543">asses</gr>, <gr str="8337">six </gr>
+        <gr str="505">thousand </gr>
+        <gr str="7651">seven </gr>
+        <gr str="3967">hundred </gr>and <gr str="6242">twenty</gr>. </VERS>
+      <VERS vnumber="68"> And <STYLE css="color:#808080;font-style:italic"> some </STYLE> of the <gr str="4480 7218">chief </gr>of the <gr str="1">fathers</gr>, when they <gr str="935">came </gr>to the <gr str="1004">house </gr>of the <gr str="3068">LORD </gr>
+        <gr str="834">which </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> at <gr str="3389">Jerusalem</gr>, offered <gr str="5068">freely </gr>for the <gr str="1004">house </gr>of <gr str="430">God </gr>to set it <gr str="5975">up </gr>
+        <gr str="5921">in </gr>his <gr str="4349">place</gr>: </VERS>
+      <VERS vnumber="69"> They <gr str="5414">gave </gr>after their <gr str="3581">ability </gr>unto the <gr str="214">treasure </gr>of the <gr str="4399">work </gr>
+        <gr str="8337 7239">threescore </gr>and one <gr str="505">thousand </gr>
+        <gr str="1871">drams </gr>of <gr str="2091">gold</gr>, and <gr str="2568">five </gr>
+        <gr str="505">thousand </gr>
+        <gr str="4488">pound </gr>of <gr str="3701">silver</gr>, and one <gr str="3967">hundred </gr>
+        <gr str="3548">priests </gr>' <gr str="3801">garments</gr>. </VERS>
+      <VERS vnumber="70"> So the <gr str="3548">priests</gr>, and the <gr str="3881">Levites</gr>, and <STYLE css="color:#808080;font-style:italic"> some </STYLE>
+        <gr str="4480">of </gr>the <gr str="5971">people</gr>, and the <gr str="7891">singers</gr>, and the <gr str="7778">porters</gr>, and the <gr str="5411">Nethinims</gr>, <gr str="3427">dwelt </gr>in their <gr str="5892">cities</gr>, and <gr str="3605">all </gr>
+        <gr str="3478">Israel </gr>in their <gr str="5892">cities</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

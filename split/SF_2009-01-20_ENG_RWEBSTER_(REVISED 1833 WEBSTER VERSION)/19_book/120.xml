@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="120">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Song of degrees.</STYLE> In my distress I cried to the LORD, and he heard me.</VERS>
+      <VERS vnumber="2">Deliver my soul, O LORD, from lying lips, <STYLE css="font-style:italic">and</STYLE> from a deceitful tongue.</VERS>
+      <VERS vnumber="3">What shall be given to thee? or what shall be done to thee, thou false tongue? <DIV>
+          <NOTE type="x-studynote">What shall be given…: or, What shall the deceitful tongue give unto thee? or, what shall it profit thee?</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">done: Heb. added</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">Sharp arrows of the mighty, with coals of juniper. <DIV>
+          <NOTE type="x-studynote">Sharp…: or, It is as the sharp arrows of the mighty man, with coals of juniper</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="5">Woe is me, that I sojourn in Mesech, <STYLE css="font-style:italic">that</STYLE> I dwell in the tents of Kedar!</VERS>
+      <VERS vnumber="6">My soul hath long dwelt with him that hateth peace.</VERS>
+      <VERS vnumber="7">I <STYLE css="font-style:italic">am for</STYLE> peace: but when I speak, they <STYLE css="font-style:italic">are</STYLE> for war. <DIV>
+          <NOTE type="x-studynote">for peace: or, a man of peace</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

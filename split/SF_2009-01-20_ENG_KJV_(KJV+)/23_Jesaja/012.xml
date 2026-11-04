@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="23" bname="Jesaja" bsname="Jes">
+    <CHAPTER cnumber="12">
+      <VERS vnumber="1"> And in <gr str="1931">that </gr>
+        <gr str="3117">day </gr>thou shalt <gr str="559">say</gr>, O <gr str="3068">LORD</gr>, I will <gr str="3034">praise </gr>thee: <gr str="3588">though </gr>thou wast <gr str="599">angry </gr>with me, thine <gr str="639">anger </gr>is turned <gr str="7725">away</gr>, and thou <gr str="5162">comfortedst </gr>me. </VERS>
+      <VERS vnumber="2">
+        <gr str="2009">Behold</gr>, <gr str="410">God </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> my <gr str="3444">salvation</gr>; I will <gr str="982">trust</gr>, and <gr str="3808">not </gr>be <gr str="6342">afraid</gr>: <gr str="3588">for </gr>the <gr str="3050">LORD </gr>
+        <gr str="3068">JEHOVAH </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> my <gr str="5797">strength </gr>and <STYLE css="color:#808080;font-style:italic"> my </STYLE>
+        <gr str="2176">song</gr>; he also is <gr str="1961">become </gr>my <gr str="3444">salvation</gr>. </VERS>
+      <VERS vnumber="3"> Therefore with <gr str="8342">joy </gr>shall ye <gr str="7579">draw </gr>
+        <gr str="4325">water </gr>out of the <gr str="4480 4599">wells </gr>of <gr str="3444">salvation</gr>. </VERS>
+      <VERS vnumber="4"> And in <gr str="1931">that </gr>
+        <gr str="3117">day </gr>shall ye <gr str="559">say</gr>, <gr str="3034">Praise </gr>the <gr str="3068">LORD</gr>, <gr str="7121">call </gr>upon his <gr str="8034">name</gr>, <gr str="3045">declare </gr>his <gr str="5949">doings </gr>among the <gr str="5971">people</gr>, make <gr str="2142">mention </gr>
+        <gr str="3588">that </gr>his <gr str="8034">name </gr>is <gr str="7682">exalted</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="2167">Sing </gr>unto the <gr str="3068">LORD</gr>; <gr str="3588">for </gr>he hath <gr str="6213">done </gr>excellent <gr str="1348">things</gr>: <gr str="2063">this </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3045">known </gr>in <gr str="3605">all </gr>the <gr str="776">earth</gr>. </VERS>
+      <VERS vnumber="6"> Cry <gr str="6670">out </gr>and <gr str="7442">shout</gr>, thou <gr str="3427">inhabitant </gr>of <gr str="6726">Zion</gr>: <gr str="3588">for </gr>
+        <gr str="1419">great </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the Holy <gr str="6918">One </gr>of <gr str="3478">Israel </gr>in the <gr str="7130">midst </gr>of thee. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

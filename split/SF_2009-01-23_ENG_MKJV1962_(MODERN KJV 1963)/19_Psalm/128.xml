@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Modern KJV 1963" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="128">
+      <VERS vnumber="1">A Song of degrees. Blessed [is] everyone who fears the LORD, who walks in His ways.</VERS>
+      <VERS vnumber="2">For you shall surely eat the labor of your hands; you [shall be] happy, and all [is] well with you.</VERS>
+      <VERS vnumber="3">Your wife [shall be] like a fruitful vine by the sides of your house; your sons [shall be] like olive plants around your table.</VERS>
+      <VERS vnumber="4">Behold! So shall the man be blessed who fears the LORD.</VERS>
+      <VERS vnumber="5">The LORD shall bless you out of Zion; and you shall see the good of Jerusalem all the days of your life.</VERS>
+      <VERS vnumber="6">Yea, you shall see the sons of your sons. Peace [be] on Israel.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

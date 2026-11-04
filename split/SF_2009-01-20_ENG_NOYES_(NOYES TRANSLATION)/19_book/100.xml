@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="100">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of praise.</STYLE> Raise a voice of joy unto the LORD, all ye lands!</VERS>
+      <VERS vnumber="2">Serve the LORD with gladness; Come before his presence with rejoicing!</VERS>
+      <VERS vnumber="3">Know ye that Jehovah is God! It is he that made us, and we are his, His people, and the flock of his pasture.</VERS>
+      <VERS vnumber="4">Enter into his gates with thanksgiving, And his courts with praise; Be thankful to him, and bless his name!</VERS>
+      <VERS vnumber="5">For the LORD is good; his mercy is everlasting; And his truth endureth to all generations.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

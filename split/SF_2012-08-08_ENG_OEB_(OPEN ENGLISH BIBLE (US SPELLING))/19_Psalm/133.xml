@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="133">
+      <VERS vnumber="1">Behold! How good and how pleasantis the dwelling of brothers together!</VERS>
+      <VERS vnumber="2">Like precious oil on the headthat ran down on the beard,the beard of Aaron, runningover the collar of his robe:</VERS>
+      <VERS vnumber="3">like the dew upon Hermon which fallson the mountains of Zion.For there has the <STYLE id="cl:divineName">Lord</STYLE> ordained blessing ---life that is endless.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="4">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For the End, a Song of David among the Psalms.</STYLE> - When I called upon him, the God of my righteousness heard me: thou hast made room for me in tribulation; pity me, and hearken to my prayer.</VERS>
+      <VERS vnumber="2">O ye sons on men, how long will ye be <DIV>
+          <NOTE type="x-studynote">Lit. heavy of heart</NOTE>
+        </DIV> slow of heart? wherefore do ye love vanity, and seek falsehood? Pause.</VERS>
+      <VERS vnumber="3">But know ye that the Lord has done wondrous things for his holy one: the Lord will hear me when I cry to him.</VERS>
+      <VERS vnumber="4">
+        <DIV>
+          <NOTE type="x-studynote">Eph 4:26</NOTE>
+        </DIV> Be ye angry, and sin not; feel compunction upon your beds for what ye say in your hearts. Pause.</VERS>
+      <VERS vnumber="5">
+        <DIV>
+          <NOTE type="x-studynote">Or, at the same time</NOTE>
+        </DIV> Offer the sacrifice of righteousness, and trust in the Lord.</VERS>
+      <VERS vnumber="6">Many say, Who will shew us good things? the light of thy countenance, O Lord, has been manifested towards us.</VERS>
+      <VERS vnumber="7">Thou hast put gladness into my heart: they have been satisfied with the fruit of their corn and wine and oil.</VERS>
+      <VERS vnumber="8">I will both lie down in peace and sleep: for thou, Lord, only hast caused me to dwell securely.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

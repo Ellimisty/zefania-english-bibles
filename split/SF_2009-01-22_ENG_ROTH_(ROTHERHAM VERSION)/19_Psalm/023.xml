@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Rotherham Version" type="x-bible">
+  <BIBLEBOOK bname="Psalm" bnumber="19" bsname="Ps">
+    <CHAPTER cnumber="23">
+      <VERS vnumber="1">Yahweh, is my shepherdI shall not want:</VERS>
+      <VERS vnumber="2">In pastures of tender grass, he maketh me lie down, Unto restful waters, he leadeth me;</VERS>
+      <VERS vnumber="3">My life, he restoreth, He guideth me in right paths, for the sake of his Name.</VERS>
+      <VERS vnumber="4">Yea, though I walk through a valley death-shadowed, I will fear no harm, for, thou, art with me, Thy rod and thy staff, they, comfort me.</VERS>
+      <VERS vnumber="5">Thou spreadest before me a table, in face of mine adversaries, Thou hast anointed, with oil, my head, My cup, hath run over.</VERS>
+      <VERS vnumber="6">Surely, goodness and lovingkindness, will pursue me, all the days of my life, and I shall dwell in the house of Yahweh, evermore.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="26" bname="Hesekiel" bsname="Hes">
+    <CHAPTER cnumber="18">
+      <VERS vnumber="1"> The <gr str="1697">word </gr>of the <gr str="3068">LORD </gr>
+        <gr str="1961">came </gr>
+        <gr str="413">unto </gr>me again, <gr str="559">saying</gr>, </VERS>
+      <VERS vnumber="2">
+        <gr str="4100">What </gr>mean ye, that <gr str="859">ye </gr>
+        <gr str="4911">use </gr>
+        <gr str="2088">this </gr>
+        <gr str="*853" />
+        <gr str="4912">proverb </gr>
+        <gr str="5921">concerning </gr>the <gr str="127">land </gr>of <gr str="3478">Israel</gr>, <gr str="559">saying</gr>, The <gr str="1">fathers </gr>have <gr str="398">eaten </gr>sour <gr str="1155">grapes</gr>, and the <gr str="1121">children </gr>'s <gr str="8127">teeth </gr>are set on <gr str="6949">edge</gr>? </VERS>
+      <VERS vnumber="3">
+        <STYLE css="color:#808080;font-style:italic"> As </STYLE>
+        <gr str="589">I </gr>
+        <gr str="2416">live</gr>, <gr str="5002">saith </gr>the <gr str="136">Lord </gr>
+        <gr str="3069">GOD</gr>, ye shall <gr str="518">not </gr>
+        <gr str="1961">have </gr>
+        <STYLE css="color:#808080;font-style:italic"> occasion </STYLE> any <gr str="5750">more </gr>to <gr str="4911">use </gr>
+        <gr str="2088">this </gr>
+        <gr str="4912">proverb </gr>in <gr str="3478">Israel</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="2005">Behold</gr>, <gr str="3605">all </gr>
+        <gr str="5315">souls </gr>are mine; as the <gr str="5315">soul </gr>of the <gr str="1">father</gr>, so also the <gr str="5315">soul </gr>of the <gr str="1121">son </gr>is mine: the <gr str="5315">soul </gr>that <gr str="2398">sinneth</gr>, <gr str="1931">it </gr>shall <gr str="4191">die</gr>. </VERS>
+      <VERS vnumber="5"> But <gr str="3588">if </gr>a <gr str="376">man </gr>
+        <gr str="1961">be </gr>
+        <gr str="6662">just</gr>, and <gr str="6213">do </gr>that which is <gr str="4941">lawful </gr>and <gr str="6666">right</gr>, </VERS>
+      <VERS vnumber="6">
+        <STYLE css="color:#808080;font-style:italic"> And </STYLE> hath <gr str="3808">not </gr>
+        <gr str="398">eaten </gr>
+        <gr str="413">upon </gr>the <gr str="2022">mountains</gr>, <gr str="3808">neither </gr>hath lifted <gr str="5375">up </gr>his <gr str="5869">eyes </gr>
+        <gr str="413">to </gr>the <gr str="1544">idols </gr>of the <gr str="1004">house </gr>of <gr str="3478">Israel</gr>, <gr str="3808">neither </gr>hath <gr str="2930">defiled </gr>his <gr str="7453">neighbor </gr>'s <gr str="802">wife</gr>, <gr str="3808">neither </gr>hath come <gr str="7126">near </gr>
+        <gr str="413">to </gr>a <gr str="5079">menstruous </gr>
+        <gr str="802">woman</gr>, </VERS>
+      <VERS vnumber="7"> And hath <gr str="3808">not </gr>
+        <gr str="3238">oppressed </gr>
+        <gr str="376">any</gr>, <STYLE css="color:#808080;font-style:italic"> but </STYLE> hath <gr str="7725">restored </gr>to the <gr str="2326">debtor </gr>his <gr str="2258">pledge</gr>, hath <gr str="1497">spoiled </gr>
+        <gr str="3808">none </gr>by <gr str="1500">violence</gr>, hath <gr str="5414">given </gr>his <gr str="3899">bread </gr>to the <gr str="7457">hungry</gr>, and hath <gr str="3680">covered </gr>the <gr str="5903">naked </gr>with a <gr str="899">garment</gr>; </VERS>
+      <VERS vnumber="8"> He <STYLE css="color:#808080;font-style:italic"> that </STYLE> hath <gr str="3808">not </gr>given <gr str="5414">forth </gr>upon <gr str="5392">usury</gr>, <gr str="3808">neither </gr>hath <gr str="3947">taken </gr>any <gr str="8636">increase</gr>, <STYLE css="color:#808080;font-style:italic"> that </STYLE> hath <gr str="7725">withdrawn </gr>his <gr str="3027">hand </gr>from <gr str="4480 5766">iniquity</gr>, hath <gr str="6213">executed </gr>
+        <gr str="571">true </gr>
+        <gr str="4941">judgment </gr>
+        <gr str="996">between </gr>
+        <gr str="376">man </gr>and <gr str="376">man</gr>, </VERS>
+      <VERS vnumber="9"> Hath <gr str="1980">walked </gr>in my <gr str="2708">statutes</gr>, and hath <gr str="8104">kept </gr>my <gr str="4941">judgments</gr>, to <gr str="6213">deal </gr>
+        <gr str="571">truly</gr>; <gr str="1931">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="6662">just</gr>, he shall surely <gr str="2421 2421">live</gr>, <gr str="5002">saith </gr>the <gr str="136">Lord </gr>
+        <gr str="3069">GOD</gr>. </VERS>
+      <VERS vnumber="10"> If he <gr str="3205">beget </gr>a <gr str="1121">son </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="6530">robber</gr>, a <gr str="8210">shedder </gr>of <gr str="1818">blood</gr>, and <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <gr str="6213">doeth </gr>the <gr str="251">like </gr>to <STYLE css="color:#808080;font-style:italic"> any </STYLE>
+        <gr str="4480 259">one </gr>of <gr str="4480 428">these </gr>
+        <STYLE css="color:#808080;font-style:italic"> things </STYLE>, </VERS>
+      <VERS vnumber="11"> And <gr str="1931">that </gr>
+        <gr str="6213">doeth </gr>
+        <gr str="3808">not </gr>
+        <gr str="*853" />
+        <gr str="3605">any </gr>of <gr str="428">those </gr>
+        <STYLE css="color:#808080;font-style:italic"> duties </STYLE>, <gr str="3588">but </gr>
+        <gr str="1571">even </gr>hath <gr str="398">eaten </gr>
+        <gr str="413">upon </gr>the <gr str="2022">mountains</gr>, and <gr str="2930">defiled </gr>his <gr str="7453">neighbor </gr>'s <gr str="802">wife</gr>, </VERS>
+      <VERS vnumber="12"> Hath <gr str="3238">oppressed </gr>the <gr str="6041">poor </gr>and <gr str="34">needy</gr>, hath <gr str="1497">spoiled </gr>by <gr str="1500">violence</gr>, hath <gr str="3808">not </gr>
+        <gr str="7725">restored </gr>the <gr str="2258">pledge</gr>, and hath lifted <gr str="5375">up </gr>his <gr str="5869">eyes </gr>
+        <gr str="413">to </gr>the <gr str="1544">idols</gr>, hath <gr str="6213">committed </gr>
+        <gr str="8441">abomination</gr>, </VERS>
+      <VERS vnumber="13"> Hath given <gr str="5414">forth </gr>upon <gr str="5392">usury</gr>, and hath <gr str="3947">taken </gr>
+        <gr str="8636">increase</gr>: shall he then <gr str="2421">live</gr>? he shall <gr str="3808">not </gr>
+        <gr str="2421">live</gr>: he hath <gr str="6213">done </gr>
+        <gr str="*853" />
+        <gr str="3605">all </gr>
+        <gr str="428">these </gr>
+        <gr str="8441">abominations</gr>; he shall surely <gr str="4191 4191">die</gr>; his <gr str="1818">blood </gr>shall <gr str="1961">be </gr>upon him. </VERS>
+      <VERS vnumber="14"> Now, <gr str="2009">lo</gr>, <STYLE css="color:#808080;font-style:italic"> if </STYLE> he <gr str="3205">beget </gr>a <gr str="1121">son</gr>, that <gr str="7200">seeth </gr>
+        <gr str="*853" />
+        <gr str="3605">all </gr>his <gr str="1">father </gr>'s <gr str="2403">sins </gr>
+        <gr str="834">which </gr>he hath <gr str="6213">done</gr>, and <gr str="7200">considereth</gr>, and <gr str="6213">doeth </gr>
+        <gr str="3808">not </gr>such like, </VERS>
+      <VERS vnumber="15">
+        <STYLE css="color:#808080;font-style:italic"> That </STYLE> hath <gr str="3808">not </gr>
+        <gr str="398">eaten </gr>
+        <gr str="5921">upon </gr>the <gr str="2022">mountains</gr>, <gr str="3808">neither </gr>hath lifted <gr str="5375">up </gr>his <gr str="5869">eyes </gr>
+        <gr str="413">to </gr>the <gr str="1544">idols </gr>of the <gr str="1004">house </gr>of <gr str="3478">Israel</gr>, hath <gr str="3808">not </gr>
+        <gr str="2930">defiled </gr>his <gr str="7453">neighbor </gr>'s  <gr str="*853" />
+        <gr str="802">wife</gr>, </VERS>
+      <VERS vnumber="16">
+        <gr str="3808">Neither </gr>hath <gr str="3238">oppressed </gr>
+        <gr str="376">any</gr>, hath <gr str="3808">not </gr>
+        <gr str="2254">withheld </gr>the <gr str="2258">pledge</gr>, <gr str="3808">neither </gr>hath <gr str="1497">spoiled </gr>by <gr str="1500">violence</gr>, <STYLE css="color:#808080;font-style:italic"> but </STYLE> hath <gr str="5414">given </gr>his <gr str="3899">bread </gr>to the <gr str="7457">hungry</gr>, and hath <gr str="3680">covered </gr>the <gr str="5903">naked </gr>with a <gr str="899">garment</gr>, </VERS>
+      <VERS vnumber="17">
+        <STYLE css="color:#808080;font-style:italic"> That </STYLE> hath taken <gr str="7725">off </gr>his <gr str="3027">hand </gr>from the <gr str="4480 6041">poor</gr>, <STYLE css="color:#808080;font-style:italic"> that </STYLE> hath <gr str="3808">not </gr>
+        <gr str="3947">received </gr>
+        <gr str="5392">usury </gr>nor <gr str="8636">increase</gr>, hath <gr str="6213">executed </gr>my <gr str="4941">judgments</gr>, hath <gr str="1980">walked </gr>in my <gr str="2708">statutes</gr>; <gr str="1931">he </gr>shall <gr str="3808">not </gr>
+        <gr str="4191">die </gr>for the <gr str="5771">iniquity </gr>of his <gr str="1">father</gr>, he shall surely <gr str="2421 2421">live</gr>. </VERS>
+      <VERS vnumber="18">
+        <STYLE css="color:#808080;font-style:italic"> As </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> for </STYLE> his <gr str="1">father</gr>, <gr str="3588">because </gr>he cruelly <gr str="6231 6233">oppressed</gr>, <gr str="1497">spoiled </gr>his <gr str="251">brother </gr>by <gr str="1499">violence</gr>, and <gr str="6213">did </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <gr str="834">which </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3808">not </gr>
+        <gr str="2896">good </gr>
+        <gr str="8432">among </gr>his <gr str="5971">people</gr>, <gr str="2009">lo</gr>, even he shall <gr str="4191">die </gr>in his <gr str="5771">iniquity</gr>. </VERS>
+      <VERS vnumber="19"> Yet <gr str="559">say </gr>ye, <gr str="4069">Why</gr>? doth <gr str="3808">not </gr>the <gr str="1121">son </gr>
+        <gr str="5375">bear </gr>the <gr str="5771">iniquity </gr>of the <gr str="1">father</gr>? When the <gr str="1121">son </gr>hath <gr str="6213">done </gr>that which is <gr str="4941">lawful </gr>and <gr str="6666">right</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> hath <gr str="8104">kept </gr>
+        <gr str="*853" />
+        <gr str="3605">all </gr>my <gr str="2708">statutes</gr>, and hath <gr str="6213">done </gr>them, he shall surely <gr str="2421 2421">live</gr>. </VERS>
+      <VERS vnumber="20"> The <gr str="5315">soul </gr>that <gr str="2398">sinneth</gr>, <gr str="1931">it </gr>shall <gr str="4191">die</gr>. The <gr str="1121">son </gr>shall <gr str="3808">not </gr>
+        <gr str="5375">bear </gr>the <gr str="5771">iniquity </gr>of the <gr str="1">father</gr>, <gr str="3808">neither </gr>shall the <gr str="1">father </gr>
+        <gr str="5375">bear </gr>the <gr str="5771">iniquity </gr>of the <gr str="1121">son</gr>: the <gr str="6666">righteousness </gr>of the <gr str="6662">righteous </gr>shall <gr str="1961">be </gr>
+        <gr str="5921">upon </gr>him, and the <gr str="7564">wickedness </gr>of the <gr str="7563">wicked </gr>shall <gr str="1961">be </gr>
+        <gr str="5921">upon </gr>him. </VERS>
+      <VERS vnumber="21"> But <gr str="3588">if </gr>the <gr str="7563">wicked </gr>will <gr str="7725">turn </gr>from <gr str="4480 3605">all </gr>his <gr str="2403">sins </gr>
+        <gr str="834">that </gr>he hath <gr str="6213">committed</gr>, and <gr str="8104">keep </gr>
+        <gr str="*853" />
+        <gr str="3605">all </gr>my <gr str="2708">statutes</gr>, and <gr str="6213">do </gr>that which is <gr str="4941">lawful </gr>and <gr str="6666">right</gr>, he shall surely <gr str="2421 2421">live</gr>, he shall <gr str="3808">not </gr>
+        <gr str="4191">die</gr>. </VERS>
+      <VERS vnumber="22">
+        <gr str="3605">All </gr>his <gr str="6588">transgressions </gr>
+        <gr str="834">that </gr>he hath <gr str="6213">committed</gr>, they shall <gr str="3808">not </gr>be <gr str="2142">mentioned </gr>unto him: in his <gr str="6666">righteousness </gr>
+        <gr str="834">that </gr>he hath <gr str="6213">done </gr>he shall <gr str="2421">live</gr>. </VERS>
+      <VERS vnumber="23"> Have I any pleasure at <gr str="2654 2654">all </gr>that the <gr str="7563">wicked </gr>should <gr str="4194">die</gr>? <gr str="5002">saith </gr>the <gr str="136">Lord </gr>
+        <gr str="3069">GOD</gr>: <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="3808">not </gr>that he should <gr str="7725">return </gr>from his <gr str="4480 1870">ways</gr>, and <gr str="2421">live</gr>? </VERS>
+      <VERS vnumber="24"> But when the <gr str="6662">righteous </gr>turneth <gr str="7725">away </gr>from his <gr str="4480 6666">righteousness</gr>, and <gr str="6213">committeth </gr>
+        <gr str="5766">iniquity</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="6213">doeth </gr>according to <gr str="3605">all </gr>the <gr str="8441">abominations </gr>
+        <gr str="834">that </gr>the <gr str="7563">wicked </gr>
+        <STYLE css="color:#808080;font-style:italic"> man </STYLE>
+        <gr str="6213">doeth</gr>, shall he <gr str="2421">live</gr>? <gr str="3605">All </gr>his <gr str="6666">righteousness </gr>
+        <gr str="834">that </gr>he hath <gr str="6213">done </gr>shall <gr str="3808">not </gr>be <gr str="2142">mentioned</gr>: in his <gr str="4604">trespass </gr>
+        <gr str="834">that </gr>he hath <gr str="4603">trespassed</gr>, and in his <gr str="2403">sin </gr>
+        <gr str="834">that </gr>he hath <gr str="2398">sinned</gr>, in them shall he <gr str="4191">die</gr>. </VERS>
+      <VERS vnumber="25"> Yet ye <gr str="559">say</gr>, The <gr str="1870">way </gr>of the <gr str="136">Lord </gr>is not <gr str="8505 3808">equal</gr>. <gr str="8085">Hear </gr>
+        <gr str="4994">now</gr>, O <gr str="1004">house </gr>of <gr str="3478">Israel</gr>; Is <gr str="3808">not </gr>my <gr str="1870">way </gr>
+        <gr str="8505">equal</gr>? are <gr str="3808">not </gr>your <gr str="1870">ways </gr>
+        <gr str="3808 8505">unequal</gr>? </VERS>
+      <VERS vnumber="26"> When a <gr str="6662">righteous </gr>
+        <STYLE css="color:#808080;font-style:italic"> man </STYLE> turneth <gr str="7725">away </gr>from his <gr str="4480 6666">righteousness</gr>, and <gr str="6213">committeth </gr>
+        <gr str="5766">iniquity</gr>, and <gr str="4191">dieth </gr>
+        <gr str="5921">in </gr>them; for his <gr str="5766">iniquity </gr>
+        <gr str="834">that </gr>he hath <gr str="6213">done </gr>shall he <gr str="4191">die</gr>. </VERS>
+      <VERS vnumber="27"> Again, when the <gr str="7563">wicked </gr>
+        <STYLE css="color:#808080;font-style:italic"> man </STYLE> turneth <gr str="7725">away </gr>from his <gr str="4480 7564">wickedness </gr>
+        <gr str="834">that </gr>he hath <gr str="6213">committed</gr>, and <gr str="6213">doeth </gr>that which is <gr str="4941">lawful </gr>and <gr str="6666">right</gr>, <gr str="1931">he </gr>shall save his soul <gr str="2421 *853 5315">alive</gr>. </VERS>
+      <VERS vnumber="28"> Because he <gr str="7200">considereth</gr>, and turneth <gr str="7725">away </gr>from <gr str="4480 3605">all </gr>his <gr str="6588">transgressions </gr>
+        <gr str="834">that </gr>he hath <gr str="6213">committed</gr>, he shall surely <gr str="2421 2421">live</gr>, he shall <gr str="3808">not </gr>
+        <gr str="4191">die</gr>. </VERS>
+      <VERS vnumber="29"> Yet <gr str="559">saith </gr>the <gr str="1004">house </gr>of <gr str="3478">Israel</gr>, The <gr str="1870">way </gr>of the <gr str="136">Lord </gr>is not <gr str="8505 3808">equal</gr>. O <gr str="1004">house </gr>of <gr str="3478">Israel</gr>, are <gr str="3808">not </gr>my <gr str="1870">ways </gr>
+        <gr str="8505">equal</gr>? are <gr str="3808">not </gr>your <gr str="1870">ways </gr>
+        <gr str="3808 8505">unequal</gr>? </VERS>
+      <VERS vnumber="30">
+        <gr str="3651">Therefore </gr>I will <gr str="8199">judge </gr>you, O <gr str="1004">house </gr>of <gr str="3478">Israel</gr>, every <gr str="376">one </gr>according to his <gr str="1870">ways</gr>, <gr str="5002">saith </gr>the <gr str="136">Lord </gr>
+        <gr str="3069">GOD</gr>. <gr str="7725">Repent</gr>, and <gr str="7725">turn </gr>
+        <STYLE css="color:#808080;font-style:italic"> yourselves </STYLE> from <gr str="4480 3605">all </gr>your <gr str="6588">transgressions</gr>; so <gr str="5771">iniquity </gr>shall <gr str="3808">not </gr>
+        <gr str="1961">be </gr>your <gr str="4383">ruin</gr>. </VERS>
+      <VERS vnumber="31"> Cast <gr str="7993">away </gr>
+        <gr str="4480 5921">from </gr>you <gr str="*853" />
+        <gr str="3605">all </gr>your <gr str="6588">transgressions</gr>, <gr str="834">whereby </gr>ye have <gr str="6586">transgressed</gr>; and <gr str="6213">make </gr>you a <gr str="2319">new </gr>
+        <gr str="3820">heart </gr>and a <gr str="2319">new </gr>
+        <gr str="7307">spirit</gr>: for <gr str="4100">why </gr>will ye <gr str="4191">die</gr>, O <gr str="1004">house </gr>of <gr str="3478">Israel</gr>? </VERS>
+      <VERS vnumber="32">
+        <gr str="3588">For </gr>I have no <gr str="2654 3808">pleasure </gr>in the <gr str="4194">death </gr>of him that <gr str="4191">dieth</gr>, <gr str="5002">saith </gr>the <gr str="136">Lord </gr>
+        <gr str="3069">GOD</gr>: wherefore <gr str="7725">turn </gr>
+        <STYLE css="color:#808080;font-style:italic"> yourselves </STYLE>, and <gr str="2421">live </gr>ye. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

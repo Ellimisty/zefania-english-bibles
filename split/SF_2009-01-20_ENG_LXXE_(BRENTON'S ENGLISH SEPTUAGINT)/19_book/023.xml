@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="23">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of David.</STYLE> - The Lord tends me as a shepherd, and I shall want nothing.</VERS>
+      <VERS vnumber="2">In a place of green grass, there he has made me dwell: he has nourished me by the water of rest.</VERS>
+      <VERS vnumber="3">He has restored my soul: he has guided me into the paths of righteousness, for his name’s sake.</VERS>
+      <VERS vnumber="4">Yea, even if I should walk in the midst of the shadow of death, I will not be afraid of evils: for thou art with me; thy rod and thy staff, these have comforted me.</VERS>
+      <VERS vnumber="5">Thou has prepared a table before me in presence of them that afflict me: thou hast thoroughly anointed my head with oil; and thy cup cheers me like the best wine.</VERS>
+      <VERS vnumber="6">Thy mercy also shall follow me all the days of my life: and my dwelling shall be in the house of the Lord for a very long time.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

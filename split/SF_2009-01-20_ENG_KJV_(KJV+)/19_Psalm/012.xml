@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="12">
+      <VERS vnumber="1"> To the chief <gr str="5329">Musician </gr>
+        <gr str="5921">upon </gr>
+        <gr str="8067">Sheminith</gr>, A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>. <gr str="3467">Help</gr>, <gr str="3068">LORD</gr>; <gr str="3588">for </gr>the godly <gr str="2623">man </gr>
+        <gr str="1584">ceaseth</gr>; <gr str="3588">for </gr>the <gr str="539">faithful </gr>
+        <gr str="6461">fail </gr>from among the <gr str="4480 1121">children </gr>of <gr str="120">men</gr>. </VERS>
+      <VERS vnumber="2"> They <gr str="1696">speak </gr>
+        <gr str="7723">vanity </gr>every <gr str="376">one </gr>
+        <gr str="854">with </gr>his <gr str="7453">neighbor</gr>: <STYLE css="color:#808080;font-style:italic"> with </STYLE>
+        <gr str="2513">flattering </gr>
+        <gr str="8193">lips </gr>
+        <STYLE css="color:#808080;font-style:italic"> and </STYLE> with a double <gr str="3820 3820">heart </gr>do they <gr str="1696">speak</gr>. </VERS>
+      <VERS vnumber="3"> The <gr str="3068">LORD </gr>shall cut <gr str="3772">off </gr>
+        <gr str="3605">all </gr>
+        <gr str="2513">flattering </gr>
+        <gr str="8193">lips</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> the <gr str="3956">tongue </gr>that <gr str="1696">speaketh </gr>proud <gr str="1419">things</gr>: </VERS>
+      <VERS vnumber="4">
+        <gr str="834">Who </gr>have <gr str="559">said</gr>, With our <gr str="3956">tongue </gr>will we <gr str="1396">prevail</gr>; our <gr str="8193">lips </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> our own: <gr str="4310">who </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="113">lord </gr>over us? </VERS>
+      <VERS vnumber="5"> For the <gr str="4480 7701">oppression </gr>of the <gr str="6041">poor</gr>, for the <gr str="4480 603">sighing </gr>of the <gr str="34">needy</gr>, <gr str="6258">now </gr>will I <gr str="6965">arise</gr>, <gr str="559">saith </gr>the <gr str="3068">LORD</gr>; I will <gr str="7896">set </gr>
+        <STYLE css="color:#808080;font-style:italic"> him </STYLE> in <gr str="3468">safety </gr>
+        <STYLE css="color:#808080;font-style:italic"> from </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> him </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <gr str="6315">puffeth </gr>at him. </VERS>
+      <VERS vnumber="6"> The <gr str="565">words </gr>of the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="2889">pure </gr>
+        <gr str="565">words</gr>: <STYLE css="color:#808080;font-style:italic"> as </STYLE>
+        <gr str="3701">silver </gr>
+        <gr str="6884">tried </gr>in a <gr str="5948">furnace </gr>of <gr str="776">earth</gr>, <gr str="2212">purified </gr>
+        <gr str="7659">seven </gr>times. </VERS>
+      <VERS vnumber="7">
+        <gr str="859">Thou </gr>shalt <gr str="8104">keep </gr>them, O <gr str="3068">LORD</gr>, thou shalt <gr str="5341">preserve </gr>them <gr str="4480">from </gr>
+        <gr str="2098">this </gr>
+        <gr str="1755">generation </gr>
+        <gr str="5769">forever</gr>. </VERS>
+      <VERS vnumber="8"> The <gr str="7563">wicked </gr>
+        <gr str="1980">walk </gr>on every <gr str="5439">side</gr>, when the <gr str="2149">vilest </gr>
+        <gr str="120">men </gr>are <gr str="7311">exalted</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="146">
+      <VERS vnumber="1">Praise the LORD! Praise the LORD, O my soul!</VERS>
+      <VERS vnumber="2">I will praise the LORD as long as I live; I will sing praises to my God while I have being.</VERS>
+      <VERS vnumber="3">Put not your trust in princes, in a son of man, in whom there is no help.</VERS>
+      <VERS vnumber="4">When his breath departs he returns to his earth; on that very day his plans perish.</VERS>
+      <VERS vnumber="5">Happy is he whose help is the God of Jacob, whose hope is in the LORD his God,</VERS>
+      <VERS vnumber="6">who made heaven and earth, the sea, and all that is in them; who keeps faith for ever;</VERS>
+      <VERS vnumber="7">who executes justice for the oppressed; who gives food to the hungry. The LORD sets the prisoners free;</VERS>
+      <VERS vnumber="8">the LORD opens the eyes of the blind. The LORD lifts up those who are bowed down; the LORD loves the righteous.</VERS>
+      <VERS vnumber="9">The LORD watches over the sojourners, he upholds the widow and the fatherless; but the way of the wicked he brings to ruin.</VERS>
+      <VERS vnumber="10">The LORD will reign for ever, thy God, O Zion, to all generations. Praise the LORD!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

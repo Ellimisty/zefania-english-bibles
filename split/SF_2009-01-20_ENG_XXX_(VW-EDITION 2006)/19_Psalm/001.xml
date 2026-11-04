@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">Blessed is the man who has not walked in the counsel of the wicked, nor has stood in the way of sinners, nor has sat in the seat of the scornful.</VERS>
+      <VERS vnumber="2">But his delight is in the Law of Jehovah; and in His Law he meditates day and night.</VERS>
+      <VERS vnumber="3">And he shall be like a tree planted by the rivers of water that brings forth its fruit in its season, and its leaf shall not wither, and all that he does shall prosper.</VERS>
+      <VERS vnumber="4">The wicked are not so, but are like chaff which the wind drives away.</VERS>
+      <VERS vnumber="5">Therefore the wicked shall not stand in the judgment, nor sinners in the congregation of the righteous.</VERS>
+      <VERS vnumber="6">For Jehovah knows the way of the righteous; but the way of the wicked shall perish.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

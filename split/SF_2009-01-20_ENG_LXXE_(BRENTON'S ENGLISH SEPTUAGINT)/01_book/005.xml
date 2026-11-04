@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="1">
+    <CHAPTER cnumber="5">
+      <VERS vnumber="1">This is the <DIV>
+          <NOTE type="x-studynote">Gr. book of generation</NOTE>
+        </DIV> genealogy of men in the day in which God made Adam; in the image of God he made him:</VERS>
+      <VERS vnumber="2">male and female he made them, and blessed them; and he called <DIV>
+          <NOTE type="x-studynote">Alex. their</NOTE>
+        </DIV> his name Adam, in the day in which he made them.</VERS>
+      <VERS vnumber="3">And Adam lived two hundred and thirty years, and begot a son after his own form, and after his own image, and he called his name Seth.</VERS>
+      <VERS vnumber="4">And the days of Adam, which he lived after his begetting Seth, were seven hundred years; and he begot sons and daughters.</VERS>
+      <VERS vnumber="5">And all the days of Adam which he lived were nine hundred and thirty years, and he died.</VERS>
+      <VERS vnumber="6">Now Seth lived two hundred and five years, and begot Enos.</VERS>
+      <VERS vnumber="7">And Seth lived after his begetting Enos, seven hundred and seven years, and he begot sons and daughters.</VERS>
+      <VERS vnumber="8">And all the days of Seth were nine hundred and twelve years, and he died.</VERS>
+      <VERS vnumber="9">And Enos lived an hundred and ninety years, and begot Cainan.</VERS>
+      <VERS vnumber="10">And Enos lived after his begetting Cainan, seven hundred and fifteen years, and he begot sons and daughters.</VERS>
+      <VERS vnumber="11">And all the days of Enos were nine hundred and five years, and he died.</VERS>
+      <VERS vnumber="12">And Cainan lived an hundred and seventy years, and he begot Maleleel.</VERS>
+      <VERS vnumber="13">And Cainan lived after his begetting Maleleel, seven hundred and forty years, and he begot sons and daughters.</VERS>
+      <VERS vnumber="14">And all the days of Cainan were nine hundred and ten years, and he died.</VERS>
+      <VERS vnumber="15">And Maleleel lived an hundred and sixty and five years, and he begot Jared.</VERS>
+      <VERS vnumber="16">And Maleleel lived after his begetting Jared, seven hundred and thirty years, and he begot sons and daughters.</VERS>
+      <VERS vnumber="17">And all the days of Maleleel were eight hundred and ninety and five years, and he died.</VERS>
+      <VERS vnumber="18">And Jared lived an hundred and sixty and two years, and begot Enoch:</VERS>
+      <VERS vnumber="19">and Jared lived after his begetting Enoch, eight hundred years, and he begot sons and daughters.</VERS>
+      <VERS vnumber="20">And all the days of Jared were nine hundred and sixty and two years, and he died.</VERS>
+      <VERS vnumber="21">And Enoch lived an hundred and sixty and five years, and begat Mathusala.</VERS>
+      <VERS vnumber="22">And Enoch was well-pleasing to God after his begetting Mathusala, two hundred years, and he begot sons and daughters.</VERS>
+      <VERS vnumber="23">And all the days of Enoch were three hundred and sixty and five years.</VERS>
+      <VERS vnumber="24">And Enoch was well-pleasing to God, and was not found, because God translated him.</VERS>
+      <VERS vnumber="25">And Mathusala lived <DIV>
+          <NOTE type="x-studynote">Alex. 187</NOTE>
+        </DIV> an hundred and sixty and seven years, and begot Lamech.</VERS>
+      <VERS vnumber="26">And Mathusala lived after his begetting Lamech <DIV>
+          <NOTE type="x-studynote">Alex. 782</NOTE>
+        </DIV> eight hundred and two years, and begot sons and daughters.</VERS>
+      <VERS vnumber="27">And all the days of Mathusala which he lived, were nine hundred and sixty and nine years, and he died.</VERS>
+      <VERS vnumber="28">And Lamech lived an hundred and eighty and eight years, and begot a son.</VERS>
+      <VERS vnumber="29">And he called his name Noe, saying, This one will cause us to cease from our works, and from the toils of our hands, and from the earth, which the Lord God has cursed.</VERS>
+      <VERS vnumber="30">And Lamech lived after his begetting Noe, five hundred and sixty and five years, and begot sons and daughters.</VERS>
+      <VERS vnumber="31">And all the days of Lamech were seven hundred and fifty-three years, and he died.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

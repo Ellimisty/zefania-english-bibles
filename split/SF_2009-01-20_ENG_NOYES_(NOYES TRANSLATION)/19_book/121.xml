@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="121">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of the steps, or the goings up.</STYLE> I lift up mine eyes to the hills: Whence cometh my help?</VERS>
+      <VERS vnumber="2">My help cometh from the LORD, Who made heaven and earth.</VERS>
+      <VERS vnumber="3">He will not suffer thy foot to stumble; Thy guardian doth not slumber.</VERS>
+      <VERS vnumber="4">Behold, the guardian of Israel Doth neither slumber nor sleep.</VERS>
+      <VERS vnumber="5">The LORD is thy guardian; The LORD is thy shade at thy right hand.</VERS>
+      <VERS vnumber="6">The sun shall not smite thee by day, Nor the moon by night.</VERS>
+      <VERS vnumber="7">The LORD will preserve thee from all evil; He will preserve thy life.</VERS>
+      <VERS vnumber="8">The LORD will preserve thee, when thou goest out and when thou comest in, From this time forth for ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="15" bname="Esra" bsname="Esr">
+    <CHAPTER cnumber="1">
+      <CAPTION vref="1">and his acts, first and last, behold, they are written in the Book of the Kings of Israel and Judah.</CAPTION>
+      <VERS vnumber="1">In the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be accomplished, the LORD stirred up the spirit of Cyrus king of Persia so that he made a proclamation throughout all his kingdom and also put it in writing:</VERS>
+      <VERS vnumber="2">"Thus says Cyrus king of Persia: The LORD, the God of heaven, has given me all the kingdoms of the earth, and he has charged me to build him a house at Jerusalem, which is in Judah.</VERS>
+      <VERS vnumber="3">Whoever is among you of all his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and rebuild the house of the LORD, the God of Israel-- he is the God who is in Jerusalem;</VERS>
+      <VERS vnumber="4">and let each survivor, in whatever place he sojourns, be assisted by the men of his place with silver and gold, with goods and with beasts, besides freewill offerings for the house of God which is in Jerusalem."</VERS>
+      <VERS vnumber="5">Then rose up the heads of the fathers' houses of Judah and Benjamin, and the priests and the Levites, every one whose spirit God had stirred to go up to rebuild the house of the LORD which is in Jerusalem;</VERS>
+      <VERS vnumber="6">and all who were about them aided them with vessels of silver, with gold, with goods, with beasts, and with costly wares, besides all that was freely offered.</VERS>
+      <VERS vnumber="7">Cyrus the king also brought out the vessels of the house of the LORD which Nebuchadnez'zar had carried away from Jerusalem and placed in the house of his gods.</VERS>
+      <VERS vnumber="8">Cyrus king of Persia brought these out in charge of Mith'redath the treasurer, who counted them out to Shesh-baz'zar the prince of Judah.</VERS>
+      <VERS vnumber="9">And this was the number of them: a thousand basins of gold, a thousand basins of silver, twenty-nine censers,</VERS>
+      <VERS vnumber="10">thirty bowls of gold, two thousand four hundred and ten bowls of silver, and a thousand other vessels;</VERS>
+      <VERS vnumber="11">all the vessels of gold and of silver were five thousand four hundred and sixty-nine. All these did Shesh-baz'zar bring up, when the exiles were brought up from Babylonia to Jerusalem.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

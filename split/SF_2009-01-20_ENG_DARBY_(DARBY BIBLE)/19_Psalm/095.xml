@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Darby Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="95">
+      <VERS vnumber="1">Come, let us sing aloud to Jehovah, let us shout for joy to the rock of our salvation;</VERS>
+      <VERS vnumber="2">Let us come before his face with thanksgiving; let us shout aloud unto him with psalms.</VERS>
+      <VERS vnumber="3">For Jehovah is a great God, and a great king above all gods.</VERS>
+      <VERS vnumber="4">In his hand are the deep places of the earth; the heights of the mountains are his also:</VERS>
+      <VERS vnumber="5">The sea is his, and he made it, and his hands formed the dry [land].</VERS>
+      <VERS vnumber="6">Come, let us worship and bow down; let us kneel before Jehovah our Maker.</VERS>
+      <VERS vnumber="7">For he is our God; and we are the people of his pasture and the sheep of his hand. To-day if ye hear his voice,</VERS>
+      <VERS vnumber="8">Harden not your heart, as at Meribah, as [in] the day of Massah, in the wilderness;</VERS>
+      <VERS vnumber="9">When your fathers tempted me, proved me, and saw my work.</VERS>
+      <VERS vnumber="10">Forty years was I grieved with the generation, and said, It is a people that do err in their heart, and they have not known my ways;</VERS>
+      <VERS vnumber="11">So that I swore in mine anger, that they should not enter into my rest.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

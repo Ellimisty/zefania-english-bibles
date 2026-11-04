@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="84">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief Musician upon Gittith, A Psalm for the sons of Korah.</STYLE> How amiable <STYLE css="font-style:italic">are</STYLE> thy tabernacles, O LORD of hosts! <DIV>
+          <NOTE type="x-studynote">for the sons: or, of the sons</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">My soul longeth, and, even fainteth for the courts of the LORD: my heart and my flesh crieth out for the living God.</VERS>
+      <VERS vnumber="3">Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young, <STYLE css="font-style:italic">even</STYLE> thy altars, O LORD of hosts, my King, and my God.</VERS>
+      <VERS vnumber="4">Blessed <STYLE css="font-style:italic">are</STYLE> they that dwell in thy house: they will be still praising thee. Selah.</VERS>
+      <VERS vnumber="5">Blessed <STYLE css="font-style:italic">is</STYLE> the man whose strength <STYLE css="font-style:italic">is</STYLE> in thee; in whose heart <STYLE css="font-style:italic">are</STYLE> the ways <STYLE css="font-style:italic">of them</STYLE>.</VERS>
+      <VERS vnumber="6">
+        <STYLE css="font-style:italic">Who</STYLE> passing through the valley of Baca make it a well; the rain also filleth the pools. <DIV>
+          <NOTE type="x-studynote">Baca…: or, mulberry trees make him a well, etc</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">filleth: Heb. covereth</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="7">They go from strength to strength, <STYLE css="font-style:italic">every one of them</STYLE> in Zion appeareth before God. <DIV>
+          <NOTE type="x-studynote">strength to…: or, company to company</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">O LORD God of hosts, hear my prayer: give ear, O God of Jacob. Selah.</VERS>
+      <VERS vnumber="9">Behold, O God our shield, and look upon the face of thy anointed.</VERS>
+      <VERS vnumber="10">For a day in thy courts <STYLE css="font-style:italic">is</STYLE> better than a thousand. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness. <DIV>
+          <NOTE type="x-studynote">I had…: Heb. I would choose rather to sit at the threshold</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="11">For the LORD God <STYLE css="font-style:italic">is</STYLE> a sun and shield: the LORD will give grace and glory: no good will he withhold from them that walk uprightly.</VERS>
+      <VERS vnumber="12">O LORD of hosts, blessed <STYLE css="font-style:italic">is</STYLE> the man that trusteth in thee.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Webster" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="147">
+      <VERS vnumber="1">Praise ye the LORD: for it is good to sing praises to our God; for it is pleasant; and praise is comely.</VERS>
+      <VERS vnumber="2">The LORD buildeth up Jerusalem: he gathereth together the outcasts of Israel.</VERS>
+      <VERS vnumber="3">He healeth the broken in heart, and bindeth up their wounds.</VERS>
+      <VERS vnumber="4">He telleth the number of the stars; he calleth them all by their names.</VERS>
+      <VERS vnumber="5">Great is our Lord, and of great power: his understanding is infinite.</VERS>
+      <VERS vnumber="6">The LORD lifteth up the meek: he casteth the wicked down to the ground.</VERS>
+      <VERS vnumber="7">Sing to the LORD with thanksgiving; sing praise upon the harp to our God:</VERS>
+      <VERS vnumber="8">Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains.</VERS>
+      <VERS vnumber="9">He giveth to the beast his food, and to the young ravens which cry.</VERS>
+      <VERS vnumber="10">He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man.</VERS>
+      <VERS vnumber="11">The LORD taketh pleasure in them that fear him, in those that hope in his mercy.</VERS>
+      <VERS vnumber="12">Praise the LORD, O Jerusalem; praise thy God, O Zion.</VERS>
+      <VERS vnumber="13">For he hath strengthened the bars of thy gates; he hath blessed thy children within thee.</VERS>
+      <VERS vnumber="14">He maketh peace in thy borders, and filleth thee with the finest of the wheat.</VERS>
+      <VERS vnumber="15">He sendeth forth his commandment upon earth: his word runneth very swiftly.</VERS>
+      <VERS vnumber="16">He giveth snow like wool: he scattereth the hoar-frost like ashes.</VERS>
+      <VERS vnumber="17">He casteth forth his ice like morsels: who can stand before his cold?</VERS>
+      <VERS vnumber="18">He sendeth out his word, and melteth them: he causeth his wind to blow, and the waters flow.</VERS>
+      <VERS vnumber="19">He showeth his word to Jacob, his statutes and his judgments to Israel.</VERS>
+      <VERS vnumber="20">He hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the LORD.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

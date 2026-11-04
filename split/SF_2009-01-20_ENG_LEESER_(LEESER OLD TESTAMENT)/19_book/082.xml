@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="82">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of Assaph.</STYLE> God standeth in the congregation of God, in the midst of judges doth he judge.</VERS>
+      <VERS vnumber="2">How long will ye judge unjustly, and treat with favor the face of the wicked? Selah.</VERS>
+      <VERS vnumber="3">Judge uprightly the poor and fatherless: do justice to the afflicted and indigent.</VERS>
+      <VERS vnumber="4">Release the poor and needy: deliver them out of the power of the wicked.</VERS>
+      <VERS vnumber="5">They know not, nor will they understand; in darkness do they walk on: all the foundations of the earth are moved.</VERS>
+      <VERS vnumber="6">I have indeed said, Ye are gods; and children of the most High are all of you.</VERS>
+      <VERS vnumber="7">But verily like men shall ye die, and like one of the princes shall ye fall.</VERS>
+      <VERS vnumber="8">Arise, O God, judge the earth; for thou wilt possess all the nations.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

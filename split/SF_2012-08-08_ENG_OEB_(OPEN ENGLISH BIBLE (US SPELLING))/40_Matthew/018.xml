@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="40" bname="Matthew" bsname="Mat">
+    <CHAPTER cnumber="18">
+      <VERS vnumber="1">On the same occasion the disciples came to Jesus, and asked him: “Who is really the greatest in the kingdom of heaven?”</VERS>
+      <VERS vnumber="2">Jesus called a little child to him, and placed it in the middle of them, and then said:</VERS>
+      <VERS vnumber="10">
+        crosswire  amateurish codings
+      </VERS>
+      <VERS vnumber="14">
+        crosswire  amateurish codings
+      </VERS>
+      <VERS vnumber="17">
+        crosswire  amateurish codings
+      </VERS>
+      <VERS vnumber="20">
+        crosswire  amateurish codings
+      </VERS>
+      <VERS vnumber="21">Then Peter came up, and said to Jesus: “Master, how often am I to forgive someone who wrongs me? As many as seven times?”</VERS>
+      <VERS vnumber="22">But Jesus answered:</VERS>
+      <VERS vnumber="35">
+        crosswire  amateurish codings
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

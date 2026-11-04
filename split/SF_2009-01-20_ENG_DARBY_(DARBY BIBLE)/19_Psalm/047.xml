@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Darby Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="47">
+      <VERS vnumber="1">{To the chief Musician. Of the sons of Korah. A Psalm.} All ye peoples, clap your hands; shout unto God with the voice of triumph!</VERS>
+      <VERS vnumber="2">For Jehovah, the Most High, is terrible, a great king over all the earth.</VERS>
+      <VERS vnumber="3">He subdueth the peoples under us, and the nations under our feet.</VERS>
+      <VERS vnumber="4">He hath chosen our inheritance for us, the excellency of Jacob whom he loved. Selah.</VERS>
+      <VERS vnumber="5">God is gone up amid shouting, Jehovah amid the sound of the trumpet.</VERS>
+      <VERS vnumber="6">Sing psalms of God, sing psalms; sing psalms unto our King, sing psalms!</VERS>
+      <VERS vnumber="7">For God is the King of all the earth; sing psalms with understanding.</VERS>
+      <VERS vnumber="8">God reigneth over the nations; God sitteth upon the throne of his holiness.</VERS>
+      <VERS vnumber="9">The willing-hearted of the peoples have gathered together, [with] the people of the God of Abraham. For unto God [belong] the shields of the earth: he is greatly exalted.</VERS>
+      <VERS vnumber="10" />
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="American King James Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="91">
+      <VERS vnumber="1">He that dwells in the secret place of the most High shall abide under the shadow of the Almighty.</VERS>
+      <VERS vnumber="2">I will say of the LORD, He is my refuge and my fortress: my God; in him will I trust.</VERS>
+      <VERS vnumber="3">Surely he shall deliver you from the snare of the fowler, and from the noisome pestilence.</VERS>
+      <VERS vnumber="4">He shall cover you with his feathers, and under his wings shall you trust: his truth shall be your shield and buckler.</VERS>
+      <VERS vnumber="5">You shall not be afraid for the terror by night; nor for the arrow that flies by day;</VERS>
+      <VERS vnumber="6">Nor for the pestilence that walks in darkness; nor for the destruction that wastes at noonday.</VERS>
+      <VERS vnumber="7">A thousand shall fall at your side, and ten thousand at your right hand; but it shall not come near you.</VERS>
+      <VERS vnumber="8">Only with your eyes shall you behold and see the reward of the wicked.</VERS>
+      <VERS vnumber="9">Because you have made the LORD, which is my refuge, even the most High, your habitation;</VERS>
+      <VERS vnumber="10">There shall no evil befall you, neither shall any plague come near your dwelling.</VERS>
+      <VERS vnumber="11">For he shall give his angels charge over you, to keep you in all your ways.</VERS>
+      <VERS vnumber="12">They shall bear you up in their hands, lest you dash your foot against a stone.</VERS>
+      <VERS vnumber="13">You shall tread on the lion and adder: the young lion and the dragon shall you trample under feet.</VERS>
+      <VERS vnumber="14">Because he has set his love on me, therefore will I deliver him: I will set him on high, because he has known my name.</VERS>
+      <VERS vnumber="15">He shall call on me, and I will answer him: I will be with him in trouble; I will deliver him, and honor him.</VERS>
+      <VERS vnumber="16">With long life will I satisfy him, and show him my salvation.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

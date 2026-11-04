@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="96">
+      <VERS vnumber="1">Sing to the <STYLE id="cl:divineName">Lord</STYLE> a new song,sing to the <STYLE id="cl:divineName">Lord</STYLE>, all the earth.</VERS>
+      <VERS vnumber="2">Sing to the <STYLE id="cl:divineName">Lord</STYLE>, bless his name,from day to day herald his victory.</VERS>
+      <VERS vnumber="3">Tell his glory among the nations,his wonders among all peoples. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="4">For great is the <STYLE id="cl:divineName">Lord</STYLE> and worthy all praise;held in awe, above all gods:</VERS>
+      <VERS vnumber="5">for all the gods of the nations are idols,but the <STYLE id="cl:divineName">Lord</STYLE> created the heavens.</VERS>
+      <VERS vnumber="6">Before him are splendour and majesty,beauty and strength in his holy place. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">Ascribe to the <STYLE id="cl:divineName">Lord</STYLE>, you tribes of the nations,ascribe to the <STYLE id="cl:divineName">Lord</STYLE> glory and strength.</VERS>
+      <VERS vnumber="8">Ascribe to the <STYLE id="cl:divineName">Lord</STYLE> the glory he manifests:bring you an offering, enter his courts.</VERS>
+      <VERS vnumber="9">Bow to the <STYLE id="cl:divineName">Lord</STYLE> in holy array:tremble before him, all the earth. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="10">Say to the nations, “The <STYLE id="cl:divineName">Lord</STYLE> is king.”The world stands firm to be shaken no more.He will judge the peoples with equity.</VERS>
+      <VERS vnumber="11">Let the heavens be glad and the earth rejoice,let the sea and its fulness thunder. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="12">Let the field, and all that is in it, exult;let the trees of the forest ring out their joy</VERS>
+      <VERS vnumber="13">before the <STYLE id="cl:divineName">Lord</STYLE>: for he comes,he comes to judge the earth.He will judge the world with justiceand the nations with faithfulness.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

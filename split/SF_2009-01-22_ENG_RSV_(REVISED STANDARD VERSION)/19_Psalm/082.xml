@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="82">
+      <VERS vnumber="1">A Psalm of Asaph.</VERS>
+      <VERS vnumber="2">God has taken his place in the divine council; in the midst of the gods he holds judgment:</VERS>
+      <VERS vnumber="3">"How long will you judge unjustly and show partiality to the wicked? [Selah]</VERS>
+      <VERS vnumber="4">Give justice to the weak and the fatherless; maintain the right of the afflicted and the destitute.</VERS>
+      <VERS vnumber="5">Rescue the weak and the needy; deliver them from the hand of the wicked."</VERS>
+      <VERS vnumber="6">They have neither knowledge nor understanding, they walk about in darkness; all the foundations of the earth are shaken.</VERS>
+      <VERS vnumber="7">I say, "You are gods, sons of the Most High, all of you;</VERS>
+      <VERS vnumber="8">nevertheless, you shall die like men, and fall like any prince." [ (Psalms 82:9) Arise, O God, judge the earth; for to thee belong all the nations! ]</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

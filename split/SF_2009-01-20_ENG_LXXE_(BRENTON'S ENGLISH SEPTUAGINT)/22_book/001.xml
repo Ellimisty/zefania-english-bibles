@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="22">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">The Song of songs, which is Solomon’s.</VERS>
+      <VERS vnumber="2">Let him kiss me with the kisses of his mouth: for thy breasts are better than wine.</VERS>
+      <VERS vnumber="3">And the smell of thine ointments is <DIV>
+          <NOTE type="x-studynote">Gr. beyond</NOTE>
+        </DIV> better than all spices: thy name is ointment poured forth; therefore do the young maidens love thee.</VERS>
+      <VERS vnumber="4">They have drawn thee: we will run after thee, for the smell of thine ointments: the king has brought me into closet: let us rejoice and be glad in thee; we will love thy breasts more than wine: righteousness loves thee.</VERS>
+      <VERS vnumber="5">I am black, but beautiful, ye daughters of Jerusalem, as the tents of Kedar, as the <DIV>
+          <NOTE type="x-studynote">Lit. skins</NOTE>
+        </DIV> curtains of Solomon.</VERS>
+      <VERS vnumber="6">Look not upon me, because I am dark, because the sun has looked unfavourably upon me: my mother’s sons strove with me; they made me keeper in the vineyards; I have not kept my own vineyard.</VERS>
+      <VERS vnumber="7">Tell me, thou whom my soul loves, where thou tendest thy flock, where thou causest them to rest at noon, lest I become as one <DIV>
+          <NOTE type="x-studynote">Or, that veils herself</NOTE>
+        </DIV> that is veiled by the flocks of thy companions.</VERS>
+      <VERS vnumber="8">If thou know not thyself, thou fair one among women, go thou forth by the footsteps of the flocks, and feed thy kids by the shepherd’s tents.</VERS>
+      <VERS vnumber="9">I have likened thee, my companion, to my horses in the chariots of Pharao.</VERS>
+      <VERS vnumber="10">How are thy cheeks beautiful as those of a dove, thy neck as chains!</VERS>
+      <VERS vnumber="11">We will make thee figures of gold with studs of silver.</VERS>
+      <VERS vnumber="12">So long as the king was at table, my spikenard gave forth its smell.</VERS>
+      <VERS vnumber="13">My kinsman is to me a bundle of myrrh; he shall lie between my breasts.</VERS>
+      <VERS vnumber="14">My kinsman is to me a cluster of camphor in the vineyards of Engaddi.</VERS>
+      <VERS vnumber="15">Behold, thou art fair, my companion; behold, thou art fair; thine eyes are doves.</VERS>
+      <VERS vnumber="16">Behold, thou art fair, my kinsman, yea, beautiful, overshadowing our bed.</VERS>
+      <VERS vnumber="17">The beams of our house are cedars, our <DIV>
+          <NOTE type="x-studynote">Or, wainscots</NOTE>
+        </DIV> ceilings are of cypress.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

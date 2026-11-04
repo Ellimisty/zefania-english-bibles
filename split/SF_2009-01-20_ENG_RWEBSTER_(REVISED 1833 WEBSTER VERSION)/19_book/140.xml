@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="140">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief Musician, A Psalm of David.</STYLE> Deliver me, O LORD, from the evil man: preserve me from the violent man; <DIV>
+          <NOTE type="x-studynote">violent…: Heb. man of violences</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">Who imagine mischiefs in <STYLE css="font-style:italic">their</STYLE> heart; continually are they gathered together <STYLE css="font-style:italic">for</STYLE> war.</VERS>
+      <VERS vnumber="3">They have sharpened their tongues like a serpent; adders’ poison <STYLE css="font-style:italic">is</STYLE> under their lips. Selah.</VERS>
+      <VERS vnumber="4">Keep me, O LORD, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.</VERS>
+      <VERS vnumber="5">The proud have hid a trap for me, and cords; they have spread a net by the way side; they have set snares for me. Selah.</VERS>
+      <VERS vnumber="6">I said to the LORD, Thou <STYLE css="font-style:italic">art</STYLE> my God: hear the voice of my supplications, O LORD.</VERS>
+      <VERS vnumber="7">O GOD the Lord, the strength of my salvation, thou hast covered my head in the day of battle.</VERS>
+      <VERS vnumber="8">Grant not, O LORD, the desires of the wicked: further not his wicked device; <STYLE css="font-style:italic">lest</STYLE> they exalt themselves. Selah. <DIV>
+          <NOTE type="x-studynote">lest…: or, let them not be exalted</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="9">
+        <STYLE css="font-style:italic">As for</STYLE> the head of those that surroundeth me, let the mischief of their own lips cover them.</VERS>
+      <VERS vnumber="10">Let burning coals fall upon them: let them be cast into the fire; into deep pits, that they rise not again.</VERS>
+      <VERS vnumber="11">Let not an evil speaker be established on the earth: evil shall hunt the violent man to overthrow <STYLE css="font-style:italic">him</STYLE>. <DIV>
+          <NOTE type="x-studynote">an…: or, an evil speaker (Heb. a man of tongue), a wicked man of violence, be established in the earth: let him be hunted to his overthrow</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="12">I know that the LORD will maintain the cause of the afflicted, <STYLE css="font-style:italic">and</STYLE> the right of the poor.</VERS>
+      <VERS vnumber="13">Surely the righteous shall give thanks to thy name: the upright shall dwell in thy presence.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

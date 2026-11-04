@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="23">
+      <CAPTION vref="1">A Psalm of David.</CAPTION>
+      <VERS vnumber="1">Jehovah is my Shepherd; I shall not want.</VERS>
+      <VERS vnumber="2">He makes me to lie down in green pastures; He leads me to waters of rest.</VERS>
+      <VERS vnumber="3">He restores my soul; He leads me in paths of righteousness because of His great name.</VERS>
+      <VERS vnumber="4">Yea, though I walk through the valley of the shadow of death, I will fear no evil; for You are with me; Your rod and Your staff, they comfort me.</VERS>
+      <VERS vnumber="5">You prepare a table before me in the presence of my enemies; You anoint my head with oil; my cup runs over.</VERS>
+      <VERS vnumber="6">Surely goodness and mercy shall follow me all the days of my life; and I shall dwell in the house of Jehovah forever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

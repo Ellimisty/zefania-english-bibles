@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="67">
+      <VERS vnumber="1"> To the chief music-maker. With corded instruments. A Psalm. A Song. </VERS>
+      <VERS vnumber="2">\67:1\May God give us mercy and blessing, and let the light of his face be shining on us; (Selah.)</VERS>
+      <VERS vnumber="3">\67:2\So that men may see your way on the earth, and your salvation among all nations.</VERS>
+      <VERS vnumber="4">\67:3\Let the peoples give you praise, O God; let all the peoples give you praise.</VERS>
+      <VERS vnumber="5">\67:4\O let the nations be glad, and make song of joy; for you will be the judge of the peoples in righteousness, guiding the nations of the earth. (Selah.)</VERS>
+      <VERS vnumber="6">\67:5\Let the peoples give you praise, O God; let all the peoples give you praise.</VERS>
+      <VERS vnumber="7">\67:6\The earth has given her increase; and God, even our God, will give us his blessing.</VERS>
+      <VERS vnumber="8">\67:7\God will give us his blessing; so let all the ends of the earth be in fear of him.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

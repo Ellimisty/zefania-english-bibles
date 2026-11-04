@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Green's Literal Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="110">
+      <VERS vnumber="1">  A Psalm of David. A statement of Jehovah to my Lord: Sit at My right hand, until I place Your enemies as Your footstool.</VERS>
+      <VERS vnumber="2"> Jehovah shall send the rod of Your strength out of Zion; rule in the midst of Your enemies.</VERS>
+      <VERS vnumber="3"> Your people shall be willing in the day of Your power; in holy adornment from the womb of the dawn, to You is the dew of Your youth.</VERS>
+      <VERS vnumber="4"> Jehovah has sworn and will not repent: You are a priest forever according to the order of Melchizedek.</VERS>
+      <VERS vnumber="5"> The Lord at Your right hand shatters kings in the day of His anger.</VERS>
+      <VERS vnumber="6"> He shall judge among the nations; He shall fill with dead bodies; He shall shatter heads over much land.</VERS>
+      <VERS vnumber="7"> He shall drink out of the torrent on the way; therefore, He shall lift up the head.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

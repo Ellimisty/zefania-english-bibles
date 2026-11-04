@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="46">
+      <VERS vnumber="1"> To the chief <gr str="5329">Musician </gr>for the <gr str="1121">sons </gr>of <gr str="7141">Korah</gr>, A <gr str="7892">Song </gr>
+        <gr str="5921">upon </gr>
+        <gr str="5961">Alamoth</gr>. <gr str="430">God </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> our <gr str="4268">refuge </gr>and <gr str="5797">strength</gr>, a <gr str="3966">very </gr>
+        <gr str="4672">present </gr>
+        <gr str="5833">help </gr>in <gr str="6869">trouble</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="5921 3651">Therefore </gr>will <gr str="3808">not </gr>we <gr str="3372">fear</gr>, though the <gr str="776">earth </gr>be <gr str="4171">removed</gr>, and though the <gr str="2022">mountains </gr>be <gr str="4131">carried </gr>into the <gr str="3820">midst </gr>of the <gr str="3220">sea</gr>; </VERS>
+      <VERS vnumber="3">
+        <STYLE css="color:#808080;font-style:italic"> Though </STYLE> the <gr str="4325">waters </gr>thereof <gr str="1993">roar </gr>
+        <STYLE css="color:#808080;font-style:italic"> and </STYLE> be <gr str="2560">troubled</gr>, <STYLE css="color:#808080;font-style:italic"> though </STYLE> the <gr str="2022">mountains </gr>
+        <gr str="7493">shake </gr>with the <gr str="1346">swelling </gr>thereof. <gr str="5542">Selah</gr>. </VERS>
+      <VERS vnumber="4">
+        <STYLE css="color:#808080;font-style:italic"> There </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="5104">river</gr>, the <gr str="6388">streams </gr>whereof shall make <gr str="8055">glad </gr>the <gr str="5892">city </gr>of <gr str="430">God</gr>, the <gr str="6918">holy </gr>
+        <STYLE css="color:#808080;font-style:italic"> place </STYLE> of the <gr str="4908">tabernacles </gr>of the most <gr str="5945">High</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="430">God </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> in the <gr str="7130">midst </gr>of her; she shall <gr str="1077">not </gr>be <gr str="4131">moved</gr>: <gr str="430">God </gr>shall <gr str="5826">help </gr>her, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <gr str="6437">right </gr>
+        <gr str="1242">early</gr>. </VERS>
+      <VERS vnumber="6"> The <gr str="1471">heathen </gr>
+        <gr str="1993">raged</gr>, the <gr str="4467">kingdoms </gr>were <gr str="4131">moved</gr>: he <gr str="5414">uttered </gr>his <gr str="6963">voice</gr>, the <gr str="776">earth </gr>
+        <gr str="4127">melted</gr>. </VERS>
+      <VERS vnumber="7"> The <gr str="3068">LORD </gr>of <gr str="6635">hosts </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="5973">with </gr>us; the <gr str="430">God </gr>of <gr str="3290">Jacob </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> our <gr str="4869">refuge</gr>. <gr str="5542">Selah</gr>. </VERS>
+      <VERS vnumber="8">
+        <gr str="1980">Come</gr>, <gr str="2372">behold </gr>the <gr str="4659">works </gr>of the <gr str="3068">LORD</gr>, <gr str="834">what </gr>
+        <gr str="8047">desolations </gr>he hath <gr str="7760">made </gr>in the <gr str="776">earth</gr>. </VERS>
+      <VERS vnumber="9"> He maketh <gr str="4421">wars </gr>to <gr str="7673">cease </gr>
+        <gr str="5704">unto </gr>the <gr str="7097">end </gr>of the <gr str="776">earth</gr>; he <gr str="7665">breaketh </gr>the <gr str="7198">bow</gr>, and <gr str="7112">cutteth </gr>the <gr str="2595">spear </gr>in sunder; he <gr str="8313">burneth </gr>the <gr str="5699">chariot </gr>in the <gr str="784">fire</gr>. </VERS>
+      <VERS vnumber="10"> Be <gr str="7503">still</gr>, and <gr str="3045">know </gr>
+        <gr str="3588">that </gr>
+        <gr str="595">I </gr>
+        <STYLE css="color:#808080;font-style:italic"> am </STYLE>
+        <gr str="430">God</gr>: I will be <gr str="7311">exalted </gr>among the <gr str="1471">heathen</gr>, I will be <gr str="7311">exalted </gr>in the <gr str="776">earth</gr>. </VERS>
+      <VERS vnumber="11"> The <gr str="3068">LORD </gr>of <gr str="6635">hosts </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="5973">with </gr>us; the <gr str="430">God </gr>of <gr str="3290">Jacob </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> our <gr str="4869">refuge</gr>. <gr str="5542">Selah</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

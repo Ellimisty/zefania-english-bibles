@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="43">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of David.</STYLE> - Judge me, O God, and plead my cause, against an ungodly nation: deliver me from the unjust and crafty man.</VERS>
+      <VERS vnumber="2">For thou, O God, art my strength: wherefore hast thou cast me off? and why do I go sad of countenance, while the enemy oppresses me?</VERS>
+      <VERS vnumber="3">Send forth thy light and thy truth: they have led me, and brought me to thy holy mountain, and to thy tabernacles.</VERS>
+      <VERS vnumber="4">And I will go in to the altar of God, to God who gladdens my youth: I will give thanks to thee on the harp, O God, my God.</VERS>
+      <VERS vnumber="5">Wherefore art thou very sad, O my soul? and wherefore dost thou trouble me? Hope in God; for I will give thanks to him, who is the health of my countenance, and my God.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

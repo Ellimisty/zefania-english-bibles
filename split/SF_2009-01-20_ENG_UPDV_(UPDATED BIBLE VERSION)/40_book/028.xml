@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Updated Bible Version" type="x-bible">
+  <BIBLEBOOK bnumber="40">
+    <CHAPTER cnumber="28">
+      <VERS vnumber="1">Now late on the Sabbath day, as it began to dawn toward the first [day] of the week, Mary Magdalene and the other Mary came to see the tomb.</VERS>
+      <VERS vnumber="2">And look, an angel appeared. His appearance was as lightning, and his clothing white as snow.</VERS>
+      <VERS vnumber="3">And the angel said to the women, Don't be<DIV>
+          <NOTE type="x-emphasize">{+}</NOTE>
+        </DIV> afraid; for I know that you<DIV>
+          <NOTE type="x-emphasize">{+}</NOTE>
+        </DIV> seek Jesus, who has been crucified.</VERS>
+      <VERS vnumber="4">He is not here; for he is risen, even as he said. Come, see the place where he was lying.</VERS>
+      <VERS vnumber="5">And they departed quickly from the tomb with fear, and fled.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

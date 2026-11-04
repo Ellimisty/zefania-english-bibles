@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="King James Version PCE" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="146">
+      <VERS vnumber="1">Praise ye the <STYLE id="cl:divineName">Lord</STYLE>. Praise the <STYLE id="cl:divineName">Lord</STYLE>, O my soul.</VERS>
+      <VERS vnumber="2">While I live will I praise the <STYLE id="cl:divineName">Lord</STYLE>: I will sing praises unto my God while I have any being.</VERS>
+      <VERS vnumber="3">Put not your trust in princes,  nor  in the son of man, in whom  there is  no help.</VERS>
+      <VERS vnumber="4">His breath goeth forth, he returneth to his earth; in that very day his thoughts perish.</VERS>
+      <VERS vnumber="5">Happy  is he  that  hath  the God of Jacob for his help, whose hope  is  in the <STYLE id="cl:divineName">Lord</STYLE> his God:</VERS>
+      <VERS vnumber="6">Which made heaven, and earth, the sea, and all that therein  is : which keepeth truth for ever:</VERS>
+      <VERS vnumber="7">Which executeth judgment for the oppressed: which giveth food to the hungry. The <STYLE id="cl:divineName">Lord</STYLE> looseth the prisoners:</VERS>
+      <VERS vnumber="8">The <STYLE id="cl:divineName">Lord</STYLE> openeth  the eyes of  the blind: the <STYLE id="cl:divineName">Lord</STYLE> raiseth them that are bowed down: the <STYLE id="cl:divineName">Lord</STYLE> loveth the righteous:</VERS>
+      <VERS vnumber="9">The <STYLE id="cl:divineName">Lord</STYLE> preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.</VERS>
+      <VERS vnumber="10">The <STYLE id="cl:divineName">Lord</STYLE> shall reign for ever,  even  thy God, O Zion, unto all generations. Praise ye the <STYLE id="cl:divineName">Lord</STYLE>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

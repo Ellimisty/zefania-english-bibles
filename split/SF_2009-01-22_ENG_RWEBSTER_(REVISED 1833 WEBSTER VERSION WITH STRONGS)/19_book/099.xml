@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="99">
+      <VERS vnumber="1">The <gr str="3068">LORD </gr>
+        <gr str="4427">reigneth</gr>; let the <gr str="5971">people </gr>
+        <gr str="7264">tremble</gr>: he <gr str="3427">setteth </gr>
+        <STYLE css="font-style:italic">between</STYLE> the <gr str="3742">cherubim</gr>; let the <gr str="776">earth </gr>be <gr str="5120">moved</gr>. <DIV>
+          <NOTE type="x-studynote">be moved: Heb. stagger</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">The <gr str="3068">LORD </gr>
+        <STYLE css="font-style:italic">is </STYLE>
+        <gr str="1419">great </gr>in <gr str="6726">Zion</gr>; and he <STYLE css="font-style:italic">is </STYLE>
+        <gr str="7311">high </gr>above all <gr str="5971">people</gr>.</VERS>
+      <VERS vnumber="3">Let them <gr str="3034">praise </gr>thy <gr str="1419">great </gr>and <gr str="3372">terrible </gr>
+        <gr str="8034">name</gr>; <STYLE css="font-style:italic">for</STYLE> it <STYLE css="font-style:italic">is </STYLE>
+        <gr str="6918">holy</gr>.</VERS>
+      <VERS vnumber="4">The <gr str="4428">king’s </gr>
+        <gr str="5797">strength </gr>also <gr str="157">loveth </gr>
+        <gr str="4941">judgment</gr>; thou dost <gr str="3559">establish </gr>
+        <gr str="4339">equity</gr>, thou <gr str="6213">executest </gr>
+        <gr str="4941">judgment </gr>and <gr str="6666">righteousness </gr>in <gr str="3290">Jacob</gr>.</VERS>
+      <VERS vnumber="5">
+        <gr str="7311">Exalt </gr>ye the <gr str="3068">LORD </gr>our <gr str="430">God</gr>, and <gr str="7812">worship </gr>at his <gr str="7272 1916">footstool</gr>; <STYLE css="font-style:italic">for</STYLE> he <STYLE css="font-style:italic">is </STYLE>
+        <gr str="6918">holy</gr>. <DIV>
+          <NOTE type="x-studynote">he is…: or, it is holy</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">
+        <gr str="4872">Moses </gr>and <gr str="175">Aaron </gr>among his <gr str="3548">priests</gr>, and <gr str="8050">Samuel </gr>among them that <gr str="7121">call </gr>upon his <gr str="8034">name</gr>; they <gr str="7121">called </gr>upon the <gr str="3068">LORD</gr>, and he <gr str="6030">answered </gr>them.</VERS>
+      <VERS vnumber="7">He <gr str="1696">spoke </gr>to them in the <gr str="6051">cloudy </gr>
+        <gr str="5982">pillar</gr>: they <gr str="8104">kept </gr>his <gr str="5713">testimonies</gr>, and the <gr str="2706">ordinance </gr>
+        <STYLE css="font-style:italic">that</STYLE> he <gr str="5414">gave </gr>them.</VERS>
+      <VERS vnumber="8">Thou didst <gr str="6030">answer </gr>them, O <gr str="3068">LORD </gr>our <gr str="430">God</gr>: thou wast a <gr str="410">God </gr>that <gr str="5375">forgavest </gr>them, though thou tookest <gr str="5358">vengeance </gr>on their <STYLE css="font-style:italic">evil </STYLE>
+        <gr str="5949">deeds</gr>.</VERS>
+      <VERS vnumber="9">
+        <gr str="7311">Exalt </gr>the <gr str="3068">LORD </gr>our <gr str="430">God</gr>, and <gr str="7812">worship </gr>at his <gr str="6944">holy </gr>
+        <gr str="2022">hill</gr>; for the <gr str="3068">LORD </gr>our <gr str="430">God </gr>
+        <STYLE css="font-style:italic">is </STYLE>
+        <gr str="6918">holy</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

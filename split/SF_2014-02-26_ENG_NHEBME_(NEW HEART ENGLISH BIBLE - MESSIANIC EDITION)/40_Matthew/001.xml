@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible - Messianic Edition" type="x-bible">
+  <BIBLEBOOK bnumber="40" bname="Matthew" bsname="Mat">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">A record of the genealogy of Yeshua the Messiah, the son of David, the son of Abraham.</VERS>
+      <VERS vnumber="2">Abraham was the father of Isaac, and Isaac the father of Jacob, and Jacob the father of Judah and his brothers,</VERS>
+      <VERS vnumber="3">and Judah was the father of Perez and Zerah by Tamar, and Perez was the father of Hezron, and Hezron the father of Ram,</VERS>
+      <VERS vnumber="4">and Ram the father of Amminadab, and Amminadab the father of Nahshon, and Nahshon the father of Salmon,</VERS>
+      <VERS vnumber="5">and Salmon the father of Boaz by Rahab, and Boaz was the father of Obed by Ruth, and Obed was the father of Jesse,</VERS>
+      <VERS vnumber="6">and Jesse the father of David the king. And David was the father of Solomon by her who had been the wife of Uriah;</VERS>
+      <VERS vnumber="7">and Solomon was the father of Rehoboam, and Rehoboam the father of Abijah, and Abijah the father of Asa;</VERS>
+      <VERS vnumber="8">and Asa the father of Jehoshaphat, and Jehoshaphat the father of Joram, and Joram the father of Uzziah,</VERS>
+      <VERS vnumber="9">and Uzziah the father of Jotham, and Jotham the father of Ahaz, and Ahaz the father of Hezekiah;</VERS>
+      <VERS vnumber="10">and Hezekiah the father of Manasseh, and Manasseh the father of Amon, and Amon the father of Josiah,</VERS>
+      <VERS vnumber="11">and Josiah the father of Jechoniah and his brothers, at the time of the exile to Babylon.</VERS>
+      <VERS vnumber="12">And after the exile to Babylon, Jechoniah was the father of Shealtiel, and Shealtiel the father of Zerubbabel,</VERS>
+      <VERS vnumber="13">and Zerubbabel the father of Abiud, and Abiud the father of Eliakim, and Eliakim the father of Azor,</VERS>
+      <VERS vnumber="14">and Azor the father of Zadok, and Zadok the father of Achim, and Achim the father of Eliud,</VERS>
+      <VERS vnumber="15">and Eliud the father of Eleazar, and Eleazar the father of Matthan, and Matthan the father of Jacob,</VERS>
+      <VERS vnumber="16">and Jacob the father of Joseph, the husband of Miriam, from whom was born Yeshua, who is called the Messiah.</VERS>
+      <VERS vnumber="17">So all the generations from Abraham to David are fourteen generations; and from David to the exile to Babylon fourteen generations; and from the carrying away to Babylon to the Messiah, fourteen generations.</VERS>
+      <VERS vnumber="18">Now the birth of Yeshua the Messiah was like this; for after his mother, Miriam, was engaged to Joseph, before they came together, she was found to be with child from the Holy Spirit.</VERS>
+      <VERS vnumber="19">And Joseph, her husband, being a righteous man, and not willing to make her a public example, intended to put her away secretly.</VERS>
+      <VERS vnumber="20">But when he thought about these things, behold, an angel of the <STYLE id="cl:divineName">Lord</STYLE> appeared to him in a dream, saying, "Joseph, son of David, do not be afraid to take to yourself Miriam, your wife, for that which is conceived in her is of the Holy Spirit.</VERS>
+      <VERS vnumber="21">And she will bring forth a son, and you shall call his name Yeshua, for it is he who shall save his people from their sins."</VERS>
+      <VERS vnumber="22">Now all this has happened, that it might be fulfilled which was spoken by the <STYLE id="cl:divineName">Lord</STYLE> through the prophet, saying,</VERS>
+      <VERS vnumber="23">"Behold, the virgin shall be with child,and shall bring forth a son.They shall call his name Immanuel;"which is, being interpreted, "God with us." </VERS>
+      <VERS vnumber="24">And Joseph arose from his sleep, and did as the angel of the <STYLE id="cl:divineName">Lord</STYLE> commanded him, and took his wife to himself;</VERS>
+      <VERS vnumber="25">and had no marital relations with her until she had brought forth a son; and he named him Yeshua.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="63">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of <gr str="1732">David</gr>, when he was in the <gr str="4057">wilderness </gr>of <gr str="3063">Judah</gr>.</STYLE> O <gr str="430">God</gr>, thou <STYLE css="font-style:italic">art</STYLE> my <gr str="410">God</gr>; early will I <gr str="7836">seek </gr>thee: my <gr str="5315">soul </gr>
+        <gr str="6770">thirsteth </gr>for thee, my <gr str="1320">flesh </gr>
+        <gr str="3642">longeth </gr>for thee in a <gr str="6723">dry </gr>and <gr str="5889">thirsty </gr>
+        <gr str="776">land</gr>, where <gr str="1097">no </gr>
+        <gr str="4325">water </gr>is; <DIV>
+          <NOTE type="x-studynote">thirsty: Heb. weary</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">where…: without water</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">To <gr str="7200">see </gr>thy <gr str="5797">power </gr>and thy <gr str="3519">glory</gr>, so <STYLE css="font-style:italic">as</STYLE> I have <gr str="2372">seen </gr>thee in the <gr str="6944">sanctuary</gr>.</VERS>
+      <VERS vnumber="3">Because thy <gr str="2617">lovingkindness </gr>
+        <STYLE css="font-style:italic">is </STYLE>
+        <gr str="2896">better </gr>than <gr str="2416">life</gr>, my <gr str="8193">lips </gr>shall <gr str="7623">praise </gr>thee.</VERS>
+      <VERS vnumber="4">Thus will I <gr str="1288">bless </gr>thee while I <gr str="2416">live</gr>: I will lift <gr str="5375">up </gr>my <gr str="3709">hands </gr>in thy <gr str="8034">name</gr>.</VERS>
+      <VERS vnumber="5">My <gr str="5315">soul </gr>shall be <gr str="7646">satisfied </gr>as <STYLE css="font-style:italic">with </STYLE>
+        <gr str="2459">marrow </gr>and <gr str="1880">fatness</gr>; and my <gr str="6310">mouth </gr>shall <gr str="1984">praise </gr>
+        <STYLE css="font-style:italic">thee</STYLE> with <gr str="7445">joyful </gr>
+        <gr str="8193">lips</gr>: <DIV>
+          <NOTE type="x-studynote">marrow: Heb. fatness</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">When I <gr str="2142">remember </gr>thee upon my <gr str="3326">bed</gr>, <STYLE css="font-style:italic">and </STYLE>
+        <gr str="1897">meditate </gr>on thee in the <STYLE css="font-style:italic">night </STYLE>
+        <gr str="821">watches</gr>.</VERS>
+      <VERS vnumber="7">Because thou hast been my <gr str="5833">help</gr>, therefore in the <gr str="6738">shadow </gr>of thy <gr str="3671">wings </gr>will I <gr str="7442">rejoice</gr>.</VERS>
+      <VERS vnumber="8">My <gr str="5315">soul </gr>followeth <gr str="1692">hard </gr>
+        <gr str="310">after </gr>thee: thy right <gr str="3225">hand </gr>
+        <gr str="8551">upholdeth </gr>me.</VERS>
+      <VERS vnumber="9">But those <STYLE css="font-style:italic">that </STYLE>
+        <gr str="1245">seek </gr>my <gr str="5315">soul</gr>, to <gr str="7722">destroy </gr>
+        <STYLE css="font-style:italic">it</STYLE>, shall <gr str="935">go </gr>into the lower <gr str="8482">parts </gr>of the <gr str="776">earth</gr>.</VERS>
+      <VERS vnumber="10">They shall <gr str="5064">fall </gr>by the <gr str="3027 2719">sword</gr>: they shall be a <gr str="4521">portion </gr>for <gr str="7776">foxes</gr>. <DIV>
+          <NOTE type="x-studynote">They shall fall…: Heb. They shall make him run out like water by the hands of</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="11">But the <gr str="4428">king </gr>shall <gr str="8055">rejoice </gr>in <gr str="430">God</gr>; every one that <gr str="7650">sweareth </gr>by him shall <gr str="1984">glory</gr>: but the <gr str="6310">mouth </gr>of them that <gr str="1696">speak </gr>
+        <gr str="8267">lies </gr>shall be <gr str="5534">stopped</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

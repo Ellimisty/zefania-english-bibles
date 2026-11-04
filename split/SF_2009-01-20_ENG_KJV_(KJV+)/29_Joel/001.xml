@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="29" bname="Joel" bsname="Joe">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1"> The <gr str="1697">word </gr>of the <gr str="3068">LORD </gr>
+        <gr str="834">that </gr>
+        <gr str="1961">came </gr>
+        <gr str="413">to </gr>
+        <gr str="3100">Joel </gr>the <gr str="1121">son </gr>of <gr str="6602">Pethuel</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="8085">Hear </gr>
+        <gr str="2063">this</gr>, ye old <gr str="2205">men</gr>, and give <gr str="238">ear</gr>, <gr str="3605">all </gr>ye <gr str="3427">inhabitants </gr>of the <gr str="776">land</gr>. Hath <gr str="2063">this </gr>
+        <gr str="1961">been </gr>in your <gr str="3117">days</gr>, or <gr str="518">even </gr>in the <gr str="3117">days </gr>of your <gr str="1">fathers</gr>? </VERS>
+      <VERS vnumber="3">
+        <gr str="5608">Tell </gr>ye your <gr str="1121">children </gr>
+        <gr str="5921">of </gr>it, and <STYLE css="color:#808080;font-style:italic"> let </STYLE> your <gr str="1121">children </gr>
+        <STYLE css="color:#808080;font-style:italic"> tell </STYLE> their <gr str="1121">children</gr>, and their <gr str="1121">children </gr>
+        <gr str="312">another </gr>
+        <gr str="1755">generation</gr>. </VERS>
+      <VERS vnumber="4"> That which the <gr str="1501">palmerworm </gr>hath <gr str="3499">left </gr>hath the <gr str="697">locust </gr>
+        <gr str="398">eaten</gr>; and that which the <gr str="697">locust </gr>hath <gr str="3499">left </gr>hath the <gr str="3218">cankerworm </gr>
+        <gr str="398">eaten</gr>; and that which the <gr str="3218">cankerworm </gr>hath <gr str="3499">left </gr>hath the <gr str="2625">caterpillar </gr>
+        <gr str="398">eaten</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="6974">Awake</gr>, ye <gr str="7910">drunkards</gr>, and <gr str="1058">weep</gr>; and <gr str="3213">howl</gr>, <gr str="3605">all </gr>ye <gr str="8354">drinkers </gr>of <gr str="3196">wine</gr>, because <gr str="5921">of </gr>the new <gr str="6071">wine</gr>; <gr str="3588">for </gr>it is cut <gr str="3772">off </gr>from your <gr str="4480 6310">mouth</gr>. </VERS>
+      <VERS vnumber="6">
+        <gr str="3588">For </gr>a <gr str="1471">nation </gr>is come <gr str="5927">up </gr>
+        <gr str="5921">upon </gr>my <gr str="776">land</gr>, <gr str="6099">strong</gr>, and <gr str="369">without </gr>
+        <gr str="4557">number</gr>, whose <gr str="8127">teeth </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> the <gr str="8127">teeth </gr>of a <gr str="738">lion</gr>, and he hath the cheek <gr str="4973">teeth </gr>of a great <gr str="3833">lion</gr>. </VERS>
+      <VERS vnumber="7"> He hath <gr str="7760">laid </gr>my <gr str="1612">vine </gr>
+        <gr str="8047">waste</gr>, and <gr str="7111">barked </gr>my fig <gr str="8384">tree</gr>: he hath made it clean <gr str="2834 2834">bare</gr>, and cast <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <gr str="7993">away</gr>; the <gr str="8299">branches </gr>thereof are made <gr str="3835">white</gr>. </VERS>
+      <VERS vnumber="8">
+        <gr str="421">Lament </gr>like a <gr str="1330">virgin </gr>
+        <gr str="2296">girded </gr>with <gr str="8242">sackcloth </gr>
+        <gr str="5921">for </gr>the <gr str="1167">husband </gr>of her <gr str="5271">youth</gr>. </VERS>
+      <VERS vnumber="9"> The meat <gr str="4503">offering </gr>and the drink <gr str="5262">offering </gr>is cut <gr str="3772">off </gr>from the <gr str="4480 1004">house </gr>of the <gr str="3068">LORD</gr>; the <gr str="3548">priests</gr>, the <gr str="3068">LORD </gr>'s <gr str="8334">ministers</gr>, <gr str="56">mourn</gr>. </VERS>
+      <VERS vnumber="10"> The <gr str="7704">field </gr>is <gr str="7703">wasted</gr>, the <gr str="127">land </gr>
+        <gr str="56">mourneth</gr>; <gr str="3588">for </gr>the <gr str="1715">corn </gr>is <gr str="7703">wasted</gr>: the new <gr str="8492">wine </gr>is dried <gr str="3001">up</gr>, the <gr str="3323">oil </gr>
+        <gr str="535">languisheth</gr>. </VERS>
+      <VERS vnumber="11"> Be ye <gr str="954">ashamed</gr>, O ye <gr str="406">husbandmen</gr>; <gr str="3213">howl</gr>, O ye <gr str="3755">vinedressers</gr>, <gr str="5921">for </gr>the <gr str="2406">wheat </gr>and <gr str="5921">for </gr>the <gr str="8184">barley</gr>; <gr str="3588">because </gr>the <gr str="7105">harvest </gr>of the <gr str="7704">field </gr>is <gr str="6">perished</gr>. </VERS>
+      <VERS vnumber="12"> The <gr str="1612">vine </gr>is dried <gr str="3001">up</gr>, and the fig <gr str="8384">tree </gr>
+        <gr str="535">languisheth</gr>; the pomegranate <gr str="7416">tree</gr>, the palm <gr str="8558">tree </gr>
+        <gr str="1571">also</gr>, and the apple <gr str="8598">tree</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE>
+        <gr str="3605">all </gr>the <gr str="6086">trees </gr>of the <gr str="7704">field</gr>, are <gr str="3001">withered</gr>: <gr str="3588">because </gr>
+        <gr str="8342">joy </gr>is withered <gr str="3001">away </gr>
+        <gr str="4480">from </gr>the <gr str="1121">sons </gr>of <gr str="120">men</gr>. </VERS>
+      <VERS vnumber="13">
+        <gr str="2296">Gird </gr>yourselves, and <gr str="5594">lament</gr>, ye <gr str="3548">priests</gr>: <gr str="3213">howl</gr>, ye <gr str="8334">ministers </gr>of the <gr str="4196">altar</gr>: <gr str="935">come</gr>, lie all <gr str="3885">night </gr>in <gr str="8242">sackcloth</gr>, ye <gr str="8334">ministers </gr>of my <gr str="430">God</gr>: <gr str="3588">for </gr>the meat <gr str="4503">offering </gr>and the drink <gr str="5262">offering </gr>is <gr str="4513">withheld </gr>from the <gr str="4480 1004">house </gr>of your <gr str="430">God</gr>. </VERS>
+      <VERS vnumber="14">
+        <gr str="6942">Sanctify </gr>ye a <gr str="6685">fast</gr>, <gr str="7121">call </gr>a solemn <gr str="6116">assembly</gr>, <gr str="622">gather </gr>the <gr str="2205">elders </gr>
+        <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="3605">all </gr>the <gr str="3427">inhabitants </gr>of the <gr str="776">land </gr>
+        <STYLE css="color:#808080;font-style:italic"> into </STYLE> the <gr str="1004">house </gr>of the <gr str="3068">LORD </gr>your <gr str="430">God</gr>, and <gr str="2199">cry </gr>
+        <gr str="413">unto </gr>the <gr str="3068">LORD</gr>, </VERS>
+      <VERS vnumber="15">
+        <gr str="162">Alas </gr>for the <gr str="3117">day</gr>! <gr str="3588">for </gr>the <gr str="3117">day </gr>of the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> at <gr str="7138">hand</gr>, and as a <gr str="7701">destruction </gr>from the <gr str="4480 7706">Almighty </gr>shall it <gr str="935">come</gr>. </VERS>
+      <VERS vnumber="16"> Is <gr str="3808">not </gr>the <gr str="400">meat </gr>cut <gr str="3772">off </gr>
+        <gr str="5048">before </gr>our <gr str="5869">eyes</gr>, <STYLE css="color:#808080;font-style:italic"> yea </STYLE>, <gr str="8057">joy </gr>and <gr str="1524">gladness </gr>from the <gr str="4480 1004">house </gr>of our <gr str="430">God</gr>? </VERS>
+      <VERS vnumber="17"> The <gr str="6507">seed </gr>is <gr str="5685">rotten </gr>
+        <gr str="8478">under </gr>their <gr str="4053">clods</gr>, the <gr str="214">garners </gr>are laid <gr str="8074">desolate</gr>, the <gr str="4460">barns </gr>are broken <gr str="2040">down</gr>; <gr str="3588">for </gr>the <gr str="1715">corn </gr>is <gr str="3001">withered</gr>. </VERS>
+      <VERS vnumber="18">
+        <gr str="4100">How </gr>do the <gr str="929">beasts </gr>
+        <gr str="584">groan</gr>! the <gr str="5739">herds </gr>of <gr str="1241">cattle </gr>are <gr str="943">perplexed</gr>, <gr str="3588">because </gr>they have <gr str="369">no </gr>
+        <gr str="4829">pasture</gr>; <gr str="1571">yea</gr>, the <gr str="5739">flocks </gr>of <gr str="6629">sheep </gr>are made <gr str="816">desolate</gr>. </VERS>
+      <VERS vnumber="19"> O <gr str="3068">LORD</gr>, <gr str="413">to </gr>thee will I <gr str="7121">cry</gr>: <gr str="3588">for </gr>the <gr str="784">fire </gr>hath <gr str="398">devoured </gr>the <gr str="4999">pastures </gr>of the <gr str="4057">wilderness</gr>, and the <gr str="3852">flame </gr>hath <gr str="3857">burned </gr>
+        <gr str="3605">all </gr>the <gr str="6086">trees </gr>of the <gr str="7704">field</gr>. </VERS>
+      <VERS vnumber="20"> The <gr str="929">beasts </gr>of the <gr str="7704">field </gr>
+        <gr str="6165">cry </gr>
+        <gr str="1571">also </gr>
+        <gr str="413">unto </gr>thee: <gr str="3588">for </gr>the <gr str="650">rivers </gr>of <gr str="4325">waters </gr>are dried <gr str="3001">up</gr>, and the <gr str="784">fire </gr>hath <gr str="398">devoured </gr>the <gr str="4999">pastures </gr>of the <gr str="4057">wilderness</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

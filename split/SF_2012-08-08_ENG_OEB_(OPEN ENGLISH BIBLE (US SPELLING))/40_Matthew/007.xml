@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="40" bname="Matthew" bsname="Mat">
+    <CHAPTER cnumber="7">
+      <VERS vnumber="11">
+        crosswire  amateurish codings
+      </VERS>
+      <VERS vnumber="14">
+        crosswire  amateurish codings
+      </VERS>
+      <VERS vnumber="23">
+        crosswire  amateurish codings
+      </VERS>
+      <VERS vnumber="27">
+        crosswire  amateurish codings
+      </VERS>
+      <VERS vnumber="28">By the time that Jesus had finished speaking, the crowd was filled with amazement at his teaching.</VERS>
+      <VERS vnumber="29">For he taught them like one who had authority, and not like their teachers of the law.  crosswire  amateurish codings</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

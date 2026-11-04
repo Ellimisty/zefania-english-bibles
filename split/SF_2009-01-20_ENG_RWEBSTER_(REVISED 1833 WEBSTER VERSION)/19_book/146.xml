@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="146">
+      <VERS vnumber="1">Praise ye the LORD. Praise the LORD, O my soul. <DIV>
+          <NOTE type="x-studynote">Praise ye…: Heb. Hallelujah</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">While I live will I praise the LORD: I will sing praises to my God while I have any being.</VERS>
+      <VERS vnumber="3">Put not your trust in princes, <STYLE css="font-style:italic">nor</STYLE> in the son of man, in whom <STYLE css="font-style:italic">there is</STYLE> no help. <DIV>
+          <NOTE type="x-studynote">help: or, salvation</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">His breath goeth forth, he returneth to his earth; in that very day his thoughts perish.</VERS>
+      <VERS vnumber="5">Happy <STYLE css="font-style:italic">is he</STYLE> that <STYLE css="font-style:italic">hath</STYLE> the God of Jacob for his help, whose hope <STYLE css="font-style:italic">is</STYLE> in the LORD his God:</VERS>
+      <VERS vnumber="6">Who made heaven, and earth, the sea, and all that <STYLE css="font-style:italic">is</STYLE> in them: who keepeth truth for ever:</VERS>
+      <VERS vnumber="7">Who executeth judgment for the oppressed: who giveth food to the hungry. The LORD looseth the prisoners:</VERS>
+      <VERS vnumber="8">The LORD openeth <STYLE css="font-style:italic">the eyes of</STYLE> the blind: the LORD raiseth them that are bowed down: the LORD loveth the righteous:</VERS>
+      <VERS vnumber="9">The LORD preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.</VERS>
+      <VERS vnumber="10">The LORD shall reign for ever, <STYLE css="font-style:italic">even</STYLE> thy God, O Zion, to all generations. Praise ye the LORD.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

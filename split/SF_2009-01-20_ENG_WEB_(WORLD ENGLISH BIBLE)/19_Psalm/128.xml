@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="World English Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="128">
+      <VERS vnumber="1">Blessed is everyone who fears Yahweh,    Who walks in his ways.</VERS>
+      <VERS vnumber="2">For you will eat the labor of your hands.    You will be happy, and it will be well with you.</VERS>
+      <VERS vnumber="3">Your wife will be as a fruitful vine,    In the innermost parts of your house;    Your children like olive plants,    Around your table.</VERS>
+      <VERS vnumber="4">Behold, thus is the man blessed who fears Yahweh.</VERS>
+      <VERS vnumber="5">May Yahweh bless you out of Zion,    And may you see the good of Jerusalem all the days of your life.</VERS>
+      <VERS vnumber="6">Yes, may you see your children`s children.    Peace be upon Israel.      Psalm 129  A Song of Ascents.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

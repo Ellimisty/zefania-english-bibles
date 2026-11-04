@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="125">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of the steps, or the goings up.</STYLE> They who trust in the LORD shall be as Mount Zion, Which cannot be moved, which standeth for ever.</VERS>
+      <VERS vnumber="2">As the mountains are round about Jerusalem, So the LORD is round about his people, Henceforth even for ever!</VERS>
+      <VERS vnumber="3">For the sceptre of the wicked shall not remain upon the portion of the righteous, Lest the righteous put forth their hands to iniquity.</VERS>
+      <VERS vnumber="4">Do good, O LORD! to the good, To them that are upright in heart!</VERS>
+      <VERS vnumber="5">But such as turn aside to their crooked ways,May the LORD destroy them with the evildoers! Peace be to Israel!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

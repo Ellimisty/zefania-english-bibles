@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="139">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">O Jehovah, you have searched me and you know me.</VERS>
+      <VERS vnumber="2">You know when I sit down and when I rise up. You understand my thought from afar.</VERS>
+      <VERS vnumber="3">You inspect my path and my lying down. You are intimately acquainted with my ways.</VERS>
+      <VERS vnumber="4">Even before I speak words from my tongue, behold, O Jehovah, You know it all.</VERS>
+      <VERS vnumber="5">You have enclosed me behind and before, and laid your hand upon me.</VERS>
+      <VERS vnumber="6">Knowing this is too wonderful for me! It is too high, I cannot attain to it.</VERS>
+      <VERS vnumber="7">Where can I go from your Spirit? Or where can I flee from your presence?</VERS>
+      <VERS vnumber="8">If I ascend to heaven, you are there. If I make my bed in the grave, behold, you are there.</VERS>
+      <VERS vnumber="9">If I take the wings of the dawn, if I dwell in the remotest part of the sea,</VERS>
+      <VERS vnumber="10">Even there your hand will lead me. Your right hand will lay hold of me.</VERS>
+      <VERS vnumber="11">If I say: »Certainly the darkness will overwhelm me!« Then the light around me will be night.</VERS>
+      <VERS vnumber="12">Even the darkness is not dark to you. And the night is as bright as the day. Darkness and light are alike to you.</VERS>
+      <VERS vnumber="13">For you formed my inward parts. You wove me in my mother's womb.</VERS>
+      <VERS vnumber="14">I will praise you, for in an awesome way I am wonderfully made. Your works are wonderful and I know this very well.</VERS>
+      <VERS vnumber="15">My frame was not hidden from you, when I was made in secret, and woven in the depths of the earth.</VERS>
+      <VERS vnumber="16">Your eyes saw my embryo and all were written in your book; the days ordained for me. Even this before one had taken place.</VERS>
+      <VERS vnumber="17">How precious are your thoughts to me, O God! How numerous is the sum of them!</VERS>
+      <VERS vnumber="18">If I should count them, they would outnumber the sand. When I awake, I am still with you.</VERS>
+      <VERS vnumber="19">If you would destroy the wicked, O God, depart from me, therefore, men of bloodshed.</VERS>
+      <VERS vnumber="20">For they speak against you wickedly. Your enemies take your name in vain.</VERS>
+      <VERS vnumber="21">Do I not hate those who hate You, O Jehovah? And do I not loathe those who rise up against you?</VERS>
+      <VERS vnumber="22">I hate them with the utmost hatred! They have become my enemies.</VERS>
+      <VERS vnumber="23">Examine me, O God, and know my heart. Test me and know my anxious <STYLE css="font-style:italic">troubled</STYLE>
+        <STYLE css="font-style:italic">painful</STYLE>
+        <STYLE css="font-style:italic">disturbing</STYLE> thoughts.</VERS>
+      <VERS vnumber="24">See if there is any hurtful way in me, and lead me in the everlasting way.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

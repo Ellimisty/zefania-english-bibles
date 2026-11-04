@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Douay Rheims" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="10">
+      <VERS vnumber="1">Why, O Lord, hast thou retired afar off? why dost thou slight us in our wants, in the time of trouble?</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

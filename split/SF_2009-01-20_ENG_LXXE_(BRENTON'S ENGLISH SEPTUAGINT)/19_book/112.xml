@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="112">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">Alleluia.</STYLE> - Blessed is the man that fears the Lord: he will delight greatly in his commandments.</VERS>
+      <VERS vnumber="2">His seed shall be mighty in the earth: the generation of the upright shall be blessed.</VERS>
+      <VERS vnumber="3">Glory and riches shall be in his house; and his righteousness endures for evermore.</VERS>
+      <VERS vnumber="4">To the upright light has sprung up in darkness: he is pitiful, and merciful, and righteous.</VERS>
+      <VERS vnumber="5">The good man is he that pities and lends: he will direct his affairs with judgement.</VERS>
+      <VERS vnumber="6">For he shall not be moved for ever; the righteous shall be in everlasting remembrance.</VERS>
+      <VERS vnumber="7">He shall not be afraid of any evil report: his heart is ready to trust in the Lord.</VERS>
+      <VERS vnumber="8">His heart is established, he shall not fear, till he shall see his desire upon his enemies.</VERS>
+      <VERS vnumber="9">
+        <DIV>
+          <NOTE type="x-studynote">2 Co 9:9</NOTE>
+        </DIV> He has dispersed abroad; he has given to the poor; his righteousness endures for evermore: his horn shall be exalted with honour.</VERS>
+      <VERS vnumber="10">The sinner shall see and be angry, he shall gnash his teeth, and consume away: the desire of the sinner shall perish.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Rotherham Version" type="x-bible">
+  <BIBLEBOOK bname="Psalm" bnumber="19" bsname="Ps">
+    <CHAPTER cnumber="133">
+      <VERS vnumber="1">Lo! how good and how delightful, for brethren, to dwell together even as one.</VERS>
+      <VERS vnumber="2">Like the precious oil upon the head, descending upon the beard; the beard of Aaron,which descended unto the opening of his robe:</VERS>
+      <VERS vnumber="3">Like the dew of Hermon, which descended upon the mountains of Zion,for, there, did Yahweh command the blessing, Life, unto times age-abiding?</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

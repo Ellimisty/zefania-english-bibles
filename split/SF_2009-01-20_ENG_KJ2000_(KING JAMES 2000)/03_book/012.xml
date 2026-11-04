@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James 2000" type="x-bible">
+  <BIBLEBOOK bnumber="3">
+    <CHAPTER cnumber="12">
+      <VERS vnumber="1">And the LORD spoke unto Moses, saying,</VERS>
+      <VERS vnumber="2">
+        <STYLE css="color:#FF0000">Speak unto the children of Israel, saying, If a woman has conceived, and borne a male child: then she shall be unclean seven days; as in the days of her customary impurity shall she be unclean.</STYLE>
+      </VERS>
+      <VERS vnumber="3">
+        <STYLE css="color:#FF0000">And in the eighth day the flesh of his foreskin shall be circumcised.</STYLE>
+      </VERS>
+      <VERS vnumber="4">
+        <STYLE css="color:#FF0000">And she shall then continue in the blood of her purification three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purification be fulfilled.</STYLE>
+      </VERS>
+      <VERS vnumber="5">
+        <STYLE css="color:#FF0000">But if she bears a female child, then she shall be unclean two weeks, as in her customary impurity: and she shall continue in the blood of her purification three score and six days.</STYLE>
+      </VERS>
+      <VERS vnumber="6">
+        <STYLE css="color:#FF0000">And when the days of her purification are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of meeting, unto the priest:</STYLE>
+      </VERS>
+      <VERS vnumber="7">
+        <STYLE css="color:#FF0000">Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the flow of her blood. This is the law for her that has borne a male or a female.</STYLE>
+      </VERS>
+      <VERS vnumber="8">
+        <STYLE css="color:#FF0000">And if she be not able to bring a lamb, then she shall bring two turtledoves, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean.</STYLE>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

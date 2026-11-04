@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="131">
+      <VERS vnumber="1">O <STYLE id="cl:divineName">Lord</STYLE>, my heart is not haughty,my eyes are not lofty,I walk not among great things,things too wonderful for me. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="2">Yes, I have soothed and stilled myself,like a weaned child on his mother’s lap;like a weaned child am I. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">O Israel, hope in the <STYLE id="cl:divineName">Lord</STYLE>from now and for evermore.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

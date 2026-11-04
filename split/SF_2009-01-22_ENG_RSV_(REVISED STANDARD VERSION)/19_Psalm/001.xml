@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="1">
+      <CAPTION vref="1">He beholds everything that is high; he is king over all the sons of pride."</CAPTION>
+      <VERS vnumber="1">Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers;</VERS>
+      <VERS vnumber="2">but his delight is in the law of the LORD, and on his law he meditates day and night.</VERS>
+      <VERS vnumber="3">He is like a tree planted by streams of water, that yields its fruit in its season, and its leaf does not wither. In all that he does, he prospers.</VERS>
+      <VERS vnumber="4">The wicked are not so, but are like chaff which the wind drives away.</VERS>
+      <VERS vnumber="5">Therefore the wicked will not stand in the judgment, nor sinners in the congregation of the righteous;</VERS>
+      <VERS vnumber="6">for the LORD knows the way of the righteous, but the way of the wicked will perish.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

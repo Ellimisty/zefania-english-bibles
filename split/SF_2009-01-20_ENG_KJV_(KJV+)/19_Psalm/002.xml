@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="2">
+      <VERS vnumber="1">
+        <gr str="4100">Why </gr>do the <gr str="1471">heathen </gr>
+        <gr str="7283">rage</gr>, and the <gr str="3816">people </gr>
+        <gr str="1897">imagine </gr>a vain <gr str="7385">thing</gr>? </VERS>
+      <VERS vnumber="2"> The <gr str="4428">kings </gr>of the <gr str="776">earth </gr>set <gr str="3320">themselves</gr>, and the <gr str="7336">rulers </gr>take <gr str="3245">counsel </gr>
+        <gr str="3162">together</gr>, <gr str="5921">against </gr>the <gr str="3068">LORD</gr>, and <gr str="5921">against </gr>his <gr str="4899">anointed</gr>, <STYLE css="color:#808080;font-style:italic"> saying </STYLE>, </VERS>
+      <VERS vnumber="3"> Let us break their bands <gr str="5423 *853 4147">asunder</gr>, and cast <gr str="7993">away </gr>their <gr str="5688">cords </gr>
+        <gr str="4480">from </gr>us. </VERS>
+      <VERS vnumber="4"> He that <gr str="3427">sitteth </gr>in the <gr str="8064">heavens </gr>shall <gr str="7832">laugh</gr>: the <gr str="136">Lord </gr>shall have them in <gr str="3932">derision</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="227">Then </gr>shall he <gr str="1696">speak </gr>
+        <gr str="413">unto </gr>them in his <gr str="639">wrath</gr>, and <gr str="926">vex </gr>them in his sore <gr str="2740">displeasure</gr>. </VERS>
+      <VERS vnumber="6"> Yet have <gr str="589">I </gr>
+        <gr str="5258">set </gr>my <gr str="4428">king </gr>
+        <gr str="5921">upon </gr>my <gr str="6944">holy </gr>
+        <gr str="2022">hill </gr>of <gr str="6726">Zion</gr>. </VERS>
+      <VERS vnumber="7"> I will <gr str="5608 413">declare </gr>the <gr str="2706">decree</gr>: the <gr str="3068">LORD </gr>hath <gr str="559">said </gr>
+        <gr str="413">unto </gr>me, <gr str="859">Thou </gr>
+        <STYLE css="color:#808080;font-style:italic"> art </STYLE> my <gr str="1121">Son</gr>; this <gr str="3117">day </gr>have <gr str="589">I </gr>
+        <gr str="3205">begotten </gr>thee. </VERS>
+      <VERS vnumber="8">
+        <gr str="7592">Ask </gr>
+        <gr str="4480">of </gr>me, and I shall <gr str="5414">give </gr>
+        <STYLE css="color:#808080;font-style:italic"> thee </STYLE> the <gr str="1471">heathen </gr>
+        <STYLE css="color:#808080;font-style:italic"> for </STYLE> thine <gr str="5159">inheritance</gr>, and the uttermost <gr str="657">parts </gr>of the <gr str="776">earth </gr>
+        <STYLE css="color:#808080;font-style:italic"> for </STYLE> thy <gr str="272">possession</gr>. </VERS>
+      <VERS vnumber="9"> Thou shalt <gr str="7489">break </gr>them with a <gr str="7626">rod </gr>of <gr str="1270">iron</gr>; thou shalt dash them in <gr str="5310">pieces </gr>like a <gr str="3335">potter </gr>'s <gr str="3627">vessel</gr>. </VERS>
+      <VERS vnumber="10"> Be <gr str="7919">wise </gr>
+        <gr str="6258">now </gr>therefore, O ye <gr str="4428">kings</gr>: be <gr str="3256">instructed</gr>, ye <gr str="8199">judges </gr>of the <gr str="776">earth</gr>. </VERS>
+      <VERS vnumber="11">
+        <gr str="5647">Serve </gr>
+        <gr str="*853">
+        </gr>the <gr str="3068">LORD </gr>with <gr str="3374">fear</gr>, and <gr str="1523">rejoice </gr>with <gr str="7461">trembling</gr>. </VERS>
+      <VERS vnumber="12">
+        <gr str="5401">Kiss </gr>the <gr str="1248">Son</gr>, <gr str="6435">lest </gr>he be <gr str="599">angry</gr>, and ye <gr str="6">perish </gr>
+        <STYLE css="color:#808080;font-style:italic"> from </STYLE> the <gr str="1870">way</gr>, <gr str="3588">when </gr>his <gr str="639">wrath </gr>is <gr str="1197">kindled </gr>but a <gr str="4592">little</gr>. <gr str="835">Blessed </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="3605">all </gr>they that put their <gr str="2620">trust </gr>in him. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

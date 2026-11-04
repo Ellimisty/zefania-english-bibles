@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="62">
+    <CHAPTER cnumber="1">
+      <CAPTION vref="1">(Writer: John) (98 C.E.) (Ephesus)</CAPTION>
+      <VERS vnumber="1">We have heard that which was from the beginning. We have also seen it with our own eyes. We looked at it and touched it with our hands. It is the Word of life.</VERS>
+      <VERS vnumber="2">The life was made known and we have seen and testify about it. We declare the life to you. It is the eternal life, which was with the Father and was shown to us.</VERS>
+      <VERS vnumber="3">We declare to you what we have seen and heard. This way you may have fellowship with us. Yes, and our fellowship is with the Father, and with his Son Jesus Christ!</VERS>
+      <VERS vnumber="4">We write these things that our joy may be made full <STYLE css="font-style:italic">complete</STYLE>.</VERS>
+      <VERS vnumber="5">This is the message we heard from him and announce to you, that God is light, and in him is no darkness at all.</VERS>
+      <VERS vnumber="6">If we say we have fellowship with him and walk in the darkness, we lie, and do not live <STYLE css="font-style:italic">practice</STYLE> the truth.</VERS>
+      <VERS vnumber="7">If we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus his Son cleanses us from all sin.</VERS>
+      <VERS vnumber="8">If we say that we have no sin, we deceive ourselves, and the truth is not in us.</VERS>
+      <VERS vnumber="9">If we confess our sins, he is faithful and righteous to forgive us our sins, and to cleanse us from all unrighteousness.</VERS>
+      <VERS vnumber="10">If we say we have not sinned we make him a liar, and his word is not in us.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

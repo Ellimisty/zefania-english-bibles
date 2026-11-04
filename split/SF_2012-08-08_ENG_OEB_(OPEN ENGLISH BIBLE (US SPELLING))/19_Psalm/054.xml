@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="54">
+      <VERS vnumber="1">Save me, O God, by your name,by your power secure for me justice.</VERS>
+      <VERS vnumber="2">Listen, O God, to my prayer,give ear to the words of my mouth.</VERS>
+      <VERS vnumber="3">For proud men have risen against me,and terrible men seek my life,men who do not set God before them.  (Selah)  <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="4">But see! God is my helper,the <STYLE id="cl:divineName">Lord</STYLE> is sustaining my life.</VERS>
+      <VERS vnumber="5">Let their evil fall back on my foes:cut them off in your faithfulness, <STYLE id="cl:divineName">Lord</STYLE>. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="6">Then will I bring you glad sacrifice,praising your gracious name;</VERS>
+      <VERS vnumber="7">for from all distress you have saved me,and feasted my eyes on my foes.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

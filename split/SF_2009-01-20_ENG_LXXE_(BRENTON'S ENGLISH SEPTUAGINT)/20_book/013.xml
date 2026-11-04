@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="20">
+    <CHAPTER cnumber="13">
+      <VERS vnumber="1">A wise son is obedient to his father: but a disobedient son will be destroyed.</VERS>
+      <VERS vnumber="2">A good man shall eat of the fruits of righteousness: but the lives of transgressors shall perish before their time.</VERS>
+      <VERS vnumber="3">He that keeps his own mouth keeps his own life: but he that is hasty with his lips shall bring terror upon himself.</VERS>
+      <VERS vnumber="4">Every slothful man desires, but the hands of the active are diligent.</VERS>
+      <VERS vnumber="5">A righteous man hates an unjust word: but an ungodly man is ashamed, and will have no confidence.</VERS>
+      <VERS vnumber="6">
+        <DIV>
+          <NOTE type="x-studynote">Alex. Righteousness preserves the simple in the way, but sin makes worthless the ungodly.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="7">There are some who, having nothing, enrich themselves: and there are some who bring themselves down in the midst of much wealth.</VERS>
+      <VERS vnumber="8">A man’s own wealth is the ransom of his life: but the poor <DIV>
+          <NOTE type="x-studynote">Or, comes not in for</NOTE>
+        </DIV> endures not threatening.</VERS>
+      <VERS vnumber="9">The righteous always have light: but the light of the ungodly is quenched. <DIV>
+          <NOTE type="x-studynote">(13:9AA)</NOTE>
+        </DIV> Crafty souls go astray in sins: but just men pity, and are merciful.</VERS>
+      <VERS vnumber="10">A bad man does evil with insolence: but they that are judges of themselves are wise.</VERS>
+      <VERS vnumber="11">Wealth gotten hastily with iniquity is diminished: but he that gathers for himself with godliness shall be increased. The righteous is merciful, and lends.</VERS>
+      <VERS vnumber="12">Better is he that begins to help heartily, than he that promises and leads another to hope: for a good desire is a tree of life.</VERS>
+      <VERS vnumber="13">He that slights a matter shall be slighted of it: but he that fears the commandment has health of soul. <DIV>
+          <NOTE type="x-studynote">(13:13AA)</NOTE>
+        </DIV> To a crafty son there shall be nothing good: but a wise servant shall have prosperous doings, and his way shall be directed aright.</VERS>
+      <VERS vnumber="14">The law of the wise is fountain of life: but the man void of understanding shall die by a snare.</VERS>
+      <VERS vnumber="15">Sound discretion gives favour, and to know the law is the part of a sound understanding: but the ways of scorners tend to destruction.</VERS>
+      <VERS vnumber="16">Every prudent man acts with knowledge: but the fool displays his own mischief.</VERS>
+      <VERS vnumber="17">A rash king shall fall into mischief: but a wise messenger shall deliver him.</VERS>
+      <VERS vnumber="18">Instruction removes poverty and disgrace: but he that attends to reproofs shall be honoured.</VERS>
+      <VERS vnumber="19">The desires of the godly gladden the soul, but the works of the ungodly are far from knowledge.</VERS>
+      <VERS vnumber="20">If thou walkest with wise men thou shalt be wise: but he that walks with fools shall be known.</VERS>
+      <VERS vnumber="21">Evil shall pursue sinners; but good shall overtake the righteous.</VERS>
+      <VERS vnumber="22">A good man shall inherit children’s children; and the wealth of ungodly men is laid up for the just.</VERS>
+      <VERS vnumber="23">The righteous shall spend many years in wealth: but the unrighteous shall perish suddenly.</VERS>
+      <VERS vnumber="24">He that spares the rod hates his son: but he that loves, carefully chastens him.</VERS>
+      <VERS vnumber="25">A just man eats and satisfies his soul: but the souls of the ungodly are in want.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible - Jehovah Edition" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="95">
+      <VERS vnumber="1">Oh come, let's sing to <STYLE id="cl:divineName">Jehovah</STYLE>.Let's shout aloud to the rock of our salvation!</VERS>
+      <VERS vnumber="2">Let's come before his presence with thanksgiving.Let's extol him with songs!</VERS>
+      <VERS vnumber="3">For <STYLE id="cl:divineName">Jehovah</STYLE> is a great God,a great King above all gods.</VERS>
+      <VERS vnumber="4">In his hand are the deep places of the earth.The heights of the mountains are also his.</VERS>
+      <VERS vnumber="5">The sea is his, and he made it.His hands formed the dry land.</VERS>
+      <VERS vnumber="6">Oh come, let's worship and bow down.Let's kneel before <STYLE id="cl:divineName">Jehovah</STYLE>, our Maker,</VERS>
+      <VERS vnumber="7">for he is our God.We are the people of his pasture,and the sheep in his care.Today, oh that you would hear his voice!</VERS>
+      <VERS vnumber="8">Do not harden your heart, as at Meribah,as in the day of Massah in the wilderness,</VERS>
+      <VERS vnumber="9">when your fathers tempted me,tested me, and saw my work.</VERS>
+      <VERS vnumber="10">Forty long years I was grieved with that generation,and said, "It is a people that errs in their heart.They have not known my ways."</VERS>
+      <VERS vnumber="11">Therefore I swore in my wrath,"They won't enter into my rest."</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

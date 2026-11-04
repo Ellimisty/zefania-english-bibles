@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="28" bname="Hosea" bsname="Hos">
+    <CHAPTER cnumber="14">
+      <VERS vnumber="1"> O <gr str="3478">Israel</gr>, <gr str="7725">return </gr>
+        <gr str="5704">unto </gr>the <gr str="3068">LORD </gr>thy <gr str="430">God</gr>; <gr str="3588">for </gr>thou hast <gr str="3782">fallen </gr>by thine <gr str="5771">iniquity</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="3947">Take </gr>
+        <gr str="5973">with </gr>you <gr str="1697">words</gr>, and <gr str="7725">turn </gr>
+        <gr str="413">to </gr>the <gr str="3068">LORD</gr>: <gr str="559">say </gr>
+        <gr str="413">unto </gr>him, Take <gr str="5375">away </gr>
+        <gr str="3605">all </gr>
+        <gr str="5771">iniquity</gr>, and <gr str="3947">receive </gr>
+        <STYLE css="color:#808080;font-style:italic"> us </STYLE>
+        <gr str="2895">graciously</gr>: so will we <gr str="7999">render </gr>the <gr str="6499">calves </gr>of our <gr str="8193">lips</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="804">Asshur </gr>shall <gr str="3808">not </gr>
+        <gr str="3467">save </gr>us; we will <gr str="3808">not </gr>
+        <gr str="7392">ride </gr>
+        <gr str="5921">upon </gr>
+        <gr str="5483">horses</gr>: <gr str="3808">neither </gr>will we <gr str="559">say </gr>any <gr str="5750">more </gr>to the <gr str="4639">work </gr>of our <gr str="3027">hands</gr>, <STYLE css="color:#808080;font-style:italic"> Ye </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> our <gr str="430">gods</gr>: <gr str="834">for </gr>in thee the <gr str="3490">fatherless </gr>findeth <gr str="7355">mercy</gr>. </VERS>
+      <VERS vnumber="4"> I will <gr str="7495">heal </gr>their <gr str="4878">backsliding</gr>, I will <gr str="157">love </gr>them <gr str="5071">freely</gr>: <gr str="3588">for </gr>mine <gr str="639">anger </gr>is turned <gr str="7725">away </gr>
+        <gr str="4480">from </gr>him. </VERS>
+      <VERS vnumber="5"> I will <gr str="1961">be </gr>as the <gr str="2919">dew </gr>unto <gr str="3478">Israel</gr>: he shall <gr str="6524">grow </gr>as the <gr str="7799">lily</gr>, and cast <gr str="5221">forth </gr>his <gr str="8328">roots </gr>as <gr str="3844">Lebanon</gr>. </VERS>
+      <VERS vnumber="6"> His <gr str="3127">branches </gr>shall <gr str="1980">spread</gr>, and his <gr str="1935">beauty </gr>shall <gr str="1961">be </gr>as the olive <gr str="2132">tree</gr>, and his <gr str="7381">smell </gr>as <gr str="3844">Lebanon</gr>. </VERS>
+      <VERS vnumber="7"> They that <gr str="3427">dwell </gr>under his <gr str="6738">shadow </gr>shall <gr str="7725">return</gr>; they shall <gr str="2421">revive </gr>
+        <STYLE css="color:#808080;font-style:italic"> as </STYLE> the <gr str="1715">corn</gr>, and <gr str="6524">grow </gr>as the <gr str="1612">vine</gr>: the <gr str="2143">scent </gr>thereof <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> as the <gr str="3196">wine </gr>of <gr str="3844">Lebanon</gr>. </VERS>
+      <VERS vnumber="8">
+        <gr str="669">Ephraim </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> say </STYLE>, <gr str="4100">What </gr>have I to do any <gr str="5750">more </gr>with <gr str="6091">idols</gr>? <gr str="589">I </gr>have <gr str="6030">heard </gr>
+        <STYLE css="color:#808080;font-style:italic"> him </STYLE>, and <gr str="7789">observed </gr>him: <gr str="589">I </gr>
+        <STYLE css="color:#808080;font-style:italic"> am </STYLE> like a <gr str="7488">green </gr>fir <gr str="1265">tree</gr>. <gr str="4480">From </gr>me is thy <gr str="6529">fruit </gr>
+        <gr str="4672">found</gr>. </VERS>
+      <VERS vnumber="9">
+        <gr str="4310">Who </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2450">wise</gr>, and he shall <gr str="995">understand </gr>
+        <gr str="428">these </gr>
+        <STYLE css="color:#808080;font-style:italic"> things </STYLE>? <gr str="995">prudent</gr>, and he shall <gr str="3045">know </gr>them? <gr str="3588">for </gr>the <gr str="1870">ways </gr>of the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="3477">right</gr>, and the <gr str="6662">just </gr>shall <gr str="1980">walk </gr>in them: but the <gr str="6586">transgressors </gr>shall <gr str="3782">fall </gr>therein. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

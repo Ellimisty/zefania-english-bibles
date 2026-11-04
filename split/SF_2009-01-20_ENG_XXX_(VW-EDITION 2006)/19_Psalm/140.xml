@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="140">
+      <CAPTION vref="1">To the chief Musician. A Psalm of David.</CAPTION>
+      <VERS vnumber="1">Rescue me, O Jehovah, from evil men; guard me against violent men,</VERS>
+      <VERS vnumber="2">who have devised evil things in their hearts; they continually gather together for war.</VERS>
+      <VERS vnumber="3">They have sharpened their tongues like a serpent; the poison of vipers is under their lips. Selah</VERS>
+      <VERS vnumber="4">Keep me, O Jehovah, from the hands of the wicked; guard me against violent men, who have devised to overthrow my steps.</VERS>
+      <VERS vnumber="5">The proud have hidden a snare for me, and cords; they have spread a net by the wayside; they have laid the bait for me. Selah</VERS>
+      <VERS vnumber="6">I said unto Jehovah, You are my Mighty God; hear the voice of my supplications, O Jehovah.</VERS>
+      <VERS vnumber="7">O Lord Jehovah, the strength of my salvation, You have covered my head in the day of battle.</VERS>
+      <VERS vnumber="8">Do not grant, O Jehovah, the desires of the wicked; do not promote his evil plans, lest they be exalted. Selah</VERS>
+      <VERS vnumber="9">As for the head of those who surround me, let the evil of their lips cover them;</VERS>
+      <VERS vnumber="10">let burning coals fall upon them; let them be cast into the fire, into deep pits, that they rise not up again.</VERS>
+      <VERS vnumber="11">Let not a man who speaks evil be established in the earth; evil shall hunt the violent man to overthrow him.</VERS>
+      <VERS vnumber="12">I know that Jehovah will maintain the cause of the afflicted, and justice for the poor.</VERS>
+      <VERS vnumber="13">Surely the righteous shall give thanks unto Your name; the upright shall dwell in Your presence.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="87">
+      <CAPTION vref="1">A Psalm or Song for the sons of Korah.</CAPTION>
+      <VERS vnumber="1">His foundation is in the holy mountains.</VERS>
+      <VERS vnumber="2">Jehovah loves the gates of Zion more than all the dwellings of Jacob.</VERS>
+      <VERS vnumber="3">Glorious things are spoken of you, O city of God! Selah</VERS>
+      <VERS vnumber="4">I will make mention of Rahab and Babylon to those who know me; behold, O Philistia and Tyre, with Ethiopia: this one was born there.</VERS>
+      <VERS vnumber="5">And of Zion it shall be said, This and that man have been born in her; and the Most High shall establish her.</VERS>
+      <VERS vnumber="6">Jehovah will take account, when He registers the peoples: This one was born there. Selah</VERS>
+      <VERS vnumber="7">Both the singers and the players on pipes say, All my springs are in you.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

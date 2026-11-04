@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="74">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of </STYLE>
+        <DIV>
+          <NOTE type="x-studynote">Gr. understanding</NOTE>
+        </DIV>
+        <STYLE css="font-style:italic"> instruction for Asaph.</STYLE> - Wherefore hast thou rejected us, O God, for ever? wherefore is thy wrath kindled against the sheep of thy pasture?</VERS>
+      <VERS vnumber="2">Remember thy congregation which thou hast purchased from the beginning; thou didst ransom the rod of thine inheritance; this mount Sion wherein thou hast dwelt.</VERS>
+      <VERS vnumber="3">Lift up thine hands against their pride continually; because of all that the enemy has done wickedly in thy holy places.</VERS>
+      <VERS vnumber="4">And they that hate thee have boasted in the midst of thy feast; they have set up their standards for signs,</VERS>
+      <VERS vnumber="5">ignorantly as it were in the entrance above;</VERS>
+      <VERS vnumber="6">they cut down its doors at once with axes as in a wood of trees; they have broken it down with hatchet and stone cutter.</VERS>
+      <VERS vnumber="7">They have burnt thy sanctuary with fire to the ground; they have profaned the <DIV>
+          <NOTE type="x-studynote">Gr. tabernacle</NOTE>
+        </DIV> habitation of thy name.</VERS>
+      <VERS vnumber="8">They have said in their heart, even all their kindred together, Come, let us abolish the feasts of the Lord from the earth.</VERS>
+      <VERS vnumber="9">We have not seen our signs; there is no longer a prophet; and God will not know us any more.</VERS>
+      <VERS vnumber="10">How long, O God, shall the enemy reproach? shall the enemy provoke thy name forever?</VERS>
+      <VERS vnumber="11">Wherefore turnest thou away thine hand, and thy right hand from the midst of thy bosom for ever?</VERS>
+      <VERS vnumber="12">But God is our King <DIV>
+          <NOTE type="x-studynote">Gr. before the age</NOTE>
+        </DIV> of old; he has wrought salvation in the midst of the earth.</VERS>
+      <VERS vnumber="13">Thou didst establish the sea, in thy might, thou didst break to pieces the heads of the <DIV>
+          <NOTE type="x-studynote">Or, serpents</NOTE>
+        </DIV> dragons in the water.</VERS>
+      <VERS vnumber="14">Thou didst break to pieces the heads of the dragon; thou didst give him for meat to the Ethiopian nations.</VERS>
+      <VERS vnumber="15">Thou didst cleave fountains and torrents; thou driedst up <DIV>
+          <NOTE type="x-studynote">Heb. rivers of Etham</NOTE>
+        </DIV> mighty rivers.</VERS>
+      <VERS vnumber="16">The day is thine, and the night is thine; thou hast prepared the sun and the moon.</VERS>
+      <VERS vnumber="17">Thou hast made all the borders of the earth; thou hast made summer and spring.</VERS>
+      <VERS vnumber="18">Remember this thy creation: an enemy has reproached the Lord, and a foolish people has provoked thy name.</VERS>
+      <VERS vnumber="19">Deliver not to the wild beasts a soul that gives praise to thee: forget not for ever the souls of thy poor.</VERS>
+      <VERS vnumber="20">Look upon thy covenant: for the dark places of the earth are filled with the habitations of iniquity.</VERS>
+      <VERS vnumber="21">let not the afflicted and shamed one be rejected: the poor and needy shall praise thy name.</VERS>
+      <VERS vnumber="22">Arise, O God, plead thy cause: remember thy reproaches that come from the foolish one all the day.</VERS>
+      <VERS vnumber="23">Forget not the voice of thy suppliants: let the pride of them that hate thee continually ascend before thee.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

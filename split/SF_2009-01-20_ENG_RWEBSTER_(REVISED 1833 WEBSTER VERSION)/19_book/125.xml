@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="125">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Song of degrees.</STYLE> They that trust in the LORD <STYLE css="font-style:italic">shall be</STYLE> as mount Zion, <STYLE css="font-style:italic">which</STYLE> cannot be removed, <STYLE css="font-style:italic">but</STYLE> abideth for ever.</VERS>
+      <VERS vnumber="2">As the mountains surround Jerusalem, so the LORD surroundeth his people from henceforth even for ever.</VERS>
+      <VERS vnumber="3">For the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands to iniquity. <DIV>
+          <NOTE type="x-studynote">the wicked: Heb. wickedness</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">Do good, O LORD, to <STYLE css="font-style:italic">those that are</STYLE> good, and <STYLE css="font-style:italic">to them that are</STYLE> upright in their hearts.</VERS>
+      <VERS vnumber="5">As for such as turn aside to their crooked ways, the LORD shall lead them forth with the workers of iniquity: <STYLE css="font-style:italic">but</STYLE> peace <STYLE css="font-style:italic">shall be</STYLE> upon Israel.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

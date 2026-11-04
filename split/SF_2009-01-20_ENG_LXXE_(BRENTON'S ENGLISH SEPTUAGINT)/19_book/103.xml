@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="103">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of David.</STYLE> - Bless the Lord, O my soul; and all that is within me, bless his holy name.</VERS>
+      <VERS vnumber="2">Bless the Lord, O my soul, and forget not all his praises:</VERS>
+      <VERS vnumber="3">who forgives all thy transgressions, who heals all thy diseases;</VERS>
+      <VERS vnumber="4">who redeems thy life from corruption; who crowns thee with mercy and compassion;</VERS>
+      <VERS vnumber="5">who satisfies thy desire with good things: so that thy youth shall be renewed like that of the eagle.</VERS>
+      <VERS vnumber="6">The Lord executes mercy and judgement for all that are injured.</VERS>
+      <VERS vnumber="7">He made known his ways to Moses, his will to the children of Israel.</VERS>
+      <VERS vnumber="8">The Lord is compassionate and pitiful, long-suffering, and full of mercy.</VERS>
+      <VERS vnumber="9">He will not be always angry; neither will he be wrathful for ever.</VERS>
+      <VERS vnumber="10">He has not dealt with us according to our sins, nor recompensed us according to our iniquities.</VERS>
+      <VERS vnumber="11">For as the heaven is high above the earth, the Lord has so increased his mercy toward them that fear him.</VERS>
+      <VERS vnumber="12">As far as the east is from the west, so far has he removed our transgressions from us.</VERS>
+      <VERS vnumber="13">As a father pities his children, the Lord pities them that fear him.</VERS>
+      <VERS vnumber="14">For he knows our frame: remember that we are dust.</VERS>
+      <VERS vnumber="15">As for man, his days are as grass; as a flower of the field, so shall he flourish.</VERS>
+      <VERS vnumber="16">For the wind passes over it, and it shall not be; and it shall know its place no more.</VERS>
+      <VERS vnumber="17">But the mercy of the Lord is from generation to generation upon them that fear him, and his righteousness to children’s children;</VERS>
+      <VERS vnumber="18">to them that keep his covenant, and remember his commandments to do them.</VERS>
+      <VERS vnumber="19">The Lord has prepared his throne in the heaven; and his kingdom rules over all.</VERS>
+      <VERS vnumber="20">Bless the Lord, all ye his angels, mighty in strength, who perform his bidding, ready to hearken to the voice of his words.</VERS>
+      <VERS vnumber="21">Bless the Lord, all ye his hosts; ye ministers of his that do his will.</VERS>
+      <VERS vnumber="22">Bless the Lord, all his works, in every place of his dominion: bless the Lord, O my soul.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

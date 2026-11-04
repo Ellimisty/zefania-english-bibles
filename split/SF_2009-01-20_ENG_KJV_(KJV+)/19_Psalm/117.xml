@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="117">
+      <VERS vnumber="1"> O <gr str="1984">praise </gr>
+        <gr str="*853" />the <gr str="3068">LORD</gr>, <gr str="3605">all </gr>ye <gr str="1471">nations</gr>: <gr str="7623">praise </gr>him, <gr str="3605">all </gr>ye <gr str="523">people</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="3588">For </gr>his merciful <gr str="2617">kindness </gr>is <gr str="1396">great </gr>
+        <gr str="5921">toward </gr>us: and the <gr str="571">truth </gr>of the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>. <gr str="1984">Praise </gr>ye the <gr str="3050">LORD</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

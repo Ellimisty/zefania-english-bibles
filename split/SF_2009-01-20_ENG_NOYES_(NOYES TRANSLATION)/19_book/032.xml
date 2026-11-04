@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="32">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of David.</STYLE> Happy is he whose transgression is forgiven, whose sin is pardoned!</VERS>
+      <VERS vnumber="2">Happy the man to whom the LORD imputeth not iniquity, And in whose spirit there is no guile!</VERS>
+      <VERS vnumber="3">While I kept silence, my bones were wasted, By reason of my groaning all the day long.</VERS>
+      <VERS vnumber="4">For day and night thy hand was heavy upon me; My moisture dried up, as in summers drought.</VERS>
+      <VERS vnumber="5">At length I acknowledged to thee my sin, And did not hide my iniquity. I said, "I will confess my transgression to the LORD;" And thou forgavest the iniquity of my sin! <STYLE css="font-style:italic">Pause.</STYLE>
+      </VERS>
+      <VERS vnumber="6">Therefore shall every pious man pray to thee, while thou mayst be found; Surely the floods of great waters shall not come near him.</VERS>
+      <VERS vnumber="7">Thou art my hidingplace; thou preservest me from trouble; Thou compassest me about with songs of deliverance. <STYLE css="font-style:italic">Pause.</STYLE>
+      </VERS>
+      <VERS vnumber="8">I will instruct thee, and show thee the way thou shouldst go; I will give thee counsel, and keep mine eye upon thee.</VERS>
+      <VERS vnumber="9">Be ye not like the horse and the mule, which have no understanding, Whose mouths must be pressed with the bridle and curb, Because they will not come near thee!</VERS>
+      <VERS vnumber="10">The wicked hath many sorrows; But he that trusteth in the LORD is encompassed with mercies.</VERS>
+      <VERS vnumber="11">Rejoice in the LORD, and be glad, ye righteous; Shout for joy, all ye that are upright in heart!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

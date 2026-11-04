@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="9" bname="1 Samuel" bsname="1Sam">
+    <CHAPTER cnumber="15">
+      <VERS vnumber="1">
+        <gr str="8050">Samuel </gr>also <gr str="559">said </gr>
+        <gr str="413">unto </gr>
+        <gr str="7586">Saul</gr>, The <gr str="3068">LORD </gr>
+        <gr str="7971">sent </gr>me to <gr str="4886">anoint </gr>thee <STYLE css="color:#808080;font-style:italic"> to </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="4428">king </gr>
+        <gr str="5921">over </gr>his <gr str="5971">people</gr>, <gr str="5921">over </gr>
+        <gr str="3478">Israel</gr>: <gr str="6258">now </gr>therefore <gr str="8085">hearken </gr>thou unto the <gr str="6963">voice </gr>of the <gr str="1697">words </gr>of the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="3541">Thus </gr>
+        <gr str="559">saith </gr>the <gr str="3068">LORD </gr>of <gr str="6635">hosts</gr>, I <gr str="6485">remember </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <gr str="*853" />
+        <gr str="834">which </gr>
+        <gr str="6002">Amalek </gr>
+        <gr str="6213">did </gr>to <gr str="3478">Israel</gr>, <gr str="834">how </gr>he <gr str="7760">laid </gr>
+        <STYLE css="color:#808080;font-style:italic"> wait </STYLE> for him in the <gr str="1870">way</gr>, when he came <gr str="5927">up </gr>from <gr str="4480 4714">Egypt</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="6258">Now </gr>
+        <gr str="1980">go </gr>and <gr str="5221">smite </gr>
+        <gr str="*853" />
+        <gr str="6002">Amalek</gr>, and utterly <gr str="2763">destroy </gr>
+        <gr str="*853" />
+        <gr str="3605">all </gr>
+        <gr str="834">that </gr>they have, and <gr str="2550 5921">spare </gr>them <gr str="3808">not</gr>; but <gr str="4191">slay </gr>both <gr str="4480 376">man </gr>
+        <gr str="5704">and </gr>
+        <gr str="802">woman</gr>, <gr str="*4480 5768">infant </gr>and <gr str="3243">suckling</gr>, <gr str="*4480 7794">ox </gr>and <gr str="7716">sheep</gr>, <gr str="*4480 1581">camel </gr>and <gr str="2543">ass</gr>. </VERS>
+      <VERS vnumber="4"> And <gr str="7586">Saul </gr>gathered the people <gr str="8085 *853 5971">together</gr>, and <gr str="6485">numbered </gr>them in <gr str="2923">Telaim</gr>, two <gr str="3967">hundred </gr>
+        <gr str="505">thousand </gr>
+        <gr str="7273">footmen</gr>, and <gr str="6235">ten </gr>
+        <gr str="505">thousand </gr>
+        <gr str="*853" />
+        <gr str="376">men </gr>of <gr str="3063">Judah</gr>. </VERS>
+      <VERS vnumber="5"> And <gr str="7586">Saul </gr>
+        <gr str="935">came </gr>
+        <gr str="5704">to </gr>a <gr str="5892">city </gr>of <gr str="6002">Amalek</gr>, and laid <gr str="693">wait </gr>in the <gr str="5158">valley</gr>. </VERS>
+      <VERS vnumber="6"> And <gr str="7586">Saul </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>the <gr str="7017">Kenites</gr>, <gr str="1980">Go</gr>, <gr str="5493">depart</gr>, get you <gr str="3381">down </gr>from <gr str="4480 8432">among </gr>the <gr str="6002">Amalekites</gr>, <gr str="6435">lest </gr>I <gr str="622">destroy </gr>you <gr str="5973">with </gr>them: for <gr str="859">ye </gr>
+        <gr str="6213">showed </gr>
+        <gr str="2617">kindness </gr>
+        <gr str="5973">to </gr>
+        <gr str="3605">all </gr>the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>, when they came <gr str="5927">up </gr>out of <gr str="4480 4714">Egypt</gr>. So the <gr str="7017">Kenites </gr>
+        <gr str="5493">departed </gr>from <gr str="4480 8432">among </gr>the <gr str="6003">Amalekites</gr>. </VERS>
+      <VERS vnumber="7"> And <gr str="7586">Saul </gr>
+        <gr str="5221">smote </gr>
+        <gr str="*853" />the <gr str="6002">Amalekites </gr>from <gr str="4480 2341">Havilah </gr>
+        <STYLE css="color:#808080;font-style:italic"> until </STYLE> thou <gr str="935">comest </gr>to <gr str="7793">Shur</gr>, <gr str="834">that </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="5921">over </gr>
+        <gr str="6440">against </gr>
+        <gr str="4714">Egypt</gr>. </VERS>
+      <VERS vnumber="8"> And he <gr str="8610">took </gr>
+        <gr str="*853" />
+        <gr str="90">Agag </gr>the <gr str="4428">king </gr>of the <gr str="6002">Amalekites </gr>
+        <gr str="2416">alive</gr>, and utterly <gr str="2763">destroyed </gr>
+        <gr str="3605">all </gr>the <gr str="5971">people </gr>with the <gr str="6310">edge </gr>of the <gr str="2719">sword</gr>. </VERS>
+      <VERS vnumber="9"> But <gr str="7586">Saul </gr>and the <gr str="5971">people </gr>
+        <gr str="2550 5921">spared </gr>
+        <gr str="90">Agag</gr>, and the <gr str="4315">best </gr>of the <gr str="6629">sheep</gr>, and of the <gr str="1241">oxen</gr>, and of the <gr str="4932">fatlings</gr>, and the <gr str="3733">lambs</gr>, and <gr str="3605">all </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="2896">good</gr>, and <gr str="14">would </gr>
+        <gr str="3808">not </gr>utterly <gr str="2763">destroy </gr>them: but <gr str="3605">every </gr>
+        <gr str="4399">thing </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="5240">vile </gr>and <gr str="4549">refuse</gr>, that they destroyed <gr str="2763">utterly</gr>. </VERS>
+      <VERS vnumber="10"> Then <gr str="1961">came </gr>the <gr str="1697">word </gr>of the <gr str="3068">LORD </gr>
+        <gr str="413">unto </gr>
+        <gr str="8050">Samuel</gr>, <gr str="559">saying</gr>, </VERS>
+      <VERS vnumber="11"> It repenteth <gr str="5162">me </gr>
+        <gr str="3588">that </gr>I have set <gr str="4427">up </gr>
+        <gr str="*853" />
+        <gr str="7586">Saul </gr>
+        <STYLE css="color:#808080;font-style:italic"> to </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="4428">king</gr>: <gr str="3588">for </gr>he is turned <gr str="7725">back </gr>from <gr str="4480 310">following </gr>me, and hath <gr str="3808">not </gr>
+        <gr str="6965">performed </gr>my <gr str="1697">commandments</gr>. And it <gr str="2734">grieved </gr>
+        <gr str="8050">Samuel</gr>; and he <gr str="2199">cried </gr>
+        <gr str="413">unto </gr>the <gr str="3068">LORD </gr>
+        <gr str="3605">all </gr>
+        <gr str="3915">night</gr>. </VERS>
+      <VERS vnumber="12"> And when <gr str="8050">Samuel </gr>rose <gr str="7925">early </gr>to <gr str="7125">meet </gr>
+        <gr str="7586">Saul </gr>in the <gr str="1242">morning</gr>, it was <gr str="5046">told </gr>
+        <gr str="8050">Samuel</gr>, <gr str="559">saying</gr>, <gr str="7586">Saul </gr>
+        <gr str="935">came </gr>to <gr str="3760">Carmel</gr>, and, <gr str="2009">behold</gr>, he set him <gr str="5324">up </gr>a <gr str="3027">place</gr>, and is gone <gr str="5437">about</gr>, and passed <gr str="5674">on</gr>, and gone <gr str="3381">down </gr>to <gr str="1537">Gilgal</gr>. </VERS>
+      <VERS vnumber="13"> And <gr str="8050">Samuel </gr>
+        <gr str="935">came </gr>
+        <gr str="413">to </gr>
+        <gr str="7586">Saul</gr>: and <gr str="7586">Saul </gr>
+        <gr str="559">said </gr>unto him, <gr str="1288">Blessed </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="859">thou </gr>of the <gr str="3068">LORD</gr>: I have <gr str="6965">performed </gr>
+        <gr str="*853" />the <gr str="1697">commandment </gr>of the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="14"> And <gr str="8050">Samuel </gr>
+        <gr str="559">said</gr>, <gr str="4100">What </gr>
+        <STYLE css="color:#808080;font-style:italic"> meaneth </STYLE> then <gr str="2088">this </gr>
+        <gr str="6963">bleating </gr>of the <gr str="6629">sheep </gr>in mine <gr str="241">ears</gr>, and the <gr str="6963">lowing </gr>of the <gr str="1241">oxen </gr>
+        <gr str="834">which </gr>
+        <gr str="595">I </gr>
+        <gr str="8085">hear</gr>? </VERS>
+      <VERS vnumber="15"> And <gr str="7586">Saul </gr>
+        <gr str="559">said</gr>, They have <gr str="935">brought </gr>them from the <gr str="4480 6003">Amalekites</gr>: <gr str="834">for </gr>the <gr str="5971">people </gr>
+        <gr str="2550 5921">spared </gr>the <gr str="4315">best </gr>of the <gr str="6629">sheep </gr>and of the <gr str="1241">oxen</gr>, to <gr str="4616 2076">sacrifice </gr>unto the <gr str="3068">LORD </gr>thy <gr str="430">God</gr>; and the <gr str="3498">rest </gr>we have utterly <gr str="2763">destroyed</gr>. </VERS>
+      <VERS vnumber="16"> Then <gr str="8050">Samuel </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>
+        <gr str="7586">Saul</gr>, <gr str="7503">Stay</gr>, and I will <gr str="5046">tell </gr>thee <gr str="*853" />
+        <gr str="834">what </gr>the <gr str="3068">LORD </gr>hath <gr str="1696">said </gr>
+        <gr str="413">to </gr>me this <gr str="3915">night</gr>. And he <gr str="559">said </gr>unto him, Say <gr str="1696">on</gr>. </VERS>
+      <VERS vnumber="17"> And <gr str="8050">Samuel </gr>
+        <gr str="559">said</gr>, <gr str="518">When </gr>
+        <gr str="859">thou </gr>
+        <STYLE css="color:#808080;font-style:italic"> wast </STYLE>
+        <gr str="6996">little </gr>in thine own <gr str="5869">sight</gr>, <STYLE css="color:#808080;font-style:italic"> wast </STYLE>
+        <gr str="859">thou </gr>
+        <gr str="3808">not </gr>
+        <STYLE css="color:#808080;font-style:italic"> made </STYLE> the <gr str="7218">head </gr>of the <gr str="7626">tribes </gr>of <gr str="3478">Israel</gr>, and the <gr str="3068">LORD </gr>
+        <gr str="4886">anointed </gr>thee <gr str="4428">king </gr>
+        <gr str="5921">over </gr>
+        <gr str="3478">Israel</gr>? </VERS>
+      <VERS vnumber="18"> And the <gr str="3068">LORD </gr>
+        <gr str="7971">sent </gr>thee on a <gr str="1870">journey</gr>, and <gr str="559">said</gr>, <gr str="1980">Go </gr>and utterly <gr str="2763">destroy </gr>
+        <gr str="*853" />the <gr str="2400">sinners </gr>
+        <gr str="*853" />the <gr str="6002">Amalekites</gr>, and <gr str="3898">fight </gr>against them <gr str="5704">until </gr>they be <gr str="3615">consumed</gr>. </VERS>
+      <VERS vnumber="19">
+        <gr str="4100">Wherefore </gr>then didst thou <gr str="3808">not </gr>
+        <gr str="8085">obey </gr>the <gr str="6963">voice </gr>of the <gr str="3068">LORD</gr>, but didst <gr str="5860">fly </gr>
+        <gr str="413">upon </gr>the <gr str="7998">spoil</gr>, and <gr str="6213">didst </gr>
+        <gr str="7451">evil </gr>in the <gr str="5869">sight </gr>of the <gr str="3068">LORD</gr>? </VERS>
+      <VERS vnumber="20"> And <gr str="7586">Saul </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>
+        <gr str="8050">Samuel</gr>, <gr str="834">Yea</gr>, I have <gr str="8085">obeyed </gr>the <gr str="6963">voice </gr>of the <gr str="3068">LORD</gr>, and have <gr str="1980">gone </gr>the <gr str="1870">way </gr>
+        <gr str="834">which </gr>the <gr str="3068">LORD </gr>
+        <gr str="7971">sent </gr>me, and have <gr str="935">brought </gr>
+        <gr str="*853" />
+        <gr str="90">Agag </gr>the <gr str="4428">king </gr>of <gr str="6002">Amalek</gr>, and have utterly <gr str="2763">destroyed </gr>the <gr str="6002">Amalekites</gr>. </VERS>
+      <VERS vnumber="21"> But the <gr str="5971">people </gr>
+        <gr str="3947">took </gr>of the <gr str="4480 7998">spoil</gr>, <gr str="6629">sheep </gr>and <gr str="1241">oxen</gr>, the <gr str="7225">chief </gr>of the things which should have been utterly <gr str="2764">destroyed</gr>, to <gr str="2076">sacrifice </gr>unto the <gr str="3068">LORD </gr>thy <gr str="430">God </gr>in <gr str="1537">Gilgal</gr>. </VERS>
+      <VERS vnumber="22"> And <gr str="8050">Samuel </gr>
+        <gr str="559">said</gr>, Hath the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> as </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> great </STYLE>
+        <gr str="2656">delight </gr>in burnt <gr str="5930">offerings </gr>and <gr str="2077">sacrifices</gr>, as in <gr str="8085">obeying </gr>the <gr str="6963">voice </gr>of the <gr str="3068">LORD</gr>? <gr str="2009">Behold</gr>, to <gr str="8085">obey </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2896">better </gr>than <gr str="4480 2077">sacrifice</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> to <gr str="7181">hearken </gr>than the <gr str="4480 2459">fat </gr>of <gr str="352">rams</gr>. </VERS>
+      <VERS vnumber="23">
+        <gr str="3588">For </gr>
+        <gr str="4805">rebellion </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> as </STYLE> the <gr str="2403">sin </gr>of <gr str="7081">witchcraft</gr>, and <gr str="6484">stubbornness </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> as </STYLE>
+        <gr str="205">iniquity </gr>and <gr str="8655">idolatry</gr>. <gr str="3282">Because </gr>thou hast <gr str="3988">rejected </gr>
+        <gr str="*853" />the <gr str="1697">word </gr>of the <gr str="3068">LORD</gr>, he hath also <gr str="3988">rejected </gr>thee from <STYLE css="color:#808080;font-style:italic"> being </STYLE>
+        <gr str="4480 4428">king</gr>. </VERS>
+      <VERS vnumber="24"> And <gr str="7586">Saul </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>
+        <gr str="8050">Samuel</gr>, I have <gr str="2398">sinned</gr>: <gr str="3588">for </gr>I have <gr str="5674">transgressed </gr>
+        <gr str="*853" />the <gr str="6310">commandment </gr>of the <gr str="3068">LORD</gr>, and thy <gr str="1697">words</gr>: <gr str="3588">because </gr>I <gr str="3372">feared </gr>
+        <gr str="*853" />the <gr str="5971">people</gr>, and <gr str="8085">obeyed </gr>their <gr str="6963">voice</gr>. </VERS>
+      <VERS vnumber="25">
+        <gr str="6258">Now </gr>therefore, I pray <gr str="4994">thee</gr>, <gr str="5375">pardon </gr>
+        <gr str="*853" />my <gr str="2403">sin</gr>, and turn <gr str="7725">again </gr>
+        <gr str="5973">with </gr>me, that I may <gr str="7812">worship </gr>the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="26"> And <gr str="8050">Samuel </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>
+        <gr str="7586">Saul</gr>, I will <gr str="3808">not </gr>
+        <gr str="7725">return </gr>
+        <gr str="5973">with </gr>thee: <gr str="3588">for </gr>thou hast <gr str="3988">rejected </gr>
+        <gr str="*853" />the <gr str="1697">word </gr>of the <gr str="3068">LORD</gr>, and the <gr str="3068">LORD </gr>hath <gr str="3988">rejected </gr>thee from <gr str="4480 1961">being </gr>
+        <gr str="4428">king </gr>
+        <gr str="5921">over </gr>
+        <gr str="3478">Israel</gr>. </VERS>
+      <VERS vnumber="27"> And as <gr str="8050">Samuel </gr>turned <gr str="5437">about </gr>to go <gr str="1980">away</gr>, he laid <gr str="2388">hold </gr>upon the <gr str="3671">skirt </gr>of his <gr str="4598">mantle</gr>, and it <gr str="7167">rent</gr>. </VERS>
+      <VERS vnumber="28"> And <gr str="8050">Samuel </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>him, The <gr str="3068">LORD </gr>hath <gr str="7167">rent </gr>
+        <gr str="*853" />the <gr str="4468">kingdom </gr>of <gr str="3478">Israel </gr>
+        <gr str="4480 5921">from </gr>thee this <gr str="3117">day</gr>, and hath <gr str="5414">given </gr>it to a <gr str="7453">neighbor </gr>of thine, <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2896">better </gr>
+        <gr str="4480">than </gr>thou. </VERS>
+      <VERS vnumber="29"> And <gr str="1571">also </gr>the <gr str="5331">Strength </gr>of <gr str="3478">Israel </gr>will <gr str="3808">not </gr>
+        <gr str="8266">lie </gr>
+        <gr str="3808">nor </gr>
+        <gr str="5162">repent</gr>: <gr str="3588">for </gr>he <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3808">not </gr>a <gr str="120">man</gr>, that <gr str="1931">he </gr>should <gr str="5162">repent</gr>. </VERS>
+      <VERS vnumber="30"> Then he <gr str="559">said</gr>, I have <gr str="2398">sinned</gr>: <STYLE css="color:#808080;font-style:italic"> yet </STYLE>
+        <gr str="3513">honor </gr>me <gr str="6258">now</gr>, I pray <gr str="4994">thee</gr>, <gr str="5048">before </gr>the <gr str="2205">elders </gr>of my <gr str="5971">people</gr>, and <gr str="5048">before </gr>
+        <gr str="3478">Israel</gr>, and turn <gr str="7725">again </gr>
+        <gr str="5973">with </gr>me, that I may <gr str="7812">worship </gr>the <gr str="3068">LORD </gr>thy <gr str="430">God</gr>. </VERS>
+      <VERS vnumber="31"> So <gr str="8050">Samuel </gr>turned <gr str="7725">again </gr>
+        <gr str="310">after </gr>
+        <gr str="7586">Saul</gr>; and <gr str="7586">Saul </gr>
+        <gr str="7812">worshiped </gr>the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="32"> Then <gr str="559">said </gr>
+        <gr str="8050">Samuel</gr>, Bring ye <gr str="5066">hither </gr>
+        <gr str="413">to </gr>me <gr str="*853" />
+        <gr str="90">Agag </gr>the <gr str="4428">king </gr>of the <gr str="6002">Amalekites</gr>. And <gr str="90">Agag </gr>
+        <gr str="1980">came </gr>
+        <gr str="413">unto </gr>him <gr str="4574">delicately</gr>. And <gr str="90">Agag </gr>
+        <gr str="559">said</gr>, <gr str="403">Surely </gr>the <gr str="4751">bitterness </gr>of <gr str="4194">death </gr>is <gr str="5493">past</gr>. </VERS>
+      <VERS vnumber="33"> And <gr str="8050">Samuel </gr>
+        <gr str="559">said</gr>, <gr str="834">As </gr>thy <gr str="2719">sword </gr>hath made <gr str="802">women </gr>
+        <gr str="7921">childless</gr>, <gr str="3651">so </gr>shall thy <gr str="517">mother </gr>be <gr str="7921">childless </gr>among <gr str="4480 802">women</gr>. And <gr str="8050">Samuel </gr>hewed Agag in <gr str="8158 *853 90">pieces </gr>
+        <gr str="6440">before </gr>the <gr str="3068">LORD </gr>in <gr str="1537">Gilgal</gr>. </VERS>
+      <VERS vnumber="34"> Then <gr str="8050">Samuel </gr>
+        <gr str="1980">went </gr>to <gr str="7414">Ramah</gr>; and <gr str="7586">Saul </gr>went <gr str="5927">up </gr>
+        <gr str="413">to </gr>his <gr str="1004">house </gr>to <gr str="1390">Gibeah </gr>of <gr str="7586">Saul</gr>. </VERS>
+      <VERS vnumber="35"> And <gr str="8050">Samuel </gr>came <gr str="3808">no </gr>
+        <gr str="3254">more </gr>to <gr str="7200">see </gr>
+        <gr str="*853" />
+        <gr str="7586">Saul </gr>
+        <gr str="5704">until </gr>the <gr str="3117">day </gr>of his <gr str="4194">death</gr>: <gr str="3588">nevertheless </gr>
+        <gr str="8050">Samuel </gr>
+        <gr str="56">mourned </gr>
+        <gr str="413">for </gr>
+        <gr str="7586">Saul</gr>: and the <gr str="3068">LORD </gr>
+        <gr str="5162">repented </gr>
+        <gr str="3588">that </gr>he had made Saul <gr str="4427 *853 7586">king </gr>
+        <gr str="5921">over </gr>
+        <gr str="3478">Israel</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

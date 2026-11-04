@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="87">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm [or] Song for the sons of Korah.</STYLE> His foundation <STYLE css="font-style:italic">is</STYLE> in the holy mountains. <DIV>
+          <NOTE type="x-studynote">for the sons: or, of the sons</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">The LORD loveth the gates of Zion more than all the dwellings of Jacob.</VERS>
+      <VERS vnumber="3">Glorious things are spoken of thee, O city of God. Selah.</VERS>
+      <VERS vnumber="4">I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Cush; this <STYLE css="font-style:italic">man</STYLE> was born there.</VERS>
+      <VERS vnumber="5">And of Zion it shall be said, This and that man was born in her: and the Highest himself shall establish her.</VERS>
+      <VERS vnumber="6">The LORD shall count, when he writeth up the people, <STYLE css="font-style:italic">that</STYLE> this <STYLE css="font-style:italic">man</STYLE> was born there. Selah.</VERS>
+      <VERS vnumber="7">As well the singers as the players on instruments <STYLE css="font-style:italic">shall be there</STYLE>: all my springs <STYLE css="font-style:italic">are</STYLE> in thee.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="131">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">O Jehovah, my heart is not proud, my eyes are not haughty. I do not involve myself in great matters. I do not get involved in things too difficult for me.</VERS>
+      <VERS vnumber="2">Surely I am composed and quiet. I am like a weaned child who rests against his mother. Inside of me I am like a weaned child.</VERS>
+      <VERS vnumber="3">O Israel, hope in Jehovah from this time and forever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

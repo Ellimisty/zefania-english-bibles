@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="119">
+      <VERS vnumber="1">A Canticle in steps. When troubled, I cried out to the Lord, and he heard me.</VERS>
+      <VERS vnumber="2">O Lord, free my soul from lips of iniquity and from the deceitful tongue.</VERS>
+      <VERS vnumber="3">What will be given to you, or what will be added to you, for a deceitful tongue?:</VERS>
+      <VERS vnumber="4">the sharp arrows of the powerful, along with the burning coals of desolation.</VERS>
+      <VERS vnumber="5">Woe to me, for my sojourning has been prolonged. I have lived with the inhabitants of Kedar.</VERS>
+      <VERS vnumber="6">My soul has long been a sojourner.</VERS>
+      <VERS vnumber="7">With those who hated peace, I was peaceful. When I spoke to them, they fought against me without cause.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

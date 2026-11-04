@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="140">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For the end, a Psalm of David.</STYLE> - Rescue me, O Lord, from the evil man; deliver me from the unjust man.</VERS>
+      <VERS vnumber="2">Who have devised injustice in their hearts; all the day they prepared war.</VERS>
+      <VERS vnumber="3">They have sharpened their tongue as the tongue of a serpent; the <DIV>
+          <NOTE type="x-studynote">Ro 3:13</NOTE>
+        </DIV> poison of asps is under their lips. Pause.</VERS>
+      <VERS vnumber="4">Keep me, O Lord, from the hand of the sinner; rescue me from unjust men; who have purposed to overthrow my goings.</VERS>
+      <VERS vnumber="5">The proud have hid a snare for me, and have stretched out ropes for snares for my feet; they set a stumbling-block for me near the path. Pause.</VERS>
+      <VERS vnumber="6">I said to the Lord, Thou art my God; hearken, O Lord, to the voice of my supplication.</VERS>
+      <VERS vnumber="7">O Lord God, the strength of my salvation; thou hast screened my head in the day of battle.</VERS>
+      <VERS vnumber="8">Deliver me not, O Lord, to the sinner, <DIV>
+          <NOTE type="x-studynote">See Heb 5:7</NOTE>
+        </DIV> according to my desire: they have devised mischief against me; forsake me not, lest they should be exalted. Pause.</VERS>
+      <VERS vnumber="9">As for the head of them that compass me, the mischief of their lips shall cover them.</VERS>
+      <VERS vnumber="10">Coals of fire shall fall upon them on the earth; and thou shalt cast them down in afflictions: they shall not bear up under them.</VERS>
+      <VERS vnumber="11">A talkative man shall not prosper on the earth: evils shall hunt the unrighteous man to destruction.</VERS>
+      <VERS vnumber="12">I know that the Lord will maintain the cause of the <DIV>
+          <NOTE type="x-studynote">Gr. singular</NOTE>
+        </DIV> poor, and the right of the needy ones.</VERS>
+      <VERS vnumber="13">Surely the righteous shall give thanks to thy name: the upright shall dwell in thy presence.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

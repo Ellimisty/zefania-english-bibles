@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="133">
+      <VERS vnumber="1"> A Song of the going up. Of David. See how good and how pleasing it is for brothers to be living together in harmony!</VERS>
+      <VERS vnumber="2">It is like oil of great price on the head, flowing down over the face, even Aaron's face: coming down to the edge of his robe;</VERS>
+      <VERS vnumber="3">Like the dew of Hermon, which comes down on the mountains of Zion: for there the Lord gave orders for the blessing, even life for ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

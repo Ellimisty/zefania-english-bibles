@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="14">
+      <VERS vnumber="1">A Psalm of David.  O Lord, who will dwell in your tabernacle?Or who will rest on your holy mountain?</VERS>
+      <VERS vnumber="2">He who walks without blemish and who works justice.</VERS>
+      <VERS vnumber="3">He who speaks the truth in his heart,who has not acted deceitfully with his tongue,and has not done evil to his neighbor,and has not taken up a reproach against his neighbors.</VERS>
+      <VERS vnumber="4">In his sight, the malicious one has been reduced to nothing,but he glorifies those who fear the Lord.He who swears to his neighbor and does not deceive.</VERS>
+      <VERS vnumber="5">He who has not given his money in usury,nor accepted bribes against the innocent.<BR art="x-nl" />He who does these things will be undisturbed for eternity.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

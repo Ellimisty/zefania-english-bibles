@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Updated Bible Version" type="x-bible">
+  <BIBLEBOOK bnumber="40">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">The Book of the Generation of Jesus Christ, Son of David, Son of Abraham.</VERS>
+      <VERS vnumber="2">Abraham begot Isaac; and Isaac begot Jacob; and Jacob begot Judah and his brothers;</VERS>
+      <VERS vnumber="3">and Judah begot Perez and Zerah from Tamar; and Perez begot Hezron; and Hezron begot Ram;</VERS>
+      <VERS vnumber="4">and Ram begot Amminadab; and Amminadab begot Nahshon; and Nahshon begot Salmon;</VERS>
+      <VERS vnumber="5">and Salmon begot Boaz from Rahab; and Boaz begot Obed from Ruth; and Obed begot Jesse;</VERS>
+      <VERS vnumber="6">and Jesse begot David the king. And David begot Solomon from the wife of Uriah;</VERS>
+      <VERS vnumber="7">and Solomon begot Rehoboam; and Rehoboam begot Abijah; and Abijah begot Asaph;</VERS>
+      <VERS vnumber="8">and Asaph begot Jehoshaphat; and Jehoshaphat begot Joram; and Joram begot Uzziah;</VERS>
+      <VERS vnumber="9">and Uzziah begot Jotham; and Jotham begot Ahaz; and Ahaz begot Hezekiah;</VERS>
+      <VERS vnumber="10">and Hezekiah begot Manasseh; and Manasseh begot Amos; and Amos begot Josiah;</VERS>
+      <VERS vnumber="11">and Josiah begot Jehoiachin and his brothers at the Babylonian Exile.</VERS>
+      <VERS vnumber="12">And after the Babylonian Exile, Jehoiachin begot Shealtiel; and Shealtiel begot Zerubbabel;</VERS>
+      <VERS vnumber="13">and Zerubbabel begot Abiud; and Abiud begot Eliakim; and Eliakim begot Azor;</VERS>
+      <VERS vnumber="14">and Azor begot Zadok; and Zadok begot Achim; and Achim begot Eliud;</VERS>
+      <VERS vnumber="15">and Eliud begot Eleazar; and Eleazar begot Matthan; and Matthan begot Jacob;</VERS>
+      <VERS vnumber="16">and Jacob begot Joseph; and Joseph begot Jesus, who is called Christ, from Mary.</VERS>
+      <VERS vnumber="17">So all the generations from Abraham to David were fourteen generations, and from David to the Babylonian Exile were fourteen generations, and from the Babylonian Exile to the Christ were fourteen generations.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

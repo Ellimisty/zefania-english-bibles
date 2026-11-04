@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="John Wycliffe Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="122">
+      <VERS vnumber="1">
+The `title of the hundrid and two and twentithe salm. `The song of grecis. To thee Y haue reisid myn iyen; that dwellist in heuenes.
+</VERS>
+      <VERS vnumber="2">
+Lo! as the iyen of seruauntis; ben in the hondis of her lordis. As the iyen of the handmaide ben in the hondis of her ladi; so oure iyen ben to oure Lord God, til he haue mercy on vs.
+</VERS>
+      <VERS vnumber="3">
+Lord, haue thou merci on vs, haue thou merci on vs; for we ben myche fillid with dispisyng.
+</VERS>
+      <VERS vnumber="4">
+For oure soule is myche fillid; we ben schenschipe to hem that ben abundaunte with richessis, and dispising to proude men.
+</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="11">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief musician, by David.</STYLE> In the Lord have I put my trust: how can ye say to my soul, Flee to your mountain as a bird?</VERS>
+      <VERS vnumber="2">For lo, the wicked bend their bow, they arrange their arrow upon the string, to shoot in the dark at the upright in heart.</VERS>
+      <VERS vnumber="3">For <STYLE css="font-style:italic">if</STYLE> the foundations be torn down, what can the righteous do?</VERS>
+      <VERS vnumber="4">The Lord is in his holy temple, the Lord hath his throne in the heavens, his eyes behold, his eyelids prove, the children of men.</VERS>
+      <VERS vnumber="5">The Lord proveth the righteous; but the wicked and him that loveth violence his soul hateth.</VERS>
+      <VERS vnumber="6">He letteth rain upon the wicked burning coals, fire and brimstone; and a glowing wind is the portion of their cup.</VERS>
+      <VERS vnumber="7">For righteous is the Lord, he loveth righteousness: his countenance doth behold the upright.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

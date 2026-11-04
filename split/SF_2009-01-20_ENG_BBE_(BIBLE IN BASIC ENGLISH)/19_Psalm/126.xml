@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="126">
+      <VERS vnumber="1"> A Song of the going up. When the Lord made a change in Zion's fate, we were like men in a dream.</VERS>
+      <VERS vnumber="2">Then our mouths were full of laughing, and our tongues gave a glad cry; they said among the nations, The Lord has done great things for them.</VERS>
+      <VERS vnumber="3">The Lord has done great things for us; because of which we are glad.</VERS>
+      <VERS vnumber="4">Let our fate be changed, O Lord, like the streams in the South.</VERS>
+      <VERS vnumber="5">Those who put in seed with weeping will get in the grain with cries of joy.</VERS>
+      <VERS vnumber="6">Though a man may go out weeping, taking his vessel of seed with him; he will come again in joy, with the corded stems of grain in his arms.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

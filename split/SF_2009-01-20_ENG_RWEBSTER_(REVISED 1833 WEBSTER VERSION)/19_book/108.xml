@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="108">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Song [or] Psalm of David.</STYLE> O God, my heart is fixed; I will sing and give praise, even with my glory.</VERS>
+      <VERS vnumber="2">Awake, psaltery and harp: I <STYLE css="font-style:italic">myself</STYLE> will awake early.</VERS>
+      <VERS vnumber="3">I will praise thee, O LORD, among the people: and I will sing praises to thee among the nations.</VERS>
+      <VERS vnumber="4">For thy mercy <STYLE css="font-style:italic">is</STYLE> great above the heavens: and thy truth <STYLE css="font-style:italic">reacheth</STYLE> to the clouds. <DIV>
+          <NOTE type="x-studynote">clouds: or, skies</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="5">Be thou exalted, O God, above the heavens: and thy glory above all the earth;</VERS>
+      <VERS vnumber="6">That thy beloved may be delivered: save <STYLE css="font-style:italic">with</STYLE> thy right hand, and answer me.</VERS>
+      <VERS vnumber="7">God hath spoken in his holiness; I will rejoice, I will divide Shechem, and measure out the valley of Succoth.</VERS>
+      <VERS vnumber="8">Gilead <STYLE css="font-style:italic">is</STYLE> mine; Manasseh <STYLE css="font-style:italic">is</STYLE> mine; Ephraim also <STYLE css="font-style:italic">is</STYLE> the strength of my head; Judah <STYLE css="font-style:italic">is</STYLE> my lawgiver;</VERS>
+      <VERS vnumber="9">Moab <STYLE css="font-style:italic">is</STYLE> my washpot; over Edom will I cast out my shoe; over Philistia will I triumph.</VERS>
+      <VERS vnumber="10">Who will bring me into the strong city? who will lead me into Edom?</VERS>
+      <VERS vnumber="11">
+        <STYLE css="font-style:italic">Wilt</STYLE> not <STYLE css="font-style:italic">thou</STYLE>, O God, <STYLE css="font-style:italic">who</STYLE> hast cast us off? and wilt not thou, O God, go forth with our armies?</VERS>
+      <VERS vnumber="12">Give us help from trouble: for vain <STYLE css="font-style:italic">is</STYLE> the help of man.</VERS>
+      <VERS vnumber="13">Through God we shall do valiantly: for he will tread down our enemies.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="85">
+      <VERS vnumber="1"> To the chief <gr str="5329">Musician</gr>, A <gr str="4210">Psalm </gr>for the <gr str="1121">sons </gr>of <gr str="7141">Korah</gr>. <gr str="3068">LORD</gr>, thou hast been <gr str="7521">favorable </gr>unto thy <gr str="776">land</gr>: thou hast brought <gr str="7725">back </gr>the <gr str="7622">captivity </gr>of <gr str="3290">Jacob</gr>. </VERS>
+      <VERS vnumber="2"> Thou hast <gr str="5375">forgiven </gr>the <gr str="5771">iniquity </gr>of thy <gr str="5971">people</gr>, thou hast <gr str="3680">covered </gr>
+        <gr str="3605">all </gr>their <gr str="2403">sin</gr>. <gr str="5542">Selah</gr>. </VERS>
+      <VERS vnumber="3"> Thou hast taken <gr str="622">away </gr>
+        <gr str="3605">all </gr>thy <gr str="5678">wrath</gr>: thou hast <gr str="7725">turned </gr>
+        <STYLE css="color:#808080;font-style:italic"> thyself </STYLE> from the <gr str="4480 2740">fierceness </gr>of thine <gr str="639">anger</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="7725">Turn </gr>us, O <gr str="430">God </gr>of our <gr str="3468">salvation</gr>, and cause thine <gr str="3708">anger </gr>
+        <gr str="5973">toward </gr>us to <gr str="6565">cease</gr>. </VERS>
+      <VERS vnumber="5"> Wilt thou be <gr str="599">angry </gr>with us <gr str="5769">forever</gr>? wilt thou draw <gr str="4900">out </gr>thine <gr str="639">anger </gr>to all <gr str="1755 1755">generations</gr>? </VERS>
+      <VERS vnumber="6"> Wilt <gr str="859">thou </gr>
+        <gr str="3808">not </gr>
+        <gr str="2421">revive </gr>us <gr str="7725">again</gr>: that thy <gr str="5971">people </gr>may <gr str="8055">rejoice </gr>in thee? </VERS>
+      <VERS vnumber="7">
+        <gr str="7200">Show </gr>us thy <gr str="2617">mercy</gr>, O <gr str="3068">LORD</gr>, and <gr str="5414">grant </gr>us thy <gr str="3468">salvation</gr>. </VERS>
+      <VERS vnumber="8"> I will <gr str="8085">hear </gr>
+        <gr str="4100">what </gr>
+        <gr str="410">God </gr>the <gr str="3068">LORD </gr>will <gr str="1696">speak</gr>: <gr str="3588">for </gr>he will <gr str="1696">speak </gr>
+        <gr str="7965">peace </gr>
+        <gr str="413">unto </gr>his <gr str="5971">people</gr>, and <gr str="413">to </gr>his <gr str="2623">saints</gr>: but let them <gr str="408">not </gr>turn <gr str="7725">again </gr>to <gr str="3690">folly</gr>. </VERS>
+      <VERS vnumber="9">
+        <gr str="389">Surely </gr>his <gr str="3468">salvation </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="7138">nigh </gr>them that <gr str="3373">fear </gr>him; that <gr str="3519">glory </gr>may <gr str="7931">dwell </gr>in our <gr str="776">land</gr>. </VERS>
+      <VERS vnumber="10">
+        <gr str="2617">Mercy </gr>and <gr str="571">truth </gr>are met <gr str="6298">together</gr>; <gr str="6664">righteousness </gr>and <gr str="7965">peace </gr>have <gr str="5401">kissed </gr>
+        <STYLE css="color:#808080;font-style:italic"> each </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> other </STYLE>. </VERS>
+      <VERS vnumber="11">
+        <gr str="571">Truth </gr>shall <gr str="6779">spring </gr>out of the <gr str="4480 776">earth</gr>; and <gr str="6664">righteousness </gr>shall look <gr str="8259">down </gr>from <gr str="4480 8064">heaven</gr>. </VERS>
+      <VERS vnumber="12">
+        <gr str="1571">Yea</gr>, the <gr str="3068">LORD </gr>shall <gr str="5414">give </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> which </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2896">good</gr>; and our <gr str="776">land </gr>shall <gr str="5414">yield </gr>her <gr str="2981">increase</gr>. </VERS>
+      <VERS vnumber="13">
+        <gr str="6664">Righteousness </gr>shall <gr str="1980">go </gr>
+        <gr str="6440">before </gr>him; and shall <gr str="7760">set </gr>
+        <STYLE css="color:#808080;font-style:italic"> us </STYLE> in the <gr str="1870">way </gr>of his <gr str="6471">steps</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

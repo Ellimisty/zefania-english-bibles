@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="17">
+    <CHAPTER cnumber="10">
+      <VERS vnumber="1">And the <gr str="4428">king </gr>
+        <gr str="325">Ahasuerus </gr>
+        <gr str="7760">laid </gr>a <gr str="4522">tribute </gr>upon the <gr str="776">land</gr>, and <STYLE css="font-style:italic">upon</STYLE> the <gr str="339">isles </gr>of the <gr str="3220">sea</gr>.</VERS>
+      <VERS vnumber="2">And all the <gr str="4639">acts </gr>of his <gr str="8633">power </gr>and of his <gr str="1369">might</gr>, and the <gr str="6575">declaration </gr>of the <gr str="1420">greatness </gr>of <gr str="4782">Mordecai</gr>, to which the <gr str="4428">king </gr>
+        <gr str="1431">advanced </gr>him, <STYLE css="font-style:italic">are</STYLE> they not <gr str="3789">written </gr>in the <gr str="5612">book </gr>of the <gr str="1697 3117">chronicles </gr>of the <gr str="4428">kings </gr>of <gr str="4074">Media </gr>and <gr str="6539">Persia</gr>? <DIV>
+          <NOTE type="x-studynote">advanced…: Heb. made him great</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">For <gr str="4782">Mordecai </gr>the <gr str="3064">Jew </gr>
+        <STYLE css="font-style:italic">was </STYLE>
+        <gr str="4932">next </gr>to <gr str="4428">king </gr>
+        <gr str="325">Ahasuerus</gr>, and <gr str="1419">great </gr>among the <gr str="3064">Jews</gr>, and <gr str="7521">accepted </gr>by the <gr str="7230">multitude </gr>of his <gr str="251">brethren</gr>, <gr str="1875">seeking </gr>the <gr str="2896">welfare </gr>of his <gr str="5971">people</gr>, and <gr str="1696">speaking </gr>
+        <gr str="7965">peace </gr>to all his <gr str="2233">seed</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="120">
+      <CAPTION vref="1">A Song of Ascents.</CAPTION>
+      <VERS vnumber="1">In my distress I have cried out unto Jehovah, and He heard me.</VERS>
+      <VERS vnumber="2">Rescue my soul, O Jehovah, from lying lips and from a deceitful tongue.</VERS>
+      <VERS vnumber="3">What shall be given to you, or what shall be done to you, O deceitful tongue?</VERS>
+      <VERS vnumber="4">Sharp arrows of the mighty, with coals of the broom tree!</VERS>
+      <VERS vnumber="5">Woe is me, that I have sojourned in Meshech, that I have dwelt in the tents of Kedar!</VERS>
+      <VERS vnumber="6">My soul has dwelt long with him who hates peace.</VERS>
+      <VERS vnumber="7">I am for peace; but when I speak, they are for war.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

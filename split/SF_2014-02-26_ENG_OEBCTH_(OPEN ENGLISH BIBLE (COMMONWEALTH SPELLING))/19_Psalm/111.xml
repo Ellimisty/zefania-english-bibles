@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="111">
+      <VERS vnumber="1">Hallelujah. I will thank the <STYLE id="cl:divineName">Lord</STYLE> with all my heart,in the assembled congregation of his people.Great are the things that the <STYLE id="cl:divineName">Lord</STYLE> has done,worthy of study by those who love them.Majestic and glorious is his work,and his righteousness abides forever.For his marvellous deeds he has won renown;the <STYLE id="cl:divineName">Lord</STYLE> is gracious and full of compassion.Food he gives to those who fear him,always he remembers his covenant.His mighty works he has shown to his people,in giving to them the nations for heritage.All that he does is faithful and right,all his behests are firm and sure.</VERS>
+      <VERS vnumber="8">They are established for ever and ever,executed with truth and uprightness.</VERS>
+      <VERS vnumber="9">To his people he sent redemption,he has appointed his covenant forever.His name is holy and awe-inspiring.</VERS>
+      <VERS vnumber="10">The fear of the <STYLE id="cl:divineName">Lord</STYLE> is the beginning of wisdomthose who keep it are wise indeed.His praise abides for ever and ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

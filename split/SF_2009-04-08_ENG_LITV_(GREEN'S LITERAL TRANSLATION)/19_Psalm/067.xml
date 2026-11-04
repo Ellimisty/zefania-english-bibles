@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Green's Literal Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="67">
+      <VERS vnumber="1">  To the chief musician, for stringed instruments. A Psalm. A song. May God be merciful to us and bless us, and cause His face to shine upon us. Selah.</VERS>
+      <VERS vnumber="2"> That Your way may be known on earth, Your salvation among all nations.</VERS>
+      <VERS vnumber="3"> Let the peoples thank You, O God; let all the peoples thank You.</VERS>
+      <VERS vnumber="4"> Oh let the peoples be glad and sing for joy; for You shall judge the peoples uprightly and govern the peoples on earth. Selah.</VERS>
+      <VERS vnumber="5"> Let the peoples give thanks to You, O God; let all the peoples give thanks to You.</VERS>
+      <VERS vnumber="6"> The earth has given its increase; God, our own God, shall bless us.</VERS>
+      <VERS vnumber="7"> God shall bless us; and all the ends of the earth shall fear Him.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

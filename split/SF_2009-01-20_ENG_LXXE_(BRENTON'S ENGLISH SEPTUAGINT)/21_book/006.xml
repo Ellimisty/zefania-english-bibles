@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="21">
+    <CHAPTER cnumber="6">
+      <VERS vnumber="1">There is an evil which I have seen under the sun, and it is abundant <DIV>
+          <NOTE type="x-studynote">Alex. epi, upon</NOTE>
+        </DIV> with man:</VERS>
+      <VERS vnumber="2">a man to whom God shall give wealth, and substance, and honour, and he wants nothing for his soul of all things that he shall desire, yet God shall not give him power to eat of it, for a stranger shall devour it: this is vanity, and an evil infirmity.</VERS>
+      <VERS vnumber="3">If a man beget a hundred children, and live many years, yea, however abundant the days of his years shall be, yet if his soul shall not be satisfied with good, and also he have no burial; I said, An untimely birth is better than he.</VERS>
+      <VERS vnumber="4">For he came in vanity, and departs in darkness, and his name shall be covered in darkness.</VERS>
+      <VERS vnumber="5">Moreover he has not seen the sun, nor known rest: there is no more rest to this one than another.</VERS>
+      <VERS vnumber="6">
+        <DIV>
+          <NOTE type="x-studynote">Alex. begins the verse thus, kai ei ezhse, and if he has lived, etc.</NOTE>
+        </DIV> Though he has lived to the return of a thousand years, yet he has seen no good: do not all go to one place?</VERS>
+      <VERS vnumber="7">All the labour of a man is for his mouth, and yet the appetite shall not be satisfied.</VERS>
+      <VERS vnumber="8">For what advantage has the wise man over the fool, since even the poor knows how to walk <DIV>
+          <NOTE type="x-studynote">Gr. before the face of</NOTE>
+        </DIV> in the direction of life?</VERS>
+      <VERS vnumber="9">The sight of the eyes is better than that which wanders in soul: this is also vanity, and waywardness of spirit.</VERS>
+      <VERS vnumber="10">If anything has been, its name has already been called: and it is known what man is; neither can he contend with him who is stronger than he.</VERS>
+      <VERS vnumber="11">For there are many things which increase vanity.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

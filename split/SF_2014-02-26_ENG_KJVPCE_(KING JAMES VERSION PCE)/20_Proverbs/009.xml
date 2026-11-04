@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="King James Version PCE" type="x-bible">
+  <BIBLEBOOK bnumber="20" bname="Proverbs" bsname="Pro">
+    <CHAPTER cnumber="9">
+      <VERS vnumber="1">Wisdom hath builded her house, she hath hewn out her seven pillars:</VERS>
+      <VERS vnumber="2">She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.</VERS>
+      <VERS vnumber="3">She hath sent forth her maidens: she crieth upon the highest places of the city,</VERS>
+      <VERS vnumber="4">Whoso  is  simple, let him turn in hither:  as for  him that wanteth understanding, she saith to him,</VERS>
+      <VERS vnumber="5">Come, eat of my bread, and drink of the wine  which  I have mingled.</VERS>
+      <VERS vnumber="6">Forsake the foolish, and live; and go in the way of understanding.</VERS>
+      <VERS vnumber="7">He that reproveth a scorner getteth to himself shame: and he that rebuketh a wicked  man getteth  himself a blot.</VERS>
+      <VERS vnumber="8">Reprove not a scorner, lest he hate thee: rebuke a wise man, and he will love thee.</VERS>
+      <VERS vnumber="9">Give  instruction  to a wise  man , and he will be yet wiser: teach a just  man , and he will increase in learning.</VERS>
+      <VERS vnumber="10">The fear of the <STYLE id="cl:divineName">Lord</STYLE> is  the beginning of wisdom: and the knowledge of the holy  is  understanding.</VERS>
+      <VERS vnumber="11">For by me thy days shall be multiplied, and the years of thy life shall be increased.</VERS>
+      <VERS vnumber="12">If thou be wise, thou shalt be wise for thyself: but  if  thou scornest, thou alone shalt bear  it .</VERS>
+      <VERS vnumber="13">A foolish woman  is  clamorous:  she is  simple, and knoweth nothing.</VERS>
+      <VERS vnumber="14">For she sitteth at the door of her house, on a seat in the high places of the city,</VERS>
+      <VERS vnumber="15">To call passengers who go right on their ways:</VERS>
+      <VERS vnumber="16">Whoso  is  simple, let him turn in hither: and  as for  him that wanteth understanding, she saith to him,</VERS>
+      <VERS vnumber="17">Stolen waters are sweet, and bread  eaten  in secret is pleasant.</VERS>
+      <VERS vnumber="18">But he knoweth not that the dead  are  there;  and that  her guests  are  in the depths of hell.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

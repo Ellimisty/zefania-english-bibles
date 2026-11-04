@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.3" biblename="New Heart English Bible ME" type="x-bible">
+  <BIBLEBOOK bnumber="19" bsname="PSA">
+    <CHAPTER cnumber="13">
+      <VERS vnumber="1" />
+      <VERS vnumber="2">How long shall I take counsel in my soul, having sorrow in my heart every day? How long shall my enemy triumph over me?</VERS>
+      <VERS vnumber="3">Behold, and answer me, LORD, my God. Give light to my eyes, lest I sleep in death;</VERS>
+      <VERS vnumber="4">Lest my enemy say, "I have prevailed against him;" Lest my adversaries rejoice when I fall.</VERS>
+      <VERS vnumber="5">But I trust in your loving kindness. My heart rejoices in your salvation.</VERS>
+      <VERS vnumber="6">I will sing to the LORD, because he has been good to me.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

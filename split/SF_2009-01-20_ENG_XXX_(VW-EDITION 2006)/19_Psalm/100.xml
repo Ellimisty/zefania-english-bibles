@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="100">
+      <CAPTION vref="1">A Psalm of Thanksgiving.</CAPTION>
+      <VERS vnumber="1">Shout joyfully unto Jehovah, all you lands!</VERS>
+      <VERS vnumber="2">Serve Jehovah with gladness; come before His presence with joyful voice.</VERS>
+      <VERS vnumber="3">Know that Jehovah, He is God; it is He who has made us, and not we ourselves; we are His people and the sheep of His pasture.</VERS>
+      <VERS vnumber="4">Enter into His gates with thanksgiving, and into His courts with praise. Be thankful unto Him, and bless His name.</VERS>
+      <VERS vnumber="5">For Jehovah is good; His mercy is eternal, and His truth endures from generation to generation.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

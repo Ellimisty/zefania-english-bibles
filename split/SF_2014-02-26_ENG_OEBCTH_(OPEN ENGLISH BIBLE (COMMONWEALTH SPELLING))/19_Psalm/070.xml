@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="70">
+      <VERS vnumber="1">Quickly, God, deliver me,hasten to help me, <STYLE id="cl:divineName">Lord</STYLE>.</VERS>
+      <VERS vnumber="2">May those who are seeking my life,be ashamed and confounded.</VERS>
+      <VERS vnumber="3">May those who delight in my hurtbe defeated and brought to dishonour.</VERS>
+      <VERS vnumber="4">But may all who seek after yourejoice and be glad in you.May all who love your salvationsay, “Glory to God,” evermore.</VERS>
+      <VERS vnumber="5">I am weak and needy:make haste, God, to me.You are my help and deliverer;<STYLE id="cl:divineName">Lord</STYLE>, don’t delay.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

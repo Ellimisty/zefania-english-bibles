@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="24" bname="Jeremia" bsname="Jer">
+    <CHAPTER cnumber="47">
+      <VERS vnumber="1"> The <gr str="1697">word </gr>of the <gr str="3068">LORD </gr>
+        <gr str="834">that </gr>
+        <gr str="1961">came </gr>
+        <gr str="413">to </gr>
+        <gr str="3414">Jeremiah </gr>the <gr str="5030">prophet </gr>
+        <gr str="413">against </gr>the <gr str="6430">Philistines</gr>, <gr str="2962">before </gr>that <gr str="6547">Pharaoh </gr>
+        <gr str="5221">smote </gr>
+        <gr str="*853" />
+        <gr str="5804">Gaza</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="3541">Thus </gr>
+        <gr str="559">saith </gr>the <gr str="3068">LORD</gr>; <gr str="2009">Behold</gr>, <gr str="4325">waters </gr>rise <gr str="5927">up </gr>out of the <gr str="4480 6828">north</gr>, and shall <gr str="1961">be </gr>an <gr str="7857">overflowing </gr>
+        <gr str="5158">flood</gr>, and shall <gr str="7857">overflow </gr>the <gr str="776">land</gr>, and <gr str="4393">all </gr>that is therein; the <gr str="5892">city</gr>, and them that <gr str="3427">dwell </gr>therein: then the <gr str="120">men </gr>shall <gr str="2199">cry</gr>, and <gr str="3605">all </gr>the <gr str="3427">inhabitants </gr>of the <gr str="776">land </gr>shall <gr str="3213">howl</gr>. </VERS>
+      <VERS vnumber="3"> At the <gr str="4480 6963">noise </gr>of the <gr str="8161">stamping </gr>of the <gr str="6541">hooves </gr>of his <gr str="47">strong </gr>
+        <STYLE css="color:#808080;font-style:italic"> horses </STYLE>, at the <gr str="4480 7494">rushing </gr>of his <gr str="7393">chariots</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> at </STYLE> the <gr str="1995">rumbling </gr>of his <gr str="1534">wheels</gr>, the <gr str="1">fathers </gr>shall <gr str="3808">not </gr>look <gr str="6437">back </gr>
+        <gr str="413">to </gr>
+        <STYLE css="color:#808080;font-style:italic"> their </STYLE>
+        <gr str="1121">children </gr>for <gr str="4480 7510">feebleness </gr>of <gr str="3027">hands</gr>; </VERS>
+      <VERS vnumber="4"> Because <gr str="5921">of </gr>the <gr str="3117">day </gr>that <gr str="935">cometh </gr>to <gr str="7703">spoil </gr>
+        <gr str="*853" />
+        <gr str="3605">all </gr>the <gr str="6430">Philistines</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> to cut <gr str="3772">off </gr>from <gr str="6865">Tyrus </gr>and <gr str="6721">Zidon </gr>
+        <gr str="3605">every </gr>
+        <gr str="5826">helper </gr>that <gr str="8300">remaineth</gr>: <gr str="3588">for </gr>the <gr str="3068">LORD </gr>will <gr str="7703">spoil </gr>
+        <gr str="*853" />the <gr str="6430">Philistines</gr>, the <gr str="7611">remnant </gr>of the <gr str="339">country </gr>of <gr str="3731">Caphtor</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="7144">Baldness </gr>is <gr str="935">come </gr>
+        <gr str="413">upon </gr>
+        <gr str="5804">Gaza</gr>; <gr str="831">Ashkelon </gr>is cut <gr str="1820">off </gr>
+        <STYLE css="color:#808080;font-style:italic"> with </STYLE> the <gr str="7611">remnant </gr>of their <gr str="6010">valley</gr>: how <gr str="5704 4970">long </gr>wilt thou cut <gr str="1413">thyself</gr>? </VERS>
+      <VERS vnumber="6">
+        <gr str="1945">O </gr>thou <gr str="2719">sword </gr>of the <gr str="3068">LORD</gr>, how <gr str="5704 575">long </gr>
+        <STYLE css="color:#808080;font-style:italic"> will </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="3808">ere </gr>thou be <gr str="8252">quiet</gr>? put up <gr str="622">thyself </gr>
+        <gr str="413">into </gr>thy <gr str="8593">scabbard</gr>, <gr str="7280">rest</gr>, and be <gr str="1826">still</gr>. </VERS>
+      <VERS vnumber="7">
+        <gr str="349">How </gr>can it be <gr str="8252">quiet</gr>, seeing the <gr str="3068">LORD </gr>hath given it a <gr str="6680">charge </gr>
+        <gr str="413">against </gr>
+        <gr str="831">Ashkelon</gr>, and <gr str="413">against </gr>the <gr str="3220">sea </gr>
+        <gr str="2348">shore</gr>? <gr str="8033">there </gr>hath he <gr str="3259">appointed </gr>it. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

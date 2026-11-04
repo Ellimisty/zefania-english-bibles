@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="15">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of David.</STYLE> LORD, who shall abide at thy tabernacle? Who shall dwell upon thy holy hill?</VERS>
+      <VERS vnumber="2">He that walketh uprightly, and doeth righteousness, And speaketh the truth from his heart;</VERS>
+      <VERS vnumber="3">He that slandereth not with his tongue, That doeth no injury to his neighbor, And uttereth no reproach against his neighbor;</VERS>
+      <VERS vnumber="4">In whose eyes a vile person is contemned; But who honoreth them that fear the LORD; Who sweareth to his own hurt, and changeth not;</VERS>
+      <VERS vnumber="5">He that lendeth not his money for interest, And taketh not a bribe against the innocent: He that doeth these things shall never be moved.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

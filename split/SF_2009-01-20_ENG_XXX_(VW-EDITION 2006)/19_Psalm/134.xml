@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="134">
+      <CAPTION vref="1">A Song of Ascents.</CAPTION>
+      <VERS vnumber="1">Behold, bless Jehovah, all you servants of Jehovah, who by night stand in the house of Jehovah.</VERS>
+      <VERS vnumber="2">Lift up your hands in the sanctuary, and bless Jehovah.</VERS>
+      <VERS vnumber="3">Jehovah, who made the heavens and the earth, bless you out of Zion.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

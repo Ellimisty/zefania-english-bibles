@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="King James Version PCE" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="93">
+      <VERS vnumber="1">The <STYLE id="cl:divineName">Lord</STYLE> reigneth, he is clothed with majesty; the <STYLE id="cl:divineName">Lord</STYLE> is clothed with strength,  wherewith  he hath girded himself: the world also is stablished, that it cannot be moved.</VERS>
+      <VERS vnumber="2">Thy throne  is  established of old: thou  art  from everlasting.</VERS>
+      <VERS vnumber="3">The floods have lifted up, O <STYLE id="cl:divineName">Lord</STYLE>, the floods have lifted up their voice; the floods lift up their waves.</VERS>
+      <VERS vnumber="4">The <STYLE id="cl:divineName">Lord</STYLE> on high  is  mightier than the noise of many waters,  yea, than  the mighty waves of the sea.</VERS>
+      <VERS vnumber="5">Thy testimonies are very sure: holiness becometh thine house, O <STYLE id="cl:divineName">Lord</STYLE>, for ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

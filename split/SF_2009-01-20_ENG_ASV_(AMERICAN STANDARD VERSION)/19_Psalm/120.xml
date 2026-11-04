@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="American Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="120">
+      <VERS vnumber="1">In my distress I cried unto Jehovah, And he answered me.</VERS>
+      <VERS vnumber="2">Deliver my soul, O Jehovah, from lying lips, [And] from a deceitful tongue.</VERS>
+      <VERS vnumber="3">What shall be given unto thee, and what shall be done       more unto thee, Thou deceitful tongue?</VERS>
+      <VERS vnumber="4">Sharp arrows of the mighty, With coals of juniper.</VERS>
+      <VERS vnumber="5">Woe is me, that I sojourn in Meshech, That I dwell among the tents of Kedar!</VERS>
+      <VERS vnumber="6">My soul hath long had her dwelling With him that hateth peace.</VERS>
+      <VERS vnumber="7">I am [for] peace: But when I speak, they are for war.           Psalm 121       A Song of Ascents.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

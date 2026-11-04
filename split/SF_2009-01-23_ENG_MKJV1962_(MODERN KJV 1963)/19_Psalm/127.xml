@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Modern KJV 1963" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="127">
+      <VERS vnumber="1">A Song of degrees for Solomon. Unless the LORD builds the house, they labor in vain who build it; unless the LORD keeps the city, the watchman stays awake in vain.</VERS>
+      <VERS vnumber="2">[It is] vain for you to rise up early, to sit up late, to eat the bread of sorrows; [for] so He gives His beloved sleep.</VERS>
+      <VERS vnumber="3">Lo, children [are] the inheritance of the LORD; the fruit of the womb [is] a reward.</VERS>
+      <VERS vnumber="4">As arrows in the hand of a mighty man, so [are] the sons of the young.</VERS>
+      <VERS vnumber="5">Blessed [is] the man who has his quiver full of them; they shall not be ashamed, but they shall speak with the enemies in the gate.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

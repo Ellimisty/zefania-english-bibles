@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="26">
+      <CAPTION vref="1">A Psalm of David.</CAPTION>
+      <VERS vnumber="1">Judge me, O Jehovah, for I have walked in my integrity. I have trusted also in Jehovah; I shall not slip.</VERS>
+      <VERS vnumber="2">Examine me, O Jehovah, and prove me; purify my being and my heart.</VERS>
+      <VERS vnumber="3">For Your lovingkindness is before my eyes, and I have walked in Your Truth.</VERS>
+      <VERS vnumber="4">I have not sat with men of vanity, neither will I go in with hypocrites.</VERS>
+      <VERS vnumber="5">I have hated the assembly of evildoers, and will not sit with the wicked.</VERS>
+      <VERS vnumber="6">I will wash my hands in innocence; thus I will go around Your altar, O Jehovah,</VERS>
+      <VERS vnumber="7">so that I may proclaim with the voice of thanksgiving, and tell of all Your marvelous works.</VERS>
+      <VERS vnumber="8">Jehovah, I have loved the dwelling place of Your house, and the place where Your honor dwells.</VERS>
+      <VERS vnumber="9">Do not take away my soul with sinners, nor my life with men of blood,</VERS>
+      <VERS vnumber="10">in whose hands is an evil plot, and their right hand is full of bribes.</VERS>
+      <VERS vnumber="11">But I will walk in my integrity; redeem me and be merciful unto me.</VERS>
+      <VERS vnumber="12">My foot stands in an even place; in the congregations I will bless Jehovah.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

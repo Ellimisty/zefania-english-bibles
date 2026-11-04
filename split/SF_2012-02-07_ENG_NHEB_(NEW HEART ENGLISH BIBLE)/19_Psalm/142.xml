@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="New Heart English Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="142">
+      <VERS vnumber="1">A contemplation by David, when he was in the cave. A Prayer.I cry with my voice to the <STYLE id="cl:divineName">Lord</STYLE>.With my voice, I ask the <STYLE id="cl:divineName">Lord</STYLE> for mercy.</VERS>
+      <VERS vnumber="2">I pour out my complaint before him.I tell him my troubles.</VERS>
+      <VERS vnumber="3">When my spirit was overwhelmed within me,you knew my path.In the way in which I walk,they have hidden a snare for me.</VERS>
+      <VERS vnumber="4">Look on my right, and see;for there is no one who is concerned for me.Refuge has fled from me.No one cares for my soul.</VERS>
+      <VERS vnumber="5">I cried to you, <STYLE id="cl:divineName">Lord</STYLE>.I said, "You are my refuge,my portion in the land of the living."</VERS>
+      <VERS vnumber="6">Listen to my cry,for I am in desperate need.Deliver me from my persecutors,for they are stronger than me.</VERS>
+      <VERS vnumber="7">Bring my soul out of prison,that I may give thanks to your name.The righteous will surround me,for you will be good to me.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

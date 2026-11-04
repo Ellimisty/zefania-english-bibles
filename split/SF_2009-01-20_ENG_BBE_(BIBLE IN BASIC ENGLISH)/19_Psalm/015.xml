@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="15">
+      <VERS vnumber="1"> A Psalm. Of David. Lord, who may have a resting-place in your tent, a living-place on your holy hill?</VERS>
+      <VERS vnumber="2">He who goes on his way uprightly, doing righteousness, and saying what is true in his heart;</VERS>
+      <VERS vnumber="3">Whose tongue is not false, who does no evil to his friend, and does not take away the good name of his neighbour;</VERS>
+      <VERS vnumber="4">Who gives honour to those who have the fear of the Lord, turning away from him who has not the Lord's approval. He who takes an oath against himself, and makes no change.</VERS>
+      <VERS vnumber="5">He who does not put out his money at interest, or for payment give false decisions against men who have done no wrong. He who does these things will never be moved.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="11">
+      <VERS vnumber="1">In the <STYLE id="cl:divineName">Lord</STYLE> I take refuge.How can you tell meto flee like a bird to the mountains? <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="2">“See! The wicked are bending the bow,their arrow is set on the string,to shoot from the shadows at the upright in heart.</VERS>
+      <VERS vnumber="3">In this tearing down of foundationswhat good can a good person do?” <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="4">The <STYLE id="cl:divineName">Lord</STYLE> in his holy temple,the <STYLE id="cl:divineName">Lord</STYLE> in heaven, enthroned.His eyes watch the world,they see everyone.</VERS>
+      <VERS vnumber="5">The <STYLE id="cl:divineName">Lord</STYLE> examines the righteous and wicked,and the lover of violence he hates.</VERS>
+      <VERS vnumber="6">On the wicked he rains coals of fire and brimstone,and their drink will be scorching wind.</VERS>
+      <VERS vnumber="7">For the <STYLE id="cl:divineName">Lord</STYLE> is just, and justice he loves;so the upright will see his face.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

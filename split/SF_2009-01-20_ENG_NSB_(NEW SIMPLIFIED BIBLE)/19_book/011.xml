@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="11">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">I have taken refuge in Jehovah. How can you say to me: "Flee to your mountain like a bird?«</VERS>
+      <VERS vnumber="2">Wicked people bend their bows. They set their arrows against the strings to shoot in the dark at people who are upright in heart.</VERS>
+      <VERS vnumber="3">What can a righteous person do when the foundations of life are destroyed?</VERS>
+      <VERS vnumber="4">Jehovah is in his holy temple. Jehovahs throne is in heaven. His eyes see. They examine the sons of men.</VERS>
+      <VERS vnumber="5">Jehovah tests <STYLE css="font-style:italic">examines</STYLE> righteous and wicked people alike. He hates wicked people and the ones who love violence.</VERS>
+      <VERS vnumber="6">He rains down fire and burning sulfur upon wicked people. He makes them drink from a cup filled with scorching wind.</VERS>
+      <VERS vnumber="7">Jehovah is righteous. He loves a righteous way of life. Upright people will see his face <STYLE css="font-style:italic">contemplate his presence</STYLE>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

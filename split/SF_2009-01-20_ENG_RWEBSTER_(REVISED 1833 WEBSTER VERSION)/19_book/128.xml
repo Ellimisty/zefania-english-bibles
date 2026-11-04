@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="128">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Song of degrees.</STYLE> Blessed <STYLE css="font-style:italic">is</STYLE> every one that feareth the LORD; that walketh in his ways.</VERS>
+      <VERS vnumber="2">For thou shalt eat the labour of thy hands: happy <STYLE css="font-style:italic">shalt</STYLE> thou <STYLE css="font-style:italic">be</STYLE>, and <STYLE css="font-style:italic">it shall be</STYLE> well with thee.</VERS>
+      <VERS vnumber="3">Thy wife <STYLE css="font-style:italic">shall be</STYLE> as a fruitful vine by the sides of thy house: thy children like olive plants around thy table.</VERS>
+      <VERS vnumber="4">Behold, that thus shall the man be blessed that feareth the LORD.</VERS>
+      <VERS vnumber="5">The LORD shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.</VERS>
+      <VERS vnumber="6">Yea, thou shalt see thy children’s children, <STYLE css="font-style:italic">and</STYLE> peace upon Israel.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

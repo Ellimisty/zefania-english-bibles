@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="King James Version PCE" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="23">
+      <VERS vnumber="1">A Psalm of David.  The <STYLE id="cl:divineName">Lord</STYLE> is  my shepherd; I shall not want.</VERS>
+      <VERS vnumber="2">He maketh me to lie down in green pastures: he leadeth me beside the still waters.</VERS>
+      <VERS vnumber="3">He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.</VERS>
+      <VERS vnumber="4">Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou  art  with me; thy rod and thy staff they comfort me.</VERS>
+      <VERS vnumber="5">Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.</VERS>
+      <VERS vnumber="6">Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the <STYLE id="cl:divineName">Lord</STYLE> for ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

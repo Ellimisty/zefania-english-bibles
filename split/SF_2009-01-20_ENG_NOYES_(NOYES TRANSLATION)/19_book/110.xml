@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="110">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of David.</STYLE> Jehovah said to my lord, "Sit thou at my right hand, Until I make thy foes thy footstool."</VERS>
+      <VERS vnumber="2">Jehovah will extend the sceptre of thy power from Zion: Rule thou in the midst of thine enemies!</VERS>
+      <VERS vnumber="3">Thy people shall be ready, when thou musterest thy forces, in holy splendor; Thy youth shall come forth like dew from the womb of the morning.</VERS>
+      <VERS vnumber="4">Jehovah hath sworn, and he will not repent: "Thou art a priest for ever, After the order of Melchisedeck!"</VERS>
+      <VERS vnumber="5">The Lord is at thy right hand, He shall crush kings in the day of his wrath.</VERS>
+      <VERS vnumber="6">He shall execute justice among the nations; He shall fill them with dead bodies, He shall crush the heads of his enemies over many lands.</VERS>
+      <VERS vnumber="7">He shall drink of the brook in the way; Therefore shall he lift up his head.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

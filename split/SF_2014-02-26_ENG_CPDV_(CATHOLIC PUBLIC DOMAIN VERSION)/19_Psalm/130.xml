@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="130">
+      <VERS vnumber="1">A Canticle in steps: of David. O Lord, my heart has not been exalted, and my eyes have not been raised up. Neither have I walked in greatness, nor in wonders beyond me.</VERS>
+      <VERS vnumber="2">When I was not humble in thought, then I lifted up my soul. Like one who has been weaned from his mother, so was I recompensed in my soul.</VERS>
+      <VERS vnumber="3">Let Israel hope in the Lord, from this time forward and even forever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="3">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of David, when he fled from Absalom his son.</STYLE> LORD, how are they multiplied that trouble me! many <STYLE css="font-style:italic">are</STYLE> they that rise up against me.</VERS>
+      <VERS vnumber="2">Many <STYLE css="font-style:italic">there are</STYLE> who say of my soul, <STYLE css="font-style:italic">There is</STYLE> no help for him in God. Selah.</VERS>
+      <VERS vnumber="3">But thou, O LORD, <STYLE css="font-style:italic">art</STYLE> a shield for me; my glory, and the lifter up of my head. <DIV>
+          <NOTE type="x-studynote">for: or, about</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">I cried to the LORD with my voice, and he heard me from his holy hill. Selah.</VERS>
+      <VERS vnumber="5">I laid me down and slept; I awoke; for the LORD sustained me.</VERS>
+      <VERS vnumber="6">I will not be afraid of ten thousands of people, that have set <STYLE css="font-style:italic">themselves</STYLE> against me on all sides.</VERS>
+      <VERS vnumber="7">Arise, O LORD; save me, O my God: for thou hast smitten all my enemies <STYLE css="font-style:italic">upon</STYLE> the cheek bone; thou hast broken the teeth of the ungodly.</VERS>
+      <VERS vnumber="8">Salvation <STYLE css="font-style:italic">belongeth</STYLE> to the LORD: thy blessing <STYLE css="font-style:italic">is</STYLE> upon thy people. Selah.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

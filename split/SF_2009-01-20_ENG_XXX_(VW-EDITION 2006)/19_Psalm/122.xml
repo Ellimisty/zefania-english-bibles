@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="122">
+      <CAPTION vref="1">A Song of Ascents of David.</CAPTION>
+      <VERS vnumber="1">I was glad when they said unto me, let us go into the house of Jehovah.</VERS>
+      <VERS vnumber="2">Our feet shall stand within your gates, O Jerusalem.</VERS>
+      <VERS vnumber="3">Jerusalem is built like a city that has been joined together,</VERS>
+      <VERS vnumber="4">where the tribes go up, the tribes of YAH, unto the Testimony of Israel, to give thanks unto the name of Jehovah.</VERS>
+      <VERS vnumber="5">For thrones are set there for judgment, the thrones of the house of David.</VERS>
+      <VERS vnumber="6">Pray for the peace of Jerusalem; may they prosper who love you.</VERS>
+      <VERS vnumber="7">Peace be within your walls, quietness within your palaces.</VERS>
+      <VERS vnumber="8">For the sake of my brethren and companions, I will now say, Peace be within you.</VERS>
+      <VERS vnumber="9">Because of the house of Jehovah our God I will seek your good.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

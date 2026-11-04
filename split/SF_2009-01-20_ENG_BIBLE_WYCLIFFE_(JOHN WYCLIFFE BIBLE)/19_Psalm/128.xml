@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="John Wycliffe Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="128">
+      <VERS vnumber="1">
+The `title of the hundrid and eiyte and twentithe `salm. The song of greces. Israel seie now; Ofte thei fouyten ayens  me fro my yongth.
+</VERS>
+      <VERS vnumber="2">
+Ofte thei fouyten ayens me fro my yongthe; and sotheli thei miyten not to me.
+</VERS>
+      <VERS vnumber="3">
+Synneris forgeden on my bak; thei maden long her wickidnesse.
+</VERS>
+      <VERS vnumber="4">
+The `iust Lord schal beete the nollis of synneris;
+</VERS>
+      <VERS vnumber="5">
+alle that haten Sion be schent, and turned abak.
+</VERS>
+      <VERS vnumber="6">
+Be thei maad as the hey of hous coppis; that driede vp, bifore that it be drawun vp.
+</VERS>
+      <VERS vnumber="7">
+Of which hei he that schal repe, schal not fille his hond; and he that schal gadere hondfullis, schal not fille his bosum.
+</VERS>
+      <VERS vnumber="8">
+And thei that passiden forth seiden not, The blessing of the Lord be on you; we blessiden you in the name of the Lord.
+</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

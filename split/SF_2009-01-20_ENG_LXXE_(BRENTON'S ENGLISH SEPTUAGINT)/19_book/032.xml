@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="32">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of instruction </STYLE>
+        <DIV>
+          <NOTE type="x-studynote">Gr. for, or, of</NOTE>
+        </DIV>
+        <STYLE css="font-style:italic"> by David.</STYLE> - <DIV>
+          <NOTE type="x-studynote">Ro 4:7, 8</NOTE>
+        </DIV> Blessed are they whose transgressions are forgiven, and who sins are covered.</VERS>
+      <VERS vnumber="2">Blessed is the man to whom the Lord will not impute sin, and whose mouth there is no guile.</VERS>
+      <VERS vnumber="3">Because I kept silence, my bones waxed old, from my crying all the day.</VERS>
+      <VERS vnumber="4">For day and night thy hand was heavy upon me: I became thoroughly miserable while <DIV>
+          <NOTE type="x-studynote">See Hebrew</NOTE>
+        </DIV> a thorn was fastened in me. Pause.</VERS>
+      <VERS vnumber="5">I acknowledged my sin, and hid not mine iniquity: I said, I will confess mine iniquity to the Lord against myself; and thou forgavest the ungodliness of my heart. Pause.</VERS>
+      <VERS vnumber="6">Therefore shall every holy one pray to thee in a fit time: only in the deluge of many waters they shall not come nigh to him.</VERS>
+      <VERS vnumber="7">Thou art my refuge from the affliction that encompasses me; my joy, to deliver me from them that have compassed me. Pause.</VERS>
+      <VERS vnumber="8">I will instruct thee and guide thee in this way wherein thou shalt go: I will fix mine eyes upon thee.</VERS>
+      <VERS vnumber="9">Be ye not as horse and mule, which have no understanding; <DIV>
+          <NOTE type="x-studynote">Alex. agxeiv</NOTE>
+        </DIV> but thou must constrain their jaws with bit and curb, lest they should come nigh to thee.</VERS>
+      <VERS vnumber="10">Many are the scourges of the sinner: but him that hopes in the Lord mercy shall compass about.</VERS>
+      <VERS vnumber="11">Be glad in the Lord, and exult, ye righteous: and glory, all ye that are upright in heart.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

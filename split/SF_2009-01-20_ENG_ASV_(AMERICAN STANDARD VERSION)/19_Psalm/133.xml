@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="American Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="133">
+      <VERS vnumber="1">Behold, how good and how pleasant it is For brethren to dwell together in unity!</VERS>
+      <VERS vnumber="2">It is like the precious oil upon the head, That ran down upon the beard, Even Aaron`s beard; That came down upon the skirt of his garments;</VERS>
+      <VERS vnumber="3">Like the dew of Hermon, That cometh down upon the mountains of Zion: For there Jehovah commanded the blessing, Even life for evermore.           Psalm 134       A Song of Ascents.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

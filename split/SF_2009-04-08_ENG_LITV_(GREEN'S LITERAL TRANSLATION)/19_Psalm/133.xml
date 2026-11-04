@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Green's Literal Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="133">
+      <VERS vnumber="1">  A Song of Ascents. Of David. Behold! How good and how pleasant is the living of brothers, even in unity.</VERS>
+      <VERS vnumber="2">  It is like the precious oil on the head that ran down on the beard, Aaron's beard, going down to the mouth of his garments;</VERS>
+      <VERS vnumber="3"> like the dew of Hermon coming down on the mountains of Zion; for there Jehovah commanded the blessing: life till everlasting.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

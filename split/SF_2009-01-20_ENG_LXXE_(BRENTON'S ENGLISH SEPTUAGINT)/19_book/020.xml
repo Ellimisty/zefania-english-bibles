@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="20">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For the end, a Psalm of David.</STYLE> - The Lord hear thee in the day of trouble; the name of the God of Jacob defend thee.</VERS>
+      <VERS vnumber="2">Send thee help from the sanctuary, and aid thee out of Sion.</VERS>
+      <VERS vnumber="3">Remember all thy <DIV>
+          <NOTE type="x-studynote">Or, meat-offering</NOTE>
+        </DIV> sacrifice, and enrich thy whole-burnt-offering. Pause.</VERS>
+      <VERS vnumber="4">Grant thee according to thy heart, and fulfill all thy desire.</VERS>
+      <VERS vnumber="5">We will exult in thy salvation, and in the name of our God shall we be magnified: the Lord fulfil all thy petitions.</VERS>
+      <VERS vnumber="6">Now I know that the Lord has saved his Christ: he shall hear him from his holy heaven: the salvation of his right hand is mighty.</VERS>
+      <VERS vnumber="7">Some glory in chariots, and some in horses: but we will <DIV>
+          <NOTE type="x-studynote">Gr. be magnified</NOTE>
+        </DIV> glory in the name of the Lord our God.</VERS>
+      <VERS vnumber="8">They are overthrown and fallen: but we are risen, and have been set upright.</VERS>
+      <VERS vnumber="9">O Lord, save the king: and hear us in whatever day we call upon thee.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

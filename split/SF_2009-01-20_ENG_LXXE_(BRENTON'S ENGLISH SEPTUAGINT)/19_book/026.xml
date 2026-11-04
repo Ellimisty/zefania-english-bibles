@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="26">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of David.</STYLE> - Judge me, O Lord; for I have walked in my innocence: and hoping in the Lord I shall not be moved.</VERS>
+      <VERS vnumber="2">Prove me, O Lord, and try me; purify as with fire my reins and my heart.</VERS>
+      <VERS vnumber="3">For thy mercy is before mine eyes: and I am well pleased with thy truth.</VERS>
+      <VERS vnumber="4">I have not sat with the council of vanity, and will in nowise enter in with transgressors.</VERS>
+      <VERS vnumber="5">I have hated the assembly of wicked doers; and will not sit with ungodly men.</VERS>
+      <VERS vnumber="6">I will wash my hands in <DIV>
+          <NOTE type="x-studynote">Gr. innocent things</NOTE>
+        </DIV> innocency, and compass thine altar, O Lord:</VERS>
+      <VERS vnumber="7">to hear the voice of praise, and to declare all thy wonderful works.</VERS>
+      <VERS vnumber="8">O Lord, I have loved the beauty of thy house, and the place of the tabernacle of thy glory.</VERS>
+      <VERS vnumber="9">Destroy not my soul together with the ungodly, nor my life with bloody men:</VERS>
+      <VERS vnumber="10">in whose hands are iniquities, and their right hand is filled with bribes.</VERS>
+      <VERS vnumber="11">But I have walked in my innocence: redeem me, and have mercy upon me.</VERS>
+      <VERS vnumber="12">My foot stands in <DIV>
+          <NOTE type="x-studynote">Gr. in evenness or uprightness</NOTE>
+        </DIV> an even place: in the congregations will I bless thee, O Lord.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

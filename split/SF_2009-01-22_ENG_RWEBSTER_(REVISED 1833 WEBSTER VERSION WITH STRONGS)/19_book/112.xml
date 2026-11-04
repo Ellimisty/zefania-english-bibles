@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="112">
+      <VERS vnumber="1">
+        <gr str="1984">Praise </gr>ye the <gr str="3050">LORD</gr>. <gr str="835">Blessed </gr>
+        <STYLE css="font-style:italic">is</STYLE> the <gr str="376">man </gr>
+        <STYLE css="font-style:italic">that </STYLE>
+        <gr str="3372">feareth </gr>the <gr str="3068">LORD</gr>, <STYLE css="font-style:italic">that </STYLE>
+        <gr str="2654">delighteth </gr>
+        <gr str="3966">greatly </gr>in his <gr str="4687">commandments</gr>. <DIV>
+          <NOTE type="x-studynote">Praise…: Heb. Hallelujah</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">His <gr str="2233">seed </gr>shall be <gr str="1368">mighty </gr>upon <gr str="776">earth</gr>: the <gr str="1755">generation </gr>of the <gr str="3477">upright </gr>shall be <gr str="1288">blessed</gr>.</VERS>
+      <VERS vnumber="3">
+        <gr str="1952">Wealth </gr>and <gr str="6239">riches </gr>
+        <STYLE css="font-style:italic">shall be</STYLE> in his <gr str="1004">house</gr>: and his <gr str="6666">righteousness </gr>
+        <gr str="5975">endureth </gr>for <gr str="5703">ever</gr>.</VERS>
+      <VERS vnumber="4">To the <gr str="3477">upright </gr>there <gr str="2224">ariseth </gr>
+        <gr str="216">light </gr>in <gr str="2822">darkness</gr>: <STYLE css="font-style:italic">he is </STYLE>
+        <gr str="2587">gracious</gr>, and full of <gr str="7349">compassion</gr>, and <gr str="6662">righteous</gr>.</VERS>
+      <VERS vnumber="5">A <gr str="2896">good </gr>
+        <gr str="376">man </gr>showeth <gr str="2603">favour</gr>, and <gr str="3867">lendeth</gr>: he will <gr str="3557">guide </gr>his <gr str="1697">affairs </gr>with <gr str="4941">discretion</gr>. <DIV>
+          <NOTE type="x-studynote">discretion: Heb. judgment</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">Surely he shall not be <gr str="4131">moved </gr>for <gr str="5769">ever</gr>: the <gr str="6662">righteous </gr>shall be in <gr str="5769">everlasting </gr>
+        <gr str="2143">remembrance</gr>.</VERS>
+      <VERS vnumber="7">He shall not be <gr str="3372">afraid </gr>of <gr str="7451">evil </gr>
+        <gr str="8052">tidings</gr>: his <gr str="3820">heart </gr>is <gr str="3559">fixed</gr>, <gr str="982">trusting </gr>in the <gr str="3068">LORD</gr>.</VERS>
+      <VERS vnumber="8">His <gr str="3820">heart </gr>
+        <STYLE css="font-style:italic">is </STYLE>
+        <gr str="5564">established</gr>, he shall not be <gr str="3372">afraid</gr>, until he <gr str="7200">seeth </gr>
+        <STYLE css="font-style:italic">his desire</STYLE> upon his <gr str="6862">enemies</gr>.</VERS>
+      <VERS vnumber="9">He hath <gr str="6340">dispersed</gr>, he hath <gr str="5414">given </gr>to the <gr str="34">poor</gr>; his <gr str="6666">righteousness </gr>
+        <gr str="5975">endureth </gr>for <gr str="5703">ever</gr>; his <gr str="7161">horn </gr>shall be <gr str="7311">exalted </gr>with <gr str="3519">honour</gr>.</VERS>
+      <VERS vnumber="10">The <gr str="7563">wicked </gr>shall <gr str="7200">see </gr>
+        <STYLE css="font-style:italic">it</STYLE>, and be <gr str="3707">grieved</gr>; he shall <gr str="2786">gnash </gr>with his <gr str="8127">teeth</gr>, and melt <gr str="4549">away</gr>: the <gr str="8378">desire </gr>of the <gr str="7563">wicked </gr>shall <gr str="6">perish</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James 2000" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="131">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic;font-weight:bold">A song of ascents. Of David.</STYLE> LORD, my heart is not haughty, nor my eyes lofty: neither do I exercise myself in great matters, or in things too high for me.</VERS>
+      <VERS vnumber="2">Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul is even as a weaned child.</VERS>
+      <VERS vnumber="3">Let Israel hope in the LORD from this time forth and forever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

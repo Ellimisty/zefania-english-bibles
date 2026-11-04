@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Green's Literal Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="113">
+      <VERS vnumber="1"> Praise Jehovah! Praise, O servants of Jehovah; praise the name of Jehovah.</VERS>
+      <VERS vnumber="2"> Blessed is the name of Jehovah from now on and forevermore.</VERS>
+      <VERS vnumber="3"> From the rising of the sun to its going, Jehovah's name is to be praised.</VERS>
+      <VERS vnumber="4"> Jehovah is high above all nations; His glory above the heavens.</VERS>
+      <VERS vnumber="5"> Who is like Jehovah our God, who sits on high to dwell;</VERS>
+      <VERS vnumber="6"> Who humbles Himself to consider all in the earth and the heavens!</VERS>
+      <VERS vnumber="7"> He raises up the poor from the dust; He lifts the needy out of the dunghill;</VERS>
+      <VERS vnumber="8"> in order to make him sit with nobles, with the nobles of his people.</VERS>
+      <VERS vnumber="9"> He causes the barren to live in the house as the joyful mother of sons. Praise Jehovah!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

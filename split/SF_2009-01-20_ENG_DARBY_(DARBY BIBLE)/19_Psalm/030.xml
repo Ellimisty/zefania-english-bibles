@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Darby Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="30">
+      <VERS vnumber="1">{A Psalm of David: dedication-song of the house.} I will extol thee, Jehovah; for thou hast delivered me, and hast not made mine enemies to rejoice over me.</VERS>
+      <VERS vnumber="2">Jehovah my God, I cried unto thee, and thou hast healed me.</VERS>
+      <VERS vnumber="3">Jehovah, thou hast brought up my soul from Sheol, thou hast quickened me from among those that go down to the pit.</VERS>
+      <VERS vnumber="4">Sing psalms unto Jehovah, ye saints of his, and give thanks in remembrance of his holiness.</VERS>
+      <VERS vnumber="5">For a moment [is passed] in his anger, a life in his favour; at even weeping cometh for the night, and at morn there is rejoicing.</VERS>
+      <VERS vnumber="6">As for me, I said in my prosperity, I shall never be moved.</VERS>
+      <VERS vnumber="7">Jehovah, by thy favour thou hadst made my mountain to stand strong: thou didst hide thy face; I was troubled.</VERS>
+      <VERS vnumber="8">I called to thee, Jehovah, and unto the Lord did I make supplication:</VERS>
+      <VERS vnumber="9">What profit is there in my blood, in my going down to the pit? shall the dust praise thee? shall it declare thy truth?</VERS>
+      <VERS vnumber="10">Hear, O Jehovah, and be gracious unto me; Jehovah, be my helper.</VERS>
+      <VERS vnumber="11">Thou hast turned for me my mourning into dancing; thou hast loosed my sackcloth, and girded me with gladness;</VERS>
+      <VERS vnumber="12">That [my] glory may sing psalms of thee, and not be silent. Jehovah my God, I will praise thee for ever.</VERS>
+      <VERS vnumber="13" />
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

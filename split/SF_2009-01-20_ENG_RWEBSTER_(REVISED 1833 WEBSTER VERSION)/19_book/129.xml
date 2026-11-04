@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="129">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Song of degrees.</STYLE> Many a time have they afflicted me from my youth, may Israel now say: <DIV>
+          <NOTE type="x-studynote">Many…: or, Much</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">Many a time have they afflicted me from my youth: yet they have not prevailed against me. <DIV>
+          <NOTE type="x-studynote">Many…: or, Much</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">The plowers plowed upon my back: they made long their furrows.</VERS>
+      <VERS vnumber="4">The LORD <STYLE css="font-style:italic">is</STYLE> righteous: he hath cut asunder the cords of the wicked.</VERS>
+      <VERS vnumber="5">Let them all be confounded and turned back that hate Zion.</VERS>
+      <VERS vnumber="6">Let them be as the grass <STYLE css="font-style:italic">upon</STYLE> the housetops, which withereth before it groweth up:</VERS>
+      <VERS vnumber="7">With which the mower filleth not his hand; nor he that bindeth sheaves his bosom.</VERS>
+      <VERS vnumber="8">Neither do they who go by say, The blessing of the LORD <STYLE css="font-style:italic">be</STYLE> upon you: we bless you in the name of the LORD.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

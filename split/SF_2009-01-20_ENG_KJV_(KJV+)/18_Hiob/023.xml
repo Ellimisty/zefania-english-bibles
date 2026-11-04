@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="18" bname="Hiob" bsname="Hi">
+    <CHAPTER cnumber="23">
+      <VERS vnumber="1"> Then <gr str="347">Job </gr>
+        <gr str="6030">answered </gr>and <gr str="559">said</gr>, </VERS>
+      <VERS vnumber="2">
+        <gr str="1571">Even </gr>
+        <gr str="3117">today </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> my <gr str="7879">complaint </gr>
+        <gr str="4805">bitter</gr>: my <gr str="3027">stroke </gr>is <gr str="3513">heavier </gr>
+        <gr str="5921">than </gr>my <gr str="585">groaning</gr>. </VERS>
+      <VERS vnumber="3"> Oh <gr str="4310 5414">that </gr>I <gr str="3045">knew </gr>where I might <gr str="4672">find </gr>him! <STYLE css="color:#808080;font-style:italic"> that </STYLE> I might <gr str="935">come </gr>
+        <STYLE css="color:#808080;font-style:italic"> even </STYLE>
+        <gr str="5704">to </gr>his <gr str="8499">seat</gr>! </VERS>
+      <VERS vnumber="4"> I would <gr str="6186">order </gr>
+        <STYLE css="color:#808080;font-style:italic"> my </STYLE>
+        <gr str="4941">cause </gr>
+        <gr str="6440">before </gr>him, and <gr str="4390">fill </gr>my <gr str="6310">mouth </gr>with <gr str="8433">arguments</gr>. </VERS>
+      <VERS vnumber="5"> I would <gr str="3045">know </gr>the <gr str="4405">words </gr>
+        <STYLE css="color:#808080;font-style:italic"> which </STYLE> he would <gr str="6030">answer </gr>me, and <gr str="995">understand </gr>
+        <gr str="4100">what </gr>he would <gr str="559">say </gr>unto me. </VERS>
+      <VERS vnumber="6"> Will he <gr str="7378">plead </gr>
+        <gr str="5978">against </gr>me with <STYLE css="color:#808080;font-style:italic"> his </STYLE>
+        <gr str="7230">great </gr>
+        <gr str="3581">power</gr>? <gr str="3808">No</gr>; <gr str="389">but </gr>
+        <gr str="1931">he </gr>would <gr str="7760">put </gr>
+        <STYLE css="color:#808080;font-style:italic"> strength </STYLE> in me. </VERS>
+      <VERS vnumber="7">
+        <gr str="8033">There </gr>the <gr str="3477">righteous </gr>might <gr str="3198">dispute </gr>
+        <gr str="5973">with </gr>him; so should I be <gr str="6403">delivered </gr>
+        <gr str="5331">forever </gr>from my <gr str="4480 8199">judge</gr>. </VERS>
+      <VERS vnumber="8">
+        <gr str="2005">Behold</gr>, I <gr str="1980">go </gr>
+        <gr str="6924">forward</gr>, but he <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="369">not </gr>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>; and <gr str="268">backward</gr>, but I <gr str="3808">cannot </gr>
+        <gr str="995">perceive </gr>him: </VERS>
+      <VERS vnumber="9"> On the left <gr str="8040">hand</gr>, where he doth <gr str="6213">work</gr>, but I <gr str="3808">cannot </gr>
+        <gr str="2372">behold </gr>
+        <STYLE css="color:#808080;font-style:italic"> him </STYLE>: he <gr str="5848">hideth </gr>himself on the right <gr str="3225">hand</gr>, that I <gr str="3808">cannot </gr>
+        <gr str="7200">see </gr>
+        <STYLE css="color:#808080;font-style:italic"> him </STYLE>: </VERS>
+      <VERS vnumber="10">
+        <gr str="3588">But </gr>he <gr str="3045">knoweth </gr>the <gr str="1870">way </gr>that I <gr str="5978">take</gr>: <STYLE css="color:#808080;font-style:italic"> when </STYLE> he hath <gr str="974">tried </gr>me, I shall come <gr str="3318">forth </gr>as <gr str="2091">gold</gr>. </VERS>
+      <VERS vnumber="11"> My <gr str="7272">foot </gr>hath <gr str="270">held </gr>his <gr str="838">steps</gr>, his <gr str="1870">way </gr>have I <gr str="8104">kept</gr>, and <gr str="3808">not </gr>
+        <gr str="5186">declined</gr>. </VERS>
+      <VERS vnumber="12">
+        <gr str="3808">Neither </gr>have I gone <gr str="4185">back </gr>from the <gr str="4687">commandment </gr>of his <gr str="8193">lips</gr>; I have <gr str="6845">esteemed </gr>the <gr str="561">words </gr>of his <gr str="6310">mouth </gr>more than my <gr str="4480 2706">necessary </gr>
+        <STYLE css="color:#808080;font-style:italic"> food </STYLE>. </VERS>
+      <VERS vnumber="13"> But <gr str="1931">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> in <gr str="259">one </gr>
+        <STYLE css="color:#808080;font-style:italic"> mind </STYLE>, and <gr str="4310">who </gr>can <gr str="7725">turn </gr>him? and <STYLE css="color:#808080;font-style:italic"> what </STYLE> his <gr str="5315">soul </gr>
+        <gr str="183">desireth</gr>, even <STYLE css="color:#808080;font-style:italic"> that </STYLE> he <gr str="6213">doeth</gr>. </VERS>
+      <VERS vnumber="14">
+        <gr str="3588">For </gr>he <gr str="7999">performeth </gr>
+        <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> thing </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2706">appointed </gr>for me: and <gr str="7227">many </gr>
+        <gr str="2007">such </gr>
+        <STYLE css="color:#808080;font-style:italic"> things </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="5973">with </gr>him. </VERS>
+      <VERS vnumber="15">
+        <gr str="5921 3651">Therefore </gr>am I <gr str="926">troubled </gr>at his <gr str="4480 6440">presence</gr>: when I <gr str="995">consider</gr>, I am <gr str="6342">afraid </gr>
+        <gr str="4480">of </gr>him. </VERS>
+      <VERS vnumber="16"> For <gr str="410">God </gr>maketh my heart <gr str="7401 3820">soft </gr>and the <gr str="7706">Almighty </gr>
+        <gr str="926">troubleth </gr>me: </VERS>
+      <VERS vnumber="17">
+        <gr str="3588">Because </gr>I was <gr str="3808">not </gr>cut <gr str="6789">off </gr>
+        <gr str="4480 6440">before </gr>the <gr str="2822">darkness</gr>, <STYLE css="color:#808080;font-style:italic"> neither </STYLE> hath he <gr str="3680">covered </gr>the <gr str="652">darkness </gr>from my <gr str="4480 6440">face</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

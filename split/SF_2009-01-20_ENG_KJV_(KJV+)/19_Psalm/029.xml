@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="29">
+      <VERS vnumber="1"> A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>. <gr str="3051">Give </gr>unto the <gr str="3068">LORD</gr>, O ye <gr str="1121 410">mighty</gr>, <gr str="3051">give </gr>unto the <gr str="3068">LORD </gr>
+        <gr str="3519">glory </gr>and <gr str="5797">strength</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="3051">Give </gr>unto the <gr str="3068">LORD </gr>the <gr str="3519">glory </gr>due unto his <gr str="8034">name</gr>; <gr str="7812">worship </gr>the <gr str="3068">LORD </gr>in the <gr str="1927">beauty </gr>of <gr str="6944">holiness</gr>. </VERS>
+      <VERS vnumber="3"> The <gr str="6963">voice </gr>of the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="5921">upon </gr>the <gr str="4325">waters</gr>: the <gr str="410">God </gr>of <gr str="3519">glory </gr>
+        <gr str="7481">thundereth</gr>: the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="5921">upon </gr>
+        <gr str="7227">many </gr>
+        <gr str="4325">waters</gr>. </VERS>
+      <VERS vnumber="4"> The <gr str="6963">voice </gr>of the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3581">powerful</gr>; the <gr str="6963">voice </gr>of the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> full of <gr str="1926">majesty</gr>. </VERS>
+      <VERS vnumber="5"> The <gr str="6963">voice </gr>of the <gr str="3068">LORD </gr>
+        <gr str="7665">breaketh </gr>the <gr str="730">cedars</gr>; yea, the <gr str="3068">LORD </gr>
+        <gr str="7665">breaketh </gr>
+        <gr str="*853" />the <gr str="730">cedars </gr>of <gr str="3844">Lebanon</gr>. </VERS>
+      <VERS vnumber="6"> He maketh them also to <gr str="7540">skip </gr>
+        <gr str="3644">like </gr>a <gr str="5695">calf</gr>; <gr str="3844">Lebanon </gr>and <gr str="8303">Sirion </gr>
+        <gr str="3644">like </gr>a <gr str="1121">young </gr>
+        <gr str="7214">unicorn</gr>. </VERS>
+      <VERS vnumber="7"> The <gr str="6963">voice </gr>of the <gr str="3068">LORD </gr>
+        <gr str="2672">divideth </gr>the <gr str="3852">flames </gr>of <gr str="784">fire</gr>. </VERS>
+      <VERS vnumber="8"> The <gr str="6963">voice </gr>of the <gr str="3068">LORD </gr>
+        <gr str="2342">shaketh </gr>the <gr str="4057">wilderness</gr>; the <gr str="3068">LORD </gr>
+        <gr str="2342">shaketh </gr>the <gr str="4057">wilderness </gr>of <gr str="6946">Kadesh</gr>. </VERS>
+      <VERS vnumber="9"> The <gr str="6963">voice </gr>of the <gr str="3068">LORD </gr>maketh the <gr str="355">hinds </gr>to <gr str="2342">calve</gr>, and <gr str="2834">discovereth </gr>the <gr str="3295">forests</gr>: and in his <gr str="1964">temple </gr>doth every <gr str="3605">one </gr>speak <gr str="559">of </gr>
+        <STYLE css="color:#808080;font-style:italic"> his </STYLE>
+        <gr str="3519">glory</gr>. </VERS>
+      <VERS vnumber="10"> The <gr str="3068">LORD </gr>
+        <gr str="3427">sitteth </gr>upon the <gr str="3999">flood</gr>; yea, the <gr str="3068">LORD </gr>
+        <gr str="3427">sitteth </gr>
+        <gr str="4428">King </gr>
+        <gr str="5769">forever</gr>. </VERS>
+      <VERS vnumber="11"> The <gr str="3068">LORD </gr>will <gr str="5414">give </gr>
+        <gr str="5797">strength </gr>unto his <gr str="5971">people</gr>; the <gr str="3068">LORD </gr>will <gr str="1288">bless </gr>
+        <gr str="*853" />his <gr str="5971">people </gr>with <gr str="7965">peace</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

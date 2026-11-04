@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Jewish Publication Society AT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="98">
+      <VERS vnumber="1">A Psalm. O sing unto the LORD a new song; for He hath done marvellous things; His right hand, and His holy arm, hath wrought salvation for Him.</VERS>
+      <VERS vnumber="2">The LORD hath made known His salvation; His righteousness hath He revealed in the sight of the nations.</VERS>
+      <VERS vnumber="3">He hath remembered His mercy and His faithfulness toward the house of Israel; all the ends of the earth have seen the salvation of our God.</VERS>
+      <VERS vnumber="4">Shout unto the LORD, all the earth; break forth and sing for joy, yea, sing praises.</VERS>
+      <VERS vnumber="5">Sing praises unto the LORD with the harp; with the harp and the voice of melody.</VERS>
+      <VERS vnumber="6">With trumpets and sound of the horn shout ye before the King, the LORD.</VERS>
+      <VERS vnumber="7">Let the sea roar, and the fulness thereof; the world, and they that dwell therein;</VERS>
+      <VERS vnumber="8">Let the floods clap their hands; let the mountains sing for joy together;</VERS>
+      <VERS vnumber="9">Before the LORD, for He is come to judge the earth; He will judge the world with righteousness, and the peoples with equity.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

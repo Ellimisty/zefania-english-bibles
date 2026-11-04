@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.3" biblename="New Heart English Bible ME" type="x-bible">
+  <BIBLEBOOK bnumber="1" bsname="GEN">
+    <CHAPTER cnumber="5">
+      <VERS vnumber="1">This is the book of the generations of Adam. In the day that God created man, he made him in God's likeness.</VERS>
+      <VERS vnumber="2">He created them male and female, and blessed them, and called their name Adam, in the day when they were created.</VERS>
+      <VERS vnumber="3">Adam lived one hundred and thirty years, and became the father of a son in his own likeness, after his image, and named him Seth.</VERS>
+      <VERS vnumber="4">The days of Adam after he became the father of Seth were eight hundred years, and he became the father of sons and daughters.</VERS>
+      <VERS vnumber="5">All the days that Adam lived were nine hundred and thirty years, then he died.</VERS>
+      <VERS vnumber="6">Seth lived one hundred and five years, and became the father of Enosh.</VERS>
+      <VERS vnumber="7">Seth lived after he became the father of Enosh eight hundred and seven years, and fathered sons and daughters.</VERS>
+      <VERS vnumber="8">All the days of Seth were nine hundred and twelve years, then he died.</VERS>
+      <VERS vnumber="9">Enosh lived ninety years, and became the father of Kenan.</VERS>
+      <VERS vnumber="10">Enosh lived after he became the father of Kenan, eight hundred and fifteen years, and fathered sons and daughters.</VERS>
+      <VERS vnumber="11">All the days of Enosh were nine hundred and five years, then he died.</VERS>
+      <VERS vnumber="12">Kenan lived seventy years, and became the father of Mahalalel.</VERS>
+      <VERS vnumber="13">Kenan lived after he became the father of Mahalalel eight hundred and forty years, and fathered sons and daughters</VERS>
+      <VERS vnumber="14">and all the days of Kenan were nine hundred and ten years, then he died.</VERS>
+      <VERS vnumber="15">Mahalalel lived sixty-five years, and became the father of Jared.</VERS>
+      <VERS vnumber="16">Mahalalel lived after he became the father of Jared eight hundred and thirty years, and fathered sons and daughters.</VERS>
+      <VERS vnumber="17">All the days of Mahalalel were eight hundred and ninety-five years, then he died.</VERS>
+      <VERS vnumber="18">Jared lived one hundred and sixty-two years, and became the father of Enoch.</VERS>
+      <VERS vnumber="19">Jared lived after he became the father of Enoch eight hundred years, and fathered sons and daughters.</VERS>
+      <VERS vnumber="20">All the days of Jared were nine hundred and sixty-two years, then he died.</VERS>
+      <VERS vnumber="21">Enoch lived sixty-five years, and became the father of Methuselah.</VERS>
+      <VERS vnumber="22">Enoch walked with God after he became the father of Methuselah three hundred years, and fathered sons and daughters.</VERS>
+      <VERS vnumber="23">All the days of Enoch were three hundred and sixty-five years.</VERS>
+      <VERS vnumber="24">Enoch walked with God, and he was not, for God took him.</VERS>
+      <VERS vnumber="25">Methuselah lived one hundred and eighty-seven years, and became the father of Lamech.</VERS>
+      <VERS vnumber="26">Methuselah lived after he became the father of Lamech seven hundred and eighty-two years, and fathered sons and daughters.</VERS>
+      <VERS vnumber="27">All the days of Methuselah were nine hundred and sixty-nine years, then he died.</VERS>
+      <VERS vnumber="28">Lamech lived one hundred and eighty-two years, and became the father of a son,</VERS>
+      <VERS vnumber="29">and he named him Noah, saying, "This one will comfort us in our work and in the toil of our hands, because of the ground which the LORD has cursed."</VERS>
+      <VERS vnumber="30">Lamech lived after he became the father of Noah five hundred and ninety-five years, and fathered sons and daughters.</VERS>
+      <VERS vnumber="31">All the days of Lamech were seven hundred and seventy-seven years, then he died.</VERS>
+      <VERS vnumber="32">Noah was five hundred years old, and Noah became the father of Shem, Ham, and Japheth.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="15">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of David.</STYLE> Lord, who may sojourn in thy tent? who may dwell on thy holy mount?</VERS>
+      <VERS vnumber="2">He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart;</VERS>
+      <VERS vnumber="3">That uttereth no calumny with his tongue, that doth no evil to his neighbor, and bringeth no reproach on his fellowman;</VERS>
+      <VERS vnumber="4">In whose eyes the despicable is despised; but that honoreth those who fear the Lord; that sweareth to his own injury, and changeth not;</VERS>
+      <VERS vnumber="5">That putteth not out his money for interest, and taketh no bribe against the innocent. He that doth these things shall not be moved to eternity.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

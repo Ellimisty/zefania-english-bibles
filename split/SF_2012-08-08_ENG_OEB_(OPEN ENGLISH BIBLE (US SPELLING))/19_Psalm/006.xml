@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="6">
+      <VERS vnumber="1">Rebuke me not, <STYLE id="cl:divineName">Lord</STYLE>, in your anger,punish me not in your wrath.</VERS>
+      <VERS vnumber="2">
+        <STYLE id="cl:divineName">Lord</STYLE>, be gracious to mein my weakness.Heal me <STYLE id="cl:divineName">Lord</STYLE>,for racked is my body;</VERS>
+      <VERS vnumber="3">all of me utterly racked.Why do you wait so long, <STYLE id="cl:divineName">Lord</STYLE>? <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="4">Turn, <STYLE id="cl:divineName">Lord</STYLE>, rescue me;save me, because of your love.</VERS>
+      <VERS vnumber="5">For in death none can call you to mind;in Sheol who can praise you? <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="6">I am so weary of sighing.All the night I make my bed swim,and wet my couch with my tears.</VERS>
+      <VERS vnumber="7">My eyes swollen with grief;from weeping caused by my foes. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="8">Begone, workers of wrong,for the <STYLE id="cl:divineName">Lord</STYLE> has heard my loud weeping,</VERS>
+      <VERS vnumber="9">the <STYLE id="cl:divineName">Lord</STYLE> has heard my entreaty,the <STYLE id="cl:divineName">Lord</STYLE> accepts my prayer.</VERS>
+      <VERS vnumber="10">My foes will be stricken with terror,brought to shame and dismay in a moment.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

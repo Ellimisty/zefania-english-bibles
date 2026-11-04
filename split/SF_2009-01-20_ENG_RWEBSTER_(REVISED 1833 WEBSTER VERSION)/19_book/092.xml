@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="92">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm [or] Song for the sabbath day.</STYLE>
+        <STYLE css="font-style:italic">It is a</STYLE> good <STYLE css="font-style:italic">thing</STYLE> to give thanks to the LORD, and to sing praises to thy name, O most High:</VERS>
+      <VERS vnumber="2">To show forth thy lovingkindness in the morning, and thy faithfulness every night, <DIV>
+          <NOTE type="x-studynote">every…: Heb. in the nights</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">Upon an instrument of ten strings, and upon the psaltery; upon the harp with a solemn sound. <DIV>
+          <NOTE type="x-studynote">the harp…: or, the solemn sound with the harp</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">a solemn…: Heb. Higgaion</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">For thou, LORD, hast made me glad through thy work: I will triumph in the works of thy hands.</VERS>
+      <VERS vnumber="5">O LORD, how great are thy works! <STYLE css="font-style:italic">and</STYLE> thy thoughts are very deep.</VERS>
+      <VERS vnumber="6">A stupid man knoweth not; neither doth a fool understand this.</VERS>
+      <VERS vnumber="7">When the wicked spring as the grass, and when all the workers of iniquity do flourish; <STYLE css="font-style:italic">it is</STYLE> that they shall be destroyed for ever:</VERS>
+      <VERS vnumber="8">But thou, LORD, <STYLE css="font-style:italic">art most</STYLE> high for evermore.</VERS>
+      <VERS vnumber="9">For, lo, thy enemies, O LORD, for, lo, thy enemies shall perish; all the workers of iniquity shall be scattered.</VERS>
+      <VERS vnumber="10">But my horn shalt thou exalt like <STYLE css="font-style:italic">the horn of</STYLE> an unicorn: I shall be anointed with fresh oil.</VERS>
+      <VERS vnumber="11">My eye also shall see <STYLE css="font-style:italic">my desire</STYLE> on my enemies, <STYLE css="font-style:italic">and</STYLE> my ears shall hear <STYLE css="font-style:italic">my desire</STYLE> of the wicked that rise up against me.</VERS>
+      <VERS vnumber="12">The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon.</VERS>
+      <VERS vnumber="13">Those that are planted in the house of the LORD shall flourish in the courts of our God.</VERS>
+      <VERS vnumber="14">They shall still bring forth fruit in old age; they shall be fat and flourishing; <DIV>
+          <NOTE type="x-studynote">flourishing: Heb. green</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="15">To show that the LORD <STYLE css="font-style:italic">is</STYLE> upright: <STYLE css="font-style:italic">he is</STYLE> my rock, and <STYLE css="font-style:italic">there is</STYLE> no unrighteousness in him.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

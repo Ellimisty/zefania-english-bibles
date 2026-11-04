@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="52">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For the end, a Psalm of </STYLE>
+        <DIV>
+          <NOTE type="x-studynote">Gr. understanding</NOTE>
+        </DIV>
+        <STYLE css="font-style:italic"> instruction by David, when Doec the Idumean came and told Saul, and said to him, David is gone to the house of Abimelech.</STYLE> - Why dost thou, O mighty man, boast of iniquity in thy mischief? All the day</VERS>
+      <VERS vnumber="2">thy tongue has devised unrighteousness; like a sharpened razor thou hast wrought deceit.</VERS>
+      <VERS vnumber="3">Thou hast loved wickedness more than goodness; unrighteousness better than to speak righteousness. Pause.</VERS>
+      <VERS vnumber="4">Thou has loved all words of destruction, and a deceitful tongue.</VERS>
+      <VERS vnumber="5">Therefore may God destroy thee for ever, may he pluck thee up and utterly remove thee from thy dwelling, and thy root from the land of the living. Pause.</VERS>
+      <VERS vnumber="6">And the righteous shall see, and fear, and shall laugh at him, and say,</VERS>
+      <VERS vnumber="7">Behold the man who made not God his help; but trusted in the abundance of his wealth, and strengthened himself in his vanity.</VERS>
+      <VERS vnumber="8">But I am as a fruitful olive in the house of God: I have trusted in the mercy of God for ever, even for evermore.</VERS>
+      <VERS vnumber="9">I will give thanks to thee for ever, for thou hast done it: and I will wait on thy name; for it is good before the saints.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

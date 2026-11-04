@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="YLT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="100">
+      <VERS vnumber="1">A Psalm of Thanksgiving. Shout to Jehovah, all the earth.</VERS>
+      <VERS vnumber="2">Serve Jehovah with joy, come before him with singing.</VERS>
+      <VERS vnumber="3">Know that Jehovah He [is] God, He made us, and we are His,  His people -- and the flock of His pasture.</VERS>
+      <VERS vnumber="4">Enter ye His gates with thanksgiving, His courts with  praise, Give ye thanks to Him, bless ye His Name.</VERS>
+      <VERS vnumber="5">For good [is] Jehovah, to the age His kindness, And to  generation and generation His faithfulness!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

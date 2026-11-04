@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible - Jehovah Edition" type="x-bible">
+  <BIBLEBOOK bnumber="2" bname="Exodus" bsname="Exo">
+    <CHAPTER cnumber="13">
+      <VERS vnumber="1">
+        <STYLE id="cl:divineName">Jehovah</STYLE> spoke to Moses, saying,</VERS>
+      <VERS vnumber="2">"Sanctify to me all of the firstborn, whatever opens the womb among the children of Israel, both of man and of animal. It is mine."</VERS>
+      <VERS vnumber="3">Moses said to the people, "Remember this day, in which you came out from Egypt, out of the house of bondage; for by strength of hand <STYLE id="cl:divineName">Jehovah</STYLE> brought you out from this place. No leavened bread shall be eaten.</VERS>
+      <VERS vnumber="4">This day you go forth in the month Abib.</VERS>
+      <VERS vnumber="5">It shall be, when <STYLE id="cl:divineName">Jehovah</STYLE> your God shall bring you into the land of the Canaanite, and the Hittite, and the Amorite, and the Hivite, and the Jebusite, which he swore to your fathers to give you, a land flowing with milk and honey, that you shall keep this service in this month.</VERS>
+      <VERS vnumber="6">Seven days you shall eat unleavened bread, and in the seventh day shall be a feast to <STYLE id="cl:divineName">Jehovah</STYLE>.</VERS>
+      <VERS vnumber="7">Unleavened bread shall be eaten throughout the seven days; and no leavened bread shall be seen with you, neither shall there be yeast seen with you, in all your borders.</VERS>
+      <VERS vnumber="8">You shall tell your son in that day, saying, 'It is because of that which <STYLE id="cl:divineName">Jehovah</STYLE> did for me when I came forth out of Egypt.'</VERS>
+      <VERS vnumber="9">It shall be for a sign to you on your hand, and for a memorial between your eyes, that the law of <STYLE id="cl:divineName">Jehovah</STYLE> may be in your mouth; for with a strong hand <STYLE id="cl:divineName">Jehovah</STYLE> has brought you out of Egypt.</VERS>
+      <VERS vnumber="10">You shall therefore keep this ordinance in its season from year to year.</VERS>
+      <VERS vnumber="11">"It shall be, when <STYLE id="cl:divineName">Jehovah</STYLE> shall bring you into the land of the Canaanite, as he swore to you and to your fathers, and shall give it you,</VERS>
+      <VERS vnumber="12">that you shall set apart to <STYLE id="cl:divineName">Jehovah</STYLE> all that opens the womb, and every firstborn which you have that comes from an animal. The males shall be <STYLE id="cl:divineName">Jehovah</STYLE>'s.</VERS>
+      <VERS vnumber="13">Every firstborn of a donkey you shall redeem with a lamb; and if you will not redeem it, then you shall break its neck; and you shall redeem all the firstborn of man among your sons.</VERS>
+      <VERS vnumber="14">It shall be, when your son asks you in time to come, saying, 'What is this?' that you shall tell him, 'By strength of hand <STYLE id="cl:divineName">Jehovah</STYLE> brought us out from Egypt, from the house of bondage;</VERS>
+      <VERS vnumber="15">and it happened, when Pharaoh would hardly let us go, that <STYLE id="cl:divineName">Jehovah</STYLE> killed all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of animal. Therefore I sacrifice to <STYLE id="cl:divineName">Jehovah</STYLE> all that opens the womb, being males; but all the firstborn of my sons I redeem.'</VERS>
+      <VERS vnumber="16">It shall be for a sign on your hand, and for symbols between your eyes: for by strength of hand <STYLE id="cl:divineName">Jehovah</STYLE> brought us forth out of Egypt."</VERS>
+      <VERS vnumber="17">It happened, when Pharaoh had let the people go, that God did not lead them by the way of the land of the Philistines, although that was near; for God said, "Lest perhaps the people change their minds when they see war, and they return to Egypt;"</VERS>
+      <VERS vnumber="18">but God led the people around by the way of the wilderness by the Red Sea; and the children of Israel went up armed out of the land of Egypt.</VERS>
+      <VERS vnumber="19">Moses took the bones of Joseph with him, for he had made the children of Israel swear, saying, "God will surely visit you, and you shall carry up my bones away from here with you."</VERS>
+      <VERS vnumber="20">They took their journey from Succoth, and encamped in Etham, in the edge of the wilderness.</VERS>
+      <VERS vnumber="21">
+        <STYLE id="cl:divineName">Jehovah</STYLE> went before them by day in a pillar of cloud, to lead them on their way, and by night in a pillar of fire, to give them light, that they might go by day and by night:</VERS>
+      <VERS vnumber="22">the pillar of cloud by day, and the pillar of fire by night, did not depart from before the people.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

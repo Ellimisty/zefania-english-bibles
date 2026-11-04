@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="91">
+      <VERS vnumber="1">You whose home is the shelter of God Most High,whose abode is the shadow of God Almighty,</VERS>
+      <VERS vnumber="2">can say to the <STYLE id="cl:divineName">Lord</STYLE>, “My refuge, my fortress,my God, in whom I trust,” <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">For he saves you from fowler’s snare,from the yawning pit of destruction.</VERS>
+      <VERS vnumber="4">He shelters you with his pinions,and under his wings you may hide. <BR art="x-nl" /> His truth will be a shield and buckler. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">You need not fear the terror of night,nor the arrow that flies by day,</VERS>
+      <VERS vnumber="6">nor the plague that stalks in darkness,nor the pestilence raging at noon. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">A thousand may fall at your side,and ten thousand at your right hand:but it shall not draw near to you. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="8">You will only look on with your eyes,and see how the wicked are punished.</VERS>
+      <VERS vnumber="9">As for you, the <STYLE id="cl:divineName">Lord</STYLE> is your refuge,you have made the Most High your defence. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="10">You will never be met by misfortune,no plague shall come near your tent:</VERS>
+      <VERS vnumber="11">for he orders his angels to guard you,wherever you go. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="12">They will carry you with their hands,lest you strike your foot on a stone.</VERS>
+      <VERS vnumber="13">You will tread upon lions and adders,and trample young lions and dragons. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="14">“Because of their love for me, I will deliver them,I will protect those who trust my name.</VERS>
+      <VERS vnumber="15">I will answer their cry and be with them in trouble,bringing them forth into safety and honour.</VERS>
+      <VERS vnumber="16">I will give them a life of many days,I will show them my salvation.”</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

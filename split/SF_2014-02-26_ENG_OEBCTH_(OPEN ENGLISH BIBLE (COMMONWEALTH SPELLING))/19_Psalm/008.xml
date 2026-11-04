@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="8">
+      <VERS vnumber="1">
+        <STYLE id="cl:divineName">Lord</STYLE> our God!How glorious in all the earth is your name!Your praise reaches as high as the heavens,</VERS>
+      <VERS vnumber="2">from the mouths of children and infants. <BR art="x-nl" /> You have built a fortressagainst your enemies,to silence the foe and the rebel. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">When I look at your heavens,the work of your fingers,the moon and the stars,which you have set there,</VERS>
+      <VERS vnumber="4">what are mortals,that you think of them,humans,that you visit them? <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">Yet you made them little less than divine,crowned them with glory and majesty,</VERS>
+      <VERS vnumber="6">made them lord of the works of your hands,put all things under their feet ---</VERS>
+      <VERS vnumber="7">sheep and oxen,all of them;and the wild beasts also:</VERS>
+      <VERS vnumber="8">birds of the air,and fish of the sea,and all that crosses the paths of the ocean. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="9">
+        <STYLE id="cl:divineName">Lord</STYLE> our God!How glorious in all the earth is your name!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

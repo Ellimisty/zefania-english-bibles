@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="8">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief <gr str="5329">Musician </gr>upon <gr str="1665">Gittith</gr>, A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>.</STYLE> O <gr str="3068">LORD </gr>our <gr str="113">Lord</gr>, how <gr str="117">excellent </gr>
+        <STYLE css="font-style:italic">is</STYLE> thy <gr str="8034">name </gr>in all the <gr str="776">earth</gr>! who hast <gr str="5414">set </gr>thy <gr str="1935">glory </gr>above the <gr str="8064">heavens</gr>.</VERS>
+      <VERS vnumber="2">Out of the <gr str="6310">mouth </gr>of <gr str="5768">babes </gr>and <gr str="3243">sucklings </gr>hast thou <gr str="3245">ordained </gr>
+        <gr str="5797">strength </gr>because of thy <gr str="6887">enemies</gr>, that thou mightest <gr str="7673">still </gr>the <gr str="341">enemy </gr>and the <gr str="5358">avenger</gr>. <DIV>
+          <NOTE type="x-studynote">ordained: Heb. founded</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">When I <gr str="7200">consider </gr>thy <gr str="8064">heavens</gr>, the <gr str="4639">work </gr>of thy <gr str="676">fingers</gr>, the <gr str="3394">moon </gr>and the <gr str="3556">stars</gr>, which thou hast <gr str="3559">ordained</gr>;</VERS>
+      <VERS vnumber="4">What is <gr str="582">man</gr>, that thou art <gr str="2142">mindful </gr>of him? and the <gr str="1121">son </gr>of <gr str="120">man</gr>, that thou <gr str="6485">visitest </gr>him?</VERS>
+      <VERS vnumber="5">For thou hast made him a <gr str="4592">little </gr>
+        <gr str="2637">lower </gr>than the <gr str="430">angels</gr>, and hast <gr str="5849">crowned </gr>him with <gr str="3519">glory </gr>and <gr str="1926">honour</gr>.</VERS>
+      <VERS vnumber="6">Thou hast made him to have <gr str="4910">dominion </gr>over the <gr str="4639">works </gr>of thy <gr str="3027">hands</gr>; thou hast <gr str="7896">put </gr>all <STYLE css="font-style:italic">things</STYLE> under his <gr str="7272">feet</gr>:</VERS>
+      <VERS vnumber="7">All <gr str="6792">sheep </gr>and <gr str="504">oxen</gr>, yea, and the <gr str="929">beasts </gr>of the <gr str="7704">field</gr>; <DIV>
+          <NOTE type="x-studynote">All…: Heb. Flocks and oxen all of them</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">The <gr str="6833">fowl </gr>of the <gr str="8064">air</gr>, and the <gr str="1709">fish </gr>of the <gr str="3220">sea</gr>, <STYLE css="font-style:italic">and whatever</STYLE> passeth <gr str="5674">through </gr>the <gr str="734">paths </gr>of the <gr str="3220">seas</gr>.</VERS>
+      <VERS vnumber="9">O <gr str="3068">LORD </gr>our <gr str="113">Lord</gr>, how <gr str="117">excellent </gr>
+        <STYLE css="font-style:italic">is</STYLE> thy <gr str="8034">name </gr>in all the <gr str="776">earth</gr>!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

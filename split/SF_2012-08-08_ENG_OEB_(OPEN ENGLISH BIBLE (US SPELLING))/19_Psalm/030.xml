@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="30">
+      <VERS vnumber="1">I will extol you, O <STYLE id="cl:divineName">Lord</STYLE>,because you have lifted me up,and not suffered my foes to rejoice over me. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="2">I cried to you for help,O <STYLE id="cl:divineName">Lord</STYLE> my God, and you healed me.</VERS>
+      <VERS vnumber="3">You have brought me up, <STYLE id="cl:divineName">Lord</STYLE>, from Sheol,from my way to the pit back to life you have called me. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="4">Sing praise to the <STYLE id="cl:divineName">Lord</STYLE>, faithful people;give thanks to his holy name.</VERS>
+      <VERS vnumber="5">For his anger lasts only a moment,his favour endures for a lifetime.Weeping may lodge for the night,but the morning brings shouts of joy. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="6">When all went well, I imaginedthat never should I be shaken.</VERS>
+      <VERS vnumber="7">For by your favour, O <STYLE id="cl:divineName">Lord</STYLE>,you had set me on mountains strong:but you hide your face,and I was confounded. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="8">Then to you, <STYLE id="cl:divineName">Lord</STYLE>, I cried,to the <STYLE id="cl:divineName">Lord</STYLE> I begged for mercy,</VERS>
+      <VERS vnumber="9">“What profit is there in my blood,if I go down to the pit?Can you be praised by dust?Can it tell of your faithfulness?</VERS>
+      <VERS vnumber="10">Hear, <STYLE id="cl:divineName">Lord</STYLE>, and show me your favour,<STYLE id="cl:divineName">Lord</STYLE> be a helper to me.” <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="11">You have turned my mourning to dancing;my sackcloth you have unloosed,and clothed me with joy:that unceasingly I should sing your praise,and give thanks to you, <STYLE id="cl:divineName">Lord</STYLE> my God, forever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="18" bname="Hiob" bsname="Hi">
+    <CHAPTER cnumber="26">
+      <VERS vnumber="1"> But <gr str="347">Job </gr>
+        <gr str="6030">answered </gr>and <gr str="559">said</gr>, </VERS>
+      <VERS vnumber="2">
+        <gr str="4100">How </gr>hast thou <gr str="5826">helped </gr>
+        <STYLE css="color:#808080;font-style:italic"> him </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3808">without </gr>
+        <gr str="3581">power</gr>? <STYLE css="color:#808080;font-style:italic"> how </STYLE>
+        <gr str="3467">savest </gr>thou the <gr str="2220">arm </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> hath </STYLE>
+        <gr str="3808">no </gr>
+        <gr str="5797">strength</gr>? </VERS>
+      <VERS vnumber="3">
+        <gr str="4100">How </gr>hast thou <gr str="3289">counseled </gr>
+        <STYLE css="color:#808080;font-style:italic"> him </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> hath </STYLE>
+        <gr str="3808">no </gr>
+        <gr str="2451">wisdom</gr>? and <STYLE css="color:#808080;font-style:italic"> how </STYLE> hast thou <gr str="7230">plentifully </gr>
+        <gr str="3045">declared </gr>the <gr str="8454">thing </gr>as it is? </VERS>
+      <VERS vnumber="4">
+        <gr str="854">To </gr>
+        <gr str="4310">whom </gr>hast thou <gr str="5046">uttered </gr>
+        <gr str="4405">words</gr>? and <gr str="4310">whose </gr>
+        <gr str="5397">spirit </gr>
+        <gr str="3318">came </gr>
+        <gr str="4480">from </gr>thee? </VERS>
+      <VERS vnumber="5">
+        <gr str="7496">Dead </gr>
+        <STYLE css="color:#808080;font-style:italic"> things </STYLE> are <gr str="2342">formed </gr>from <gr str="4480 8478">under </gr>the <gr str="4325">waters</gr>, and the <gr str="7931">inhabitants </gr>thereof. </VERS>
+      <VERS vnumber="6">
+        <gr str="7585">Hell </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="6174">naked </gr>
+        <gr str="5048">before </gr>him, and <gr str="11">destruction </gr>hath <gr str="369">no </gr>
+        <gr str="3682">covering</gr>. </VERS>
+      <VERS vnumber="7"> He stretcheth <gr str="5186">out </gr>the <gr str="6828">north </gr>
+        <gr str="5921">over </gr>the empty <gr str="8414">place</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="8518">hangeth </gr>the <gr str="776">earth </gr>
+        <gr str="5921">upon </gr>
+        <gr str="1099">nothing</gr>. </VERS>
+      <VERS vnumber="8"> He bindeth <gr str="6887">up </gr>the <gr str="4325">waters </gr>in his thick <gr str="5645">clouds</gr>; and the <gr str="6051">cloud </gr>is not <gr str="1234 3808">rent </gr>
+        <gr str="8478">under </gr>them. </VERS>
+      <VERS vnumber="9"> He holdeth <gr str="270">back </gr>the <gr str="6440">face </gr>of his <gr str="3678">throne</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="6576">spreadeth </gr>his <gr str="6051">cloud </gr>
+        <gr str="5921">upon </gr>it. </VERS>
+      <VERS vnumber="10"> He hath <gr str="2328 5921">compassed </gr>the <gr str="6440 4325">waters </gr>with <gr str="2706">bounds</gr>, <gr str="5704">until </gr>the <gr str="216">day </gr>and <gr str="2822">night </gr>come to an <gr str="8503">end</gr>. </VERS>
+      <VERS vnumber="11"> The <gr str="5982">pillars </gr>of <gr str="8064">heaven </gr>
+        <gr str="7322">tremble </gr>and are <gr str="8539">astonished </gr>at his <gr str="4480 1606">reproof</gr>. </VERS>
+      <VERS vnumber="12"> He <gr str="7280">divideth </gr>the <gr str="3220">sea </gr>with his <gr str="3581">power</gr>, and by his <gr str="8394">understanding </gr>he smiteth <gr str="4272">through </gr>the <gr str="7293">proud</gr>. </VERS>
+      <VERS vnumber="13"> By his <gr str="7307">spirit </gr>he hath <gr str="8235">garnished </gr>the <gr str="8064">heavens</gr>; his <gr str="3027">hand </gr>hath <gr str="2490">formed </gr>the <gr str="1281">crooked </gr>
+        <gr str="5175">serpent</gr>. </VERS>
+      <VERS vnumber="14">
+        <gr str="2005">Lo</gr>, <gr str="428">these </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="7098">parts </gr>of his <gr str="1870">ways</gr>: but <gr str="4100">how </gr>
+        <gr str="8102">little </gr>a <gr str="1697">portion </gr>is <gr str="8085">heard </gr>of him? but the <gr str="7482">thunder </gr>of his <gr str="1369">power </gr>
+        <gr str="4310">who </gr>can <gr str="995">understand</gr>? </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="150">
+      <VERS vnumber="1">
+        <gr str="1984">Praise </gr>ye the <gr str="3050">LORD</gr>. <gr str="1984">Praise </gr>
+        <gr str="410">God </gr>in his <gr str="6944">sanctuary</gr>: <gr str="1984">praise </gr>him in the <gr str="7549">firmament </gr>of his <gr str="5797">power</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="1984">Praise </gr>him for his mighty <gr str="1369">acts</gr>: <gr str="1984">praise </gr>him according to his <gr str="7230">excellent </gr>
+        <gr str="1433">greatness</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="1984">Praise </gr>him with the <gr str="8629">sound </gr>of the <gr str="7782">trumpet</gr>: <gr str="1984">praise </gr>him with the <gr str="5035">psaltery </gr>and <gr str="3658">harp</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="1984">Praise </gr>him with the <gr str="8596">timbrel </gr>and <gr str="4234">dance</gr>: <gr str="1984">praise </gr>him with stringed <gr str="4482">instruments </gr>and <gr str="5748">organs</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="1984">Praise </gr>him upon the <gr str="8088">loud </gr>
+        <gr str="6767">cymbals</gr>: <gr str="1984">praise </gr>him upon the high <gr str="8643">sounding </gr>
+        <gr str="6767">cymbals</gr>. </VERS>
+      <VERS vnumber="6"> Let <gr str="3605">every </gr>thing that hath <gr str="5397">breath </gr>
+        <gr str="1984">praise </gr>the <gr str="3050">LORD</gr>. <gr str="1984">Praise </gr>ye the <gr str="3050">LORD</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

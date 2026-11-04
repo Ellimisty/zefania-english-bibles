@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="12">
+      <VERS vnumber="1"> For the chief music-maker on the Sheminith. A Psalm. Of David. </VERS>
+      <VERS vnumber="2">\12:1\Send help, Lord, for mercy has come to an end; there is no more faith among the children of men.</VERS>
+      <VERS vnumber="3">\12:2\Everyone says false words to his neighbour: their tongues are smooth in their talk, and their hearts are full of deceit.</VERS>
+      <VERS vnumber="4">\12:3\The smooth lips and the tongue of pride will be cut off by the Lord.</VERS>
+      <VERS vnumber="5">\12:4\They have said, With our tongues will we overcome; our lips are ours: who is lord over us?</VERS>
+      <VERS vnumber="6">\12:5\Because of the crushing of the poor and the weeping of those in need, now will I come to his help, says the Lord; I will give him the salvation which he is desiring.</VERS>
+      <VERS vnumber="7">\12:6\The words of the Lord are true words: like silver tested by fire and burned clean seven times.</VERS>
+      <VERS vnumber="8">\12:7\You will keep them, O Lord, you will keep them safe from this generation for ever.</VERS>
+      <VERS vnumber="9">\12:8\The sinners are walking on every side, and evil is honoured among the children of men.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

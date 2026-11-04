@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Rotherham Version" type="x-bible">
+  <BIBLEBOOK bname="Psalm" bnumber="19" bsname="Ps">
+    <CHAPTER cnumber="120">
+      <VERS vnumber="1">Unto Yahweh, in the distress that befell me, I criedand he answered me.</VERS>
+      <VERS vnumber="2">O Yahweh! rescue thou my soulfrom the false lip, from the deceitful tongue.</VERS>
+      <VERS vnumber="3">What shall be given to thee, and what shall be added to thee, thou deceitful tongue?</VERS>
+      <VERS vnumber="4">The arrows of the hero sharpened, with burning coals of broom.</VERS>
+      <VERS vnumber="5">Woe is me, That I sojourn in Meshek,That I abide near the tents of Kedar!</VERS>
+      <VERS vnumber="6">Long, hath my soul had her dwelling with him that hateth peace:</VERS>
+      <VERS vnumber="7">I, am for peace, and verily I speak, They, are for war!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

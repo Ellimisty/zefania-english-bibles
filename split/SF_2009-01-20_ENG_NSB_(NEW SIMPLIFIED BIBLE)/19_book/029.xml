@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="29">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">Give to Jehovah, you sons of the mighty ones. Give to Jehovah glory and power.</VERS>
+      <VERS vnumber="2">Give to Jehovah the glory his name deserves. Worship Jehovah in his holy splendor.</VERS>
+      <VERS vnumber="3">The voice of Jehovah is upon the waters. The God of glory thunders, Jehovah is over many waters.</VERS>
+      <VERS vnumber="4">The voice of Jehovah is powerful. The voice of Jehovah is glorious.</VERS>
+      <VERS vnumber="5">The voice of Jehovah breaks the cedars. Jehovah splinters the cedars of Lebanon.</VERS>
+      <VERS vnumber="6">He makes Lebanon skip along like a calf and Mount Sirion like a wild bull.</VERS>
+      <VERS vnumber="7">The voice of Jehovah cuts with flames of fire from lightning.</VERS>
+      <VERS vnumber="8">The voice of Jehovah shakes the wilderness. Jehovah makes the wilderness of Kadesh tremble.</VERS>
+      <VERS vnumber="9">The voice of Jehovah makes the deer to calve and strips the forests bare. In His temple everything says: »Glory!«</VERS>
+      <VERS vnumber="10">Jehovah sat enthroned over the flood. Jehovah sits enthroned as king forever.</VERS>
+      <VERS vnumber="11">Jehovah will give power <STYLE css="font-style:italic">strength</STYLE> to his people. Jehovah will bless his people with peace <STYLE css="font-style:italic">prosperity</STYLE>
+        <STYLE css="font-style:italic">health</STYLE>
+        <STYLE css="font-style:italic">safety</STYLE>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

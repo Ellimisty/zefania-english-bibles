@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James Version with Apokryphen" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="32">
+      <CAPTION vref="1">A Psalm of David, Maschil.</CAPTION>
+      <VERS vnumber="1">Blessed is he whose transgression is forgiven, whose sin is covered.</VERS>
+      <VERS vnumber="2">Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile.</VERS>
+      <VERS vnumber="3">When I kept silence, my bones waxed old through my roaring all the day long.</VERS>
+      <VERS vnumber="4">For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah.</VERS>
+      <VERS vnumber="5">I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the LORD; and thou forgavest the iniquity of my sin. Selah.</VERS>
+      <VERS vnumber="6">For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him.</VERS>
+      <VERS vnumber="7">Thou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah.</VERS>
+      <VERS vnumber="8">I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye.</VERS>
+      <VERS vnumber="9">Be ye not as the horse, or as the mule, which have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee.</VERS>
+      <VERS vnumber="10">Many sorrows shall be to the wicked: but he that trusteth in the LORD, mercy shall compass him about.</VERS>
+      <VERS vnumber="11">Be glad in the LORD, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

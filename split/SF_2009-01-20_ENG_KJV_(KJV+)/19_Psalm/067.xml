@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="67">
+      <VERS vnumber="1"> To the chief <gr str="5329">Musician </gr>on <gr str="5058">Neginoth</gr>, A <gr str="4210">Psalm </gr>
+        <STYLE css="color:#808080;font-style:italic"> or </STYLE>
+        <gr str="7892">Song</gr>. <gr str="430">God </gr>be <gr str="2603">merciful </gr>unto us, and <gr str="1288">bless </gr>us; <STYLE css="color:#808080;font-style:italic"> and </STYLE> cause his <gr str="6440">face </gr>to <gr str="215">shine </gr>
+        <gr str="854">upon </gr>us; <gr str="5542">Selah</gr>. </VERS>
+      <VERS vnumber="2"> That thy <gr str="1870">way </gr>may be <gr str="3045">known </gr>upon <gr str="776">earth</gr>, thy saving <gr str="3444">health </gr>among <gr str="3605">all </gr>
+        <gr str="1471">nations</gr>. </VERS>
+      <VERS vnumber="3"> Let the <gr str="5971">people </gr>
+        <gr str="3034">praise </gr>thee, O <gr str="430">God</gr>; let <gr str="3605">all </gr>the <gr str="5971">people </gr>
+        <gr str="3034">praise </gr>thee. </VERS>
+      <VERS vnumber="4"> O let the <gr str="3816">nations </gr>be <gr str="8055">glad </gr>and sing for <gr str="7442">joy</gr>: <gr str="3588">for </gr>thou shalt <gr str="8199">judge </gr>the <gr str="5971">people </gr>
+        <gr str="4334">righteously</gr>, and <gr str="5148">govern </gr>the <gr str="3816">nations </gr>upon <gr str="776">earth</gr>. <gr str="5542">Selah</gr>. </VERS>
+      <VERS vnumber="5"> Let the <gr str="5971">people </gr>
+        <gr str="3034">praise </gr>thee, O <gr str="430">God</gr>; let <gr str="3605">all </gr>the <gr str="5971">people </gr>
+        <gr str="3034">praise </gr>thee. </VERS>
+      <VERS vnumber="6">
+        <STYLE css="color:#808080;font-style:italic"> Then </STYLE> shall the <gr str="776">earth </gr>
+        <gr str="5414">yield </gr>her <gr str="2981">increase</gr>; <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="430">God</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE> our own <gr str="430">God</gr>, shall <gr str="1288">bless </gr>us. </VERS>
+      <VERS vnumber="7">
+        <gr str="430">God </gr>shall <gr str="1288">bless </gr>us; and <gr str="3605">all </gr>the <gr str="657">ends </gr>of the <gr str="776">earth </gr>shall <gr str="3372">fear </gr>him. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

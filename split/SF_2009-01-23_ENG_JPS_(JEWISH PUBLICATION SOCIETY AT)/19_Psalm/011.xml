@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Jewish Publication Society AT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="11">
+      <VERS vnumber="1">For the Leader.  A Psalm  of David. In the LORD have I taken refuge; how say ye to my soul: 'Flee thou! to your mountain, ye birds'?</VERS>
+      <VERS vnumber="2">For, lo, the wicked bend the bow, they have made ready their arrow upon the string, that they may shoot in darkness at the upright in heart.</VERS>
+      <VERS vnumber="3">When the foundations are destroyed, what hath the righteous wrought?</VERS>
+      <VERS vnumber="4">The LORD is in His holy temple, the LORD, His throne is in heaven; His eyes behold, His eyelids try, the children of men.</VERS>
+      <VERS vnumber="5">The LORD trieth the righteous; but the wicked and him that loveth violence His soul hateth.</VERS>
+      <VERS vnumber="6">Upon the wicked He will cause to rain coals; fire and brimstone and burning wind shall be the portion of their cup.</VERS>
+      <VERS vnumber="7">For the LORD is righteous, He loveth righteousness; the upright shall behold His face.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

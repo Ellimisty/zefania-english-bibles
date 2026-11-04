@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="43" bname="John" bsname="Joh">
+    <CHAPTER cnumber="14">
+      <VERS vnumber="5">“We do not know where you are going, Master,” said Thomas; “so how can we know the way?”</VERS>
+      <VERS vnumber="6">Jesus answered:</VERS>
+      <VERS vnumber="7" />
+      <VERS vnumber="8">“Master, show us the Father,” said Philip, “and we will be satisfied.”  </VERS>
+      <VERS vnumber="9">said Jesus,</VERS>
+      <VERS vnumber="21" />
+      <VERS vnumber="22">“What has happened, Master,” said Judas (not Judas Iscariot), “that you are going to reveal yourself to us, and not to the world?”  </VERS>
+      <VERS vnumber="23">Jesus answered,</VERS>
+      <VERS vnumber="31" />
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

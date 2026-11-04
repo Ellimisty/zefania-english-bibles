@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="World English Bible - Messianic Edition" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="134">
+      <VERS vnumber="1">Look! Praise the LORD, all you servants of the LORD,who stand by night in the LORD’s house!</VERS>
+      <VERS vnumber="2">Lift up your hands in the sanctuary.Praise the LORD!</VERS>
+      <VERS vnumber="3">May the LORD bless you from Zion;even he who made heaven and earth.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

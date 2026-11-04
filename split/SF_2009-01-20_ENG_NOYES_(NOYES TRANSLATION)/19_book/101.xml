@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="101">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of David.</STYLE> I will sing of mercy and justice; To thee, O LORD! will I sing!</VERS>
+      <VERS vnumber="2">I will have regard to the way of uprightness: When thou shalt come to me, I will walk within my house with an upright heart.</VERS>
+      <VERS vnumber="3">I will set no wicked thing before mine eyes; I hate the work of evildoers; It shall not cleave to me.</VERS>
+      <VERS vnumber="4">The perverse in heart shall be far from me; I will not know a wicked person.</VERS>
+      <VERS vnumber="5">Whoso slandereth his neighbor in secret, him will I cut off; Him that hath a haughty look and a proud heart I will not endure.</VERS>
+      <VERS vnumber="6">Mine eyes shall be upon the faithful of the land, that they may dwell with me; He that walketh in the way of uprightness shall serve me.</VERS>
+      <VERS vnumber="7">He who practiseth deceit shall not dwell in my house; He who telleth lies shall not remain in my sight.</VERS>
+      <VERS vnumber="8">Every morning will I destroy the wicked of the land, That I may cut off all evildoers from the city of the LORD.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

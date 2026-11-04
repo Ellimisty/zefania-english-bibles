@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="26" bname="Hesekiel" bsname="Hes">
+    <CHAPTER cnumber="15">
+      <VERS vnumber="1"> And the <gr str="1697">word </gr>of the <gr str="3068">LORD </gr>
+        <gr str="1961">came </gr>
+        <gr str="413">unto </gr>me, <gr str="559">saying</gr>, </VERS>
+      <VERS vnumber="2">
+        <gr str="1121">Son </gr>of <gr str="120">man</gr>, <gr str="4100">What </gr>
+        <gr str="1961">is </gr>the <gr str="1612">vine </gr>
+        <gr str="6086">tree </gr>more than <gr str="4480 3605">any </gr>
+        <gr str="6086">tree</gr>, <STYLE css="color:#808080;font-style:italic"> or </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> than </STYLE> a <gr str="2156">branch </gr>
+        <gr str="834">which </gr>
+        <gr str="1961">is </gr>among the <gr str="6086">trees </gr>of the <gr str="3293">forest</gr>? </VERS>
+      <VERS vnumber="3"> Shall <gr str="6086">wood </gr>be <gr str="3947">taken </gr>
+        <gr str="4480">thereof </gr>to <gr str="6213">do </gr>any <gr str="4399">work</gr>? <gr str="518">or </gr>will <STYLE css="color:#808080;font-style:italic"> men </STYLE>
+        <gr str="3947">take </gr>a <gr str="3489">pin </gr>
+        <gr str="4480">of </gr>it to <gr str="8518">hang </gr>
+        <gr str="3605">any </gr>
+        <gr str="3627">vessel </gr>
+        <gr str="5921">thereon</gr>? </VERS>
+      <VERS vnumber="4">
+        <gr str="2009">Behold</gr>, it is <gr str="5414">cast </gr>into the <gr str="784">fire </gr>for <gr str="402">fuel</gr>; the <gr str="784">fire </gr>
+        <gr str="398">devoureth </gr>
+        <gr str="*853" />
+        <gr str="8147">both </gr>the <gr str="7098">ends </gr>of it, and the <gr str="8432">midst </gr>of it is <gr str="2787">burned</gr>. Is it <gr str="6743">meet </gr>for <STYLE css="color:#808080;font-style:italic"> any </STYLE>
+        <gr str="4399">work</gr>? </VERS>
+      <VERS vnumber="5">
+        <gr str="2009">Behold</gr>, when it <gr str="1961">was </gr>
+        <gr str="8549">whole</gr>, it was <gr str="6213">meet </gr>for <gr str="3808">no </gr>
+        <gr str="4399">work</gr>: how much <gr str="637">less </gr>shall it be <gr str="6213">meet </gr>
+        <gr str="5750">yet </gr>for <STYLE css="color:#808080;font-style:italic"> any </STYLE>
+        <gr str="4399">work</gr>, <gr str="3588">when </gr>the <gr str="784">fire </gr>hath <gr str="398">devoured </gr>it, and it is <gr str="2787">burned</gr>? </VERS>
+      <VERS vnumber="6">
+        <gr str="3651">Therefore </gr>
+        <gr str="3541">thus </gr>
+        <gr str="559">saith </gr>the <gr str="136">Lord </gr>
+        <gr str="3069">GOD</gr>; <gr str="834">As </gr>the <gr str="1612">vine </gr>
+        <gr str="6086">tree </gr>among the <gr str="6086">trees </gr>of the <gr str="3293">forest</gr>, <gr str="834">which </gr>I have <gr str="5414">given </gr>to the <gr str="784">fire </gr>for <gr str="402">fuel</gr>, <gr str="3651">so </gr>will I <gr str="5414">give </gr>
+        <gr str="*853" />the <gr str="3427">inhabitants </gr>of <gr str="3389">Jerusalem</gr>. </VERS>
+      <VERS vnumber="7"> And I will <gr str="5414">set </gr>
+        <gr str="*853" />my <gr str="6440">face </gr>against them; they shall go <gr str="3318">out </gr>from <STYLE css="color:#808080;font-style:italic"> one </STYLE>
+        <gr str="784">fire</gr>, and <STYLE css="color:#808080;font-style:italic"> another </STYLE>
+        <gr str="784">fire </gr>shall <gr str="398">devour </gr>them; and ye shall <gr str="3045">know </gr>
+        <gr str="3588">that </gr>
+        <gr str="589">I </gr>
+        <STYLE css="color:#808080;font-style:italic"> am </STYLE> the <gr str="3068">LORD</gr>, when I <gr str="7760">set </gr>
+        <gr str="*853" />my <gr str="6440">face </gr>against them. </VERS>
+      <VERS vnumber="8"> And I will <gr str="5414">make </gr>
+        <gr str="*853" />the <gr str="776">land </gr>
+        <gr str="8077">desolate</gr>, <gr str="3282">because </gr>they have <gr str="4603">committed </gr>a <gr str="4604">trespass</gr>, <gr str="5002">saith </gr>the <gr str="136">Lord </gr>
+        <gr str="3069">GOD</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="18" bname="Hiob" bsname="Hi">
+    <CHAPTER cnumber="42">
+      <VERS vnumber="1"> Then <gr str="347">Job </gr>
+        <gr str="6030">answered </gr>
+        <gr str="*853" />the <gr str="3068">LORD</gr>, and <gr str="559">said</gr>, </VERS>
+      <VERS vnumber="2"> I <gr str="3045">know </gr>
+        <gr str="3588">that </gr>thou canst <gr str="3201">do </gr>
+        <gr str="3605">every </gr>
+        <STYLE css="color:#808080;font-style:italic"> thing </STYLE>, and <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <gr str="3808">no </gr>
+        <gr str="4209">thought </gr>can be <gr str="1219">withheld </gr>
+        <gr str="4480">from </gr>thee. </VERS>
+      <VERS vnumber="3">
+        <gr str="4310">Who </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2088">he </gr>that <gr str="5956">hideth </gr>
+        <gr str="6098">counsel </gr>
+        <gr str="1097">without </gr>
+        <gr str="1847">knowledge</gr>? <gr str="3651">therefore </gr>have I <gr str="5046">uttered </gr>that I <gr str="995">understood </gr>
+        <gr str="3808">not</gr>; things too <gr str="6381">wonderful </gr>
+        <gr str="4480">for </gr>me, which I <gr str="3045">knew </gr>
+        <gr str="3808">not</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="8085">Hear</gr>, I beseech <gr str="4994">thee</gr>, and <gr str="595">I </gr>will <gr str="1696">speak</gr>: I will <gr str="7592">demand </gr>of thee, and <gr str="3045">declare </gr>thou unto me. </VERS>
+      <VERS vnumber="5"> I have <gr str="8085">heard </gr>of thee by the <gr str="8088">hearing </gr>of the <gr str="241">ear</gr>: but <gr str="6258">now </gr>mine <gr str="5869">eye </gr>
+        <gr str="7200">seeth </gr>thee. </VERS>
+      <VERS vnumber="6">
+        <gr str="5921 3651">Wherefore </gr>I <gr str="3988">abhor </gr>
+        <STYLE css="color:#808080;font-style:italic"> myself </STYLE>, and <gr str="5162">repent </gr>
+        <gr str="5921">in </gr>
+        <gr str="6083">dust </gr>and <gr str="665">ashes</gr>. </VERS>
+      <VERS vnumber="7"> And it <gr str="1961">was </gr>
+        <STYLE css="color:#808080;font-style:italic"> so </STYLE>, that <gr str="310">after </gr>the <gr str="3068">LORD </gr>had <gr str="1696">spoken </gr>
+        <gr str="*853" />
+        <gr str="428">these </gr>
+        <gr str="1697">words </gr>
+        <gr str="413">unto </gr>
+        <gr str="347">Job</gr>, the <gr str="3068">LORD </gr>
+        <gr str="559">said </gr>
+        <gr str="413">to </gr>
+        <gr str="464">Eliphaz </gr>the <gr str="8489">Temanite</gr>, My <gr str="639">wrath </gr>is <gr str="2734">kindled </gr>against thee, and against thy <gr str="8147">two </gr>
+        <gr str="7453">friends</gr>: <gr str="3588">for </gr>ye have <gr str="3808">not </gr>
+        <gr str="1696">spoken </gr>
+        <gr str="413">of </gr>me <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> thing </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3559">right</gr>, as my <gr str="5650">servant </gr>
+        <gr str="347">Job </gr>
+        <STYLE css="color:#808080;font-style:italic"> hath </STYLE>. </VERS>
+      <VERS vnumber="8"> Therefore <gr str="3947">take </gr>unto you <gr str="6258">now </gr>
+        <gr str="7651">seven </gr>
+        <gr str="6499">bullocks </gr>and <gr str="7651">seven </gr>
+        <gr str="352">rams</gr>, and <gr str="1980">go </gr>
+        <gr str="413">to </gr>my <gr str="5650">servant </gr>
+        <gr str="347">Job</gr>, and offer <gr str="5927">up </gr>
+        <gr str="1157">for </gr>yourselves a burnt <gr str="5930">offering</gr>; and my <gr str="5650">servant </gr>
+        <gr str="347">Job </gr>shall <gr str="6419">pray </gr>
+        <gr str="5921">for </gr>you: <gr str="3588 518">for </gr>
+        <gr str="6440">him </gr>will I <gr str="5375">accept</gr>: <gr str="1115">lest </gr>I <gr str="6213">deal </gr>
+        <gr str="5973">with </gr>you <STYLE css="color:#808080;font-style:italic"> after </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> your </STYLE>
+        <gr str="5039">folly</gr>, in <gr str="3588">that </gr>ye have <gr str="3808">not </gr>
+        <gr str="1696">spoken </gr>
+        <gr str="413">of </gr>me <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> thing </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> which </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3559">right</gr>, like my <gr str="5650">servant </gr>
+        <gr str="347">Job</gr>. </VERS>
+      <VERS vnumber="9"> So <gr str="464">Eliphaz </gr>the <gr str="8489">Temanite </gr>and <gr str="1085">Bildad </gr>the <gr str="7747">Shuhite </gr>
+        <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="6691">Zophar </gr>the <gr str="5284">Naamathite </gr>
+        <gr str="1980">went</gr>, and <gr str="6213">did </gr>according <gr str="834">as </gr>the <gr str="3068">LORD </gr>
+        <gr str="1696 413">commanded </gr>them: the <gr str="3068">LORD </gr>also <gr str="5375 6440">accepted </gr>
+        <gr str="*853" />
+        <gr str="347">Job</gr>. </VERS>
+      <VERS vnumber="10"> And the <gr str="3068">LORD </gr>
+        <gr str="7725">turned </gr>
+        <gr str="*853" />the <gr str="7622">captivity </gr>of <gr str="347">Job</gr>, when he <gr str="6419">prayed </gr>
+        <gr str="1157">for </gr>his <gr str="7453">friends</gr>: also the <gr str="3068">LORD </gr>
+        <gr str="3254">gave </gr>
+        <gr str="347">Job </gr>
+        <gr str="*853" />
+        <gr str="4932">twice </gr>as much as he had <gr str="3605 834">before</gr>. </VERS>
+      <VERS vnumber="11"> Then <gr str="935">came </gr>there <gr str="413">unto </gr>him <gr str="3605">all </gr>his <gr str="251">brethren</gr>, and <gr str="3605">all </gr>his <gr str="269">sisters</gr>, and <gr str="3605">all </gr>they that had been of his <gr str="3045">acquaintance </gr>
+        <gr str="6440">before</gr>, and did <gr str="398">eat </gr>
+        <gr str="3899">bread </gr>
+        <gr str="5973">with </gr>him in his <gr str="1004">house</gr>: and they <gr str="5110">bemoaned </gr>him, and <gr str="5162">comforted </gr>him <gr str="5921">over </gr>
+        <gr str="3605">all </gr>the <gr str="7451">evil </gr>
+        <gr str="834">that </gr>the <gr str="3068">LORD </gr>had <gr str="935">brought </gr>
+        <gr str="5921">upon </gr>him: every <gr str="376">man </gr>also <gr str="5414">gave </gr>him a piece of <gr str="7192 259">money</gr>, and every <gr str="376">one </gr>
+        <gr str="259">an </gr>
+        <gr str="5141">earring </gr>of <gr str="2091">gold</gr>. </VERS>
+      <VERS vnumber="12"> So the <gr str="3068">LORD </gr>
+        <gr str="1288">blessed </gr>
+        <gr str="*853" />the latter <gr str="319">end </gr>of <gr str="347">Job </gr>more than his <gr str="4480 7225">beginning</gr>: for he <gr str="1961">had </gr>
+        <gr str="702 6240">fourteen </gr>
+        <gr str="505">thousand </gr>
+        <gr str="6629">sheep</gr>, and <gr str="8337">six </gr>
+        <gr str="505">thousand </gr>
+        <gr str="1581">camels</gr>, and a <gr str="505">thousand </gr>
+        <gr str="6776">yoke </gr>of <gr str="1241">oxen</gr>, and a <gr str="505">thousand </gr>she <gr str="860">asses</gr>. </VERS>
+      <VERS vnumber="13"> He <gr str="1961">had </gr>also <gr str="7658">seven </gr>
+        <gr str="1121">sons </gr>and <gr str="7969">three </gr>
+        <gr str="1323">daughters</gr>. </VERS>
+      <VERS vnumber="14"> And he <gr str="7121">called </gr>the <gr str="8034">name </gr>of the <gr str="259">first</gr>, <gr str="3224">Jemima</gr>; and the <gr str="8034">name </gr>of the <gr str="8145">second</gr>, <gr str="7103">Kezia</gr>; and the <gr str="8034">name </gr>of the <gr str="7992">third</gr>, <gr str="7163">Keren </gr>-happuch. </VERS>
+      <VERS vnumber="15"> And in <gr str="3605">all </gr>the <gr str="776">land </gr>were <gr str="3808">no </gr>
+        <gr str="802">women </gr>
+        <gr str="4672">found </gr>
+        <STYLE css="color:#808080;font-style:italic"> so </STYLE>
+        <gr str="3303">fair </gr>as the <gr str="1323">daughters </gr>of <gr str="347">Job</gr>: and their <gr str="1">father </gr>
+        <gr str="5414">gave </gr>them <gr str="5159">inheritance </gr>
+        <gr str="8432">among </gr>their <gr str="251">brethren</gr>. </VERS>
+      <VERS vnumber="16">
+        <gr str="310">After </gr>
+        <gr str="2063">this </gr>
+        <gr str="2421">lived </gr>
+        <gr str="347">Job </gr>a <gr str="3967">hundred </gr>and <gr str="705">forty </gr>
+        <gr str="8141">years</gr>, and <gr str="7200">saw </gr>
+        <gr str="*853" />his <gr str="1121">sons</gr>, <gr str="*853">and </gr>his <gr str="1121">sons </gr>' <gr str="1121">sons</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE>
+        <gr str="702">four </gr>
+        <gr str="1755">generations</gr>. </VERS>
+      <VERS vnumber="17"> So <gr str="347">Job </gr>
+        <gr str="4191">died</gr>, <STYLE css="color:#808080;font-style:italic"> being </STYLE>
+        <gr str="2205">old </gr>and <gr str="7649">full </gr>of <gr str="3117">days</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Douay Rheims" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="92">
+      <VERS vnumber="1">A psalm of a canticle on the sabbath day.</VERS>
+      <VERS vnumber="2">It is good to give praise to the Lord: and to sing to thy name, O most High.</VERS>
+      <VERS vnumber="3">To shew forth thy mercy in the morning, and thy truth in the night:</VERS>
+      <VERS vnumber="4">Upon an instrument of ten strings, upon the psaltery: with a canticle upon the harp.</VERS>
+      <VERS vnumber="5">For thou hast given me, O Lord, a delight in thy doings: and in the works of thy hands I shall rejoice.</VERS>
+      <VERS vnumber="6">O Lord, how great are thy works! thy thoughts are exceeding deep.</VERS>
+      <VERS vnumber="7">The senseless man shall not know: nor will the fool understand these things.</VERS>
+      <VERS vnumber="8">When the wicked shall spring up as grass: and all the workers of iniquity shall appear: That they may perish for ever and ever:</VERS>
+      <VERS vnumber="9">but thou, O Lord, art most high for evermore.</VERS>
+      <VERS vnumber="10">For behold thy enemies, O Lord, for behold thy enemies shall perish: and all the workers of iniquity shall be scattered.</VERS>
+      <VERS vnumber="11">But my horn shall be exalted like that of the unicorn: and my old age in plentiful mercy.</VERS>
+      <VERS vnumber="12">My eye also hath looked down upon my enemies: and my ear shall hear of the downfall of the malignant that rise up against me.</VERS>
+      <VERS vnumber="13">The just shall flourish like the palm tree: he shall grow up like the cedar of Libanus.</VERS>
+      <VERS vnumber="14">They that are planted in the house of the Lord shall flourish in the courts of the house of our God.</VERS>
+      <VERS vnumber="15">They shall still increase in a fruitful old age: and shall be well treated,</VERS>
+      <VERS vnumber="16">that they may shew, That the Lord our God is righteous, and there is no iniquity in him.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

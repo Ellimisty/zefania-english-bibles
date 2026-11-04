@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="1">
+      <CAPTION vref="1">(Writers: David and others) (460 B.C.E.)</CAPTION>
+      <VERS vnumber="1">Blessed is the man who does not walk in the counsel of the wicked or stand in the way of sinners or sit in the seat of the scornful mockers.</VERS>
+      <VERS vnumber="2">But his delight is in the law of Jehovah, and on his law he meditates <STYLE css="font-style:italic">ponders</STYLE>
+        <STYLE css="font-style:italic">speaks softly with deep thought</STYLE>
+        <STYLE css="font-style:italic">studies</STYLE>
+        <STYLE css="font-style:italic">contemplates</STYLE> day and night.</VERS>
+      <VERS vnumber="3">He is like a tree planted by streams of water. It yields its fruit in season and its leaves do not wither. Whatever he does prospers.</VERS>
+      <VERS vnumber="4">This is not so for the wicked! They are like chaff that the wind blows away.</VERS>
+      <VERS vnumber="5">Therefore the wicked will not stand <STYLE css="font-style:italic">be upright</STYLE> in the judgment. The sinners will not stand <STYLE css="font-style:italic">endure</STYLE> in the assembly of the righteous.</VERS>
+      <VERS vnumber="6">Jehovah knows <STYLE css="font-style:italic">is fully aware of</STYLE> the way of the righteous. But the way of the wicked will perish.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

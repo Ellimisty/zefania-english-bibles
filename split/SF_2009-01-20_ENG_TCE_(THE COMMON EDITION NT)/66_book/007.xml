@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="The Common Edition: New Testament" type="x-bible">
+  <BIBLEBOOK bnumber="66">
+    <CHAPTER cnumber="7">
+      <VERS vnumber="1">After this I saw four angels standing at the four corners of the earth, holding back the four winds of the earth, that no wind would blow on the earth or the sea or on any tree.</VERS>
+      <VERS vnumber="2">Then I saw another angel ascend from the rising of the sun, having the seal of the living God, and he called out with a loud voice to the four angels who had been given power to harm the earth and sea,</VERS>
+      <VERS vnumber="3">saying, »Do not harm the earth, the sea, or the trees until we have sealed the servants of our God on their foreheads.«</VERS>
+      <VERS vnumber="4">And I heard the number of those who were sealed, one hundred and forty-four thousand sealed from every tribe of the sons of Israel:</VERS>
+      <VERS vnumber="5">
+        <STYLE css="display:block;text-indent:5mm">From the tribe of Judah, twelve thousand were sealed,</STYLE>
+        <STYLE css="display:block;text-indent:5mm">from the tribe of Reuben twelve thousand,</STYLE>
+        <STYLE css="display:block;text-indent:5mm">from the tribe of Gad twelve thousand,</STYLE>
+      </VERS>
+      <VERS vnumber="6">
+        <STYLE css="display:block;text-indent:5mm">from the tribe of Asher twelve thousand,</STYLE>
+        <STYLE css="display:block;text-indent:5mm">from the tribe of Naphtali twelve thousand,</STYLE>
+        <STYLE css="display:block;text-indent:5mm">from the tribe of Manasseh twelve thousand,</STYLE>
+      </VERS>
+      <VERS vnumber="7">
+        <STYLE css="display:block;text-indent:5mm">from the tribe of Simeon twelve thousand,</STYLE>
+        <STYLE css="display:block;text-indent:5mm">from the tribe of Levi twelve thousand,</STYLE>
+        <STYLE css="display:block;text-indent:5mm">from the tribe of Issachar twelve thousand,</STYLE>
+      </VERS>
+      <VERS vnumber="8">
+        <STYLE css="display:block;text-indent:5mm">from the tribe of Zebulun twelve thousand,</STYLE>
+        <STYLE css="display:block;text-indent:5mm">from the tribe of Joseph twelve thousand,</STYLE>
+        <STYLE css="display:block;text-indent:5mm">from the tribe of Benjamin, twelve thousand were sealed.</STYLE>
+      </VERS>
+      <VERS vnumber="9">After this I looked, and behold, a great multitude which no one could count, from every nation and all tribes and peoples and tongues, standing before the throne and before the Lamb, clothed in white robes, and palm branches were in their hands;</VERS>
+      <VERS vnumber="10">and they cry out with a loud voice, saying, <STYLE css="display:block;text-indent:5mm">»Salvation belongs to our God</STYLE>
+        <STYLE css="display:block;text-indent:5mm">who sits on the throne, and to the Lamb.«</STYLE>
+      </VERS>
+      <VERS vnumber="11">And all the angels were standing around the throne and around the elders and the four living creatures; and they fell on their faces before the throne and worshipped God,</VERS>
+      <VERS vnumber="12">saying, <STYLE css="display:block;text-indent:5mm">»Amen! Blessing and glory and wisdom</STYLE>
+        <STYLE css="display:block;text-indent:5mm">and thanksgiving and honor and power and might</STYLE>
+        <STYLE css="display:block;text-indent:5mm">be to our God for ever and ever!</STYLE>
+        <STYLE css="display:block;text-indent:5mm">Amen.«</STYLE>
+      </VERS>
+      <VERS vnumber="13">Then one of the elders addressed me, saying, »Who are these, clothed in white robes, and where have they come from?«</VERS>
+      <VERS vnumber="14">I said to him, »Sir, you know.« And he said to me, »These are they who have come out of the great tribulation; they have washed their robes and made them white in the blood of the Lamb.</VERS>
+      <VERS vnumber="15">
+        <STYLE css="display:block;text-indent:5mm">Therefore, they are before the throne of God</STYLE>
+        <STYLE css="display:block;text-indent:10mm">and serve him day and night in his temple;</STYLE>
+        <STYLE css="display:block;text-indent:10mm">and he who sits on the throne</STYLE>
+        <STYLE css="display:block;text-indent:15mm">will spread his tent over them.</STYLE>
+      </VERS>
+      <VERS vnumber="16">
+        <STYLE css="display:block;text-indent:5mm">They will hunger no more, nor thirst anymore;</STYLE>
+        <STYLE css="display:block;text-indent:10mm">the sun will not beat down on them,</STYLE>
+        <STYLE css="display:block;text-indent:10mm">nor any scorching heat.</STYLE>
+      </VERS>
+      <VERS vnumber="17">
+        <STYLE css="display:block;text-indent:5mm">For the Lamb in the center of the throne will be their shepherd,</STYLE>
+        <STYLE css="display:block;text-indent:10mm">and he will guide them to springs of living water;</STYLE>
+        <STYLE css="display:block;text-indent:5mm">and God will wipe away every tear from their eyes.«</STYLE>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

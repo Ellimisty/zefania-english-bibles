@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="King James Version PCE" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="133">
+      <VERS vnumber="1">A Song of degrees of David.  Behold, how good and how pleasant  it is  for brethren to dwell together in unity!</VERS>
+      <VERS vnumber="2">It is  like the precious ointment upon the head, that ran down upon the beard,  even  Aaron’s beard: that went down to the skirts of his garments;</VERS>
+      <VERS vnumber="3">As the dew of Hermon,  and as the dew  that descended upon the mountains of Zion: for there the <STYLE id="cl:divineName">Lord</STYLE> commanded the blessing,  even  life for evermore.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible - Messianic Edition" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="117">
+      <VERS vnumber="1">Praise the <STYLE id="cl:divineName">Lord</STYLE>, all you nations!Praise him, all you peoples!</VERS>
+      <VERS vnumber="2">For his loving kindness is great toward us.The <STYLE id="cl:divineName">Lord</STYLE>'s faithfulness endures forever.Praise Yah!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

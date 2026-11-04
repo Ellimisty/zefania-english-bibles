@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="47">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief Musician, A Psalm for the sons of Korah.</STYLE> O clap your hands, all ye people; shout to God with the voice of triumph. <DIV>
+          <NOTE type="x-studynote">for: or, of</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">For the LORD most high <STYLE css="font-style:italic">is</STYLE> terrible; <STYLE css="font-style:italic">he is</STYLE> a great King over all the earth.</VERS>
+      <VERS vnumber="3">He shall subdue the people under us, and the nations under our feet.</VERS>
+      <VERS vnumber="4">He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah.</VERS>
+      <VERS vnumber="5">God is gone up with a shout, the LORD with the sound of a trumpet.</VERS>
+      <VERS vnumber="6">Sing praises to God, sing praises: sing praises to our King, sing praises.</VERS>
+      <VERS vnumber="7">For God <STYLE css="font-style:italic">is</STYLE> the King of all the earth: sing ye praises with understanding. <DIV>
+          <NOTE type="x-studynote">with: or, every one that hath</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">God reigneth over the heathen: God sitteth upon the throne of his holiness.</VERS>
+      <VERS vnumber="9">The princes of the people are gathered together, <STYLE css="font-style:italic">even</STYLE> the people of the God of Abraham: for the shields of the earth <STYLE css="font-style:italic">belong</STYLE> to God: he is greatly exalted. <DIV>
+          <NOTE type="x-studynote">princes…: or, voluntary of the people are gathered unto the people of the God of Abraham</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

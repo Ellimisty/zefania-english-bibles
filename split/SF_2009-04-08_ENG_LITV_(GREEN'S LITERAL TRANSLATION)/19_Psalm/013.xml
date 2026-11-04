@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Green's Literal Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="13">
+      <VERS vnumber="1">  To the chief musician. A Psalm of David. Until when will You forget me, O Jehovah? Forever? Until when will You hide Your face from me?</VERS>
+      <VERS vnumber="2"> Until when shall I set counsel in my soul, having sorrow in my heart every day? Until when shall my enemy be lifted up over me?</VERS>
+      <VERS vnumber="3"> Look! Answer me, O Jehovah, my God! Make my eyes gleam, lest I sleep the death;</VERS>
+      <VERS vnumber="4"> lest my enemy say, I have overcome him and my foes rejoice when I am shaken.</VERS>
+      <VERS vnumber="5"> But I have trusted in Your mercy. My heart shall rejoice in Your salvation.</VERS>
+      <VERS vnumber="6"> I will sing to Jehovah, because He has rewarded me.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

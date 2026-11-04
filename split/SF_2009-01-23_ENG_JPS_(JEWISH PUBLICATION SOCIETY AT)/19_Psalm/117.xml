@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Jewish Publication Society AT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="117">
+      <VERS vnumber="1">O praise the LORD, all ye nations; laud Him, all ye peoples.</VERS>
+      <VERS vnumber="2">For His mercy is great toward us; and the truth of the LORD endureth for ever. Hallelujah.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

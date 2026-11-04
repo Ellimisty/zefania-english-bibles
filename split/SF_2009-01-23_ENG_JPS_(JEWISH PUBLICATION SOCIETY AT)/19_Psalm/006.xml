@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Jewish Publication Society AT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="6">
+      <VERS vnumber="1">O LORD, rebuke me not in Thine anger, neither chasten me in Thy wrath.</VERS>
+      <VERS vnumber="2">Be gracious unto me, O LORD, for I languish away; heal me, O LORD, for my bones are affrighted.</VERS>
+      <VERS vnumber="3">My soul also is sore affrighted; and Thou, O LORD, how long?</VERS>
+      <VERS vnumber="4">Return, O LORD, deliver my soul; save me for Thy mercy's sake.</VERS>
+      <VERS vnumber="5">For in death there is no remembrance of Thee; in the nether-world who will give Thee thanks?</VERS>
+      <VERS vnumber="6">I am weary with my groaning; every night make I my bed to swim; I melt away my couch with my tears.</VERS>
+      <VERS vnumber="7">Mine eye is dimmed because of vexation; it waxeth old because of all mine adversaries.</VERS>
+      <VERS vnumber="8">Depart from me, all ye workers of iniquity; for the LORD hath heard the voice of my weeping.</VERS>
+      <VERS vnumber="9">The LORD hath heard my supplication; the LORD receiveth my prayer.</VERS>
+      <VERS vnumber="10">All mine enemies shall be ashamed and sore affrighted; they shall turn back, they shall be ashamed suddenly.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="13">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief <gr str="5329">Musician</gr>, A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>.</STYLE> How long wilt thou <gr str="7911">forget </gr>me, O <gr str="3068">LORD</gr>? for <gr str="5331">ever</gr>? how long wilt thou <gr str="5641">hide </gr>thy <gr str="6440">face </gr>from me? <DIV>
+          <NOTE type="x-studynote">chief…: or, overseer</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">How long shall I <gr str="7896">take </gr>
+        <gr str="6098">counsel </gr>in my <gr str="5315">soul</gr>, <STYLE css="font-style:italic">having </STYLE>
+        <gr str="3015">sorrow </gr>in my <gr str="3824">heart </gr>
+        <gr str="3119">daily</gr>? how long shall my <gr str="341">enemy </gr>be <gr str="7311">exalted </gr>over me?</VERS>
+      <VERS vnumber="3">
+        <gr str="5027">Consider </gr>
+        <STYLE css="font-style:italic">and </STYLE>
+        <gr str="6030">hear </gr>me, O <gr str="3068">LORD </gr>my <gr str="430">God</gr>: <gr str="215">enlighten </gr>my <gr str="5869">eyes</gr>, lest I <gr str="3462">sleep </gr>the <STYLE css="font-style:italic">sleep of </STYLE>
+        <gr str="4194">death</gr>;</VERS>
+      <VERS vnumber="4">Lest my <gr str="341">enemy </gr>
+        <gr str="559">say</gr>, I have <gr str="3201">prevailed </gr>against him; <STYLE css="font-style:italic">and</STYLE> those that <gr str="6862">trouble </gr>me <gr str="1523">rejoice </gr>when I am <gr str="4131">moved</gr>.</VERS>
+      <VERS vnumber="5">But I have <gr str="982">trusted </gr>in thy <gr str="2617">mercy</gr>; my <gr str="3820">heart </gr>shall <gr str="1523">rejoice </gr>in thy <gr str="3444">salvation</gr>.</VERS>
+      <VERS vnumber="6">I will <gr str="7891">sing </gr>to the <gr str="3068">LORD</gr>, because he hath dealt <gr str="1580">bountifully </gr>with me.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

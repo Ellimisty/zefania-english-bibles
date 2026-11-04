@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Geneva Bible" type="x-bible">
+  <BIBLEBOOK bnumber="3">
+    <CHAPTER cnumber="12">
+      <VERS vnumber="1">And the Lord spake vnto Moses, saying,</VERS>
+      <VERS vnumber="2">Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean <DIV>
+          <NOTE type="x-studynote">So that her husband for that time could not have relations with her.</NOTE>
+        </DIV> seven days; according to the days of the separation for her infirmity shall she be unclean.</VERS>
+      <VERS vnumber="3">(And in the eight day, the foreskin of the childes flesh shalbe circumcised)</VERS>
+      <VERS vnumber="4">And she shall then continue in the blood of her purifying three <DIV>
+          <NOTE type="x-studynote">Besides the first seven days.</NOTE>
+        </DIV> and thirty days; she shall touch no <DIV>
+          <NOTE type="x-studynote">As sacrifice, or such like.</NOTE>
+        </DIV> hallowed thing, nor come into the <DIV>
+          <NOTE type="x-studynote">That is, into the court gate till after forty days.</NOTE>
+        </DIV> sanctuary, until the days of her purifying be fulfilled.</VERS>
+      <VERS vnumber="5">But if she bear a maid child, then she shall be unclean two <DIV>
+          <NOTE type="x-studynote">Twice as long as if she gave birth to a boy.</NOTE>
+        </DIV> weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days.</VERS>
+      <VERS vnumber="6">And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the <DIV>
+          <NOTE type="x-studynote">Where the burnt offerings were wont to be offered.</NOTE>
+        </DIV> tabernacle of the congregation, unto the priest:</VERS>
+      <VERS vnumber="7">Who shal offer it before the Lord, &amp; make an atonement for her: so she shalbe purged of the issue of her blood this is the law for her that hath borne a male or female.</VERS>
+      <VERS vnumber="8">But if she bee not able to bring a lambe, she shall bring two turtles, or two yong pigeons: the one for a burnt offring, and the other for a sinne offring: and the Priest shall make an atonement for her: so she shal be cleane.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

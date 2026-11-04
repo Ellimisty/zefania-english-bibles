@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="122">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of the steps, or the goings up. By David.</STYLE> I was glad when they said to me, Let us go up to the house of the LORD!</VERS>
+      <VERS vnumber="2">Our feet are standing Within thy gates, O Jerusalem!</VERS>
+      <VERS vnumber="3">Jerusalem, the rebuilt city! The city that is joined together!</VERS>
+      <VERS vnumber="4">Thither the tribes go up, The tribes of the LORD, according to the law of Israel, To praise the name of the LORD.</VERS>
+      <VERS vnumber="5">There stand the thrones of judgment, The thrones of the house of David.</VERS>
+      <VERS vnumber="6">Pray for the peace of Jerusalem! May they prosper who love thee!</VERS>
+      <VERS vnumber="7">Peace be within thy walls, And prosperity within thy palaces!</VERS>
+      <VERS vnumber="8">For my brethren and companions sake will I say, Peace be within thee!</VERS>
+      <VERS vnumber="9">For the sake of the house of the LORD, our God, Will I seek thy good!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

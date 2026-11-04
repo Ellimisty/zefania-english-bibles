@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="124">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A <gr str="7892">Song </gr>of <gr str="4609">degrees </gr>of <gr str="1732">David</gr>. </STYLE>
+        <gr str="3884">If </gr>
+        <STYLE css="font-style:italic">it had not been</STYLE> the <gr str="3068">LORD </gr>who was on our side, now may <gr str="3478">Israel </gr>
+        <gr str="559">say</gr>;</VERS>
+      <VERS vnumber="2">
+        <gr str="3884">If </gr>
+        <STYLE css="font-style:italic">it had not been</STYLE> the <gr str="3068">LORD </gr>who was on our side, when <gr str="120">men </gr>rose <gr str="6965">up </gr>against us:</VERS>
+      <VERS vnumber="3">
+        <gr str="233">Then </gr>they had swallowed us <gr str="1104">up </gr>
+        <gr str="2416">alive</gr>, when their <gr str="639">wrath </gr>was <gr str="2734">kindled </gr>against us:</VERS>
+      <VERS vnumber="4">
+        <gr str="233">Then </gr>the <gr str="4325">waters </gr>had <gr str="7857">overwhelmed </gr>us, the <gr str="5158">stream </gr>had gone <gr str="5674">over </gr>our <gr str="5315">soul</gr>:</VERS>
+      <VERS vnumber="5">
+        <gr str="233">Then </gr>the <gr str="2121">proud </gr>
+        <gr str="4325">waters </gr>had gone <gr str="5674">over </gr>our <gr str="5315">soul</gr>.</VERS>
+      <VERS vnumber="6">
+        <gr str="1288">Blessed </gr>
+        <STYLE css="font-style:italic">be</STYLE> the <gr str="3068">LORD</gr>, who hath not <gr str="5414">given </gr>us <STYLE css="font-style:italic">as</STYLE> a <gr str="2964">prey </gr>to their <gr str="8127">teeth</gr>.</VERS>
+      <VERS vnumber="7">Our <gr str="5315">soul </gr>hath <gr str="4422">escaped </gr>as a <gr str="6833">bird </gr>out of the <gr str="6341">snare </gr>of the <gr str="3369">fowlers</gr>: the <gr str="6341">snare </gr>is <gr str="7665">broken</gr>, and we have <gr str="4422">escaped</gr>.</VERS>
+      <VERS vnumber="8">Our <gr str="5828">help </gr>
+        <STYLE css="font-style:italic">is</STYLE> in the <gr str="8034">name </gr>of the <gr str="3068">LORD</gr>, who <gr str="6213">made </gr>
+        <gr str="8064">heaven </gr>and <gr str="776">earth</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

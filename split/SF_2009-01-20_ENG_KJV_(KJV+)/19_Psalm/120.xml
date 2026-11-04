@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="120">
+      <VERS vnumber="1"> A <gr str="7892">Song </gr>of <gr str="4609">degrees</gr>. In my <gr str="6869">distress </gr>I <gr str="7121">cried </gr>
+        <gr str="413">unto </gr>the <gr str="3068">LORD</gr>, and he <gr str="6030">heard </gr>me. </VERS>
+      <VERS vnumber="2">
+        <gr str="5337">Deliver </gr>my <gr str="5315">soul</gr>, O <gr str="3068">LORD</gr>, from <gr str="8267">lying </gr>
+        <gr str="4480 8193">lips</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> from a <gr str="7423">deceitful </gr>
+        <gr str="4480 3956">tongue</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="4100">What </gr>shall be <gr str="5414">given </gr>unto thee? or <gr str="4100">what </gr>shall be <gr str="3254">done </gr>unto thee, thou <gr str="7423">false </gr>
+        <gr str="3956">tongue</gr>? </VERS>
+      <VERS vnumber="4">
+        <gr str="8150">Sharp </gr>
+        <gr str="2671">arrows </gr>of the <gr str="1368">mighty</gr>, <gr str="5973">with </gr>
+        <gr str="1513">coals </gr>of <gr str="7574">juniper</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="190">Woe </gr>is me, <gr str="3588">that </gr>I <gr str="1481">sojourn </gr>in <gr str="4902">Mesech</gr>, <STYLE css="color:#808080;font-style:italic"> that </STYLE> I <gr str="7931">dwell </gr>
+        <gr str="5973">in </gr>the <gr str="168">tents </gr>of <gr str="6938">Kedar</gr>! </VERS>
+      <VERS vnumber="6"> My <gr str="5315">soul </gr>hath <gr str="7227">long </gr>
+        <gr str="7931">dwelt </gr>
+        <gr str="5973">with </gr>him that <gr str="8130">hateth </gr>
+        <gr str="7965">peace</gr>. </VERS>
+      <VERS vnumber="7">
+        <gr str="589">I </gr>
+        <STYLE css="color:#808080;font-style:italic"> am </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> for </STYLE>
+        <gr str="7965">peace</gr>: but <gr str="3588">when </gr>I <gr str="1696">speak</gr>, <gr str="1992">they </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> for <gr str="4421">war</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

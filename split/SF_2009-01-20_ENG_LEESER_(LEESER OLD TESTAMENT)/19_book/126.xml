@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="126">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A song of the degrees.</STYLE> When the Lord bringeth back again the captivity of Zion, then shall we be like dreamers.</VERS>
+      <VERS vnumber="2">Then shall our mouth be filled with laughter, and our tongue with singing: then shall they say among the nations, Great things hath the Lord done for these.</VERS>
+      <VERS vnumber="3">Great things would the Lord have done for us, <STYLE css="font-style:italic">whereat</STYLE> we should be joyful.</VERS>
+      <VERS vnumber="4">Bring back again, O Lord, our captivity, like rivulets in arid land.</VERS>
+      <VERS vnumber="5">Those that sow in tears shall reap with joyful song.</VERS>
+      <VERS vnumber="6">He goeth forth indeed and weepeth, that beareth the seed for sowing; but he will surely come with joyful song when he beareth <STYLE css="font-style:italic">home</STYLE> his sheaves.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

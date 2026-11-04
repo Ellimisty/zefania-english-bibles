@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Darby Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="124">
+      <VERS vnumber="1">{A Song of degrees. Of David.} If it had not been Jehovah who was for us oh let Israel say</VERS>
+      <VERS vnumber="2">If it had not been Jehovah who was for us, when men rose up against us,</VERS>
+      <VERS vnumber="3">Then they had swallowed us up alive, when their anger was kindled against us;</VERS>
+      <VERS vnumber="4">Then the waters had overwhelmed us, a torrent had gone over our soul;</VERS>
+      <VERS vnumber="5">Then the proud waters had gone over our soul.</VERS>
+      <VERS vnumber="6">Blessed be Jehovah, who gave us not up a prey to their teeth!</VERS>
+      <VERS vnumber="7">Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we have escaped.</VERS>
+      <VERS vnumber="8">Our help is in the name of Jehovah, the maker of heavens and earth.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

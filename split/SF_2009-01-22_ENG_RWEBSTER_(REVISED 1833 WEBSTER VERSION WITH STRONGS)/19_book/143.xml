@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="143">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">[A Psalm] of <gr str="1732">David</gr>. </STYLE>
+        <gr str="8085">Hear </gr>my <gr str="8605">prayer</gr>, O <gr str="3068">LORD</gr>, give <gr str="238">ear </gr>to my <gr str="8469">supplications</gr>: in thy <gr str="530">faithfulness </gr>
+        <gr str="6030">answer </gr>me, <STYLE css="font-style:italic">and</STYLE> in thy <gr str="6666">righteousness</gr>.</VERS>
+      <VERS vnumber="2">And <gr str="935">enter </gr>not into <gr str="4941">judgment </gr>with thy <gr str="5650">servant</gr>: for in thy <gr str="6440">sight </gr>shall no man <gr str="2416">living </gr>be <gr str="6663">justified</gr>.</VERS>
+      <VERS vnumber="3">For the <gr str="341">enemy </gr>hath <gr str="7291">persecuted </gr>my <gr str="5315">soul</gr>; he hath <gr str="1792">smitten </gr>my <gr str="2416">life </gr>
+        <gr str="1792">down </gr>to the <gr str="776">ground</gr>; he hath made me to <gr str="3427">dwell </gr>in <gr str="4285">darkness</gr>, as those that have been <gr str="5769">long </gr>
+        <gr str="4191">dead</gr>.</VERS>
+      <VERS vnumber="4">Therefore is my <gr str="7307">spirit </gr>
+        <gr str="5848">overwhelmed </gr>within me; my <gr str="3820">heart </gr>
+        <gr str="8432">within </gr>me is <gr str="8074">desolate</gr>.</VERS>
+      <VERS vnumber="5">I <gr str="2142">remember </gr>the <gr str="3117">days </gr>of <gr str="6924">old</gr>; I <gr str="1897">meditate </gr>on all thy <gr str="6467">works</gr>; I <gr str="7878">muse </gr>on the <gr str="4639">work </gr>of thy <gr str="3027">hands</gr>.</VERS>
+      <VERS vnumber="6">I stretch <gr str="6566">forth </gr>my <gr str="3027">hands </gr>to thee: my <gr str="5315">soul </gr>
+        <STYLE css="font-style:italic">thirsteth</STYLE> after thee, as a <gr str="5889">thirsty </gr>
+        <gr str="776">land</gr>. <gr str="5542">Selah</gr>.</VERS>
+      <VERS vnumber="7">
+        <gr str="6030">Hear </gr>me <gr str="4118">speedily</gr>, O <gr str="3068">LORD</gr>: my <gr str="7307">spirit </gr>
+        <gr str="3615">faileth</gr>: <gr str="5641">hide </gr>not thy <gr str="6440">face </gr>from me, lest I be <gr str="4911">like </gr>them that go <gr str="3381">down </gr>into the <gr str="953">pit</gr>. <DIV>
+          <NOTE type="x-studynote">lest…: or, for I am become like, etc</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">Cause me to <gr str="8085">hear </gr>thy <gr str="2617">lovingkindness </gr>in the <gr str="1242">morning</gr>; for in thee do I <gr str="982">trust</gr>: cause me to <gr str="3045">know </gr>the <gr str="1870">way </gr>in <gr str="2098">which </gr>I should <gr str="3212">walk</gr>; for I lift <gr str="5375">up </gr>my <gr str="5315">soul </gr>to thee.</VERS>
+      <VERS vnumber="9">
+        <gr str="5337">Deliver </gr>me, O <gr str="3068">LORD</gr>, from my <gr str="341">enemies</gr>: I flee to thee to <gr str="3680">hide </gr>me. <DIV>
+          <NOTE type="x-studynote">flee…: Heb. hide me with thee</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="10">
+        <gr str="3925">Teach </gr>me to <gr str="6213">do </gr>thy <gr str="7522">will</gr>; for thou <STYLE css="font-style:italic">art</STYLE> my <gr str="430">God</gr>: thy <gr str="7307">spirit </gr>
+        <STYLE css="font-style:italic">is </STYLE>
+        <gr str="2896">good</gr>; <gr str="5148">lead </gr>me into the <gr str="776">land </gr>of <gr str="4334">uprightness</gr>.</VERS>
+      <VERS vnumber="11">
+        <gr str="2421">Revive </gr>me, O <gr str="3068">LORD</gr>, for thy <gr str="8034">name’s </gr>sake: for thy <gr str="6666">righteousness</gr>’ sake <gr str="3318">bring </gr>my <gr str="5315">soul </gr>out of <gr str="6869">trouble</gr>.</VERS>
+      <VERS vnumber="12">And of thy <gr str="2617">mercy </gr>cut <gr str="6789">off </gr>my <gr str="341">enemies</gr>, and <gr str="6">destroy </gr>all them that <gr str="6887">afflict </gr>my <gr str="5315">soul</gr>: for I <STYLE css="font-style:italic">am</STYLE> thy <gr str="5650">servant</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

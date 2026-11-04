@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Jewish Publication Society AT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="122">
+      <VERS vnumber="1">A Song of Ascents; of David. I rejoiced when they said unto me: 'Let us go unto the house of the LORD.'</VERS>
+      <VERS vnumber="2">Our feet are standing within thy gates, O Jerusalem;</VERS>
+      <VERS vnumber="3">Jerusalem, that art builded as a city that is compact together;</VERS>
+      <VERS vnumber="4">Whither the tribes went up, even the tribes of the LORD, as a testimony unto Israel, to give thanks unto the name of the LORD.</VERS>
+      <VERS vnumber="5">For there were set thrones for judgment, the thrones of the house of David.</VERS>
+      <VERS vnumber="6">Pray for the peace of Jerusalem; may they prosper that love thee.</VERS>
+      <VERS vnumber="7">Peace be within thy walls, and prosperity within thy palaces.</VERS>
+      <VERS vnumber="8">For my brethren and companions' sakes, I will now say: 'Peace be within thee.'</VERS>
+      <VERS vnumber="9">For the sake of the house of the LORD our God I will seek thy good.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

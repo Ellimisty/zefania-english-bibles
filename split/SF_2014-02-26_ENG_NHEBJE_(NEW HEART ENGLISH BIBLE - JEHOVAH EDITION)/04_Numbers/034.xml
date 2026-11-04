@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible - Jehovah Edition" type="x-bible">
+  <BIBLEBOOK bnumber="4" bname="Numbers" bsname="Num">
+    <CHAPTER cnumber="34">
+      <VERS vnumber="1">
+        <STYLE id="cl:divineName">Jehovah</STYLE> spoke to Moses, saying,</VERS>
+      <VERS vnumber="2">"Command the children of Israel, and tell them, 'When you come into the land of Canaan (this is the land that shall fall to you for an inheritance, even the land of Canaan according to its borders),</VERS>
+      <VERS vnumber="3">then your south quarter shall be from the wilderness of Zin along by the side of Edom, and your south border shall be from the end of the Salt Sea eastward;</VERS>
+      <VERS vnumber="4">and your border shall turn about southward of the ascent of Akrabbim, and pass along to Zin; and the goings out of it shall be southward of Kadesh Barnea; and it shall go forth to Hazar Addar, and pass along to Azmon;</VERS>
+      <VERS vnumber="5">and the border shall turn about from Azmon to the brook of Egypt, and the goings out of it shall be at the sea.</VERS>
+      <VERS vnumber="6">"'For the western border, you shall have the great sea and its border: this shall be your west border.</VERS>
+      <VERS vnumber="7">"'This shall be your north border: from the great sea you shall mark out for you Mount Hor;</VERS>
+      <VERS vnumber="8">from Mount Hor you shall mark out to the entrance of Hamath; and the goings out of the border shall be at Zedad;</VERS>
+      <VERS vnumber="9">and the border shall go forth to Ziphron, and the goings out of it shall be at Hazar Enan: this shall be your north border.</VERS>
+      <VERS vnumber="10">"'You shall mark out your east border from Hazar Enan to Shepham;</VERS>
+      <VERS vnumber="11">and the border shall go down from Shepham to Riblah, on the east side of Ain; and the border shall go down, and shall reach to the side of the sea of Chinnereth eastward;</VERS>
+      <VERS vnumber="12">and the border shall go down to the Jordan, and the goings out of it shall be at the Salt Sea. This shall be your land according to its borders around it.'"</VERS>
+      <VERS vnumber="13">Moses commanded the children of Israel, saying, "This is the land which you shall inherit by lot, which <STYLE id="cl:divineName">Jehovah</STYLE> has commanded to give to the nine tribes, and to the half-tribe;</VERS>
+      <VERS vnumber="14">for the tribe of the children of Reuben according to their fathers' houses, and the tribe of the children of Gad according to their fathers' houses, have received, and the half-tribe of Manasseh have received, their inheritance:</VERS>
+      <VERS vnumber="15">the two tribes and the half-tribe have received their inheritance beyond the Jordan at Jericho eastward, toward the sunrise."</VERS>
+      <VERS vnumber="16">
+        <STYLE id="cl:divineName">Jehovah</STYLE> spoke to Moses, saying,</VERS>
+      <VERS vnumber="17">"These are the names of the men who shall divide the land to you for inheritance: Eleazar the priest, and Joshua the son of Nun.</VERS>
+      <VERS vnumber="18">You shall take one prince of every tribe, to divide the land for inheritance.</VERS>
+      <VERS vnumber="19">These are the names of the men: Of the tribe of Judah, Caleb the son of Jephunneh.</VERS>
+      <VERS vnumber="20">Of the tribe of the children of Simeon, Shemuel the son of Ammihud.</VERS>
+      <VERS vnumber="21">Of the tribe of Benjamin, Elidad the son of Chislon.</VERS>
+      <VERS vnumber="22">Of the tribe of the children of Dan a prince, Bukki the son of Jogli.</VERS>
+      <VERS vnumber="23">Of the children of Joseph: of the tribe of the children of Manasseh a prince, Hanniel the son of Ephod.</VERS>
+      <VERS vnumber="24">Of the tribe of the children of Ephraim a prince, Kemuel the son of Shiphtan.</VERS>
+      <VERS vnumber="25">Of the tribe of the children of Zebulun a prince, Elizaphan the son of Parnach.</VERS>
+      <VERS vnumber="26">Of the tribe of the children of Issachar a prince, Paltiel the son of Azzan.</VERS>
+      <VERS vnumber="27">Of the tribe of the children of Asher a prince, Ahihud the son of Shelomi.</VERS>
+      <VERS vnumber="28">Of the tribe of the children of Naphtali a prince, Pedahel the son of Ammihud."</VERS>
+      <VERS vnumber="29">These are they whom <STYLE id="cl:divineName">Jehovah</STYLE> commanded to divide the inheritance to the children of Israel in the land of Canaan.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

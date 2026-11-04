@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Green's Literal Translation" type="x-bible">
+  <BIBLEBOOK bnumber="18" bname="Job" bsname="Job">
+    <CHAPTER cnumber="25">
+      <VERS vnumber="1"> And Bildad the Shuhite answered and said:</VERS>
+      <VERS vnumber="2"> Rule and fear are with Him. He makes peace in His high places.</VERS>
+      <VERS vnumber="3"> Is there any number of His armies? And on whom does His light not rise?</VERS>
+      <VERS vnumber="4"> How then can man be justified with God? Or how can one who is horn of a woman be pure?</VERS>
+      <VERS vnumber="5"> Behold, even the moon, and it is not bright; and the stars are not pure in His eyes;</VERS>
+      <VERS vnumber="6"> how much less man who is a maggot; and the son of man who is a worm!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

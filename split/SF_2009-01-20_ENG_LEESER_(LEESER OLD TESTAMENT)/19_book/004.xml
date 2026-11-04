@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="4">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief musician on Neginoth, a psalm of David.</STYLE>
+        <DIV>
+          <NOTE type="x-studynote">(4:2)</NOTE>
+        </DIV> When I call, answer me, O God of my righteousness: amidst distress thou hast <STYLE css="font-style:italic">ever</STYLE> granted me enlargement; be gracious unto me, and hear my prayer.</VERS>
+      <VERS vnumber="2">
+        <DIV>
+          <NOTE type="x-studynote">(4:3)</NOTE>
+        </DIV> O ye sons of men, how long shall my glory be put to shame? <STYLE css="font-style:italic">how long</STYLE> will ye love vanity, will ye seek for lies? Selah.</VERS>
+      <VERS vnumber="3">
+        <DIV>
+          <NOTE type="x-studynote">(4:4)</NOTE>
+        </DIV> But know that the Lord hath set apart the pious for himself: the Lord will hear when I call on him.</VERS>
+      <VERS vnumber="4">
+        <DIV>
+          <NOTE type="x-studynote">(4:5)</NOTE>
+        </DIV> Tremble, and sin not: commune with your heart upon your bed, and be still Selah.</VERS>
+      <VERS vnumber="5">
+        <DIV>
+          <NOTE type="x-studynote">(4:6)</NOTE>
+        </DIV> Offer the sacrifices of righteousness, and put your trust in the Lord.</VERS>
+      <VERS vnumber="6">
+        <DIV>
+          <NOTE type="x-studynote">(4:7)</NOTE>
+        </DIV> Many say, "Who will show us happiness? Let shine brightly over us the light of thy countenance, O Lord."</VERS>
+      <VERS vnumber="7">
+        <DIV>
+          <NOTE type="x-studynote">(4:8)</NOTE>
+        </DIV>
+        <STYLE css="font-style:italic">But</STYLE> thou hast placed more joy in my heart than at the time when their corn and their wine were increased.</VERS>
+      <VERS vnumber="8">
+        <DIV>
+          <NOTE type="x-studynote">(4:9)</NOTE>
+        </DIV> In peace, altogether, will I lay me down and sleep; for thou, Lord, alone, causest me to dwell in safety.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

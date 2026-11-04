@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="113">
+      <VERS vnumber="1">Let the Lord be praised. O you servants of the Lord, give praise to the name of the Lord.</VERS>
+      <VERS vnumber="2">Let blessing be on the name of the Lord, from this time and for ever.</VERS>
+      <VERS vnumber="3">From the coming up of the sun to its going down, the Lord's name is to be praised.</VERS>
+      <VERS vnumber="4">The Lord is high over all nations, and his glory is higher than the heavens.</VERS>
+      <VERS vnumber="5">Who is like the Lord our God, who is seated on high,</VERS>
+      <VERS vnumber="6">Looking down on the heavens, and on the earth?</VERS>
+      <VERS vnumber="7">He takes the poor man out of the dust, lifting him up from his low position;</VERS>
+      <VERS vnumber="8">To give him a place among the rulers, even with the rulers of his people.</VERS>
+      <VERS vnumber="9">He gives the unfertile woman a family, making her a happy mother of children. Give praise to the Lord.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

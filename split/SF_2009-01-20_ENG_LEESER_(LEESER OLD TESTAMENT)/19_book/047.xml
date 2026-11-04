@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="47">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief musician, a psalm for the sons of Korach.</STYLE>
+        <DIV>
+          <NOTE type="x-studynote">(47:2)</NOTE>
+        </DIV> All ye people, clap your hands; shout unto God with the voice of triumph.</VERS>
+      <VERS vnumber="2">
+        <DIV>
+          <NOTE type="x-studynote">(47:3)</NOTE>
+        </DIV> For the Lord is most high, fearinspiring; he is a great king over all the earth.</VERS>
+      <VERS vnumber="3">
+        <DIV>
+          <NOTE type="x-studynote">(47:4)</NOTE>
+        </DIV> He will subdue people under us, and nations under our feet.</VERS>
+      <VERS vnumber="4">
+        <DIV>
+          <NOTE type="x-studynote">(47:5)</NOTE>
+        </DIV> He will choose for us our inheritance, the excellency of Jacob which he loveth. Selah.</VERS>
+      <VERS vnumber="5">
+        <DIV>
+          <NOTE type="x-studynote">(47:6)</NOTE>
+        </DIV> God ascendeth amid a triumphal shout, the Lord, amid the sound of the cornet.</VERS>
+      <VERS vnumber="6">
+        <DIV>
+          <NOTE type="x-studynote">(47:7)</NOTE>
+        </DIV> Sing praises to God, sing praises: sing praises unto our King, sing praises.</VERS>
+      <VERS vnumber="7">
+        <DIV>
+          <NOTE type="x-studynote">(47:8)</NOTE>
+        </DIV> For God is King of all the earth: sing ye praises with understanding.</VERS>
+      <VERS vnumber="8">
+        <DIV>
+          <NOTE type="x-studynote">(47:9)</NOTE>
+        </DIV> God reigneth over the nations; God sitteth upon his holy throne.</VERS>
+      <VERS vnumber="9">
+        <DIV>
+          <NOTE type="x-studynote">(47:10)</NOTE>
+        </DIV> The nobles of the people are gathered together, <STYLE css="font-style:italic">to be with</STYLE> the people of the God of Abraham; for unto God belong the shields of the earth: he is greatly exalted.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="42" bname="Lukas" bsname="Lk">
+    <CHAPTER cnumber="3">
+      <VERS vnumber="1">
+        <gr str="1161">Now </gr>
+        <gr str="1722">in </gr>the <gr str="4003">fifteenth </gr>
+        <gr str="2094">year </gr>of <gr str="3588">the </gr>
+        <gr str="2231">reign </gr>of <gr str="5086">Tiberius </gr>
+        <gr str="2541">Caesar</gr>, <gr str="4194">Pontius </gr>
+        <gr str="4091">Pilate </gr>being <gr str="2230">governor </gr>of <gr str="2449">Judea</gr>, <gr str="2532">and </gr>
+        <gr str="2264">Herod </gr>being <gr str="5075">tetrarch </gr>of <gr str="1056">Galilee</gr>, <gr str="1161">and </gr>
+        <gr str="846">his </gr>
+        <gr str="80">brother </gr>
+        <gr str="5376">Philip </gr>
+        <gr str="5075">tetrarch </gr>of <gr str="2484">Ituraea </gr>
+        <gr str="2532">and </gr>of the <gr str="5561">region </gr>of <gr str="5139">Trachonitis</gr>, <gr str="2532">and </gr>
+        <gr str="3078">Lysanias </gr>the <gr str="5075">tetrarch </gr>of <gr str="9">Abilene</gr>, </VERS>
+      <VERS vnumber="2">
+        <gr str="452">Annas </gr>
+        <gr str="2532">and </gr>
+        <gr str="2533">Caiaphas </gr>being the high <gr str="1909 749">priests</gr>, the <gr str="4487">word </gr>of <gr str="2316">God </gr>
+        <gr str="1096">came </gr>
+        <gr str="1909">unto </gr>
+        <gr str="2491">John </gr>
+        <gr str="3588">the </gr>
+        <gr str="5207">son </gr>of <gr str="2197">Zacharias </gr>
+        <gr str="2197">in </gr>
+        <gr str="3588">the </gr>
+        <gr str="2048">wilderness</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="2532">And </gr>he <gr str="2064">came </gr>
+        <gr str="1519">into </gr>
+        <gr str="3956">all </gr>
+        <gr str="3588">the </gr>country <gr str="4066">about </gr>
+        <gr str="2446">Jordan</gr>, <gr str="2784">preaching </gr>the <gr str="908">baptism </gr>of <gr str="3341">repentance </gr>
+        <gr str="1519">for </gr>the <gr str="859">remission </gr>of <gr str="266">sins</gr>; </VERS>
+      <VERS vnumber="4">
+        <gr str="5613">As </gr>it is <gr str="1125">written </gr>
+        <gr str="1722">in </gr>the <gr str="976">book </gr>of the <gr str="3056">words </gr>of <gr str="2268">Isaiah </gr>
+        <gr str="3588">the </gr>
+        <gr str="4396">prophet</gr>, <gr str="3004">saying</gr>, The <gr str="5456">voice </gr>of one <gr str="994">crying </gr>
+        <gr str="1722">in </gr>
+        <gr str="3588">the </gr>
+        <gr str="2048">wilderness</gr>, <gr str="2090">Prepare </gr>ye <gr str="3588">the </gr>
+        <gr str="3598">way </gr>of the <gr str="2962">Lord</gr>, <gr str="4160">make </gr>
+        <gr str="846">his </gr>
+        <gr str="5147">paths </gr>
+        <gr str="2117">straight</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="3956">Every </gr>
+        <gr str="5327">valley </gr>shall be <gr str="4137">filled</gr>, <gr str="2532">and </gr>
+        <gr str="3956">every </gr>
+        <gr str="3735">mountain </gr>
+        <gr str="2532">and </gr>
+        <gr str="1015">hill </gr>shall be brought <gr str="5013">low</gr>; <gr str="2532">and </gr>
+        <gr str="3588">the </gr>
+        <gr str="4646">crooked </gr>shall be <gr str="2071">made </gr>
+        <gr str="2117">straight</gr>, <gr str="2532">and </gr>
+        <gr str="3588">the </gr>rough <gr str="5138">ways </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall <gr str="*1519 3598">be </gr>
+        </STYLE> made <gr str="3006">smooth</gr>; </VERS>
+      <VERS vnumber="6">
+        <gr str="2532">And </gr>
+        <gr str="3956">all </gr>
+        <gr str="4561">flesh </gr>shall <gr str="3700">see </gr>
+        <gr str="3588">the </gr>
+        <gr str="4992">salvation </gr>of <gr str="2316">God</gr>. </VERS>
+      <VERS vnumber="7">
+        <gr str="3767">Then </gr>
+        <gr str="3004">said </gr>he to the <gr str="3793">multitude </gr>that came <gr str="1607">forth </gr>to be <gr str="907">baptized </gr>
+        <gr str="5259">of </gr>
+        <gr str="846">him</gr>, O <gr str="1081">generation </gr>of <gr str="2191">vipers</gr>, <gr str="5101">who </gr>hath <gr str="5263">warned </gr>
+        <gr str="5213">you </gr>to <gr str="5343">flee </gr>
+        <gr str="575">from </gr>
+        <gr str="3588">the </gr>
+        <gr str="3709">wrath </gr>to <gr str="3195">come</gr>? </VERS>
+      <VERS vnumber="8"> Bring <gr str="4160">forth </gr>
+        <gr str="3767">therefore </gr>
+        <gr str="2590">fruits </gr>
+        <gr str="514">worthy </gr>of <gr str="3341">repentance</gr>, <gr str="2532">and </gr>
+        <gr str="756">begin </gr>
+        <gr str="3361">not </gr>to <gr str="3004">say </gr>
+        <gr str="1722">within </gr>
+        <gr str="1438">yourselves</gr>, We <gr str="2192">have </gr>
+        <gr str="11">Abraham </gr>to <STYLE css="color:#808080;font-style:italic"> our </STYLE>
+        <gr str="3962">father</gr>: <gr str="1063">for </gr>I <gr str="3004">say </gr>unto <gr str="5213">you</gr>, <gr str="3754">That </gr>
+        <gr str="2316">God </gr>is <gr str="1410">able </gr>
+        <gr str="1537">of </gr>
+        <gr str="5130">these </gr>
+        <gr str="3037">stones </gr>to raise <gr str="1453">up </gr>
+        <gr str="5043">children </gr>unto <gr str="11">Abraham</gr>. </VERS>
+      <VERS vnumber="9">
+        <gr str="1161">And </gr>
+        <gr str="2235">now </gr>
+        <gr str="2532">also </gr>
+        <gr str="3588">the </gr>
+        <gr str="513">axe </gr>is <gr str="2749">laid </gr>
+        <gr str="4314">unto </gr>
+        <gr str="3588">the </gr>
+        <gr str="4491">root </gr>of <gr str="3588">the </gr>
+        <gr str="1186">trees</gr>: <gr str="3956">every </gr>
+        <gr str="1186">tree </gr>
+        <gr str="3767">therefore </gr>which bringeth not <gr str="4160 3361">forth </gr>
+        <gr str="2570">good </gr>
+        <gr str="2590">fruit </gr>is hewn <gr str="1581">down</gr>, <gr str="2532">and </gr>
+        <gr str="906">cast </gr>
+        <gr str="1519">into </gr>the <gr str="4442">fire</gr>. </VERS>
+      <VERS vnumber="10">
+        <gr str="2532">And </gr>
+        <gr str="3588">the </gr>
+        <gr str="3793">people </gr>
+        <gr str="1905">asked </gr>
+        <gr str="846">him</gr>, <gr str="3004">saying</gr>, <gr str="5101">What </gr>shall we <gr str="4160">do </gr>
+        <gr str="3767">then</gr>? </VERS>
+      <VERS vnumber="11">
+        <gr str="*1161">He </gr>
+        <gr str="611">answereth </gr>and <gr str="3004">saith </gr>unto <gr str="846">them</gr>, He that <gr str="2192">hath </gr>
+        <gr str="1417">two </gr>
+        <gr str="5509">coats</gr>, let him <gr str="3330">impart </gr>to him that <gr str="2192">hath </gr>
+        <gr str="3361">none</gr>; <gr str="2532">and </gr>he that <gr str="2192">hath </gr>
+        <gr str="1033">meat</gr>, let him <gr str="4160">do </gr>
+        <gr str="3668">likewise</gr>. </VERS>
+      <VERS vnumber="12">
+        <gr str="1161">Then </gr>
+        <gr str="2064">came </gr>
+        <gr str="2532">also </gr>
+        <gr str="5057">publicans </gr>to be <gr str="907">baptized</gr>, <gr str="2532">and </gr>
+        <gr str="2036">said </gr>
+        <gr str="4314">unto </gr>
+        <gr str="846">him</gr>, <gr str="1320">Master</gr>, <gr str="5101">what </gr>shall we <gr str="4160">do</gr>? </VERS>
+      <VERS vnumber="13">
+        <gr str="1161">And </gr>
+        <gr str="3588">he </gr>
+        <gr str="2036">said </gr>
+        <gr str="4314">unto </gr>
+        <gr str="846">them</gr>, <gr str="4238">Exact </gr>
+        <gr str="3367">no </gr>
+        <gr str="4119">more </gr>
+        <gr str="3844">than </gr>that which is <gr str="1299">appointed </gr>
+        <gr str="5213">you</gr>. </VERS>
+      <VERS vnumber="14">
+        <gr str="1161">And </gr>the <gr str="4754">soldiers </gr>
+        <gr str="2532">likewise </gr>
+        <gr str="1905">demanded </gr>of <gr str="846">him</gr>, <gr str="3004">saying</gr>, <gr str="2532">And </gr>
+        <gr str="5101">what </gr>shall <gr str="2248">we </gr>
+        <gr str="4160">do</gr>? <gr str="2532">And </gr>he <gr str="2036">said </gr>
+        <gr str="4314">unto </gr>
+        <gr str="846">them</gr>, Do <gr str="1286">violence </gr>to no <gr str="3367">man</gr>, <gr str="3366">neither </gr>accuse <STYLE css="color:#808080;font-style:italic"> any </STYLE>
+        <gr str="4811">falsely</gr>; <gr str="2532">and </gr>be <gr str="714">content </gr>with <gr str="5216">your </gr>
+        <gr str="3800">wages</gr>. </VERS>
+      <VERS vnumber="15">
+        <gr str="1161">And </gr>as <gr str="3588">the </gr>
+        <gr str="2992">people </gr>were in <gr str="4328">expectation</gr>, <gr str="2532">and </gr>all <gr str="3956">men </gr>
+        <gr str="1260">mused </gr>
+        <gr str="1722">in </gr>
+        <gr str="848">their </gr>
+        <gr str="2588">hearts </gr>
+        <gr str="4012">of </gr>
+        <gr str="2491">John</gr>, whether he were the Christ, or <gr str="3379 846 1498 3588 5547">not</gr>; </VERS>
+      <VERS vnumber="16">
+        <gr str="2491">John </gr>
+        <gr str="611">answered</gr>, <gr str="3004">saying </gr>unto <STYLE css="color:#808080;font-style:italic"> them </STYLE>
+        <gr str="537">all</gr>, <gr str="1473">I </gr>
+        <gr str="3303">indeed </gr>
+        <gr str="907">baptize </gr>
+        <gr str="5209">you </gr>with <gr str="5204">water</gr>; <gr str="1161">but </gr>one <gr str="2478">mightier </gr>than <gr str="3450">I </gr>
+        <gr str="2064">cometh</gr>, <gr str="3588">the </gr>
+        <gr str="2438">latchet </gr>of <gr str="3739">whose </gr>
+        <gr str="5266">shoes </gr>I <gr str="1510">am </gr>
+        <gr str="3756">not </gr>
+        <gr str="2425">worthy </gr>to <gr str="3089">unloose</gr>: <gr str="846">he </gr>shall <gr str="907">baptize </gr>
+        <gr str="5209">you </gr>
+        <gr str="1722">with </gr>the <gr str="40">Holy </gr>
+        <gr str="4151">Ghost </gr>
+        <gr str="2532">and </gr>with <gr str="4442">fire</gr>: </VERS>
+      <VERS vnumber="17">
+        <gr str="3739">Whose </gr>
+        <gr str="4425">fan </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="1722">in </gr>
+        <gr str="846">his </gr>
+        <gr str="5495">hand</gr>, <gr str="2532">and </gr>he will thoroughly <gr str="1245">purge </gr>
+        <gr str="848">his </gr>
+        <gr str="257">floor</gr>, <gr str="2532">and </gr>will <gr str="4863">gather </gr>
+        <gr str="3588">the </gr>
+        <gr str="4621">wheat </gr>
+        <gr str="1519">into </gr>
+        <gr str="848">his </gr>
+        <gr str="596">garner</gr>; <gr str="1161">but </gr>
+        <gr str="3588">the </gr>
+        <gr str="892">chaff </gr>he will <gr str="2618">burn </gr>with <gr str="4442">fire </gr>
+        <gr str="762">unquenchable</gr>. </VERS>
+      <VERS vnumber="18">
+        <gr str="2532">And <gr str="*3767 3303" />
+        </gr>
+        <gr str="4183">many </gr>other <gr str="2087">things </gr>in his <gr str="3870">exhortation </gr>
+        <gr str="2097">preached </gr>he unto <gr str="3588">the </gr>
+        <gr str="2992">people</gr>. </VERS>
+      <VERS vnumber="19">
+        <gr str="1161">But </gr>
+        <gr str="2264">Herod </gr>
+        <gr str="3588">the </gr>
+        <gr str="5076">tetrarch</gr>, being <gr str="1651">reproved </gr>
+        <gr str="5259">by </gr>
+        <gr str="846">him </gr>
+        <gr str="4012">for </gr>
+        <gr str="2266">Herodias </gr>
+        <gr str="846">his </gr>
+        <gr str="80">brother </gr>
+        <gr str="5376">Philip </gr>'s <gr str="1135">wife</gr>, <gr str="2532">and </gr>
+        <gr str="4012">for </gr>
+        <gr str="3956">all </gr>the <gr str="4190">evils </gr>
+        <gr str="3739">which </gr>
+        <gr str="2264">Herod </gr>had <gr str="4160">done</gr>, </VERS>
+      <VERS vnumber="20">
+        <gr str="4369">Added </gr>
+        <gr str="2532">yet </gr>
+        <gr str="5124">this </gr>
+        <gr str="1909">above </gr>
+        <gr str="3956">all</gr>, <gr str="2532">that </gr>he shut <gr str="2623">up </gr>
+        <gr str="2491">John </gr>
+        <gr str="1722">in </gr>
+        <gr str="5438">prison</gr>. </VERS>
+      <VERS vnumber="21">
+        <gr str="1161">Now </gr>when <gr str="537">all </gr>
+        <gr str="3588">the </gr>
+        <gr str="2992">people </gr>were <gr str="907">baptized</gr>, it came to <gr str="1096">pass</gr>, that <gr str="2424">Jesus </gr>
+        <gr str="2532">also </gr>being <gr str="907">baptized</gr>, <gr str="2532">and </gr>
+        <gr str="4336">praying</gr>, <gr str="3588">the </gr>
+        <gr str="3772">heaven </gr>was <gr str="455">opened</gr>, </VERS>
+      <VERS vnumber="22">
+        <gr str="2532">And </gr>
+        <gr str="3588">the </gr>
+        <gr str="40">Holy </gr>
+        <gr str="4151">Ghost </gr>
+        <gr str="2597">descended </gr>in a <gr str="4984">bodily </gr>
+        <gr str="1491">shape </gr>
+        <gr str="5616">like </gr>a <gr str="4058">dove </gr>
+        <gr str="1909">upon </gr>
+        <gr str="846">him</gr>, <gr str="2532">and </gr>a <gr str="5456">voice </gr>
+        <gr str="1096">came </gr>
+        <gr str="1537">from </gr>
+        <gr str="3772">heaven</gr>, which <gr str="3004">said</gr>, <gr str="4771">Thou </gr>
+        <gr str="1488">art </gr>
+        <gr str="3450">my </gr>
+        <gr str="27">beloved </gr>
+        <gr str="5207">Son</gr>; <gr str="1722">in </gr>
+        <gr str="4671">thee </gr>I am well <gr str="2106">pleased</gr>. </VERS>
+      <VERS vnumber="23">
+        <gr str="2532">And </gr>
+        <gr str="2424">Jesus </gr>
+        <gr str="846">himself </gr>
+        <gr str="756">began </gr>to <gr str="2258">be </gr>
+        <gr str="5616">about </gr>thirty years of <gr str="5144 2094">age </gr>
+        <gr str="5607">being </gr>(<gr str="5613">as </gr>was <gr str="3543">supposed </gr>) <gr str="3588">the </gr>
+        <gr str="5207">son </gr>of <gr str="2501">Joseph</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2242">Heli</gr>, </VERS>
+      <VERS vnumber="24"> Which was <STYLE css="color:#808080;font-style:italic"> the son </STYLE> of <gr str="3158">Matthat</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="3017">Levi</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="3197">Melchi</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2388">Janna</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2501">Joseph</gr>, </VERS>
+      <VERS vnumber="25"> Which was <STYLE css="color:#808080;font-style:italic"> the son </STYLE> of <gr str="3161">Mattathias</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="301">Amos</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="3486">Naum</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2069">Esli</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="3477">Nagge</gr>, </VERS>
+      <VERS vnumber="26"> Which was <STYLE css="color:#808080;font-style:italic"> the son </STYLE> of <gr str="3092">Maath</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="3161">Mattathias</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="4584">Semei</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2501">Joseph</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2455">Judah</gr>, </VERS>
+      <VERS vnumber="27"> Which was <STYLE css="color:#808080;font-style:italic"> the son </STYLE> of <gr str="2490">Joanna</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="4488">Rhesa</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2216">Zorobabel</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="4528">Shealtiel</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="3518">Neri</gr>, </VERS>
+      <VERS vnumber="28"> Which was <STYLE css="color:#808080;font-style:italic"> the son </STYLE> of <gr str="3197">Melchi</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="78">Addi</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2973">Cosam</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="1678">Elmodam</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2262">Er</gr>, </VERS>
+      <VERS vnumber="29"> Which was <STYLE css="color:#808080;font-style:italic"> the son </STYLE> of <gr str="2499">Jose</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="1663">Eliezer</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2497">Jorim</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="3158">Matthat</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="3017">Levi</gr>, </VERS>
+      <VERS vnumber="30"> Which was <STYLE css="color:#808080;font-style:italic"> the son </STYLE> of <gr str="4826">Simeon</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2455">Judah</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2501">Joseph</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2494">Jonan</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="1662">Eliakim</gr>, </VERS>
+      <VERS vnumber="31"> Which was <STYLE css="color:#808080;font-style:italic"> the son </STYLE> of <gr str="3190">Melea</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="3104">Menan</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="3160">Mattatha</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="3481">Nathan</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="1138">David</gr>, </VERS>
+      <VERS vnumber="32"> Which was <STYLE css="color:#808080;font-style:italic"> the son </STYLE> of <gr str="2421">Jesse</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="5601">Obed</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="1003">Boaz</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="4533">Salmon</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="3476">Naasson</gr>, </VERS>
+      <VERS vnumber="33"> Which was <STYLE css="color:#808080;font-style:italic"> the son </STYLE> of <gr str="284">Aminadab</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="689">Aram</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2074">Esrom</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="5329">Phares</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2455">Judah</gr>, </VERS>
+      <VERS vnumber="34"> Which was <STYLE css="color:#808080;font-style:italic"> the son </STYLE> of <gr str="2384">Jacob</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2464">Isaac</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="11">Abraham</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2291">Terah</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="3493">Nahor</gr>, </VERS>
+      <VERS vnumber="35"> Which was <STYLE css="color:#808080;font-style:italic"> the son </STYLE> of <gr str="4562">Serug</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="4466">Reu</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="5317">Phalec</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="1443">Heber</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="4527">Sala</gr>, </VERS>
+      <VERS vnumber="36"> Which was <STYLE css="color:#808080;font-style:italic"> the son </STYLE> of <gr str="2536">Cainan</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="742">Arphaxad</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="4590">Shem</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="3575">Noah</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2984">Lamech</gr>, </VERS>
+      <VERS vnumber="37"> Which was <STYLE css="color:#808080;font-style:italic"> the son </STYLE> of <gr str="3103">Methuselah</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="1802">Enoch</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2391">Jared</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="3121">Maleleel</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2536">Cainan</gr>, </VERS>
+      <VERS vnumber="38"> Which was <STYLE css="color:#808080;font-style:italic"> the son </STYLE> of <gr str="1800">Enos</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="4589">Seth</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="76">Adam</gr>, which was <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> son </STYLE> of <gr str="2316">God</gr>.
+ </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

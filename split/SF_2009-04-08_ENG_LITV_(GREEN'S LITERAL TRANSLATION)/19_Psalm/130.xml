@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Green's Literal Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="130">
+      <VERS vnumber="1">  A Song of Ascents. Out of the depths I have called You, O Jehovah.</VERS>
+      <VERS vnumber="2"> Lord, hear my voice, and let Your ears attend to the voice of my prayers.</VERS>
+      <VERS vnumber="3"> If You will keep iniquities, O Jehovah, O Lord, who shall stand?</VERS>
+      <VERS vnumber="4"> But forgiveness is with You that You may be feared.</VERS>
+      <VERS vnumber="5"> I wait for Jehovah; my soul waits, and I hope for His word.</VERS>
+      <VERS vnumber="6"> My soul waits for the Lord more than morning-watchers watching for the morning.</VERS>
+      <VERS vnumber="7"> Let Israel hope to Jehovah, for with Jehovah is mercy, and with Him is abundant redemption;</VERS>
+      <VERS vnumber="8"> and He shall redeem Israel from all his iniquities.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

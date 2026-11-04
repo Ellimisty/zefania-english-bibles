@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="111">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">Alleluia.</STYLE> - I will give thee thanks, O Lord, with my whole heart, in the council of the upright, and in the congregation.</VERS>
+      <VERS vnumber="2">The works of the Lord are great, sought out <DIV>
+          <NOTE type="x-studynote">Comp. Gr. with Heb.</NOTE>
+        </DIV> according to all his will.</VERS>
+      <VERS vnumber="3">His work is worthy of thanksgiving and honour: and his righteousness endures for ever and ever.</VERS>
+      <VERS vnumber="4">He has caused his wonderful works to be remembered: the Lord is merciful and compassionate.</VERS>
+      <VERS vnumber="5">He has given food to them that fear him: he will remember his covenant for ever.</VERS>
+      <VERS vnumber="6">He has declared to his people the power of his works, to give them the inheritance of the heathen.</VERS>
+      <VERS vnumber="7">The works of his hands are truth and judgement: all his commandments are sure:</VERS>
+      <VERS vnumber="8">established for ever and ever, done in truth and uprightness.</VERS>
+      <VERS vnumber="9">He sent redemption to his people: he commanded his covenant for ever: holy and fearful is his name.</VERS>
+      <VERS vnumber="10">The fear of the Lord is the <DIV>
+          <NOTE type="x-studynote">Or, sum</NOTE>
+        </DIV> beginning of wisdom, and all that act accordingly have a good understanding; his praise endures for ever and ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

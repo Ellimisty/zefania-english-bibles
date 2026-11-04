@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="138">
+      <VERS vnumber="1">A Psalm of David.</VERS>
+      <VERS vnumber="2">I give thee thanks, O LORD, with my whole heart; before the gods I sing thy praise;</VERS>
+      <VERS vnumber="3">I bow down toward thy holy temple and give thanks to thy name for thy steadfast love and thy faithfulness; for thou hast exalted above everything thy name and thy word.</VERS>
+      <VERS vnumber="4">On the day I called, thou didst answer me, my strength of soul thou didst increase.</VERS>
+      <VERS vnumber="5">All the kings of the earth shall praise thee, O LORD, for they have heard the words of thy mouth;</VERS>
+      <VERS vnumber="6">and they shall sing of the ways of the LORD, for great is the glory of the LORD.</VERS>
+      <VERS vnumber="7">For though the LORD is high, he regards the lowly; but the haughty he knows from afar.</VERS>
+      <VERS vnumber="8">Though I walk in the midst of trouble, thou dost preserve my life; thou dost stretch out thy hand against the wrath of my enemies, and thy right hand delivers me. [ (Psalms 138:9) The LORD will fulfil his purpose for me; thy steadfast love, O LORD, endures for ever. Do not forsake the work of thy hands. ]</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

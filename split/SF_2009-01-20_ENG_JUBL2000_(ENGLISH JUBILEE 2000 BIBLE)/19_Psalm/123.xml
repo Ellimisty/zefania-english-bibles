@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="English Jubilee 2000 Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="123">
+      <VERS vnumber="1">&lt;&lt;A Song of degrees.&gt;&gt; Unto thee I lift up mine eyes, O thou that dwellest in the heavens.</VERS>
+      <VERS vnumber="2">Behold, as the eyes of servants [look] unto the hand of their masters [and] as the eyes of a maiden unto the hand of her mistress, so our eyes [wait] upon the LORD our God, until he shall have mercy upon us.</VERS>
+      <VERS vnumber="3">Have mercy upon us, O LORD, have mercy upon us, for we are exceedingly weary of [being held in] contempt.</VERS>
+      <VERS vnumber="4">Our soul is exceedingly weary of the scorning of those that are at ease [and] of the contempt of the proud.:</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

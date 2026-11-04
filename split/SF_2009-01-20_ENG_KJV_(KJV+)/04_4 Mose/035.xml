@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="4" bname="4 Mose" bsname="4Mo">
+    <CHAPTER cnumber="35">
+      <VERS vnumber="1"> And the <gr str="3068">LORD </gr>
+        <gr str="1696">spoke </gr>
+        <gr str="413">unto </gr>
+        <gr str="4872">Moses </gr>in the <gr str="6160">plains </gr>of <gr str="4124">Moab </gr>
+        <gr str="5921">by </gr>
+        <gr str="3383">Jordan </gr>
+        <STYLE css="color:#808080;font-style:italic"> near </STYLE>
+        <gr str="3405">Jericho</gr>, <gr str="559">saying</gr>, </VERS>
+      <VERS vnumber="2">
+        <gr str="6680">Command </gr>
+        <gr str="*853">
+        </gr>the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>, that they <gr str="5414">give </gr>unto the <gr str="3881">Levites </gr>of the <gr str="4480 5159">inheritance </gr>of their <gr str="272">possession </gr>
+        <gr str="5892">cities </gr>to dwell <gr str="3427">in</gr>; and ye shall <gr str="5414">give </gr>
+        <STYLE css="color:#808080;font-style:italic"> also </STYLE> unto the <gr str="3881">Levites </gr>
+        <gr str="4054">suburbs </gr>for the <gr str="5892">cities </gr>round <gr str="5439">about </gr>them. </VERS>
+      <VERS vnumber="3"> And the <gr str="5892">cities </gr>shall they <gr str="1961">have </gr>to dwell <gr str="3427">in</gr>; and the <gr str="4054">suburbs </gr>of them shall <gr str="1961">be </gr>for their <gr str="929">cattle</gr>, and for their <gr str="7399">goods</gr>, and for <gr str="3605">all </gr>their <gr str="2416">beasts</gr>. </VERS>
+      <VERS vnumber="4"> And the <gr str="4054">suburbs </gr>of the <gr str="5892">cities</gr>, <gr str="834">which </gr>ye shall <gr str="5414">give </gr>unto the <gr str="3881">Levites</gr>, <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> reach </STYLE> from the <gr str="4480 7023">wall </gr>of the <gr str="5892">city </gr>and <gr str="2351">outward </gr>a <gr str="505">thousand </gr>
+        <gr str="520">cubits </gr>round <gr str="5439">about</gr>. </VERS>
+      <VERS vnumber="5"> And ye shall <gr str="4058">measure </gr>from <gr str="4480 2351">without </gr>the <gr str="5892">city </gr>on <gr str="*853" />the <gr str="6924">east </gr>
+        <gr str="6285">side </gr>two <gr str="505">thousand </gr>
+        <gr str="520">cubits</gr>, and on the <gr str="5045">south </gr>
+        <gr str="6285">side </gr>two <gr str="505">thousand </gr>
+        <gr str="520">cubits</gr>, and on the <gr str="3220">west </gr>
+        <gr str="6285">side </gr>two <gr str="505">thousand </gr>
+        <gr str="520">cubits</gr>, and on the <gr str="6828">north </gr>
+        <gr str="6285">side </gr>two <gr str="505">thousand </gr>
+        <gr str="520">cubits</gr>; and the <gr str="5892">city </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> in the <gr str="8432">midst</gr>: <gr str="2088">this </gr>shall <gr str="1961">be </gr>to them the <gr str="4054">suburbs </gr>of the <gr str="5892">cities</gr>. </VERS>
+      <VERS vnumber="6"> And <gr str="854">among </gr>the <gr str="5892">cities </gr>
+        <gr str="834">which </gr>ye shall <gr str="5414">give </gr>unto the <gr str="3881">Levites </gr>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="*853" />
+        <gr str="8337">six </gr>
+        <gr str="5892">cities </gr>for <gr str="4733">refuge</gr>, <gr str="834">which </gr>ye shall <gr str="5414">appoint </gr>for the <gr str="7523">manslayer</gr>, that he may <gr str="5127">flee </gr>
+        <gr str="8033">thither</gr>: and <gr str="5921">to </gr>them ye shall <gr str="5414">add </gr>
+        <gr str="705">forty </gr>and <gr str="8147">two </gr>
+        <gr str="5892">cities</gr>. </VERS>
+      <VERS vnumber="7">
+        <STYLE css="color:#808080;font-style:italic"> So </STYLE>
+        <gr str="3605">all </gr>the <gr str="5892">cities </gr>
+        <gr str="834">which </gr>ye shall <gr str="5414">give </gr>to the <gr str="3881">Levites </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="705">forty </gr>and <gr str="8083">eight </gr>
+        <gr str="5892">cities</gr>: them <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> ye </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> give </STYLE>
+        <gr str="854">with </gr>their <gr str="4054">suburbs</gr>. </VERS>
+      <VERS vnumber="8"> And the <gr str="5892">cities </gr>
+        <gr str="834">which </gr>ye shall <gr str="5414">give </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> of the <gr str="4480 272">possession </gr>of the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>: <gr str="4480 854">from </gr>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> have </STYLE>
+        <gr str="7227">many </gr>ye shall give <gr str="7235">many</gr>; but <gr str="4480 854">from </gr>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> have </STYLE>
+        <gr str="4592">few </gr>ye shall give <gr str="4591">few</gr>: every <gr str="376">one </gr>shall <gr str="5414">give </gr>of his <gr str="4480 5892">cities </gr>unto the <gr str="3881">Levites </gr>according <gr str="6310">to </gr>his <gr str="5159">inheritance </gr>
+        <gr str="834">which </gr>he <gr str="5157">inheriteth</gr>. </VERS>
+      <VERS vnumber="9"> And the <gr str="3068">LORD </gr>
+        <gr str="1696">spoke </gr>
+        <gr str="413">unto </gr>
+        <gr str="4872">Moses</gr>, <gr str="559">saying</gr>, </VERS>
+      <VERS vnumber="10">
+        <gr str="1696">Speak </gr>
+        <gr str="413">unto </gr>the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>, and <gr str="559">say </gr>
+        <gr str="413">unto </gr>them, <gr str="3588">When </gr>
+        <gr str="859">ye </gr>be come <gr str="5674">over </gr>
+        <gr str="*853" />
+        <gr str="3383">Jordan </gr>into the <gr str="776">land </gr>of <gr str="3667">Canaan</gr>; </VERS>
+      <VERS vnumber="11"> Then ye shall <gr str="7136">appoint </gr>you <gr str="5892">cities </gr>to <gr str="1961">be </gr>
+        <gr str="5892">cities </gr>of <gr str="4733">refuge </gr>for you; that the <gr str="7523">slayer </gr>may <gr str="5127">flee </gr>
+        <gr str="8033">thither</gr>, which <gr str="5221">killeth </gr>any <gr str="5315">person </gr>at <gr str="7684">unawares</gr>. </VERS>
+      <VERS vnumber="12"> And they shall <gr str="1961">be </gr>unto you <gr str="5892">cities </gr>for <gr str="4733">refuge </gr>from the <gr str="4480 1350">avenger</gr>; that the <gr str="7523">manslayer </gr>
+        <gr str="4191">die </gr>
+        <gr str="3808">not</gr>, <gr str="5704">until </gr>he <gr str="5975">stand </gr>
+        <gr str="6440">before </gr>the <gr str="5712">congregation </gr>in <gr str="4941">judgment</gr>. </VERS>
+      <VERS vnumber="13"> And of these <gr str="5892">cities </gr>
+        <gr str="834">which </gr>ye shall <gr str="5414">give </gr>
+        <gr str="8337">six </gr>
+        <gr str="5892">cities </gr>shall ye <gr str="1961">have </gr>for <gr str="4733">refuge</gr>. </VERS>
+      <VERS vnumber="14"> Ye shall <gr str="5414">give </gr>
+        <gr str="*853" />
+        <gr str="7969">three </gr>
+        <gr str="5892">cities </gr>on this <gr str="4480 5676">side </gr>
+        <gr str="3383">Jordan</gr>, and <gr str="7969">three </gr>
+        <gr str="5892">cities </gr>shall ye <gr str="5414">give </gr>in the <gr str="776">land </gr>of <gr str="3667">Canaan</gr>, <STYLE css="color:#808080;font-style:italic"> which </STYLE> shall <gr str="1961">be </gr>
+        <gr str="5892">cities </gr>of <gr str="4733">refuge</gr>. </VERS>
+      <VERS vnumber="15">
+        <gr str="428">These </gr>
+        <gr str="8337">six </gr>
+        <gr str="5892">cities </gr>shall <gr str="1961">be </gr>a <gr str="4733">refuge</gr>, <STYLE css="color:#808080;font-style:italic"> both </STYLE> for the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>, and for the <gr str="1616">stranger</gr>, and for the <gr str="8453">sojourner </gr>
+        <gr str="8432">among </gr>them: that every <gr str="3605">one </gr>that <gr str="5221">killeth </gr>any <gr str="5315">person </gr>
+        <gr str="7684">unawares </gr>may <gr str="5127">flee </gr>
+        <gr str="8033">thither</gr>. </VERS>
+      <VERS vnumber="16"> And <gr str="518">if </gr>he <gr str="5221">smite </gr>him with an <gr str="3627">instrument </gr>of <gr str="1270">iron</gr>, so that he <gr str="4191">die</gr>, <gr str="1931">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="7523">murderer</gr>: the <gr str="7523">murderer </gr>shall surely be put to <gr str="4191 4191">death</gr>. </VERS>
+      <VERS vnumber="17"> And <gr str="518">if </gr>he <gr str="5221">smite </gr>him with <gr str="3027">throwing </gr>a <gr str="68">stone</gr>, <gr str="834">wherewith </gr>he may <gr str="4191">die</gr>, and he <gr str="4191">die</gr>, <gr str="1931">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="7523">murderer</gr>: the <gr str="7523">murderer </gr>shall surely be put to <gr str="4191 4191">death</gr>. </VERS>
+      <VERS vnumber="18">
+        <gr str="176">Or </gr>
+        <STYLE css="color:#808080;font-style:italic"> if </STYLE> he <gr str="5221">smite </gr>him with a <gr str="3027">hand </gr>
+        <gr str="3627">weapon </gr>of <gr str="6086">wood</gr>, <gr str="834">wherewith </gr>he may <gr str="4191">die</gr>, and he <gr str="4191">die</gr>, <gr str="1931">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="7523">murderer</gr>: the <gr str="7523">murderer </gr>shall surely be put to <gr str="4191 4191">death</gr>. </VERS>
+      <VERS vnumber="19"> The <gr str="1350">revenger </gr>of <gr str="1818">blood </gr>
+        <gr str="1931">himself </gr>shall <gr str="4191">slay </gr>
+        <gr str="*853" />the <gr str="7523">murderer</gr>: when he <gr str="6293">meeteth </gr>him, <gr str="1931">he </gr>shall <gr str="4191">slay </gr>him. </VERS>
+      <VERS vnumber="20"> But <gr str="518">if </gr>he <gr str="1920">thrust </gr>him of <gr str="8135">hatred</gr>, <gr str="176">or </gr>
+        <gr str="7993">hurl </gr>
+        <gr str="5921">at </gr>him by laying of <gr str="6660">wait</gr>, that he <gr str="4191">die</gr>; </VERS>
+      <VERS vnumber="21">
+        <gr str="176">Or </gr>in <gr str="342">enmity </gr>
+        <gr str="5221">smite </gr>him with his <gr str="3027">hand</gr>, that he <gr str="4191">die</gr>: he that <gr str="5221">smote </gr>
+        <STYLE css="color:#808080;font-style:italic"> him </STYLE> shall surely be put to <gr str="4191 4191">death</gr>; <STYLE css="color:#808080;font-style:italic"> for </STYLE>
+        <gr str="1931">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="7523">murderer</gr>: the <gr str="1350">revenger </gr>of <gr str="1818">blood </gr>shall <gr str="4191">slay </gr>
+        <gr str="*853" />the <gr str="7523">murderer</gr>, when he <gr str="6293">meeteth </gr>him. </VERS>
+      <VERS vnumber="22"> But <gr str="518">if </gr>he <gr str="1920">thrust </gr>him <gr str="6621">suddenly </gr>
+        <gr str="3808">without </gr>
+        <gr str="342">enmity</gr>, <gr str="176">or </gr>have <gr str="7993">cast </gr>
+        <gr str="5921">upon </gr>him any <gr str="3605 3627">thing </gr>
+        <gr str="3808">without </gr>laying of <gr str="6660">wait</gr>, </VERS>
+      <VERS vnumber="23">
+        <gr str="176">Or </gr>with <gr str="3605">any </gr>
+        <gr str="68">stone</gr>, <gr str="834">wherewith </gr>a man may <gr str="4191">die</gr>, <gr str="7200">seeing </gr>
+        <STYLE css="color:#808080;font-style:italic"> him </STYLE>
+        <gr str="3808">not</gr>, and <gr str="5307">cast </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <gr str="5921">upon </gr>him, that he <gr str="4191">die</gr>, and <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="3808">not </gr>his <gr str="341">enemy</gr>, <gr str="3808">neither </gr>
+        <gr str="1245">sought </gr>his <gr str="7451">harm</gr>: </VERS>
+      <VERS vnumber="24"> Then the <gr str="5712">congregation </gr>shall <gr str="8199">judge </gr>
+        <gr str="996">between </gr>the <gr str="5221">slayer </gr>and the <gr str="1350">revenger </gr>of <gr str="1818">blood </gr>according <gr str="5921">to </gr>
+        <gr str="428">these </gr>
+        <gr str="4941">judgments</gr>: </VERS>
+      <VERS vnumber="25"> And the <gr str="5712">congregation </gr>shall <gr str="5337">deliver </gr>
+        <gr str="*853" />the <gr str="7523">slayer </gr>out of the <gr str="4480 3027">hand </gr>of the <gr str="1350">revenger </gr>of <gr str="1818">blood</gr>, and the <gr str="5712">congregation </gr>shall <gr str="7725">restore </gr>him <gr str="413">to </gr>the <gr str="5892">city </gr>of his <gr str="4733">refuge</gr>, <gr str="834 8033">whither </gr>he was <gr str="5127">fled</gr>: and he shall <gr str="3427">abide </gr>in it <gr str="5704">unto </gr>the <gr str="4194">death </gr>of the <gr str="1419">high </gr>
+        <gr str="3548">priest</gr>, <gr str="834">which </gr>was <gr str="4886">anointed </gr>with the <gr str="6944">holy </gr>
+        <gr str="8081">oil</gr>. </VERS>
+      <VERS vnumber="26"> But <gr str="518">if </gr>the <gr str="7523">slayer </gr>shall at any time come <gr str="3318 3318">without </gr>
+        <gr str="*853" />the <gr str="1366">border </gr>of the <gr str="5892">city </gr>of his <gr str="4733">refuge</gr>, <gr str="834 8033">whither </gr>he was <gr str="5127">fled</gr>; </VERS>
+      <VERS vnumber="27"> And the <gr str="1350">revenger </gr>of <gr str="1818">blood </gr>
+        <gr str="4672">find </gr>him <gr str="4480 2351">without </gr>the <gr str="1366">borders </gr>of the <gr str="5892">city </gr>of his <gr str="4733">refuge</gr>, and the <gr str="1350">revenger </gr>of <gr str="1818">blood </gr>
+        <gr str="7523">kill </gr>
+        <gr str="*853" />the <gr str="7523">slayer</gr>; he shall <gr str="369">not </gr>be guilty of <gr str="1818">blood</gr>: </VERS>
+      <VERS vnumber="28">
+        <gr str="3588">Because </gr>he should have <gr str="3427">remained </gr>in the <gr str="5892">city </gr>of his <gr str="4733">refuge </gr>
+        <gr str="5704">until </gr>the <gr str="4194">death </gr>of the <gr str="1419">high </gr>
+        <gr str="3548">priest</gr>: but <gr str="310">after </gr>the <gr str="4194">death </gr>of the <gr str="1419">high </gr>
+        <gr str="3548">priest </gr>the <gr str="7523">slayer </gr>shall <gr str="7725">return </gr>
+        <gr str="413">into </gr>the <gr str="776">land </gr>of his <gr str="272">possession</gr>. </VERS>
+      <VERS vnumber="29"> So <gr str="428">these </gr>
+        <STYLE css="color:#808080;font-style:italic"> things </STYLE> shall <gr str="1961">be </gr>for a <gr str="2708">statute </gr>of <gr str="4941">judgment </gr>unto you throughout your <gr str="1755">generations </gr>in <gr str="3605">all </gr>your <gr str="4186">dwellings</gr>. </VERS>
+      <VERS vnumber="30">
+        <gr str="3605">Whoso </gr>
+        <gr str="5221">killeth </gr>any <gr str="5315">person</gr>,  <gr str="*853" />the <gr str="7523">murderer </gr>shall be put to <gr str="7523">death </gr>by the <gr str="6310">mouth </gr>of <gr str="5707">witnesses</gr>: but <gr str="259">one </gr>
+        <gr str="5707">witness </gr>shall <gr str="3808">not </gr>
+        <gr str="6030">testify </gr>against any <gr str="5315">person </gr>
+        <STYLE css="color:#808080;font-style:italic"> to </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> cause </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> him </STYLE> to <gr str="4191">die</gr>. </VERS>
+      <VERS vnumber="31"> Moreover ye shall <gr str="3947">take </gr>
+        <gr str="3808">no </gr>
+        <gr str="3724">satisfaction </gr>for the <gr str="5315">life </gr>of a <gr str="7523">murderer</gr>, <gr str="834">which </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="7563">guilty </gr>of <gr str="4191">death</gr>: <gr str="3588">but </gr>he shall be surely put to <gr str="4191 4191">death</gr>. </VERS>
+      <VERS vnumber="32"> And ye shall <gr str="3947">take </gr>
+        <gr str="3808">no </gr>
+        <gr str="3724">satisfaction </gr>for him that is <gr str="5127">fled </gr>
+        <gr str="413">to </gr>the <gr str="5892">city </gr>of his <gr str="4733">refuge</gr>, that he should come <gr str="7725">again </gr>to <gr str="3427">dwell </gr>in the <gr str="776">land</gr>, <gr str="5704">until </gr>the <gr str="4194">death </gr>of the <gr str="3548">priest</gr>. </VERS>
+      <VERS vnumber="33"> So ye shall <gr str="3808">not </gr>
+        <gr str="2610">pollute </gr>
+        <gr str="*853" />the <gr str="776">land </gr>
+        <gr str="834">wherein </gr>
+        <gr str="859">ye </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>: <gr str="3588">for </gr>
+        <gr str="1818">blood </gr>
+        <gr str="1931">it </gr>
+        <gr str="2610">defileth </gr>
+        <gr str="*853" />the <gr str="776">land</gr>: and the <gr str="776">land </gr>
+        <gr str="3808">cannot </gr>be <gr str="3722">cleansed </gr>of the <gr str="1818">blood </gr>
+        <gr str="834">that </gr>is <gr str="8210">shed </gr>therein, <gr str="3588 518">but </gr>by the <gr str="1818">blood </gr>of him that <gr str="8210">shed </gr>it. </VERS>
+      <VERS vnumber="34">
+        <gr str="2930">Defile </gr>
+        <gr str="3808">not </gr>therefore <gr str="*853" />the <gr str="776">land </gr>
+        <gr str="834">which </gr>
+        <gr str="859">ye </gr>shall <gr str="3427">inhabit</gr>, <gr str="834 8432">wherein </gr>
+        <gr str="589">I </gr>
+        <gr str="7931">dwell</gr>: <gr str="3588">for </gr>
+        <gr str="589">I </gr>the <gr str="3068">LORD </gr>
+        <gr str="7931">dwell </gr>
+        <gr str="8432">among </gr>the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="8">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For the end, concerning the wine-presses, a Psalm of David.</STYLE> - O Lord, our Lord, how wonderful is thy name in all the earth! for thy magnificence is exalted above the heavens.</VERS>
+      <VERS vnumber="2">
+        <DIV>
+          <NOTE type="x-studynote">Mt 21:16</NOTE>
+        </DIV> Out of the mouth of babes and sucklings hast thou perfected praise, because of thine enemies; that thou mightest put down the enemy and avenger.</VERS>
+      <VERS vnumber="3">For I will regard the heavens, the work of thy fingers; the moon and stars, which thou hast established.</VERS>
+      <VERS vnumber="4">
+        <DIV>
+          <NOTE type="x-studynote">Heb 2:6-9</NOTE>
+        </DIV> What is man, that thou art mindful of him? or the son of man, that thou visitest him?</VERS>
+      <VERS vnumber="5">Thou madest him a little less than angels, thou hast crowned him with glory and honour;</VERS>
+      <VERS vnumber="6">and thou hast set him over the works of thy hands: thou hast put all things under his feet:</VERS>
+      <VERS vnumber="7">sheep and all <DIV>
+          <NOTE type="x-studynote">Gr. cows</NOTE>
+        </DIV> oxen, yea and the cattle of the field;</VERS>
+      <VERS vnumber="8">the birds of the sky, and the fish of the sea, the creatures passing through the paths of the sea.</VERS>
+      <VERS vnumber="9">O Lord our Lord, how wonderful is thy name in all the earth!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

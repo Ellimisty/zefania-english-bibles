@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="101">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of David.</STYLE> I will sing to thee, O Lord, of mercy and judgement; I will sing a psalm,</VERS>
+      <VERS vnumber="2">and I will be wise in a blameless way. When wilt thou come to me? I walked in the innocence of my heart, in the midst of my house.</VERS>
+      <VERS vnumber="3">I have not set before mine eyes any unlawful thing; I have hated transgressors.</VERS>
+      <VERS vnumber="4">A perverse heart has not cleaved to me; I have not known an evil man, forasmuch as he turns away from me.</VERS>
+      <VERS vnumber="5">Him that privily speaks against his neighbour, him have I driven from me: he that is proud in look and insatiable in heart, —with him I have not eaten.</VERS>
+      <VERS vnumber="6">Mine eyes shall be upon the faithful of the land, that they may dwell with me: he that walked in a perfect way, the same ministered to me.</VERS>
+      <VERS vnumber="7">The proud doer dwelt not in the midst of my house; the unjust speaker prospered not in my sight.</VERS>
+      <VERS vnumber="8">Early did I slay all the sinners of the land, that I might destroy out of the city of the Lord all that work iniquity.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

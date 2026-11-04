@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="3">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of David, when he fled from the presence of his son Abessalom.</STYLE> - O Lord, why are they that afflict me multiplied? many rise up against me.</VERS>
+      <VERS vnumber="2">Many say concerning my soul, There is no deliverance for him in his God. <DIV>
+          <NOTE type="x-studynote">The word diaqalma (Selah) has been rendered PAUSE, as most intelligible to the English reader</NOTE>
+        </DIV> Pause.</VERS>
+      <VERS vnumber="3">But thou, O Lord, art my helper: my glory, and the one that lifts up my head.</VERS>
+      <VERS vnumber="4">I cried to the Lord with my voice, and he heard me out of his holy mountain. Pause.</VERS>
+      <VERS vnumber="5">I lay down and slept; I awaked; for the Lord will help me.</VERS>
+      <VERS vnumber="6">I will not be afraid of ten thousands of people, who beset me round about.</VERS>
+      <VERS vnumber="7">Arise, Lord; deliver me, my God: for thou hast smitten all who were without cause mine enemies; thou hast broken the teeth of sinners.</VERS>
+      <VERS vnumber="8">Deliverance is the Lord’s, and thy blessing is upon thy people.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

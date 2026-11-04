@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.3" biblename="New Heart English Bible ME" type="x-bible">
+  <BIBLEBOOK bnumber="62" bsname="1JO">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">That which was from the beginning, that which we have heard, that which we have seen with our eyes, that which we saw, and our hands touched, concerning the Word of life</VERS>
+      <VERS vnumber="2">(and the life was revealed, and we have seen, and testify, and declare to you the life, the eternal life, which was with the Father, and was revealed to us);</VERS>
+      <VERS vnumber="3">that which we have seen and heard we declare to you also, that you also may have fellowship with us. Yes, and our fellowship is with the Father, and with his Son, Yeshua the Messiah.</VERS>
+      <VERS vnumber="4">And we write these things, that our joy may be fulfilled.</VERS>
+      <VERS vnumber="5">This is the message which we have heard from him and announce to you, that God is light, and in him is no darkness at all.</VERS>
+      <VERS vnumber="6">If we say that we have fellowship with him and walk in the darkness, we lie, and do not tell the truth.</VERS>
+      <VERS vnumber="7">But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Yeshua, his Son, cleanses us from all sin.</VERS>
+      <VERS vnumber="8">If we say that we have no sin, we deceive ourselves, and the truth is not in us.</VERS>
+      <VERS vnumber="9">If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness.</VERS>
+      <VERS vnumber="10">If we say that we have not sinned, we make him a liar, and his word is not in us.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

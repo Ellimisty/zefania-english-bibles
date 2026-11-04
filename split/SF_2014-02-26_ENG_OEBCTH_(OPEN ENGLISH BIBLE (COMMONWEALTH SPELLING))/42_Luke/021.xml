@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="42" bname="Luke" bsname="Luk">
+    <CHAPTER cnumber="21">
+      <VERS vnumber="1">Looking up, Jesus saw the rich people putting their gifts into the chests for the Temple offerings.</VERS>
+      <VERS vnumber="2">He saw, too, a widow in poor circumstances putting two small coins into them.</VERS>
+      <VERS vnumber="3">, he said</VERS>
+      <VERS vnumber="5">When some of them spoke about the Temple being decorated with beautiful stones and offerings, Jesus said:</VERS>
+      <VERS vnumber="7">So the disciples questioned Jesus: “But, teacher, when will this be? And what sign will there be when this is near?”</VERS>
+      <VERS vnumber="8">And Jesus said:</VERS>
+      <VERS vnumber="10">Then he said to them:</VERS>
+      <VERS vnumber="28" />
+      <VERS vnumber="29">Then he taught them a lesson , saying —</VERS>
+      <VERS vnumber="36" />
+      <VERS vnumber="37">During the days, Jesus continued to teach in the Temple Courts, but he went out and spent the nights on the hill called the ‘Mount of Olives.’</VERS>
+      <VERS vnumber="38">And all the people would get up early in the morning and come to listen to him in the Temple Courts.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="116">
+      <VERS vnumber="1">Alleluia.  All nations, praise the Lord. All peoples, praise him.</VERS>
+      <VERS vnumber="2">For his mercy has been confirmed over us.And the truth of the Lord remains for all eternity.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

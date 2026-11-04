@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="127">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Song of degrees for Solomon.</STYLE> Except the LORD shall build the house, they labour in vain that build it: except the LORD shall keep the city, the watchman waketh in vain. <DIV>
+          <NOTE type="x-studynote">for…: or, of Solomon</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">that…: Heb. that are builders of it in it</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">
+        <STYLE css="font-style:italic">It is</STYLE> vain for you to rise early, to sit up late, to eat the bread of sorrows: <STYLE css="font-style:italic">for</STYLE> so he giveth his beloved sleep.</VERS>
+      <VERS vnumber="3">Lo, children <STYLE css="font-style:italic">are</STYLE> an heritage of the LORD: <STYLE css="font-style:italic">and</STYLE> the fruit of the womb <STYLE css="font-style:italic">is his</STYLE> reward.</VERS>
+      <VERS vnumber="4">As arrows <STYLE css="font-style:italic">are</STYLE> in the hand of a mighty man; so <STYLE css="font-style:italic">are</STYLE> children of the youth.</VERS>
+      <VERS vnumber="5">Happy <STYLE css="font-style:italic">is</STYLE> the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate. <DIV>
+          <NOTE type="x-studynote">his…: Heb. filled his quiver with them</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">speak…: or, subdue, or, destroy</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

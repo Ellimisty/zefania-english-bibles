@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="32">
+    <CHAPTER cnumber="3">
+      <VERS vnumber="1">And the word of the LORD came to Jonah the second time, saying,</VERS>
+      <VERS vnumber="2">Arise, go to Nineveh, that great city, and preach to it the preaching that I bid thee.</VERS>
+      <VERS vnumber="3">So Jonah arose, and went to Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days’ journey. <DIV>
+          <NOTE type="x-studynote">exceeding: Heb. of God</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">And Jonah began to enter into the city a day’s journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown.</VERS>
+      <VERS vnumber="5">So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.</VERS>
+      <VERS vnumber="6">For word came to the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered <STYLE css="font-style:italic">himself</STYLE> with sackcloth, and sat in ashes.</VERS>
+      <VERS vnumber="7">And he caused <STYLE css="font-style:italic">it</STYLE> to be proclaimed and declared through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water: <DIV>
+          <NOTE type="x-studynote">published: Heb. said</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">nobles: Heb. great men</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">But let man and beast be covered with sackcloth, and cry mightily to God: yea, let them turn every one from his evil way, and from the violence that <STYLE css="font-style:italic">is</STYLE> in their hands.</VERS>
+      <VERS vnumber="9">Who can tell <STYLE css="font-style:italic">if</STYLE> God will turn and repent, and turn away from his fierce anger, that we perish not?</VERS>
+      <VERS vnumber="10">And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do to them; and he did <STYLE css="font-style:italic">it</STYLE> not.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

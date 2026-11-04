@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="41" bname="Mark" bsname="Mar">
+    <CHAPTER cnumber="13">
+      <VERS vnumber="1">As Jesus was walking out of the Temple Courts, one of his disciples said to him: “Teacher, look what fine stones and buildings these are!”</VERS>
+      <VERS vnumber="2">asked Jesus. </VERS>
+      <VERS vnumber="3">When Jesus had sat down on the Mount of Olives, facing the Temple, Peter, James, John and Andrew questioned him privately:</VERS>
+      <VERS vnumber="4">“Tell us when this will be, and what will be the sign when all this is drawing to its close.”  </VERS>
+      <VERS vnumber="5">Then Jesus began:</VERS>
+      <VERS vnumber="6" />
+      <VERS vnumber="8" />
+      <VERS vnumber="13" />
+      <VERS vnumber="14">(the reader must consider what this means)</VERS>
+      <VERS vnumber="20" />
+      <VERS vnumber="23" />
+      <VERS vnumber="27" />
+      <VERS vnumber="31" />
+      <VERS vnumber="32" />
+      <VERS vnumber="37" />
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

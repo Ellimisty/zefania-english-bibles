@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="120">
+      <VERS vnumber="1"> A Song of the going up. In my trouble my cry went up to the Lord, and he gave me an answer.</VERS>
+      <VERS vnumber="2">O Lord, be the saviour of my soul from false lips, and from the tongue of deceit.</VERS>
+      <VERS vnumber="3">What punishment will he give you? what more will he do to you, you false tongue?</VERS>
+      <VERS vnumber="4">Sharp arrows of the strong, and burning fire.</VERS>
+      <VERS vnumber="5">Sorrow is mine because I am strange in Meshech, and living in the tents of Kedar.</VERS>
+      <VERS vnumber="6">My soul has long been living with the haters of peace.</VERS>
+      <VERS vnumber="7">I am for peace: but when I say so, they are for war.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

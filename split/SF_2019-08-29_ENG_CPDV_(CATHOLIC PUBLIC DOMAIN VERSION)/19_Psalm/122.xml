@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="122">
+      <VERS vnumber="1">A Canticle in steps.  I have lifted up my eyes to you, who dwells in the heavens.</VERS>
+      <VERS vnumber="2">Behold, as the eyes of the servants are on the hands of their masters,as the eyes of the handmaid are on the hands of her mistress,so our eyes are upon the Lord our God, until he may be merciful to us.</VERS>
+      <VERS vnumber="3">Have mercy on us, O Lord, have mercy on us.For we have been filled with utter disdain.</VERS>
+      <VERS vnumber="4">For our soul has been greatly filled.We are the disgrace of those who have abundance and the disdain of the arrogant.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

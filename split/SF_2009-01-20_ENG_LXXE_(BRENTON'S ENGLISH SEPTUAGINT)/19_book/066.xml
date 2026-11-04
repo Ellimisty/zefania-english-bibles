@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="66">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For the end, a Song of Psalm of resurrection.</STYLE> - Shout unto God, all the earth.</VERS>
+      <VERS vnumber="2">O sing praises to his name; give glory to his praise.</VERS>
+      <VERS vnumber="3">Say unto God, How awful are thy works! through the greatness of thy power thine enemies shall lie to thee.</VERS>
+      <VERS vnumber="4">Let all the earth worship thee, and sing to thee; let them sing to thy name. Pause.</VERS>
+      <VERS vnumber="5">Come and behold the works of God; he is terrible in his counsels beyond the children of men.</VERS>
+      <VERS vnumber="6">Who turns the sea into dry land; they shall go through the river on foot; there shall we rejoice in him,</VERS>
+      <VERS vnumber="7">who by his power <DIV>
+          <NOTE type="x-studynote">Or, has dominion for ever</NOTE>
+        </DIV> is Lord over the age, his eyes look upon the nations; let not them that provoke him be exalted in themselves. Pause.</VERS>
+      <VERS vnumber="8">Bless our God, ye Gentiles, and make the voice of his praise to be heard;</VERS>
+      <VERS vnumber="9">who quickens my soul in life, and does not suffer my feet to be moved.</VERS>
+      <VERS vnumber="10">For thou, O God, has proved us; thou hast tried us with fire as silver is tried.</VERS>
+      <VERS vnumber="11">Thou broughtest us into the snare; thou laidest afflictions on our back.</VERS>
+      <VERS vnumber="12">Thou didst mount men upon our heads; we went through the fire and water; but thou broughtest us out into a place of refreshment.</VERS>
+      <VERS vnumber="13">I will go into thine house with whole-burnt-offerings; I will pay thee my vows,</VERS>
+      <VERS vnumber="14">which my lips framed, and my mouth uttered in my affliction.</VERS>
+      <VERS vnumber="15">I will offer to thee whole-burnt-sacrifices full of marrow, with incense and rams; I will sacrifice to thee oxen with goats. Pause.</VERS>
+      <VERS vnumber="16">Come, hear, and I will tell, all ye that fear God, how great things he has done for my soul.</VERS>
+      <VERS vnumber="17">I cried to him with my mouth, and exalted him with my tongue.</VERS>
+      <VERS vnumber="18">If I have regarded iniquity in my heart, let not the Lord hearken to me.</VERS>
+      <VERS vnumber="19">Therefore God has hearkened to me; he has attended to the voice of my prayer.</VERS>
+      <VERS vnumber="20">Blessed be God, who has not turned away my prayer, nor his mercy from me.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

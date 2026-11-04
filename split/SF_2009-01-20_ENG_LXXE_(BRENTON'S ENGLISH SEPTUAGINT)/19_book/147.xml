@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="147">
+      <VERS vnumber="1">Alleluia, a Psalm of Aggaeus and Zacharias. Praise ye the Lord: for psalmody is a good thing; let praise be sweetly sung to our God.</VERS>
+      <VERS vnumber="2">The Lord builds up Jerusalem; and he will gather together the dispersed of Israel.</VERS>
+      <VERS vnumber="3">He heals the broken in heart, and binds up their wounds.</VERS>
+      <VERS vnumber="4">He numbers the multitudes of stars; and calls them all by names.</VERS>
+      <VERS vnumber="5">Great is our Lord, and great is his strength; and his understanding is infinite.</VERS>
+      <VERS vnumber="6">The Lord lifts up the meek; but brings sinners down to the ground.</VERS>
+      <VERS vnumber="7">Begin the song with thanksgiving to the Lord; sing praises on the harp to our God:</VERS>
+      <VERS vnumber="8">who covers the heaven with clouds, who prepares rain for the earth, who causes grass to spring up on the mountains, <DIV>
+          <NOTE type="x-studynote">See Ps 104:14</NOTE>
+        </DIV> and green herb for the service of men;</VERS>
+      <VERS vnumber="9">and gives cattle their food, and to the young ravens that call upon him.</VERS>
+      <VERS vnumber="10">He will not take pleasure in the strength of a horse; neither is he well-pleased with the legs of a man.</VERS>
+      <VERS vnumber="11">The Lord takes pleasure in them that fear him, and in all that hope in his mercy.</VERS>
+      <VERS vnumber="12">
+        <STYLE css="font-style:italic">Alleluia, a Psalm of Aggaeus and Zacharias.</STYLE> Praise the Lord, O Jerusalem; praise thy God, O Sion.</VERS>
+      <VERS vnumber="13">For he has strengthened the bars of thy gates; he has blessed thy children within thee.</VERS>
+      <VERS vnumber="14">He makes thy borders peaceful, and fills thee with the <DIV>
+          <NOTE type="x-studynote">Lit. fat of wheat</NOTE>
+        </DIV> flour of wheat.</VERS>
+      <VERS vnumber="15">He sends his oracle to the earth: his word will run swiftly.</VERS>
+      <VERS vnumber="16">He gives snow like wool: he scatters the mist like ashes.</VERS>
+      <VERS vnumber="17">Casting forth his ice like morsels: who shall stand before his cold?</VERS>
+      <VERS vnumber="18">He shall send out his word, and melt them: he shall blow with his wind, and the waters shall flow.</VERS>
+      <VERS vnumber="19">He sends his word to Jacob, his ordinances and judgements to Israel.</VERS>
+      <VERS vnumber="20">He has not done so to <DIV>
+          <NOTE type="x-studynote">Gr. every</NOTE>
+        </DIV> any other nation; and he has not shewn them his judgements.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

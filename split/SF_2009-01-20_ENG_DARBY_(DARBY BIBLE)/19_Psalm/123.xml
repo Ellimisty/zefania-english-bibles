@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Darby Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="123">
+      <VERS vnumber="1">{A Song of degrees.} Unto thee do I lift up mine eyes, O thou that dwellest in the heavens.</VERS>
+      <VERS vnumber="2">Behold, as the eyes of servants [look] unto the hand of their masters, as the eyes of a maiden unto the hand of her mistress, so our eyes [are directed] to Jehovah our God, until he be gracious unto us.</VERS>
+      <VERS vnumber="3">Be gracious unto us, O Jehovah, be gracious unto us; for we are exceedingly filled with contempt.</VERS>
+      <VERS vnumber="4">Our soul is exceedingly filled with the scorning of those that are at ease, with the contempt of the proud.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

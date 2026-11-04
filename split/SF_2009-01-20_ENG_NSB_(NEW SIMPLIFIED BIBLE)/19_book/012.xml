@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="12">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">Save me O Jehovah for no godly person is left. Faithful people have vanished from among the sons of men.</VERS>
+      <VERS vnumber="2">People speak lies to one another. They speak with flattering lips and with double-heart. <STYLE css="font-style:italic">Double Heart: They say one thing but mean another.</STYLE>
+      </VERS>
+      <VERS vnumber="3">Jehovah will destroy every flattering lip and every bragging tongue</VERS>
+      <VERS vnumber="4">They say: »We will overcome with our tongues. With lips such as ours, who can be our master?«</VERS>
+      <VERS vnumber="5">»Because oppressed people are robbed and needy people groan, I will now arise,« says Jehovah. »I will provide safety for those who long for it.«</VERS>
+      <VERS vnumber="6">The words of Jehovah are pure, like silver refined in a furnace on the earth and purified seven times.</VERS>
+      <VERS vnumber="7">O Jehovah, you will protect them. You will keep each one safe from those people forever.</VERS>
+      <VERS vnumber="8">The wicked walk about when immorality increases among the sons of men.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="70">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">Come quickly to rescue me, O God! Come quickly to help me, O Jehovah!</VERS>
+      <VERS vnumber="2">Let those who seek my life be confused and put to shame. Let those who want my downfall be turned back and disgraced.</VERS>
+      <VERS vnumber="3">Let those who say: »Aha! Aha!« Be turned back because of their own shame.</VERS>
+      <VERS vnumber="4">Let all who seek you rejoice and be glad because of you. Let those who love your salvation continually say: »Let God be magnified!«</VERS>
+      <VERS vnumber="5">But I am oppressed and needy. O God, come to me quickly. You are my help and my deliverer. O Jehovah do not delay!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

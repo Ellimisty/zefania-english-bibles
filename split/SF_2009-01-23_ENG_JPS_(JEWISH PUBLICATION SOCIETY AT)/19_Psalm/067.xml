@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Jewish Publication Society AT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="67">
+      <VERS vnumber="1">God be gracious unto us, and bless us; may He cause His face to shine toward us; Selah</VERS>
+      <VERS vnumber="2">That Thy way may be known upon earth, Thy salvation among all nations.</VERS>
+      <VERS vnumber="3">Let the peoples give thanks unto Thee, O God; let the peoples give thanks unto Thee, all of them.</VERS>
+      <VERS vnumber="4">O let the nations be glad and sing for joy; for Thou wilt judge the peoples with equity, and lead the nations upon earth. Selah</VERS>
+      <VERS vnumber="5">Let the peoples give thanks unto Thee, O God; let the peoples give thanks unto Thee, all of them.</VERS>
+      <VERS vnumber="6">The earth hath yielded her increase; may God, our own God, bless us.</VERS>
+      <VERS vnumber="7">May God bless us; and let all the ends of the earth fear Him.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

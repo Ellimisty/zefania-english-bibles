@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="24">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of David.</STYLE> The earth is the LORDS, and all that is therein; The world, and they who inhabit it.</VERS>
+      <VERS vnumber="2">For he hath founded it upon the seas, And established it upon the floods.</VERS>
+      <VERS vnumber="3">Who shall ascend the hill of the LORD? And who shall stand in his holy place?</VERS>
+      <VERS vnumber="4">He that hath clean hands and a pure heart; Who hath not inclined his soul to falsehood, Nor sworn deceitfully.</VERS>
+      <VERS vnumber="5">He shall receive a blessing from the LORD, And favor from the God of his salvation.</VERS>
+      <VERS vnumber="6">This is the race of them that seek him; They that seek thy face are Jacob. <STYLE css="font-style:italic">Pause.</STYLE>
+      </VERS>
+      <VERS vnumber="7">Lift up your heads, O ye gates! Lift yourselves up, ye everlasting doors, That the king of glory may come in!</VERS>
+      <VERS vnumber="8">"Who is this king of glory?" Jehovah, strong and mighty; Jehovah, mighty in battle.</VERS>
+      <VERS vnumber="9">Lift up your heads, O ye gates! Lift yourselves up, ye everlasting doors, That the king of glory may enter in!</VERS>
+      <VERS vnumber="10">"Who is this king of glory?" Jehovah, God of hosts, he is the king of glory. <STYLE css="font-style:italic">Pause.</STYLE>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

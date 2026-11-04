@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="63">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of David, when he was in the wilderness of Idumea.</STYLE> - O God, my God, I cry to thee early; my soul has thirsted for thee: how often has my flesh longed after thee, in a barren and trackless and dry land!</VERS>
+      <VERS vnumber="2">Thus have I appeared before thee in the sanctuary, that I might see thy power and thy glory.</VERS>
+      <VERS vnumber="3">For thy mercy is better than <DIV>
+          <NOTE type="x-studynote">Gr. lives</NOTE>
+        </DIV> life: my lips shall praise thee.</VERS>
+      <VERS vnumber="4">Thus will I bless thee during my life: I will lift up my hands in thy name.</VERS>
+      <VERS vnumber="5">Let my soul be filled as with marrow and fatness; and my joyful lips shall praise thy name.</VERS>
+      <VERS vnumber="6">
+        <DIV>
+          <NOTE type="x-studynote">Gr. if; See Ac 26:23</NOTE>
+        </DIV> Forasmuch as I have remembered thee on my bed: in the early seasons I have meditated on thee.</VERS>
+      <VERS vnumber="7">For thou hast been my helper, and in the shelter of thy wings will I rejoice.</VERS>
+      <VERS vnumber="8">My soul has <DIV>
+          <NOTE type="x-studynote">Gr. been glued</NOTE>
+        </DIV> kept very close behind thee: thy right hand has upheld me.</VERS>
+      <VERS vnumber="9">But they vainly sought after my soul; they shall go into the lowest parts of the earth.</VERS>
+      <VERS vnumber="10">They shall be delivered up to the power of the sword; they shall be portions for foxes.</VERS>
+      <VERS vnumber="11">But the king shall rejoice in God; every one that swears by him shall be praised; for the mouth of them that speak unjust things has been stopped.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

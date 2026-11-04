@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="112">
+      <VERS vnumber="1">Alleluia.  Praise the Lord, children. Praise the name of the Lord.</VERS>
+      <VERS vnumber="2">Blessed is the name of the Lord, from this time forward and even forever.</VERS>
+      <VERS vnumber="3">From the rising of the sun, even to its setting,praiseworthy is the name of the Lord.</VERS>
+      <VERS vnumber="4">The Lord is high above all nations,and his glory is high above the heavens.</VERS>
+      <VERS vnumber="5">Who is like the Lord, our God, who dwells on high,</VERS>
+      <VERS vnumber="6">and who gazes upon the humble things in heaven and on earth?</VERS>
+      <VERS vnumber="7">He lifts up the needy from the ground,and he urges the poor away from filth,</VERS>
+      <VERS vnumber="8">so that he may place him with the leaders, with the leaders of his people.</VERS>
+      <VERS vnumber="9">He causes a barren woman to live in a house, as the joyful mother of sons.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

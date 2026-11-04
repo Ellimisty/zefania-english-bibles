@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Rotherham Version" type="x-bible">
+  <BIBLEBOOK bname="Psalm" bnumber="19" bsname="Ps">
+    <CHAPTER cnumber="123">
+      <VERS vnumber="1">Unto thee, have I lifted up mine eyes, O thou who art enthroned in the heavens.</VERS>
+      <VERS vnumber="2">Lo! as the eyes of men-servants are unto the hand of their masters, as the eyes of a maid-servant, unto the hand of her mistress, so, are our eyes, unto Yahweh our God, until that he show us favour.</VERS>
+      <VERS vnumber="3">Show us favour, O Yahweh, show us favour, for, exceedingly, are we sated with contempt:</VERS>
+      <VERS vnumber="4">Exceeding sated therewith, is our soul,The scorn of the careless, The contempt of the proud.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

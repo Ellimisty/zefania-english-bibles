@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Modern KJV 1963" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="6">
+      <VERS vnumber="1">To the Chief Musician, for eight-stringed instruments. A Psalm of David. O LORD, rebuke me not in Your anger, nor chasten me in the heat of Your fury.</VERS>
+      <VERS vnumber="2">Have mercy on me, O LORD, for I [am] weak; O LORD, heal me, for my bones are troubled.</VERS>
+      <VERS vnumber="3">My soul also is exceedingly troubled; but You, O LORD, how long?</VERS>
+      <VERS vnumber="4">Return, O LORD, return; deliver my soul; save me for Your mercy's sake.</VERS>
+      <VERS vnumber="5">For in death [there is] no memory of You; in the grave who shall give You thanks?</VERS>
+      <VERS vnumber="6">I am weary in my groaning; all the night I make my bed swim; I melt my couch with my tears.</VERS>
+      <VERS vnumber="7">My eye is dim because of grief; it wastes away because of all my enemies.</VERS>
+      <VERS vnumber="8">Depart from me, all workers of iniquity; for the LORD has heard the voice of my weeping.</VERS>
+      <VERS vnumber="9">The LORD has heard my cry; the LORD will receive my prayer.</VERS>
+      <VERS vnumber="10">Let all my enemies be ashamed and exceedingly troubled; let them turn back [and] be ashamed in a moment.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

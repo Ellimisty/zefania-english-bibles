@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="6">
+    <CHAPTER cnumber="20">
+      <VERS vnumber="1">And the Lord spoke to Joshua, saying,</VERS>
+      <VERS vnumber="2">Speak to the children of Israel, saying, <DIV>
+          <NOTE type="x-studynote">Gr. give</NOTE>
+        </DIV> Assign the cities <DIV>
+          <NOTE type="x-studynote">Gr. refugees</NOTE>
+        </DIV> of refuge, of which I spoke to you by Moses.</VERS>
+      <VERS vnumber="3">Even a refuge to the slayer who has smitten a <DIV>
+          <NOTE type="x-studynote">Gr. life or soul</NOTE>
+        </DIV> man unintentionally; and the cities shall be to you a refuge, and the slayer shall not be put to death by the avenger of blood, until he have stood before the congregation for judgement.</VERS>
+      <VERS vnumber="4">And <DIV>
+          <NOTE type="x-studynote">Gr. he</NOTE>
+        </DIV> Joshua separated Cades in Galilee in the mount <DIV>
+          <NOTE type="x-studynote">Or, of Nephthali</NOTE>
+        </DIV> Nephthali, and Sychem in the mount Ephraim, and the city of Arboc; this is Chebron, in the mountain of Juda.</VERS>
+      <VERS vnumber="5">And beyond Jordan he <DIV>
+          <NOTE type="x-studynote">Gr. gave</NOTE>
+        </DIV> appointed Bosor in the wilderness in the plain out of the tribe of Ruben, and Aremoth in Galaad out of the tribe of Gad, and Gaulon in the country of Basan out of the tribe of Manasse.</VERS>
+      <VERS vnumber="6">These were the cities selected for the sons of Israel, and for the stranger <DIV>
+          <NOTE type="x-studynote">Or, attached to them</NOTE>
+        </DIV> abiding among them, that every one who smites a soul unintentionally should flee thither, that he should not die by the hand of the avenger of blood, until he should stand before the congregation for judgement.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

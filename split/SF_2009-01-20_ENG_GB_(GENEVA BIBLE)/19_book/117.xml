@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Geneva Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="117">
+      <VERS vnumber="1">All nations, praise ye the Lorde: all ye people, praise him.</VERS>
+      <VERS vnumber="2">For his merciful kindness is great toward us: and the <DIV>
+          <NOTE type="x-studynote">That is, the most certain and continual testimony of his fatherly graces.</NOTE>
+        </DIV> truth of the LORD [endureth] for ever. Praise ye the LORD.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="John Wycliffe Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="130">
+      <VERS vnumber="1">
+The title of the hundrid and thrittithe salm. The song of greces, `to Dauith himself. Lord, myn herte is not enhaunsid; nether myn iyen ben reisid. Nether Y yede in the grete thingis; nether in merueilis aboue me.
+</VERS>
+      <VERS vnumber="2">
+If Y feelide not mekely; but enhaunside my soule. As a childe wenyde  on his modir; so yelding be in my soule.
+</VERS>
+      <VERS vnumber="3">
+Israel hope in the Lord; fro this tyme now and in to the world.
+</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

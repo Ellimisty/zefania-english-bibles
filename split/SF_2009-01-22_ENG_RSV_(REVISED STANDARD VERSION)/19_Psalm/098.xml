@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="98">
+      <VERS vnumber="1">A Psalm.</VERS>
+      <VERS vnumber="2">O sing to the LORD a new song, for he has done marvelous things! His right hand and his holy arm have gotten him victory.</VERS>
+      <VERS vnumber="3">The LORD has made known his victory, he has revealed his vindication in the sight of the nations.</VERS>
+      <VERS vnumber="4">He has remembered his steadfast love and faithfulness to the house of Israel. All the ends of the earth have seen the victory of our God.</VERS>
+      <VERS vnumber="5">Make a joyful noise to the LORD, all the earth; break forth into joyous song and sing praises!</VERS>
+      <VERS vnumber="6">Sing praises to the LORD with the lyre, with the lyre and the sound of melody!</VERS>
+      <VERS vnumber="7">With trumpets and the sound of the horn make a joyful noise before the King, the LORD!</VERS>
+      <VERS vnumber="8">Let the sea roar, and all that fills it; the world and those who dwell in it!</VERS>
+      <VERS vnumber="9">Let the floods clap their hands; let the hills sing for joy together [ (Psalms 98:10) before the LORD, for he comes to judge the earth. He will judge the world with righteousness, and the peoples with equity. ]</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

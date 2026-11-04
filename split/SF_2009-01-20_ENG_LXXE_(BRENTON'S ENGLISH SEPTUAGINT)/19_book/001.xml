@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">Blessed is the man who has not walked in the counsel of the ungodly, and has not stood in the way of sinners, and has not sat in the seat of <DIV>
+          <NOTE type="x-studynote">Gr. pestilent</NOTE>
+        </DIV> evil men.</VERS>
+      <VERS vnumber="2">But his <DIV>
+          <NOTE type="x-studynote">Gr. will</NOTE>
+        </DIV> pleasure is in the law of the Lord; and in his law will he meditate day and night.</VERS>
+      <VERS vnumber="3">And he shall be as a tree planted by the brooks of waters, which shall yield its fruit in its season, and its leaf shall not fall off; and whatsoever he shall do shall be prospered.</VERS>
+      <VERS vnumber="4">Not so the ungodly; —not so: but rather as the <DIV>
+          <NOTE type="x-studynote">Or, dust or down</NOTE>
+        </DIV> chaff which the wind scatters away from the face of the earth.</VERS>
+      <VERS vnumber="5">Therefore the ungodly shall not rise in judgement, nor sinners in the counsel of the just.</VERS>
+      <VERS vnumber="6">For the Lord knows the way of the righteous; but the way of the ungodly shall perish.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

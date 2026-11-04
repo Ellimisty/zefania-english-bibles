@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Douay Rheims" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="150">
+      <VERS vnumber="1">Praise ye the Lord from the heavens: praise ye him in the high places.</VERS>
+      <VERS vnumber="2">Praise ye him , all his angels: praise ye him, all his hosts.</VERS>
+      <VERS vnumber="3">Praise ye him, O sun and moon: praise him, all ye stars and light.</VERS>
+      <VERS vnumber="4">Praise him, ye heavens of heavens: and let all the waters that are above the heavens</VERS>
+      <VERS vnumber="5">praise the name of the Lord. For he spoke, and they were made: he commanded, and they were created.</VERS>
+      <VERS vnumber="6">He hath established them for ever, and for ages of ages: he hath made a decree, and it shall not pass away.</VERS>
+      <VERS vnumber="7">Praise the Lord from the earth, ye dragons, and all ye deeps:</VERS>
+      <VERS vnumber="8">Fire, hail, snow, ice, stormy winds which fulfil his word:</VERS>
+      <VERS vnumber="9">Mountains and all hills, fruitful trees and all cedars:</VERS>
+      <VERS vnumber="10">Beasts and all cattle: serpents and feathered fowls:</VERS>
+      <VERS vnumber="11">Kings of the earth and all people: princes and all judges of the earth:</VERS>
+      <VERS vnumber="12">Young men and maidens: let the old with the younger, praise the name of the Lord:</VERS>
+      <VERS vnumber="13">for his name alone is exalted.</VERS>
+      <VERS vnumber="14">The praise of him is above heaven and earth: and he hath exalted the horn of his people. A hymn to all his saints: to the children of Israel, a people approaching to him. Alleluia.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="52">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">Why do you brag about the evil you have done, O mighty man? The loving kindness of God endures continually!</VERS>
+      <VERS vnumber="2">Your tongue makes up wickedness. It is like a sharp razor, you master of deceit.</VERS>
+      <VERS vnumber="3">You prefer evil to good. You prefer lying to speaking the truth.</VERS>
+      <VERS vnumber="4">You love words that devour, O deceitful tongue.</VERS>
+      <VERS vnumber="5">God will destroy you forever. He will remove you from your dwelling place from out of the land of the living.</VERS>
+      <VERS vnumber="6">The righteous also sees, and fears, and laughs at him. They say:</VERS>
+      <VERS vnumber="7">Here is the man who did not make God his strength <STYLE css="font-style:italic">refuge</STYLE>
+        <STYLE css="font-style:italic">stronghold</STYLE>. He trusted in the abundance of his riches. He strengthened himself in his wickedness.</VERS>
+      <VERS vnumber="8">But I am like a green olive tree in the house of God: I trust in the mercy and loving kindness of God forever and ever.</VERS>
+      <VERS vnumber="9">I will thank you forever for what you have done. I will wait in your name, for it is good, in the presence of your holy <STYLE css="font-style:italic">God-like</STYLE> ones.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

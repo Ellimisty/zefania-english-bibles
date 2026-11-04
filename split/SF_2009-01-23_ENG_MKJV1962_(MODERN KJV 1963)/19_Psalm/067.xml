@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Modern KJV 1963" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="67">
+      <VERS vnumber="1">To the Chief Musician. On stringed instruments. A Psalm. A Song. May God be merciful to us, and bless us, and cause His face to shine on us. Selah.</VERS>
+      <VERS vnumber="2">So that Your way may be known on earth, Your salvation among all nations.</VERS>
+      <VERS vnumber="3">Let the peoples praise You, O God; let all the peoples thank You.</VERS>
+      <VERS vnumber="4">O let the nations be glad and sing for joy; for You shall judge the peoples righteously and govern the nations on earth. Selah.</VERS>
+      <VERS vnumber="5">Let the peoples give thanks to You, O God; let all the peoples praise You.</VERS>
+      <VERS vnumber="6">The earth shall yield its increase; [and] God, our own God, shall bless us.</VERS>
+      <VERS vnumber="7">God shall bless us; and all the ends of the earth shall fear Him.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

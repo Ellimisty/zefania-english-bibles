@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible - Jehovah Edition" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="14">
+      <VERS vnumber="1">For the Chief Musician. By David.   The fool has said in his heart, "There is no God."They are corrupt.They have done abominable works.There is none who does good.</VERS>
+      <VERS vnumber="2">
+        <STYLE id="cl:divineName">Jehovah</STYLE> looked down from heaven on the children of men,to see if there were any who did understand,who did seek after God.</VERS>
+      <VERS vnumber="3">They have all gone aside.They have together become corrupt.There is none who does good, no, not one.</VERS>
+      <VERS vnumber="4">Have all the workers of iniquity no knowledge,who eat up my people as they eat bread,and do not call on <STYLE id="cl:divineName">Jehovah</STYLE>?</VERS>
+      <VERS vnumber="5">There they were in great fear,for God is in the generation of the righteous.</VERS>
+      <VERS vnumber="6">You would frustrate the plans of the lowly,but <STYLE id="cl:divineName">Jehovah</STYLE> is his refuge.</VERS>
+      <VERS vnumber="7">Oh that the salvation of Israel would come out of Zion!When <STYLE id="cl:divineName">Jehovah</STYLE> restores the fortunes of his people,then Jacob shall rejoice, and Israel shall be glad.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

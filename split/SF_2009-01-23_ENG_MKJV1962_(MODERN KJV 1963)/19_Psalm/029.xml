@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Modern KJV 1963" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="29">
+      <VERS vnumber="1">A Psalm of David. Give to the LORD, O you mighty, give to the LORD glory and strength.</VERS>
+      <VERS vnumber="2">Give to the LORD the glory due to His name; worship the LORD in the beauty of holiness.</VERS>
+      <VERS vnumber="3">The voice of the LORD [is] on the waters; the God of glory thunders; the LORD [is] above many waters.</VERS>
+      <VERS vnumber="4">The voice of the LORD [is] in power, the voice of the LORD [is] in majesty.</VERS>
+      <VERS vnumber="5">The voice of the LORD breaks the cedars; yea, the LORD breaks the cedars of Lebanon.</VERS>
+      <VERS vnumber="6">He also makes them to skip like a calf, Lebanon and Sirion like a young wild ox.</VERS>
+      <VERS vnumber="7">The voice of the LORD goes through flames of fire.</VERS>
+      <VERS vnumber="8">The voice of the LORD shakes the wilderness; the LORD shakes the wilderness of Kadesh.</VERS>
+      <VERS vnumber="9">The voice of the LORD causes the does to calve, and uncovers the forests; and in His temple all of it [is] saying, Glory!</VERS>
+      <VERS vnumber="10">The LORD sits on the flood; yea, the LORD sits as King forever.</VERS>
+      <VERS vnumber="11">The LORD will give strength to His people; the LORD will bless His people with peace.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

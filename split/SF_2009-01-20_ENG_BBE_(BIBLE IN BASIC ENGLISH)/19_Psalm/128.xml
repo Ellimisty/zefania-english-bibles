@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="128">
+      <VERS vnumber="1"> A Song of the going up. Happy is the worshipper of the Lord, who is walking in his ways.</VERS>
+      <VERS vnumber="2">You will have the fruit of the work of your hands: happy will you be, and all will be well for you.</VERS>
+      <VERS vnumber="3">Your wife will be like a fertile vine in the inmost parts of your house: your children will be like olive plants round your table.</VERS>
+      <VERS vnumber="4">See! this is the blessing of the worshipper of the Lord.</VERS>
+      <VERS vnumber="5">May the Lord send you blessing out of Zion: may you see the good of Jerusalem all the days of your life.</VERS>
+      <VERS vnumber="6">May you see your children's children. Peace be on Israel.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

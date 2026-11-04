@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="20">
+    <CHAPTER cnumber="9">
+      <VERS vnumber="1">Wisdom built her house. She carved her seven pillars.</VERS>
+      <VERS vnumber="2">She prepared her food and mixed her wine. She furnished her table.</VERS>
+      <VERS vnumber="3">She sent her maidens. She cried on the highest places of the city,</VERS>
+      <VERS vnumber="4">»Who is simple? Let him turn in here! He who lacks understanding,« she says to him,</VERS>
+      <VERS vnumber="5">»Come eat my bread, and drink the wine that I have mixed.</VERS>
+      <VERS vnumber="6">»Forsake the foolish, and live. Travel in the way of understanding.«</VERS>
+      <VERS vnumber="7">Correct a scoffer and get dishonor for yourself. Rebuke a wicked man and receive insults.</VERS>
+      <VERS vnumber="8">Correct a scoffer <STYLE css="font-style:italic">mocker</STYLE>
+        <STYLE css="font-style:italic">scorner</STYLE> and he will hate you. Reprove a wise man and he will love you.</VERS>
+      <VERS vnumber="9">Give instruction to a wise man and he will become even wiser. Teach a righteous man, and he will increase his learning <STYLE css="font-style:italic">insight</STYLE>.</VERS>
+      <VERS vnumber="10">Respect for Jehovah is the beginning of wisdom. Knowledge of the holy One is understanding <STYLE css="font-style:italic">discernment</STYLE>
+        <STYLE css="font-style:italic">truth</STYLE>
+        <STYLE css="font-style:italic">wisdom</STYLE>.</VERS>
+      <VERS vnumber="11">I will increase your days. I will add more years to your life.</VERS>
+      <VERS vnumber="12">When you are wise you are wise for yourself. When you scoff you bear it alone.</VERS>
+      <VERS vnumber="13">A foolish woman is noisy. She has no sense at all.</VERS>
+      <VERS vnumber="14">She sits at the door of her house, on a seat in the high places of the city,</VERS>
+      <VERS vnumber="15">to call those who pass by who go straight on their way:</VERS>
+      <VERS vnumber="16">»Let the inexperienced <STYLE css="font-style:italic">naïve</STYLE> one come in here,« and to the person who lacks understanding she says:</VERS>
+      <VERS vnumber="17">»Stolen waters are sweet, and bread eaten in secret is pleasant.«</VERS>
+      <VERS vnumber="18">He does not know the dead are there. Her guests are in the depths of the grave.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

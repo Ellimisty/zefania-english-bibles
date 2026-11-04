@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Modern KJV 1963" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="131">
+      <VERS vnumber="1">A Song of degrees; of David. O LORD, my heart is not proud, nor my eyes lofty; nor have I walked in great things, nor in things too wondrous for me.</VERS>
+      <VERS vnumber="2">Surely I have behaved and have quieted my soul, as one weaned by its mother; my soul on me [is] like one weaned.</VERS>
+      <VERS vnumber="3">Let Israel hope in the LORD from this moment and forever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

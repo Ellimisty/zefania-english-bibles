@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="53">
+      <VERS vnumber="1"> To the chief <gr str="5329">Musician </gr>
+        <gr str="5921">upon </gr>
+        <gr str="4257">Mahalath</gr>, <gr str="4905">Maschil</gr>, <STYLE css="color:#808080;font-style:italic"> A </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> Psalm </STYLE> of <gr str="1732">David</gr>. The <gr str="5036">fool </gr>hath <gr str="559">said </gr>in his <gr str="3820">heart</gr>, <STYLE css="color:#808080;font-style:italic"> There </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="369">no </gr>
+        <gr str="430">God</gr>. <gr str="7843">Corrupt </gr>are they, and have done <gr str="8581">abominable </gr>
+        <gr str="5766">iniquity</gr>: <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="369">none </gr>that <gr str="6213">doeth </gr>
+        <gr str="2896">good</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="430">God </gr>looked <gr str="8259">down </gr>from <gr str="4480 8064">heaven </gr>
+        <gr str="5921">upon </gr>the <gr str="1121">children </gr>of <gr str="120">men</gr>, to <gr str="7200">see </gr>if there <gr str="3426">were </gr>
+        <STYLE css="color:#808080;font-style:italic"> any </STYLE> that did <gr str="7919">understand</gr>, that did <gr str="1875">seek </gr>
+        <gr str="*853" />
+        <gr str="430">God</gr>. </VERS>
+      <VERS vnumber="3"> Every <gr str="3605">one </gr>of them is gone <gr str="5472">back</gr>: they are <gr str="3162">altogether </gr>become <gr str="444">filthy</gr>; <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="369">none </gr>that <gr str="6213">doeth </gr>
+        <gr str="2896">good</gr>, <gr str="369">no</gr>, <gr str="1571">not </gr>
+        <gr str="259">one</gr>. </VERS>
+      <VERS vnumber="4"> Have the <gr str="6466">workers </gr>of <gr str="205">iniquity </gr>
+        <gr str="3808">no </gr>
+        <gr str="3045">knowledge</gr>? who eat <gr str="398">up </gr>my <gr str="5971">people </gr>
+        <STYLE css="color:#808080;font-style:italic"> as </STYLE> they <gr str="398">eat </gr>
+        <gr str="3899">bread</gr>: they have <gr str="3808">not </gr>called <gr str="7121">upon </gr>
+        <gr str="430">God</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="8033">There </gr>were they in great <gr str="6342 6343">fear</gr>, <STYLE css="color:#808080;font-style:italic"> where </STYLE>
+        <gr str="3808">no </gr>
+        <gr str="6343">fear </gr>
+        <gr str="1961">was</gr>: <gr str="3588">for </gr>
+        <gr str="430">God </gr>hath <gr str="6340">scattered </gr>the <gr str="6106">bones </gr>of him that <gr str="2583">encampeth </gr>
+        <STYLE css="color:#808080;font-style:italic"> against </STYLE> thee: thou hast put <STYLE css="color:#808080;font-style:italic"> them </STYLE> to <gr str="954">shame</gr>, <gr str="3588">because </gr>
+        <gr str="430">God </gr>hath <gr str="3988">despised </gr>them. </VERS>
+      <VERS vnumber="6"> Oh <gr str="4310 5414">that </gr>the <gr str="3444">salvation </gr>of <gr str="3478">Israel </gr>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> come </STYLE> out of <gr str="4480 6726">Zion</gr>! When <gr str="430">God </gr>bringeth <gr str="7725">back </gr>the <gr str="7622">captivity </gr>of his <gr str="5971">people</gr>, <gr str="3290">Jacob </gr>shall <gr str="1523">rejoice</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="3478">Israel </gr>shall be <gr str="8055">glad</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

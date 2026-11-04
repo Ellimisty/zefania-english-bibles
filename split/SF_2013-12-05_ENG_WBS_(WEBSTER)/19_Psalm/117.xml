@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Webster" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="117">
+      <VERS vnumber="1">O praise the LORD, all ye nations: praise him, all ye people.</VERS>
+      <VERS vnumber="2">For his merciful kindness is great towards us: and the truth of the LORD endureth for ever. Praise ye the LORD.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

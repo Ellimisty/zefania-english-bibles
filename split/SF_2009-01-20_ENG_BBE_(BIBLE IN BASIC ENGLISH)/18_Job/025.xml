@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="18" bname="Job" bsname="Job">
+    <CHAPTER cnumber="25">
+      <VERS vnumber="1">Then Bildad the Shuhite made answer and said,</VERS>
+      <VERS vnumber="2">Rule and power are his; he makes peace in his high places.</VERS>
+      <VERS vnumber="3">Is it possible for his armies to be numbered? and on whom is not his light shining?</VERS>
+      <VERS vnumber="4">How then is it possible for man to be upright before God? or how may he be clean who is a son of woman?</VERS>
+      <VERS vnumber="5">See, even the moon is not bright, and the stars are not clean in his eyes:</VERS>
+      <VERS vnumber="6">How much less man who is an insect, and the son of man who is a worm!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

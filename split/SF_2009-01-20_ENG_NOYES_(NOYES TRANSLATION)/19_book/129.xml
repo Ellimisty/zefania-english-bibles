@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="129">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of the steps, or the goings up.</STYLE> Much have they afflicted me from my youth, May Israel now say;</VERS>
+      <VERS vnumber="2">Much have they afflicted me from my youth, Yet have they not prevailed against me.</VERS>
+      <VERS vnumber="3">The ploughers ploughed up my back; They made long their furrows;</VERS>
+      <VERS vnumber="4">But the LORD was righteous; He cut asunder the cords of the wicked.</VERS>
+      <VERS vnumber="5">Let all be driven back with shame Who hate Zion!</VERS>
+      <VERS vnumber="6">Let them be as grass upon the housetops, Which withereth before one pulleth it up;</VERS>
+      <VERS vnumber="7">With which the reaper filleth not his hand, Nor he that bindeth sheaves his bosom!</VERS>
+      <VERS vnumber="8">And they who pass by do not say, "The blessing of the LORD be upon you! We bless you in the name of the LORD!"</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

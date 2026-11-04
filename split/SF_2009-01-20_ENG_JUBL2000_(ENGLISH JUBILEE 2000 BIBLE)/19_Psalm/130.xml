@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="English Jubilee 2000 Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="130">
+      <VERS vnumber="1">&lt;&lt;A Song of degrees.&gt;&gt; Out of the depths I cry unto thee, O LORD.</VERS>
+      <VERS vnumber="2">Lord, hear my voice; let thine ears be attentive to the voice of my supplications.</VERS>
+      <VERS vnumber="3">If thou, O LORD, should mark iniquities, O Lord, who shall endure?</VERS>
+      <VERS vnumber="4">Therefore [there is] forgiveness close to thee, that thou may be feared.</VERS>
+      <VERS vnumber="5">I have waited for the LORD, my soul has waited, and for his word I have waited.</VERS>
+      <VERS vnumber="6">My soul [has waited] for the Lord more than those that watch for the morning: [I say, more than] those that watch for the morning.</VERS>
+      <VERS vnumber="7">Let Israel wait for the LORD; for with the LORD [there is] mercy and plenteous redemption close to him.</VERS>
+      <VERS vnumber="8">And he shall ransom Israel from all his sins.:</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

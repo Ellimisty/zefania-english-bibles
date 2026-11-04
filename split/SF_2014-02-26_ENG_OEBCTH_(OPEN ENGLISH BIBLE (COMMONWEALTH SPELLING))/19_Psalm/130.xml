@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="130">
+      <VERS vnumber="1">Out of the depthsI call to you, <STYLE id="cl:divineName">Lord</STYLE>.</VERS>
+      <VERS vnumber="2">
+        <STYLE id="cl:divineName">Lord</STYLE>, hear my voice:give heed with your earsto my loud plea. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">If you should mark sin, <STYLE id="cl:divineName">Lord</STYLE>,O <STYLE id="cl:divineName">Lord</STYLE>, who could stand?</VERS>
+      <VERS vnumber="4">But with you is forgiveness,that you may be feared. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">I wait for the <STYLE id="cl:divineName">Lord</STYLE>,I wait for his word,</VERS>
+      <VERS vnumber="6">I look for the <STYLE id="cl:divineName">Lord</STYLE>more than watchman for morning,than watchman for morning. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">Israel, hope in the <STYLE id="cl:divineName">Lord</STYLE>:with the <STYLE id="cl:divineName">Lord</STYLE> there is lovewith him plenteous redemption.</VERS>
+      <VERS vnumber="8">And he redeems Israelfrom all his iniquities.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

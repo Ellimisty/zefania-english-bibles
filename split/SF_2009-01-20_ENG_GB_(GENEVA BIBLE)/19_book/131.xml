@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Geneva Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="131">
+      <VERS vnumber="1">«A Song of degrees of David.» LORD, <DIV>
+          <NOTE type="x-studynote">He sets forth his great humility as an example to all rulers and governors.</NOTE>
+        </DIV> my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great <DIV>
+          <NOTE type="x-studynote">Which pass the measure and limits of his calling.</NOTE>
+        </DIV> matters, or in things too high for me.</VERS>
+      <VERS vnumber="2">Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul [is] even as a <DIV>
+          <NOTE type="x-studynote">He was void of ambition and wicked desires.</NOTE>
+        </DIV> weaned child.</VERS>
+      <VERS vnumber="3">Let Israel waite on the Lord from hencefoorth and for euer.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

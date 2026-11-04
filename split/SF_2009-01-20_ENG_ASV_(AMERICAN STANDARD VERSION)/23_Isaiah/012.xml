@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="American Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="23" bname="Isaiah" bsname="Isa">
+    <CHAPTER cnumber="12">
+      <VERS vnumber="1">And in that day thou shalt say, I will give thanks unto thee, O Jehovah; for though thou wast angry with me, thine anger is turned away and thou comfortest me.</VERS>
+      <VERS vnumber="2">Behold, God is my salvation; I will trust, and will not be afraid; for Jehovah, [even] Jehovah, is my strength and song; and he is become my salvation.</VERS>
+      <VERS vnumber="3">Therefore with joy shall ye draw water out of the wells of salvation.</VERS>
+      <VERS vnumber="4">And in that day shall ye say, Give thanks unto Jehovah, call upon his name, declare his doings among the peoples, make mention that his name is exalted.</VERS>
+      <VERS vnumber="5">Sing unto Jehovah; for he hath done excellent things: let this be known in all the earth.</VERS>
+      <VERS vnumber="6">Cry aloud and shout, thou inhabitant of Zion; for great in the midst of thee is the Holy One of Israel.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

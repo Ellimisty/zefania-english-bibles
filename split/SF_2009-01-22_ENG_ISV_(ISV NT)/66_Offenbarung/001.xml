@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="ISV NT" type="x-bible">
+  <BIBLEBOOK bnumber="66" bname="Offenbarung" bsname="Offb">
+    <CHAPTER cnumber="1">
+      <CAPTION vref="1">Instead, I hope to see you soon and talk face to face.May peace be with you! Your friends greet you. Greet each of our friends by name.</CAPTION>
+      <VERS vnumber="1">This is the revelation of Jesus Christ, which God gave him to show his servants the things that must happen soon. He made it known by sending his angel to his servant John,</VERS>
+      <VERS vnumber="2">who testified to what he saw: the word of God and the testimony about Jesus Christ.</VERS>
+      <VERS vnumber="3">How blessed is the one who reads aloud and those who hear the words of this prophecy and keep what is written in it, for the time is near!</VERS>
+      <VERS vnumber="4">From John to the seven churches in Asia. May grace and peace be yours from the one who is, who was, and who is coming, from the seven spirits who are in front of his throne,</VERS>
+      <VERS vnumber="5">and from Jesus Christ, the witness, the faithful one, the firstborn from the dead, and the ruler over the kings of the earth. To the one who loves us and has freed us from our sins by his blood</VERS>
+      <VERS vnumber="6">and has made us a kingdom, priests for his God and Father, be glory and power forever and ever! Amen.</VERS>
+      <VERS vnumber="7">Look! He is coming in the clouds.Every eye will see him, even those who pierced him,and all the tribes of the earth will mourn because of him.So be it! Amen.</VERS>
+      <VERS vnumber="8">
+        <STYLE css="font-weight:bold">“I am the Alpha and the Omega,”</STYLE> declares the Lord God, the one who is, who was, and who is coming, the Almighty.<STYLE css="font-weight:bold" />
+      </VERS>
+      <VERS vnumber="9">I am John, your brother and partner in suffering, ruling, and enduring because of Jesus. I was on the island called Patmos because of the word of God and the testimony about Jesus.</VERS>
+      <VERS vnumber="10">I came to be in the Spirit on the Day of the Lord, when I heard a loud voice behind me like a trumpet,</VERS>
+      <VERS vnumber="11">saying,<STYLE css="font-weight:bold">“Write on a scroll what you see, and send it to the seven churches: Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea.”</STYLE>
+      </VERS>
+      <VERS vnumber="12">Then I turned to see the voice that was talking to me, and when I turned I saw seven gold lampstands.</VERS>
+      <VERS vnumber="13">Among the lampstands there was someone like the Son of Man. He was wearing a long robe with a gold belt around his waist.</VERS>
+      <VERS vnumber="14">His head and his hair were white like wool, in fact, as white as snow. His eyes were like flames of fire,</VERS>
+      <VERS vnumber="15">his feet were like glowing bronze refined in a furnace, and his voice was like the sound of raging waters.</VERS>
+      <VERS vnumber="16">In his right hand he held seven stars, and out of his mouth came a sharp, two-edged sword. His face was like the sun when it shines with full force.</VERS>
+      <VERS vnumber="17">When I saw him, I fell down at his feet like a dead man. But he placed his right hand on me and said,<STYLE css="font-weight:bold">“Stop being afraid! I am the first and the last,</STYLE>
+      </VERS>
+      <VERS vnumber="18">
+        <STYLE css="font-weight:bold">the living one. I was dead, but look—I am alive forever and ever! I have the keys of Death and Hades.</STYLE>
+      </VERS>
+      <VERS vnumber="19">
+        <STYLE css="font-weight:bold">Therefore, write down what you have seen, what is, and what is going to happen after this.</STYLE>
+      </VERS>
+      <VERS vnumber="20">
+        <STYLE css="font-weight:bold">The secret meaning of the seven stars that you saw in my right hand and the seven gold lampstands is this: the seven stars are the messengers</STYLE>
+        <STYLE css="font-weight:bold">of the seven churches, and the seven lampstands are the seven churches.”</STYLE>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

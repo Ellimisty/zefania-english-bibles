@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="8">
+      <VERS vnumber="1"> To the chief <gr str="5329">Musician </gr>
+        <gr str="5921">upon </gr>
+        <gr str="1665">Gittith</gr>, A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>. O <gr str="3068">LORD </gr>our <gr str="113">Lord</gr>, <gr str="4100">how </gr>
+        <gr str="117">excellent </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> thy <gr str="8034">name </gr>in <gr str="3605">all </gr>the <gr str="776">earth</gr>! <gr str="834">who </gr>hast <gr str="5414">set </gr>thy <gr str="1935">glory </gr>
+        <gr str="5921">above </gr>the <gr str="8064">heavens</gr>. </VERS>
+      <VERS vnumber="2"> Out of the <gr str="4480 6310">mouth </gr>of <gr str="5768">babes </gr>and <gr str="3243">sucklings </gr>hast thou <gr str="3245">ordained </gr>
+        <gr str="5797">strength </gr>because <gr str="4616">of </gr>thine <gr str="6887">enemies</gr>, that thou mightest <gr str="7673">still </gr>the <gr str="341">enemy </gr>and the <gr str="5358">avenger</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="3588">When </gr>I <gr str="7200">consider </gr>thy <gr str="8064">heavens</gr>, the <gr str="4639">work </gr>of thy <gr str="676">fingers</gr>, the <gr str="3394">moon </gr>and the <gr str="3556">stars</gr>, <gr str="834">which </gr>thou hast <gr str="3559">ordained</gr>; </VERS>
+      <VERS vnumber="4">
+        <gr str="4100">What </gr>is <gr str="582">man</gr>, <gr str="3588">that </gr>thou art <gr str="2142">mindful </gr>of him? and the <gr str="1121">son </gr>of <gr str="120">man</gr>, <gr str="3588">that </gr>thou <gr str="6485">visitest </gr>him? </VERS>
+      <VERS vnumber="5"> For thou hast made him a little <gr str="2637 4592">lower </gr>than the <gr str="4480 430">angels</gr>, and hast <gr str="5849">crowned </gr>him with <gr str="3519">glory </gr>and <gr str="1926">honor</gr>. </VERS>
+      <VERS vnumber="6"> Thou madest him to have <gr str="4910">dominion </gr>over the <gr str="4639">works </gr>of thy <gr str="3027">hands</gr>; thou hast <gr str="7896">put </gr>
+        <gr str="3605">all </gr>
+        <STYLE css="color:#808080;font-style:italic"> things </STYLE>
+        <gr str="8478">under </gr>his <gr str="7272">feet</gr>: </VERS>
+      <VERS vnumber="7">
+        <gr str="3605">All </gr>
+        <gr str="6792">sheep </gr>and <gr str="504">oxen</gr>, <gr str="1571">yea</gr>, and the <gr str="929">beasts </gr>of the <gr str="7704">field</gr>; </VERS>
+      <VERS vnumber="8"> The <gr str="6833">fowl </gr>of the <gr str="8064">air</gr>, and the <gr str="1709">fish </gr>of the <gr str="3220">sea</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> whatsoever </STYLE> passeth <gr str="5674">through </gr>the <gr str="734">paths </gr>of the <gr str="3220">seas</gr>. </VERS>
+      <VERS vnumber="9"> O <gr str="3068">LORD </gr>our <gr str="113">Lord</gr>, <gr str="4100">how </gr>
+        <gr str="117">excellent </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> thy <gr str="8034">name </gr>in <gr str="3605">all </gr>the <gr str="776">earth</gr>! </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

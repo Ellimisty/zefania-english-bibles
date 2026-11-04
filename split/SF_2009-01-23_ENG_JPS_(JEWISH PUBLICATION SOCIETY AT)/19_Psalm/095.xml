@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Jewish Publication Society AT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="95">
+      <VERS vnumber="1">O come, let us sing unto the LORD; let us shout for joy to the Rock of our salvation.</VERS>
+      <VERS vnumber="2">Let us come before His presence with thanksgiving, let us shout for joy unto Him with psalms.</VERS>
+      <VERS vnumber="3">For the LORD is a great God, and a great King above all gods;</VERS>
+      <VERS vnumber="4">In whose hand are the depths of the earth; the heights of the mountains are His also.</VERS>
+      <VERS vnumber="5">The sea is His, and He made it; and His hands formed the dry land.</VERS>
+      <VERS vnumber="6">O come, let us bow down and bend the knee; let us kneel before the LORD our Maker;</VERS>
+      <VERS vnumber="7">For He is our God, and we are the people of His pasture, and the flock of His hand. To-day, if ye would but hearken to His voice!</VERS>
+      <VERS vnumber="8">'Harden not your heart, as at Meribah, as in the day of Massah in the wilderness;</VERS>
+      <VERS vnumber="9">When your fathers tried Me, proved Me, even though they saw My work.</VERS>
+      <VERS vnumber="10">For forty years was I wearied with that generation, and said: It is a people that do err in their heart, and they have not known My ways;</VERS>
+      <VERS vnumber="11">Wherefore I swore in My wrath, that they should not enter into My rest.'</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

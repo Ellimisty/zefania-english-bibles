@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="41">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For the end, a Psalm of David.</STYLE> - Blessed is the man who thinks, on the poor and needy: the Lord shall deliver him in an evil day.</VERS>
+      <VERS vnumber="2">May the Lord preserve him and keep him alive, and bless him on the earth, and not deliver him into the hands of his enemy.</VERS>
+      <VERS vnumber="3">May the Lord help him upon the bed of his pain; thou hast made all his bed in his sickness.</VERS>
+      <VERS vnumber="4">I said, O Lord, have mercy upon me; heal my soul; for I have sinned against thee.</VERS>
+      <VERS vnumber="5">Mine enemies have spoken evil against me, saying, When shall he die, and his name perish?</VERS>
+      <VERS vnumber="6">And if he came to see me, his heart spoke vainly; he gathered iniquity to himself; he went forth and spoke in like manner.</VERS>
+      <VERS vnumber="7">All my enemies whispered against me; against me they devised my hurt.</VERS>
+      <VERS vnumber="8">They denounced a wicked word against me, saying, Now that he lies, shall he not rise up again?</VERS>
+      <VERS vnumber="9">For even the man of my peace, in whom I trusted, <DIV>
+          <NOTE type="x-studynote">Joh 13:18</NOTE>
+        </DIV> who ate my bread, lifted up his heel against me.</VERS>
+      <VERS vnumber="10">But thou, O Lord, have compassion upon me, and raise me up, and I shall requite them.</VERS>
+      <VERS vnumber="11">By this I know that thou hast delighted in me, because mine enemy shall not rejoice over me.</VERS>
+      <VERS vnumber="12">But thou didst help me because of mine innocence, and hast established me before thee for ever.</VERS>
+      <VERS vnumber="13">Blessed be the Lord God of Israel from everlasting, and to everlasting. So be it, so be it.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

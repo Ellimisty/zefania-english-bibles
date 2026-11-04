@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bsname="PSA">
+    <CHAPTER cnumber="111">
+      <VERS vnumber="1">Praise the LORD. I will give thanks to the LORD with my whole heart, in the council of the upright, and in the congregation.</VERS>
+      <VERS vnumber="2">The LORD's works are great, pondered by all those who delight in them.</VERS>
+      <VERS vnumber="3">His work is honor and majesty. His righteousness endures forever.</VERS>
+      <VERS vnumber="4">He has caused his wonderful works to be remembered. The LORD is gracious and merciful.</VERS>
+      <VERS vnumber="5">He has given food to those who fear him. He always remembers his covenant.</VERS>
+      <VERS vnumber="6">He has shown his people the power of his works, in giving them the heritage of the nations.</VERS>
+      <VERS vnumber="7">The works of his hands are truth and justice. All his precepts are sure.</VERS>
+      <VERS vnumber="8">They are established forever and ever. They are done in truth and uprightness.</VERS>
+      <VERS vnumber="9">He has sent redemption to his people. He has ordained his covenant forever. His name is holy and awesome.</VERS>
+      <VERS vnumber="10">The fear of the LORD is the beginning of wisdom. All those who do his work have a good understanding. His praise endures forever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

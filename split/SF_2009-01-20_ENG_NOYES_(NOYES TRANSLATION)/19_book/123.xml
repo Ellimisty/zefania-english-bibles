@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="123">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A song of the steps, or the goings up.</STYLE> To thee do I lift up mine eyes, O Thou who dwellest in the heavens!</VERS>
+      <VERS vnumber="2">Behold, as the eyes of servants look to the hand of their masters, And as the eyes of a maiden to the hand of her mistress, So do our eyes look to the LORD, our God, Until he have pity upon us.</VERS>
+      <VERS vnumber="3">Have mercy upon us, O LORD! have mercy upon us, For we are overwhelmed with contempt!</VERS>
+      <VERS vnumber="4">Our soul is filled to the full with the scorn of those who are at ease, And with the contempt of the proud.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Modern KJV 1963" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="98">
+      <VERS vnumber="1">A Psalm. O sing to the LORD a new song; for He has done marvelous things; His right hand and His holy arm have saved for Him.</VERS>
+      <VERS vnumber="2">The LORD has made known His salvation; His righteousness He has unveiled to the eyes of the nations.</VERS>
+      <VERS vnumber="3">He has remembered His mercy and His truth toward the house of Israel; all the ends of the earth have seen the salvation of our GOD.</VERS>
+      <VERS vnumber="4">Make a joyful noise to the LORD, all the earth; breakout, and rejoice, and sing praise.</VERS>
+      <VERS vnumber="5">Sing to the LORD with the harp; with the harp, and the voice of a psalm.</VERS>
+      <VERS vnumber="6">With trumpets and sound of a horn make a joyful noise before the LORD, the King.</VERS>
+      <VERS vnumber="7">Let the sea roar, and the fullness of it; the world, and those who live in it.</VERS>
+      <VERS vnumber="8">Let the floods clap [their] hands; let the hills be joyful together</VERS>
+      <VERS vnumber="9">before the LORD; for He comes to judge the earth; with righteousness He shall judge the world, and the peoples in uprightness.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

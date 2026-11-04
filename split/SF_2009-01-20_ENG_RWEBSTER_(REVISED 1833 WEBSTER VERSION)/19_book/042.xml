@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="42">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief Musician, Maschil, for the sons of Korah.</STYLE> As the hart panteth after the water brooks, so my soul panteth after thee, O God. <DIV>
+          <NOTE type="x-studynote">Maschil…: or, A Psalm giving instruction of the sons, etc</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">panteth: Heb. brayeth</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">My soul thirsteth for God, for the living God: when shall I come and appear before God?</VERS>
+      <VERS vnumber="3">My tears have been my food day and night, while they continually say to me, Where <STYLE css="font-style:italic">is</STYLE> thy God?</VERS>
+      <VERS vnumber="4">When I remember these <STYLE css="font-style:italic">things</STYLE>, I pour out my soul in me: for I had gone with the multitude, I went with them to the house of God, with the voice of joy and praise, with a multitude that kept holy day.</VERS>
+      <VERS vnumber="5">Why art thou cast down, O my soul? and <STYLE css="font-style:italic">why</STYLE> art thou disquieted in me? hope thou in God: for I shall yet praise him <STYLE css="font-style:italic">for</STYLE> the help of his countenance. <DIV>
+          <NOTE type="x-studynote">cast: Heb. bowed</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">praise: or, give thanks</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">for the…: or, his presence is salvation</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">O my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar. <DIV>
+          <NOTE type="x-studynote">the hill…: or, the little hill</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="7">Deep calleth to deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me.</VERS>
+      <VERS vnumber="8">
+        <STYLE css="font-style:italic">Yet</STYLE> the LORD will command his lovingkindness in the day time, and in the night his song <STYLE css="font-style:italic">shall be</STYLE> with me, <STYLE css="font-style:italic">and</STYLE> my prayer to the God of my life.</VERS>
+      <VERS vnumber="9">I will say to God my rock, Why hast thou forgotten me? why go I mourning because of the oppression of the enemy?</VERS>
+      <VERS vnumber="10">
+        <STYLE css="font-style:italic">As</STYLE> with a sword in my bones, my enemies reproach me; while they say daily to me, Where <STYLE css="font-style:italic">is</STYLE> thy God? <DIV>
+          <NOTE type="x-studynote">sword: or, killing</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="11">Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, <STYLE css="font-style:italic">who is</STYLE> the health of my countenance, and my God.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

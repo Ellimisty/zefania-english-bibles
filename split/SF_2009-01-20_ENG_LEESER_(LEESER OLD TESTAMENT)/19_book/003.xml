@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="3">
+      <VERS vnumber="1">A psalm of David, when he fled from before Abshalom his son. <DIV>
+          <NOTE type="x-studynote">(3:2)</NOTE>
+        </DIV> Lord, how numerous are my assailants! how many, that rise up against me!</VERS>
+      <VERS vnumber="2">
+        <DIV>
+          <NOTE type="x-studynote">(3:3)</NOTE>
+        </DIV> Many say of my soul, There is no help for him with God. Selah.</VERS>
+      <VERS vnumber="3">
+        <DIV>
+          <NOTE type="x-studynote">(3:4)</NOTE>
+        </DIV> But thou, O Lord, art a shield around me, my glory, and he that lifteth up my head.</VERS>
+      <VERS vnumber="4">
+        <DIV>
+          <NOTE type="x-studynote">(3:5)</NOTE>
+        </DIV> With my voice I call unto the Lord, and he answereth me out of his holy mountain. Selah.</VERS>
+      <VERS vnumber="5">
+        <DIV>
+          <NOTE type="x-studynote">(3:6)</NOTE>
+        </DIV> I laid myself down and slept: I awoke; for the Lord sustaineth me.</VERS>
+      <VERS vnumber="6">
+        <DIV>
+          <NOTE type="x-studynote">(3:7)</NOTE>
+        </DIV> I will not be afraid of ten thousands of people, that have placed themselves round about against me.</VERS>
+      <VERS vnumber="7">
+        <DIV>
+          <NOTE type="x-studynote">(3:8)</NOTE>
+        </DIV> Arise, O Lord, help me, O my God; for thou smitest all my enemies upon the cheek bone: the teeth of the wicked dost thou break.</VERS>
+      <VERS vnumber="8">
+        <DIV>
+          <NOTE type="x-studynote">(3:9)</NOTE>
+        </DIV> Salvation belongeth unto the Lord: thy blessing be upon thy people. Selah.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

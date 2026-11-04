@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James 2000" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="126">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic;font-weight:bold">A song of ascents.</STYLE> When the LORD turned again the captivity of Zion, we were like them that dream.</VERS>
+      <VERS vnumber="2">Then was our mouth filled with laughter, and our tongue with singing: then said they among the nations, The LORD has done great things for them.</VERS>
+      <VERS vnumber="3">The LORD has done great things for us; and we are glad.</VERS>
+      <VERS vnumber="4">Turn again our captivity, O LORD, as the streams in the South.</VERS>
+      <VERS vnumber="5">They that sow in tears shall reap in joy.</VERS>
+      <VERS vnumber="6">He that goes forth weeping, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

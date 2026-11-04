@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="6">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For the End, a Psalm of David among the Hymns for the eighth.</STYLE> - O Lord, rebuke me not in thy wrath, neither chasten me in thine anger.</VERS>
+      <VERS vnumber="2">Pity me, O Lord; for I am weak: heal me, O Lord; for my bones are vexed.</VERS>
+      <VERS vnumber="3">My soul also is grievously vexed: but thou, O Lord, how long?</VERS>
+      <VERS vnumber="4">Return, O Lord, deliver my soul: save me for thy mercy’s sake.</VERS>
+      <VERS vnumber="5">For in death no man remembers thee: and who will give thee thanks in Hades?</VERS>
+      <VERS vnumber="6">
+        <DIV>
+          <NOTE type="x-studynote">Gr. I have laboured</NOTE>
+        </DIV> I am wearied with my groaning; I shall wash my bed every night; I shall water my couch with tears.</VERS>
+      <VERS vnumber="7">Mine eye is troubled because of my wrath; I am worn out because of all my enemies.</VERS>
+      <VERS vnumber="8">Depart from me, all ye that work iniquity; for the Lord has heard the voice of my weeping.</VERS>
+      <VERS vnumber="9">The Lord has hearkened to my petition; the Lord has accepted my prayer.</VERS>
+      <VERS vnumber="10">Let all mine enemies be put to shame and sore troubled: let them be turned back and grievously put to shame speedily.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

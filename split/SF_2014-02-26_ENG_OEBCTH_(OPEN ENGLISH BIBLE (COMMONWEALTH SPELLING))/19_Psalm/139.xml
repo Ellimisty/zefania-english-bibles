@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="139">
+      <VERS vnumber="1">O <STYLE id="cl:divineName">Lord</STYLE>, you search and know me;</VERS>
+      <VERS vnumber="2">when I sit, when I rise you know it,you perceive my thoughts from afar. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">When I walk, when I lie you sift it,familiar with all my ways.</VERS>
+      <VERS vnumber="4">There is not a word on my tongue,but see! <STYLE id="cl:divineName">Lord</STYLE>, you know it all. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">Behind and before you beset me,upon me you lay your hand.</VERS>
+      <VERS vnumber="6">It’s too wonderful for me to knowtoo lofty I cannot attain it. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">Whither shall I go from your spirit?Or whither shall I flee from your face?</VERS>
+      <VERS vnumber="8">If I climb up to heaven, you are there:or make Sheol my bed, you are there. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="9">If I lift up the wings of the morningand fly to the end of the sea,</VERS>
+      <VERS vnumber="10">there also your hand would grasp me,and your right hand take hold of me. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="11">If I say, “Let the darkness cover me,and night be the light about me,”</VERS>
+      <VERS vnumber="12">The dark is not dark for you,but night is as light as the day. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="13">For you did put me together;in my mother’s womb you did weave me.</VERS>
+      <VERS vnumber="14">I give you praise for my fashioningso full of awe, so wonderful.Your works are wonderful. <BR art="x-nl" /> You knew me right well;</VERS>
+      <VERS vnumber="15">my bones were not hidden from you,when I was made in secret,and woven in the depths of the earth. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="16">Your eyes saw all my days:they stood on your book every onewritten down, before they were fashioned,while none of them yet was mine. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="17">But how far, O God, beyond measureare your thoughts! How mighty their sum!</VERS>
+      <VERS vnumber="18">Should I count, they are more than the sand.When I wake, I am still with you. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="19">Will you slay the wicked, O God!And remove from me people of blood,</VERS>
+      <VERS vnumber="20">who maliciously defy youand take your name in vain. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="21">Do I not hate those who hate you, <STYLE id="cl:divineName">Lord</STYLE>?Do I not loathe those who resist you?</VERS>
+      <VERS vnumber="22">With perfect hatred I hate them,I count them my enemies. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="23">Search me, O God, know my heart:test me, and know my thoughts,</VERS>
+      <VERS vnumber="24">and see if guile be in me;and lead me in the way everlasting.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

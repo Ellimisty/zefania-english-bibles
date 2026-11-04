@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="90">
+      <VERS vnumber="1">
+        <STYLE id="cl:divineName">Lord</STYLE>, you have been a home to usone generation after another.</VERS>
+      <VERS vnumber="2">Before the mountains were born,or the earth and the world were brought forth,from everlasting to everlastingyou are God. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">You bring us back to the dust,you summon mortals to return.</VERS>
+      <VERS vnumber="4">For you see a thousand yearsas the passing of yesterday,as a watch in the night. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">Your floods sweep them away;they are like a dream,or like grass which sprouts in the morning,</VERS>
+      <VERS vnumber="6">which blossoms and sprouts in the morning,but by evening is cut and withered. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">For your anger consumes us,the heat of your wrath confounds us.</VERS>
+      <VERS vnumber="8">Our sins you have set before you,our secrets in the light of your face.</VERS>
+      <VERS vnumber="9">For through your wrath our days are declining,we bring our years to an end as a sigh. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="10">The span of our life is seventy years,or, if we are strong, maybe eighty;yet is their breadth but empty toil,for swiftly they go, and we fly away. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="11">Who lays to heart the power of your anger?Or who stands in reverent awe of your wrath?</VERS>
+      <VERS vnumber="12">O teach us to count our daysso our minds may learn wisdom. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="13">Return, O <STYLE id="cl:divineName">Lord</STYLE>; why so long?Relent on your servants.</VERS>
+      <VERS vnumber="14">Grant us your love to the full in the morning,that all our days we may shout for joy. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="15">Make us glad for the days you have humbled us,for the evil years we have seen.</VERS>
+      <VERS vnumber="16">Let your servants see you in action,show your majesty to their children.</VERS>
+      <VERS vnumber="17">Let the grace of the <STYLE id="cl:divineName">Lord</STYLE> our God be upon us,uphold what our hands are striving to do.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="46">
+    <CHAPTER cnumber="13">
+      <VERS vnumber="1">Though I speak with the tongues of men and of angels, and have not charity, I am become <STYLE css="font-style:italic">as</STYLE> sounding brass, or a tinkling cymbal.</VERS>
+      <VERS vnumber="2">And though I have <STYLE css="font-style:italic">the gift of</STYLE> prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.</VERS>
+      <VERS vnumber="3">And though I bestow all my goods to feed <STYLE css="font-style:italic">the poor</STYLE>, and though I give my body to be burned, and have not charity, it profiteth me nothing.</VERS>
+      <VERS vnumber="4">Charity suffereth long, <STYLE css="font-style:italic">and</STYLE> is kind; charity envieth not; charity vaunteth not itself, is not puffed up, <DIV>
+          <NOTE type="x-studynote">vaunteth…: or, is not rash</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="5">Doth not behave itself unseemly, seeketh not its own, is not easily provoked, thinketh no evil;</VERS>
+      <VERS vnumber="6">Rejoiceth not in iniquity, but rejoiceth in the truth; <DIV>
+          <NOTE type="x-studynote">in the truth: or, with the truth</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="7">Beareth all things, believeth all things, hopeth all things, endureth all things.</VERS>
+      <VERS vnumber="8">Charity never faileth: but whether <STYLE css="font-style:italic">there are</STYLE> prophecies, they shall be done away; whether <STYLE css="font-style:italic">there are</STYLE> tongues, they shall cease; whether <STYLE css="font-style:italic">there is</STYLE> knowledge, it shall vanish away. <DIV>
+          <NOTE type="x-studynote">fail: Gr. vanish away</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="9">For we know in part, and we prophesy in part.</VERS>
+      <VERS vnumber="10">But when that which is perfect is come, then that which is in part shall be done away. <DIV>
+          <NOTE type="x-studynote">done away: Gr. vanish away</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="11">When I was a child, I spoke as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things. <DIV>
+          <NOTE type="x-studynote">thought: or, reasoned</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">put away: Gr. vanish away</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="12">For now we see in a mirror, darkly; but then face to face: now I know in part; but then shall I know even as also I am known. <DIV>
+          <NOTE type="x-studynote">darkly: Gr. in a riddle</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="13">And now abideth faith, hope, charity, these three; but the greatest of these <STYLE css="font-style:italic">is</STYLE> charity.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

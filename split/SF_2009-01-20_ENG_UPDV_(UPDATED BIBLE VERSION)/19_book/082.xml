@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Updated Bible Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="82">
+      <VERS vnumber="1">A Psalm of Asaph. God stands in the congregation of God; He judges among the gods.</VERS>
+      <VERS vnumber="2">How long will you<DIV>
+          <NOTE type="x-emphasize">{+}</NOTE>
+        </DIV> judge unjustly, And respect the persons of the wicked? Selah.</VERS>
+      <VERS vnumber="3">Judge the poor and fatherless: Do justice to the afflicted and destitute.</VERS>
+      <VERS vnumber="4">Rescue the poor and needy: Deliver them out of the hand of the wicked.</VERS>
+      <VERS vnumber="5">They don't know, neither do they understand; They walk to and fro in darkness: All the foundations of the earth are shaken.</VERS>
+      <VERS vnumber="6">I said, You<DIV>
+          <NOTE type="x-emphasize">{+}</NOTE>
+        </DIV> are gods, And all of you<DIV>
+          <NOTE type="x-emphasize">{+}</NOTE>
+        </DIV> are sons of the Most High.</VERS>
+      <VERS vnumber="7">Nevertheless you<DIV>
+          <NOTE type="x-emphasize">{+}</NOTE>
+        </DIV> will die like man, And fall like one of the princes.</VERS>
+      <VERS vnumber="8">Arise, O God, judge the earth; For you will inherit all the nations.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

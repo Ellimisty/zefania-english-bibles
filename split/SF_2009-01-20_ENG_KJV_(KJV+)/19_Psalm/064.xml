@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="64">
+      <VERS vnumber="1"> To the chief <gr str="5329">Musician</gr>, A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>. <gr str="8085">Hear </gr>my <gr str="6963">voice</gr>, O <gr str="430">God</gr>, in my <gr str="7879">prayer</gr>: <gr str="5341">preserve </gr>my <gr str="2416">life </gr>from <gr str="4480 6343">fear </gr>of the <gr str="341">enemy</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="5641">Hide </gr>me from the secret <gr str="4480 5475">counsel </gr>of the <gr str="7489">wicked</gr>; from the <gr str="4480 7285">insurrection </gr>of the <gr str="6466">workers </gr>of <gr str="205">iniquity</gr>: </VERS>
+      <VERS vnumber="3">
+        <gr str="834">Who </gr>
+        <gr str="8150">whet </gr>their <gr str="3956">tongue </gr>like a <gr str="2719">sword</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="1869">bend </gr>
+        <STYLE css="color:#808080;font-style:italic"> their </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> bows </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> to </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> shoot </STYLE> their <gr str="2671">arrows</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE>
+        <gr str="4751">bitter </gr>
+        <gr str="1697">words</gr>: </VERS>
+      <VERS vnumber="4"> That they may <gr str="3384">shoot </gr>in <gr str="4565">secret </gr>at the <gr str="8535">perfect</gr>: <gr str="6597">suddenly </gr>do they <gr str="3384">shoot </gr>at him, and <gr str="3372">fear </gr>
+        <gr str="3808">not</gr>. </VERS>
+      <VERS vnumber="5"> They <gr str="2388">encourage </gr>themselves <STYLE css="color:#808080;font-style:italic"> in </STYLE> an <gr str="7451">evil </gr>
+        <gr str="1697">matter</gr>: they <gr str="5608">commune </gr>of laying snares <gr str="2934 4170">privily</gr>; they <gr str="559">say</gr>, <gr str="4310">Who </gr>shall <gr str="7200">see </gr>them? </VERS>
+      <VERS vnumber="6"> They search <gr str="2664">out </gr>
+        <gr str="5766">iniquities</gr>; they <gr str="8552">accomplish </gr>a diligent <gr str="2665 2664">search</gr>: both the <gr str="7130">inward </gr>
+        <STYLE css="color:#808080;font-style:italic"> thought </STYLE> of every <gr str="376">one </gr>
+        <STYLE css="color:#808080;font-style:italic"> of </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE>, and the <gr str="3820">heart</gr>, <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="6013">deep</gr>. </VERS>
+      <VERS vnumber="7"> But <gr str="430">God </gr>shall <gr str="3384">shoot </gr>at them <STYLE css="color:#808080;font-style:italic"> with </STYLE> an <gr str="2671">arrow</gr>; <gr str="6597">suddenly </gr>shall they <gr str="1961">be </gr>
+        <gr str="4347">wounded</gr>. </VERS>
+      <VERS vnumber="8"> So they shall make their own <gr str="3956">tongue </gr>to <gr str="3782">fall </gr>
+        <gr str="5921">upon </gr>themselves: <gr str="3605">all </gr>that <gr str="7200">see </gr>them shall flee <gr str="5074">away</gr>. </VERS>
+      <VERS vnumber="9"> And <gr str="3605">all </gr>
+        <gr str="120">men </gr>shall <gr str="3372">fear</gr>, and shall <gr str="5046">declare </gr>the <gr str="6467">work </gr>of <gr str="430">God</gr>; for they shall wisely <gr str="7919">consider </gr>of his <gr str="4639">doing</gr>. </VERS>
+      <VERS vnumber="10"> The <gr str="6662">righteous </gr>shall be <gr str="8055">glad </gr>in the <gr str="3068">LORD</gr>, and shall <gr str="2620">trust </gr>in him; and <gr str="3605">all </gr>the <gr str="3477">upright </gr>in <gr str="3820">heart </gr>shall <gr str="1984">glory</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

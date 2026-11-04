@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Darby Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="79">
+      <VERS vnumber="1">{A Psalm of Asaph.} O God, the nations are come into thine inheritance: thy holy temple have they defiled; they have laid Jerusalem in heaps.</VERS>
+      <VERS vnumber="2">The dead bodies of thy servants have they given to be meat unto the fowl of the heavens, the flesh of thy saints unto the beasts of the earth:</VERS>
+      <VERS vnumber="3">Their blood have they shed like water round about Jerusalem, and there was none to bury [them].</VERS>
+      <VERS vnumber="4">We are become a reproach to our neighbours, a mockery and a derision to them that are round about us.</VERS>
+      <VERS vnumber="5">How long, O Jehovah? wilt thou be angry for ever? Shall thy jealousy burn like fire?</VERS>
+      <VERS vnumber="6">Pour out thy fury upon the nations that have not known thee, and upon the kingdoms that call not upon thy name:</VERS>
+      <VERS vnumber="7">For they have devoured Jacob, and laid waste his habitation.</VERS>
+      <VERS vnumber="8">Remember not against us the iniquities of [our] forefathers; let thy tender mercies speedily come to meet us: for we are brought very low.</VERS>
+      <VERS vnumber="9">Help us, O God of our salvation, because of the glory of thy name; and deliver us, and forgive our sins, for thy name's sake.</VERS>
+      <VERS vnumber="10">Wherefore should the nations say, Where is their God? Let the avenging of the blood of thy servants that is shed be known among the nations in our sight.</VERS>
+      <VERS vnumber="11">Let the groaning of the prisoner come before thee; according to the greatness of thine arm, preserve those that are appointed to die;</VERS>
+      <VERS vnumber="12">And render unto our neighbours, sevenfold into their bosom, their reproach, wherewith they have reproached thee, O Lord.</VERS>
+      <VERS vnumber="13">And we, thy people and the sheep of thy pasture, will give thanks unto thee for ever; we will shew forth thy praise from generation to generation.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

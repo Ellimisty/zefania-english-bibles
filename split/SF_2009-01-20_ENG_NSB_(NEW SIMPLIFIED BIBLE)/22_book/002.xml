@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="22">
+    <CHAPTER cnumber="2">
+      <VERS vnumber="1">»I am the rose of Sharon, the lily of the valleys.«</VERS>
+      <VERS vnumber="2">
+        <STYLE css="font-style:italic">The Beloved</STYLE> »My love among the daughters is like a lily among thorns.«</VERS>
+      <VERS vnumber="3">
+        <STYLE css="font-style:italic">The Shulamite</STYLE> »Just like the apple tree among the trees of the wood so is my beloved among the sons. I sat down under his shadow with great delight, and his fruit was sweet to my taste.«</VERS>
+      <VERS vnumber="4">
+        <STYLE css="font-style:italic">The Shulamite to the Daughters of Jerusalem</STYLE> »He brought me to the banquet hall. His banner over me was love.</VERS>
+      <VERS vnumber="5">»Sustain me with raisin cakes. Refresh me with apples: for I am lovesick.</VERS>
+      <VERS vnumber="6">»His left hand is under my head. His right hand embraces me.«</VERS>
+      <VERS vnumber="7">»I charge you, O you daughters of Jerusalem, by the gazelles, and by the deer of the field: Do not stir up nor awaken love until it pleases.«</VERS>
+      <VERS vnumber="8">
+        <STYLE css="font-style:italic">The Shulamite</STYLE> »The voice of my beloved! Behold, he comes leaping upon the mountains, skipping upon the hills.</VERS>
+      <VERS vnumber="9">»My beloved is like a gazelle or a young stag. Behold, he stands behind our wall, he looks through the windows, gazing through the lattice.</VERS>
+      <VERS vnumber="10">»My beloved spoke, and said to me, Raise up, my love, my fair one, and come away.</VERS>
+      <VERS vnumber="11">»For, lo, the winter is past, the rain is over and gone.</VERS>
+      <VERS vnumber="12">The flowers appear on the earth. The time of singing birds has come. The voice of the turtle is heard in our land.</VERS>
+      <VERS vnumber="13">The fig tree puts forth her green figs, and the vines with the tender grape give a good smell. Arise, my love, my fair one, and come away!«</VERS>
+      <VERS vnumber="14">»O my dove, you are in the clefts of the rock, in the secret places of the stairs. Let me see your countenance. Let me hear your voice. For sweet is your voice, and your countenance is lovely.«</VERS>
+      <VERS vnumber="15">
+        <STYLE css="font-style:italic">Her Brothers</STYLE> »Catch the foxes for us, the little foxes that spoil the vines: for our vines have tender grapes.«</VERS>
+      <VERS vnumber="16">
+        <STYLE css="font-style:italic">The Shulamite</STYLE> »My beloved is mine and I am his. He feeds among the lilies.</VERS>
+      <VERS vnumber="17">
+        <STYLE css="font-style:italic">To Her Beloved</STYLE> »Until the daybreaks and the shadows flee away, turn my beloved, and be like a gazelle or a young stag upon the mountains of Bether.«</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

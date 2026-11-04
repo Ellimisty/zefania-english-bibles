@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="150">
+      <VERS vnumber="1">Praise the LORD! Praise God in his sanctuary; praise him in his mighty firmament!</VERS>
+      <VERS vnumber="2">Praise him for his mighty deeds; praise him according to his exceeding greatness!</VERS>
+      <VERS vnumber="3">Praise him with trumpet sound; praise him with lute and harp!</VERS>
+      <VERS vnumber="4">Praise him with timbrel and dance; praise him with strings and pipe!</VERS>
+      <VERS vnumber="5">Praise him with sounding cymbals; praise him with loud clashing cymbals!</VERS>
+      <VERS vnumber="6">Let everything that breathes praise the LORD! Praise the LORD!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

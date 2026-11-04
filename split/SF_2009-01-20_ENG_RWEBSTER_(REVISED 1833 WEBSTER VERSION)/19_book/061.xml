@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="61">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief Musician upon Neginah, [A Psalm] of David.</STYLE> Hear my cry, O God; attend to my prayer.</VERS>
+      <VERS vnumber="2">From the end of the earth will I cry to thee, when my heart is overwhelmed: lead me to the rock <STYLE css="font-style:italic">that</STYLE> is higher than I.</VERS>
+      <VERS vnumber="3">For thou hast been a shelter for me, <STYLE css="font-style:italic">and</STYLE> a strong tower from the enemy.</VERS>
+      <VERS vnumber="4">I will abide in thy tabernacle for ever: I will trust in the shelter of thy wings. Selah. <DIV>
+          <NOTE type="x-studynote">trust: or, make my refuge</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="5">For thou, O God, hast heard my vows: thou hast given <STYLE css="font-style:italic">me</STYLE> the heritage of those that fear thy name.</VERS>
+      <VERS vnumber="6">Thou wilt prolong the king’s life: <STYLE css="font-style:italic">and</STYLE> his years as many generations. <DIV>
+          <NOTE type="x-studynote">Thou…: Heb. Thou shalt add days to the days of the king</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">as…: Heb. as generation and generation</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="7">He shall abide before God for ever: O prepare mercy and truth, <STYLE css="font-style:italic">which</STYLE> may preserve him.</VERS>
+      <VERS vnumber="8">So will I sing praise to thy name for ever, that I may daily perform my vows.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

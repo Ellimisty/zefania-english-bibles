@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="134">
+      <VERS vnumber="1"> A Song of the going up. Give praise to the Lord, all you servants of the Lord, who take your places in the house of the Lord by night.</VERS>
+      <VERS vnumber="2">Give praise to the Lord, lifting up your hands in his holy place.</VERS>
+      <VERS vnumber="3">May the Lord, who made heaven and earth, send you blessing out of Zion,</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

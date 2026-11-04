@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Webster" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="46">
+      <VERS vnumber="1">+</VERS>
+      <VERS vnumber="2">\46:1\To the chief Musician for the sons of Korah, A Song upon Alamoth. God is our refuge and strength, a very present help in trouble.</VERS>
+      <VERS vnumber="3">\46:2\Therefore will we not fear, though the earth shall be removed, and though the mountains shall be carried into the midst of the sea;</VERS>
+      <VERS vnumber="4">\46:3\Though its waters shall roar and be disturbed, though the mountains shake with the swelling of it. Selah.</VERS>
+      <VERS vnumber="5">\46:4\There is a river, the streams of which shall make glad the city of God, the holy place of the tabernacles of the Most High.</VERS>
+      <VERS vnumber="6">\46:5\God is in the midst of her; she shall not be moved: God shall help her, and that right early.</VERS>
+      <VERS vnumber="7">\46:6\The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted.</VERS>
+      <VERS vnumber="8">\46:7\The LORD of hosts is with us; the God of Jacob is our refuge. Selah.</VERS>
+      <VERS vnumber="9">\46:8\Come, behold the works of the LORD, what desolations he hath made in the earth.</VERS>
+      <VERS vnumber="10">\46:9\He maketh wars to cease to the end of the earth; he breaketh the bow, and cutteth the spear asunder; he burneth the chariot in the fire.</VERS>
+      <VERS vnumber="11">\46:10\Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth.</VERS>
+      <VERS vnumber="12">\46:11\The LORD of hosts is with us; the God of Jacob is our refuge. Selah.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

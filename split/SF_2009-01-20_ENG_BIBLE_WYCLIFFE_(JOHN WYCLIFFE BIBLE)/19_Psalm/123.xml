@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="John Wycliffe Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="123">
+      <VERS vnumber="1">
+The `title of the hundrid and thre and twentithe `salm. The song of grecis `of Dauith. Israel seie now, No but for the Lord was in vs;
+</VERS>
+      <VERS vnumber="2">
+no but for `the Lord was in vs. Whanne men risiden vp ayens vs;
+</VERS>
+      <VERS vnumber="3">
+in hap thei hadden swalewid vs quike. Whanne the woodnesse of hem was wrooth ayens vs;
+</VERS>
+      <VERS vnumber="4">
+in hap watir hadde sope vs vp.
+</VERS>
+      <VERS vnumber="5">
+Oure soule passide thoruy a stronde; in  hap oure soule hadde passide thoruy a watir vnsuffrable.
+</VERS>
+      <VERS vnumber="6">
+Blessid be the Lord; that `yaf not vs in taking to the teeth of hem.
+</VERS>
+      <VERS vnumber="7">
+Oure soule, as a sparowe, is delyuered; fro the snare of hunters. The snare is al to-brokun; and we ben delyuered.
+</VERS>
+      <VERS vnumber="8">
+Oure helpe is in the name of the Lord; that made heuene and erthe.
+</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

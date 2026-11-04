@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="120">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A <gr str="7892">Song </gr>of <gr str="4609">degrees</gr>.</STYLE> In my <gr str="6869">distress </gr>I <gr str="7121">cried </gr>to the <gr str="3068">LORD</gr>, and he <gr str="6030">heard </gr>me.</VERS>
+      <VERS vnumber="2">
+        <gr str="5337">Deliver </gr>my <gr str="5315">soul</gr>, O <gr str="3068">LORD</gr>, from <gr str="8267">lying </gr>
+        <gr str="8193">lips</gr>, <STYLE css="font-style:italic">and</STYLE> from a <gr str="7423">deceitful </gr>
+        <gr str="3956">tongue</gr>.</VERS>
+      <VERS vnumber="3">What shall be <gr str="5414">given </gr>to thee? or what shall be <gr str="3254">done </gr>to thee, thou <gr str="7423">false </gr>
+        <gr str="3956">tongue</gr>? <DIV>
+          <NOTE type="x-studynote">What shall be given…: or, What shall the deceitful tongue give unto thee? or, what shall it profit thee?</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">done: Heb. added</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">
+        <gr str="8150">Sharp </gr>
+        <gr str="2671">arrows </gr>of the <gr str="1368">mighty</gr>, with <gr str="1513">coals </gr>of <gr str="7574">juniper</gr>. <DIV>
+          <NOTE type="x-studynote">Sharp…: or, It is as the sharp arrows of the mighty man, with coals of juniper</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="5">
+        <gr str="190">Woe </gr>is me, that I <gr str="1481">sojourn </gr>in <gr str="4902">Mesech</gr>, <STYLE css="font-style:italic">that</STYLE> I <gr str="7931">dwell </gr>in the <gr str="168">tents </gr>of <gr str="6938">Kedar</gr>!</VERS>
+      <VERS vnumber="6">My <gr str="5315">soul </gr>hath <gr str="7227">long </gr>
+        <gr str="7931">dwelt </gr>with him that <gr str="8130">hateth </gr>
+        <gr str="7965">peace</gr>.</VERS>
+      <VERS vnumber="7">I <STYLE css="font-style:italic">am for </STYLE>
+        <gr str="7965">peace</gr>: but when I <gr str="1696">speak</gr>, they <STYLE css="font-style:italic">are</STYLE> for <gr str="4421">war</gr>. <DIV>
+          <NOTE type="x-studynote">for peace: or, a man of peace</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

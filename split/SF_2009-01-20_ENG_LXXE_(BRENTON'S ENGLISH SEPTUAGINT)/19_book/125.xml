@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="125">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Song of Degrees.</STYLE> - They that trust in the Lord shall be as mount Sion: he that dwells in Jerusalem shall never be moved.</VERS>
+      <VERS vnumber="2">The mountains are round about her, and so the Lord is round about his people, from henceforth and even for ever.</VERS>
+      <VERS vnumber="3">For the Lord will not allow the rod of sinners to be upon the lot of the righteous; lest the righteous should stretch forth their hands to iniquity.</VERS>
+      <VERS vnumber="4">Do good, O Lord, to them that are good, and to them that are upright in heart.</VERS>
+      <VERS vnumber="5">But them that turn aside to crooked ways the Lord will lead away with the workers of iniquity: <DIV>
+          <NOTE type="x-studynote">Or, let peace be</NOTE>
+        </DIV> but peace shall be upon Israel.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

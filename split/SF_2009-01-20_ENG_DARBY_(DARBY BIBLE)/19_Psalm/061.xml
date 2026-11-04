@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Darby Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="61">
+      <VERS vnumber="1">{To the chief Musician. On a stringed instrument. [A Psalm] of David.} Hear, O God, my cry; attend unto my prayer.</VERS>
+      <VERS vnumber="2">From the end of the earth will I call unto thee, when my heart is overwhelmed: thou wilt lead me on to a rock which is too high for me.</VERS>
+      <VERS vnumber="3">For thou hast been a refuge for me, a strong tower from before the enemy.</VERS>
+      <VERS vnumber="4">I will sojourn in thy tent for ever; I will take refuge in the covert of thy wings. Selah.</VERS>
+      <VERS vnumber="5">For thou, O God, hast heard my vows; thou hast given [me] the inheritance of those that fear thy name.</VERS>
+      <VERS vnumber="6">Thou wilt add days to the days of the king: his years shall be as many generations.</VERS>
+      <VERS vnumber="7">He shall abide before God for ever: bestow loving-kindness and truth, that they may preserve him.</VERS>
+      <VERS vnumber="8">So will I sing forth thy name for ever, performing my vows from day to day.</VERS>
+      <VERS vnumber="9" />
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="18">
+    <CHAPTER cnumber="9">
+      <VERS vnumber="1">Then <gr str="347">Job </gr>
+        <gr str="6030">answered </gr>and <gr str="559">said</gr>,</VERS>
+      <VERS vnumber="2">I <gr str="3045">know </gr>
+        <STYLE css="font-style:italic">it to be</STYLE> so of a <gr str="551">truth</gr>: but how should <gr str="582">man </gr>be <gr str="6663">just </gr>with <gr str="410">God</gr>? <DIV>
+          <NOTE type="x-studynote">with God: or, before God?</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">If he <gr str="2654">will </gr>
+        <gr str="7378">contend </gr>with him, he cannot <gr str="6030">answer </gr>him <gr str="259">one </gr>time out of a <gr str="505">thousand</gr>.</VERS>
+      <VERS vnumber="4">
+        <STYLE css="font-style:italic">He is </STYLE>
+        <gr str="2450">wise </gr>in <gr str="3824">heart</gr>, and <gr str="533">mighty </gr>in <gr str="3581">strength</gr>: who hath <gr str="7185">hardened </gr>
+        <STYLE css="font-style:italic">himself</STYLE> against him, and hath <gr str="7999">prospered</gr>?</VERS>
+      <VERS vnumber="5">Who <gr str="6275">removeth </gr>the <gr str="2022">mountains</gr>, and they <gr str="3045">know </gr>not: who <gr str="2015">overturneth </gr>them in his <gr str="639">anger</gr>.</VERS>
+      <VERS vnumber="6">Who <gr str="7264">shaketh </gr>the <gr str="776">earth </gr>out of its <gr str="4725">place</gr>, and its <gr str="5982">pillars </gr>
+        <gr str="6426">tremble</gr>.</VERS>
+      <VERS vnumber="7">Who <gr str="559">commandeth </gr>the <gr str="2775">sun</gr>, and it <gr str="2224">riseth </gr>not; and sealeth <gr str="2856">up </gr>the <gr str="3556">stars</gr>.</VERS>
+      <VERS vnumber="8">Who alone spreadeth <gr str="5186">out </gr>the <gr str="8064">heavens</gr>, and <gr str="1869">treadeth </gr>upon the <gr str="1116">waves </gr>of the <gr str="3220">sea</gr>. <DIV>
+          <NOTE type="x-studynote">waves: Heb. heights</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="9">Who <gr str="6213">maketh </gr>
+        <gr str="5906">Arcturus</gr>, <gr str="3685">Orion</gr>, and <gr str="3598">Pleiades</gr>, and the <gr str="2315">chambers </gr>of the <gr str="8486">south</gr>. <DIV>
+          <NOTE type="x-studynote">Arcturus…: Heb. Ash, Cesil, and Cimah</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="10">Who <gr str="6213">doeth </gr>great <gr str="1419">things </gr>
+        <gr str="369">past </gr>finding <gr str="2714">out</gr>; yea, and <gr str="6381">wonders </gr>without <gr str="4557">number</gr>.</VERS>
+      <VERS vnumber="11">Lo, he <gr str="5674">goeth </gr>by me, and I <gr str="7200">see </gr>
+        <STYLE css="font-style:italic">him</STYLE> not: he passeth <gr str="2498">on </gr>also, but I <gr str="995">perceive </gr>him not.</VERS>
+      <VERS vnumber="12">Behold, he taketh <gr str="2862">away</gr>, who can <gr str="7725">hinder </gr>him? who will <gr str="559">say </gr>to him, What <gr str="6213">doest </gr>thou? <DIV>
+          <NOTE type="x-studynote">hinder…: Heb. turn him away?</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="13">
+        <STYLE css="font-style:italic">If </STYLE>
+        <gr str="433">God </gr>will not <gr str="7725">withdraw </gr>his <gr str="639">anger</gr>, the <gr str="7293">proud </gr>
+        <gr str="5826">helpers </gr>do <gr str="7817">stoop </gr>under him. <DIV>
+          <NOTE type="x-studynote">proud…: Heb. helpers of pride, or, strength</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="14">How much less shall I <gr str="6030">answer </gr>him, <STYLE css="font-style:italic">and</STYLE> choose <gr str="977">out </gr>my <gr str="1697">words </gr>
+        <STYLE css="font-style:italic">to reason</STYLE> with him?</VERS>
+      <VERS vnumber="15">Whom, though I were <gr str="6663">righteous</gr>, <STYLE css="font-style:italic">yet</STYLE> would I not <gr str="6030">answer</gr>, <STYLE css="font-style:italic">but</STYLE> I would make <gr str="2603">supplication </gr>to my <gr str="8199">judge</gr>.</VERS>
+      <VERS vnumber="16">If I had <gr str="7121">called</gr>, and he had <gr str="6030">answered </gr>me; <STYLE css="font-style:italic">yet</STYLE> I would not <gr str="539">believe </gr>that he had <gr str="238">hearkened </gr>to my <gr str="6963">voice</gr>.</VERS>
+      <VERS vnumber="17">For he <gr str="7779">breaketh </gr>me with a <gr str="8183">tempest</gr>, and <gr str="7235">multiplieth </gr>my <gr str="6482">wounds </gr>without <gr str="2600">cause</gr>.</VERS>
+      <VERS vnumber="18">He will not <gr str="5414">allow </gr>me to <gr str="7725">take </gr>my <gr str="7307">breath</gr>, but <gr str="7646">filleth </gr>me with <gr str="4472">bitterness</gr>.</VERS>
+      <VERS vnumber="19">If <STYLE css="font-style:italic">I speak</STYLE> of <gr str="3581">strength</gr>, lo, <STYLE css="font-style:italic">he is </STYLE>
+        <gr str="533">strong</gr>: and if of <gr str="4941">judgment</gr>, who shall <gr str="3259">set </gr>me a time <STYLE css="font-style:italic">to plead</STYLE>?</VERS>
+      <VERS vnumber="20">If I <gr str="6663">justify </gr>myself, my own <gr str="6310">mouth </gr>shall <gr str="7561">condemn </gr>me: <STYLE css="font-style:italic">if I say</STYLE>, I <STYLE css="font-style:italic">am </STYLE>
+        <gr str="8535">perfect</gr>, that also shall prove me <gr str="6140">perverse</gr>.</VERS>
+      <VERS vnumber="21">
+        <STYLE css="font-style:italic">Though</STYLE> I <STYLE css="font-style:italic">were </STYLE>
+        <gr str="8535">perfect</gr>, <STYLE css="font-style:italic">yet</STYLE> would I not <gr str="3045">know </gr>my <gr str="5315">soul</gr>: I would <gr str="3988">despise </gr>my <gr str="2416">life</gr>.</VERS>
+      <VERS vnumber="22">This <STYLE css="font-style:italic">is </STYLE>
+        <gr str="259">one </gr>
+        <STYLE css="font-style:italic">thing</STYLE>, therefore I <gr str="559">said </gr>
+        <STYLE css="font-style:italic">it</STYLE>, He <gr str="3615">destroyeth </gr>the <gr str="8535">perfect </gr>and the <gr str="7563">wicked</gr>.</VERS>
+      <VERS vnumber="23">If the <gr str="7752">scourge </gr>shall <gr str="4191">slay </gr>
+        <gr str="6597">suddenly</gr>, he will <gr str="3932">laugh </gr>at the <gr str="4531">trial </gr>of the <gr str="5355">innocent</gr>.</VERS>
+      <VERS vnumber="24">The <gr str="776">earth </gr>is <gr str="5414">given </gr>into the <gr str="3027">hand </gr>of the <gr str="7563">wicked</gr>: he <gr str="3680">covereth </gr>the <gr str="6440">faces </gr>of its <gr str="8199">judges</gr>; if not, <gr str="645">where</gr>, <STYLE css="font-style:italic">and</STYLE> who <STYLE css="font-style:italic">is</STYLE> he?</VERS>
+      <VERS vnumber="25">Now my <gr str="3117">days </gr>are <gr str="7043">swifter </gr>than a <gr str="7323">post</gr>: they flee <gr str="1272">away</gr>, they <gr str="7200">see </gr>no <gr str="2896">good</gr>.</VERS>
+      <VERS vnumber="26">They are passed <gr str="2498">away </gr>
+        <gr str="5973">as </gr>the <gr str="16">swift </gr>
+        <gr str="591">ships</gr>: as the <gr str="5404">eagle </gr>
+        <STYLE css="font-style:italic">that </STYLE>
+        <gr str="2907">hasteth </gr>to the <gr str="400">prey</gr>. <DIV>
+          <NOTE type="x-studynote">swift…: or, ships of Ebeh: Heb. ships of desire</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="27">If I <gr str="559">say</gr>, I will <gr str="7911">forget </gr>my <gr str="7879">complaint</gr>, I will put <gr str="5800">off </gr>my <gr str="6440">heaviness</gr>, and <gr str="1082">comfort </gr>
+        <STYLE css="font-style:italic">myself</STYLE>:</VERS>
+      <VERS vnumber="28">I am <gr str="3025">afraid </gr>of all my <gr str="6094">sorrows</gr>, I <gr str="3045">know </gr>that thou wilt not hold me <gr str="5352">innocent</gr>.</VERS>
+      <VERS vnumber="29">
+        <STYLE css="font-style:italic">If</STYLE> I am <gr str="7561">wicked</gr>, why then do I <gr str="3021">labour </gr>in <gr str="1892">vain</gr>?</VERS>
+      <VERS vnumber="30">If I <gr str="7364">wash </gr>myself <gr str="7950">with </gr>snow <gr str="4325 1119">water</gr>, and make my <gr str="3709">hands </gr>
+        <gr str="1252 1253">never </gr>so <gr str="2141">clean</gr>;</VERS>
+      <VERS vnumber="31">
+        <gr str="227">Yet </gr>shalt thou <gr str="2881">plunge </gr>me in the <gr str="7845">ditch</gr>, and my own <gr str="8008">clothes </gr>shall <gr str="8581">abhor </gr>me. <DIV>
+          <NOTE type="x-studynote">abhor…: or, make me to be abhorred</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="32">For <STYLE css="font-style:italic">he is</STYLE> not a <gr str="376">man</gr>, as I <STYLE css="font-style:italic">am, that</STYLE> I should <gr str="6030">answer </gr>him, <STYLE css="font-style:italic">and</STYLE> we should <gr str="935">come </gr>
+        <gr str="3162">together </gr>in <gr str="4941">judgment</gr>.</VERS>
+      <VERS vnumber="33">Neither <gr str="3426">is </gr>there any <gr str="3198">mediator </gr>between us, <STYLE css="font-style:italic">that</STYLE> might <gr str="7896">lay </gr>his <gr str="3027">hand </gr>upon us <gr str="8147">both</gr>. <DIV>
+          <NOTE type="x-studynote">any…: Heb. one that should argue</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">daysman: or, umpire</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="34">Let him take <gr str="5493">away </gr>his <gr str="7626">rod </gr>from me, and let not his <gr str="367">fear </gr>
+        <gr str="1204">terrify </gr>me:</VERS>
+      <VERS vnumber="35">
+        <STYLE css="font-style:italic">Then</STYLE> would I <gr str="1696">speak</gr>, and not <gr str="3372">fear </gr>him; but <STYLE css="font-style:italic">it is</STYLE> not so with me. <DIV>
+          <NOTE type="x-studynote">it is…: Heb. I am not so with myself</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="John Wycliffe Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="69">
+      <VERS vnumber="1">
+The titil of the nyne and sixtithe salm. To the victorie `of Dauid, `to haue mynde.
+</VERS>
+      <VERS vnumber="2">
+God, biholde thou in to myn heelp; Lord, hast thou to helpe me.
+</VERS>
+      <VERS vnumber="3">
+Be thei schent, and aschamed; that seken my lijf. Be thei turned a bak; and schame thei, that wolen yuels to me.
+</VERS>
+      <VERS vnumber="4">
+Be thei turned awei anoon, and schame thei; that seien to me, Wel! wel!
+</VERS>
+      <VERS vnumber="5">
+Alle men that seken thee, make fulli ioie, and be glad in thee; and thei that louen thin heelthe, seie euere, The Lord be magnyfied.
+</VERS>
+      <VERS vnumber="6">
+Forsothe Y am a nedi man, and pore; God, helpe thou me. Thou art myn helper and my delyuerere; Lord, tarye thou not.
+</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

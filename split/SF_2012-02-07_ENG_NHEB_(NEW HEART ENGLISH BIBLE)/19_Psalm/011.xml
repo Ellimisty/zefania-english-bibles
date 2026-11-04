@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="New Heart English Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="11">
+      <VERS vnumber="1">For the Chief Musician. By David.In the <STYLE id="cl:divineName">Lord</STYLE>, I take refuge.How can you say to my soul, "Flee as a bird to your mountain!"</VERS>
+      <VERS vnumber="2">For, behold, the wicked bend their bows.They set their arrows on the strings,that they may shoot in darkness at the upright in heart.</VERS>
+      <VERS vnumber="3">If the foundations are destroyed,what can the righteous do?</VERS>
+      <VERS vnumber="4">The <STYLE id="cl:divineName">Lord</STYLE> is in his holy temple.The <STYLE id="cl:divineName">Lord</STYLE> is on his throne in heaven.His eyes observe.His eyes examine the children of men.</VERS>
+      <VERS vnumber="5">The <STYLE id="cl:divineName">Lord</STYLE> examines the righteous,but the wicked and him who loves violence his soul hates.</VERS>
+      <VERS vnumber="6">On the wicked he will rain blazing coals;fire, sulfur, and scorching wind shall be the portion of their cup.</VERS>
+      <VERS vnumber="7">For the <STYLE id="cl:divineName">Lord</STYLE> is righteous.He loves righteousness.The upright shall see his face.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

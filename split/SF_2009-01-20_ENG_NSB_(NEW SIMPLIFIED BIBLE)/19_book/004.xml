@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="4">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">Answer me when I call, O God of my righteousness! You have relieved me in my trouble. Have mercy on me and hear my prayer.</VERS>
+      <VERS vnumber="2">O sons of men, how long will my glorious honor be turned into shame? How long will you love empty, worthless things and search for the lie?</VERS>
+      <VERS vnumber="3">But know that Jehovah has chosen and distinguished the godly man for himself. Jehovah will hear when I call to him.</VERS>
+      <VERS vnumber="4">Tremble, stand in awe and do not sin! Meditate in your heart upon your bed, and keep silent.</VERS>
+      <VERS vnumber="5">Offer the sacrifices of righteousness and trust in Jehovah.</VERS>
+      <VERS vnumber="6">Many are saying: »Who will show us good?« Lift up the light of your countenance <STYLE css="font-style:italic">face</STYLE>
+        <STYLE css="font-style:italic">presence</STYLE> upon us, O Jehovah!</VERS>
+      <VERS vnumber="7">You will put gladness <STYLE css="font-style:italic">joy</STYLE> in my heart. It will be more than when their grain and new wine abound.</VERS>
+      <VERS vnumber="8">In peace I will both lie down and sleep. For you alone, O Jehovah, make my dwelling safe and secure.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

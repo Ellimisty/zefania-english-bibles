@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Douay Rheims" type="x-bible">
+  <BIBLEBOOK bnumber="69" bname="Tobit" bsname="Tob">
+    <CHAPTER cnumber="47">
+      <VERS vnumber="1">Then Nathan the prophet arose in the days of David.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

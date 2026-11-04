@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="110">
+      <VERS vnumber="1">A Psalm of David.</VERS>
+      <VERS vnumber="2">The LORD says to my lord: "Sit at my right hand, till I make your enemies your footstool."</VERS>
+      <VERS vnumber="3">The LORD sends forth from Zion your mighty scepter. Rule in the midst of your foes!</VERS>
+      <VERS vnumber="4">Your people will offer themselves freely on the day you lead your host upon the holy mountains. From the womb of the morning like dew your youth will come to you.</VERS>
+      <VERS vnumber="5">The LORD has sworn and will not change his mind, "You are a priest for ever after the order of Melchiz'edek."</VERS>
+      <VERS vnumber="6">The Lord is at your right hand; he will shatter kings on the day of his wrath.</VERS>
+      <VERS vnumber="7">He will execute judgment among the nations, filling them with corpses; he will shatter chiefs over the wide earth. [ (Psalms 110:8) He will drink from the brook by the way; therefore he will lift up his head. ]</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="13">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">Adam, Seth, Enos,</VERS>
+      <VERS vnumber="2">and Cainan, Maleleel, Jared,</VERS>
+      <VERS vnumber="3">Enoch, Mathusala, Lamech,</VERS>
+      <VERS vnumber="4">Noe: the sons of Noe, Sem, Cham, Japheth.</VERS>
+      <VERS vnumber="5">The sons of Japheth, Gamer, Magog, Madaim, Jovan, Helisa, Thobel, Mosoch, and Thiras.</VERS>
+      <VERS vnumber="6">And the sons of Gamer, Aschanaz, and Riphath, and Thorgama.</VERS>
+      <VERS vnumber="7">And the sons of Jovan, Helisa, and Tharsis, the Citians, and Rhodians.</VERS>
+      <VERS vnumber="8">And the sons of Cham, Chus, and Mesraim, Phud and Chanaan.</VERS>
+      <VERS vnumber="9">And the sons of Chus, Saba, and Evila, and Sabatha, and Regma, and Sebethaca: and the sons of Regma, Saba, and Dadan.</VERS>
+      <VERS vnumber="10">And Chus begot Nebrod: he began to be a <DIV>
+          <NOTE type="x-studynote">Gr. a giant, a hunter</NOTE>
+        </DIV> mighty hunter on the earth.</VERS>
+      <VERS vnumber="11">
+        <DIV>
+          <NOTE type="x-studynote">Alex. And Mesraim was father of the Lodiim, and the Anamiim, and the Labin, and the Nephthalim,</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">1) Gr. begot</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="12">
+        <DIV>
+          <NOTE type="x-studynote">and the Patrosoniim, and the Chasloniim, whence went forth Philistiim, and the Chaphoriim.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="13">
+        <DIV>
+          <NOTE type="x-studynote">And Chanaan was father of Sidon, his first-born, and the Chettite, and the Jebusite,</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="14">
+        <DIV>
+          <NOTE type="x-studynote">and the Amorrhaean, and the Gergesite,</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="15">
+        <DIV>
+          <NOTE type="x-studynote">and the Evite, and the Arucaean, and the Asennaean,</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="16">
+        <DIV>
+          <NOTE type="x-studynote">and the Aradian, and the Samaraean, and the Amathite,</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="17">The sons of Sem, Ælam, and Assur, <DIV>
+          <NOTE type="x-studynote">and Arphaxad, and Lud and Aram. And the sons of Aram: Os and Ul, and Gather, and Mosoch.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="18">
+        <DIV>
+          <NOTE type="x-studynote">And Arphaxad begot Cainan, and Cainan begot Sala, and Sala begot Eber.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="19">
+        <DIV>
+          <NOTE type="x-studynote">And to Eber were born two sons, and the name of the one Phalec, for in his days the earth was divided, and the name of his brother was Jectan.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="20">
+        <DIV>
+          <NOTE type="x-studynote">And Jectan begot Elmodad and Saleph and Aramoth,</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="21">
+        <DIV>
+          <NOTE type="x-studynote">and Keduran, and Æxe, and Declam,</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="22">
+        <DIV>
+          <NOTE type="x-studynote">and Gemian, and Abimeel, and Saban,</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="23">
+        <DIV>
+          <NOTE type="x-studynote">and Uphir, and Evi, and Oram; all these were the sons of Jectan.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="24">and Arphaxad, Sala,</VERS>
+      <VERS vnumber="25">Eber, Pheleg, Ragan,</VERS>
+      <VERS vnumber="26">Seruch, Nachor, Tharrha,</VERS>
+      <VERS vnumber="27">Abraam.</VERS>
+      <VERS vnumber="28">And the sons of Abraam, Isaac, and Ismael.</VERS>
+      <VERS vnumber="29">And these are their generations: the first-born of Ismael, Nabaeoth, and Kedar, Nabdeel, Massam,</VERS>
+      <VERS vnumber="30">Masma, Iduma, Masse, Chondan, Thaeman,</VERS>
+      <VERS vnumber="31">Jettur, Naphes, Kedma: these are the sons of Ismael.</VERS>
+      <VERS vnumber="32">And the sons of Chettura Abraam’s concubine:—and she bore him Zembram, Jexan, Madiam, Madam, Sobac, Soe: and the sons of Jexan; Daedan, and Sabai;</VERS>
+      <VERS vnumber="33">and the sons of Madiam; Gephar, and Opher, and Enoch, and Abida, and Eldada; all these were the sons of Chettura.</VERS>
+      <VERS vnumber="34">And Abraam begot Isaac: and the sons of Isaac were Jacob, and Esau.</VERS>
+      <VERS vnumber="35">The sons of Esau, Eliphaz, and Raguel, and Jeul, and Jeglom, and Core.</VERS>
+      <VERS vnumber="36">The sons of Eliphaz: Thaeman, and Omar, Sophar, and Gootham, and Kenez, and Thamna, and Amalec.</VERS>
+      <VERS vnumber="37">And the sons of Raguel, Naches, Zare, Some, and Moze.</VERS>
+      <VERS vnumber="38">The sons of Seir, Lotan, Sobal, Sebegon, Ana, Deson, Osar, and Disan.</VERS>
+      <VERS vnumber="39">And the sons of Lotan, Chorri, and Æman; and the sister of Lotan was Thamna.</VERS>
+      <VERS vnumber="40">The sons of Sobal; Alon, Machanath, Taebel, Sophi, and Onan: and the sons of Sebegon; Æth, and Sonan.</VERS>
+      <VERS vnumber="41">The sons of Sonan, Daeson: and the sons of Daeson; Emeron, and Asebon, and Jethram, and Charran.</VERS>
+      <VERS vnumber="42">And the sons of Hosar, Balaam, and Zucam, and Acan: the sons of Disan, Os, and Aran.</VERS>
+      <VERS vnumber="43">And these are their kings, Balac the son of Beor; and the name of his city was Dennaba.</VERS>
+      <VERS vnumber="44">And Balac died, and Jobab the son of Zara of Bosorrha reigned in his stead.</VERS>
+      <VERS vnumber="45">And Jobab died, and Asom of the land of the Thaemanites reigned in his stead.</VERS>
+      <VERS vnumber="46">And Asom died, and Adad the son of Barad reigned in his stead, who smote Madiam in the plain of Moab: and the name of his city was Gethaim.</VERS>
+      <VERS vnumber="47">And Adad died, and Sebla of Masecca reigned in his stead.</VERS>
+      <VERS vnumber="48">And Sebla died, and Saul of Rhoboth by the river reigned in his stead.</VERS>
+      <VERS vnumber="49">And Saul died, and Balaennor son of Achobor reigned in his stead.</VERS>
+      <VERS vnumber="50">And Balaennor died, and Adad son of Barad reigned in his stead; and the name of his city was Phogor.</VERS>
+      <VERS vnumber="51">The princes of Edom: prince Thamna, prince Golada, prince Jether,</VERS>
+      <VERS vnumber="52">prince Elibamas, prince Elas, prince Phinon,</VERS>
+      <VERS vnumber="53">prince Kenez, prince Thaeman, prince Babsar, prince Magediel,</VERS>
+      <VERS vnumber="54">prince Zaphoin. These are the princes of Edom.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

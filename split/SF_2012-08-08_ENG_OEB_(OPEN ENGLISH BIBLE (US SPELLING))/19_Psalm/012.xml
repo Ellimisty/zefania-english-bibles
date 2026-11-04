@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="12">
+      <VERS vnumber="1">Help, <STYLE id="cl:divineName">Lord</STYLE>, for the good are all gone,faithful people have vanished.</VERS>
+      <VERS vnumber="2">One lies to another, speaking empty lies,with flattering lips and false hearts they speak. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">May the <STYLE id="cl:divineName">Lord</STYLE> cut off all the flattering lips,and the tongue that utters arrogance,</VERS>
+      <VERS vnumber="4">they declare, “Our tongue is our strength,our allies our lips: who is lord over us?” <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">“The poor are despoiled, and the needy are sighing;so now I will act,” the <STYLE id="cl:divineName">Lord</STYLE> declares“And place them in the safety they long for.” <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="6">The words of the <STYLE id="cl:divineName">Lord</STYLE> are words that are pure,silver smelted, seven times refined.</VERS>
+      <VERS vnumber="7">You will keep us, <STYLE id="cl:divineName">Lord</STYLE>,and guard us from this generation forever,</VERS>
+      <VERS vnumber="8">in a world where the wicked prowl,and worthless people exalted.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

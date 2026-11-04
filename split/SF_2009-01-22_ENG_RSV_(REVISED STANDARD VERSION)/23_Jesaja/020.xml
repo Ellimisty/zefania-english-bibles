@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="23" bname="Jesaja" bsname="Jes">
+    <CHAPTER cnumber="20">
+      <VERS vnumber="1">In the year that the commander in chief, who was sent by Sargon the king of Assyria, came to Ashdod and fought against it and took it,--</VERS>
+      <VERS vnumber="2">at that time the LORD had spoken by Isaiah the son of Amoz, saying, "Go, and loose the sackcloth from your loins and take off your shoes from your feet," and he had done so, walking naked and barefoot--</VERS>
+      <VERS vnumber="3">the LORD said, "As my servant Isaiah has walked naked and barefoot for three years as a sign and a portent against Egypt and Ethiopia,</VERS>
+      <VERS vnumber="4">so shall the king of Assyria lead away the Egyptians captives and the Ethiopians exiles, both the young and the old, naked and barefoot, with buttocks uncovered, to the shame of Egypt.</VERS>
+      <VERS vnumber="5">Then they shall be dismayed and confounded because of Ethiopia their hope and of Egypt their boast.</VERS>
+      <VERS vnumber="6">And the inhabitants of this coastland will say in that day, `Behold, this is what has happened to those in whom we hoped and to whom we fled for help to be delivered from the king of Assyria! And we, how shall we escape?'"</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

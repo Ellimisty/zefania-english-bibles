@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="23">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of <gr str="1732">David</gr>.</STYLE> The <gr str="3068">LORD </gr>
+        <STYLE css="font-style:italic">is</STYLE> my <gr str="7462">shepherd</gr>; I shall not <gr str="2637">want</gr>.</VERS>
+      <VERS vnumber="2">He maketh me to lie <gr str="7257">down </gr>in <gr str="1877">green </gr>
+        <gr str="4999">pastures</gr>: he <gr str="5095">leadeth </gr>me beside the <gr str="4496">still </gr>
+        <gr str="4325">waters</gr>. <DIV>
+          <NOTE type="x-studynote">green…: Heb. pastures of tender grass</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">still…: Heb. waters of quietness</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">He <gr str="7725">restoreth </gr>my <gr str="5315">soul</gr>: he <gr str="5148">leadeth </gr>me in the <gr str="4570">paths </gr>of <gr str="6664">righteousness </gr>for his <gr str="8034">name’s </gr>sake.</VERS>
+      <VERS vnumber="4">Yea, though I <gr str="3212">walk </gr>through the <gr str="1516">valley </gr>of the shadow of <gr str="6757">death</gr>, I will <gr str="3372">fear </gr>no <gr str="7451">evil</gr>: for thou <STYLE css="font-style:italic">art</STYLE> with me; thy <gr str="7626">rod </gr>and thy <gr str="4938">staff </gr>they <gr str="5162">comfort </gr>me.</VERS>
+      <VERS vnumber="5">Thou <gr str="6186">preparest </gr>a <gr str="7979">table </gr>
+        <gr str="6440">before </gr>me in the presence of my <gr str="6887">enemies</gr>: thou <gr str="1878">anointest </gr>my <gr str="7218">head </gr>with <gr str="8081">oil</gr>; my <gr str="3563">cup </gr>runneth <gr str="7310">over</gr>. <DIV>
+          <NOTE type="x-studynote">anointest: Heb. makest fat</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">Surely <gr str="2896">goodness </gr>and <gr str="2617">mercy </gr>shall <gr str="7291">follow </gr>me all the <gr str="3117">days </gr>of my <gr str="2416">life</gr>: and I will <gr str="3427">dwell </gr>in the <gr str="1004">house </gr>of the <gr str="3068">LORD </gr>for <gr str="753 3117">ever</gr>. <DIV>
+          <NOTE type="x-studynote">for ever: Heb. to length of days</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

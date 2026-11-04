@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="53">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For the end, a Psalm of David upon Maeleth, of instruction.</STYLE> - The fool has said in his heart, There is no God. They have corrupted themselves, and become abominable in iniquities: there is none that does good.</VERS>
+      <VERS vnumber="2">God looked down from heaven upon the sons of men, to see if there were any that understood, or sought after God.</VERS>
+      <VERS vnumber="3">
+        <DIV>
+          <NOTE type="x-studynote">Ro 3:10-12</NOTE>
+        </DIV> They have all gone out of the way, they are together become unprofitable; there is none that does good, there is not even one.</VERS>
+      <VERS vnumber="4">Will none of the workers of iniquity know, who devour my people as they would eat bread? they have not called upon God. There were they greatly afraid, where there was no fear:</VERS>
+      <VERS vnumber="5">for God has scattered the bones of the men-pleasers; they were ashamed, for God despised them.</VERS>
+      <VERS vnumber="6">Who will bring the salvation of Israel out of Sion? When the Lord turns the captivity of his people, Jacob shall exult, and Israel shall be glad.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

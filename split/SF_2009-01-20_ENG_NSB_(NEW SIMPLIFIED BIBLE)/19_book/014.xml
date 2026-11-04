@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="14">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">The fool says in his heart: »There is no God <STYLE css="font-style:italic">Jehovah</STYLE> (Psalm 10:4).« They are corrupt. They do disgusting things. No one does good things.</VERS>
+      <VERS vnumber="2">Jehovah looks down from heaven on the sons of men to see if there is anyone who acts wisely, if there is anyone who seeks help from God.</VERS>
+      <VERS vnumber="3">Everyone has turned away. Together they have become rotten to the core. No one, not even one person, does good things.</VERS>
+      <VERS vnumber="4">Are all the workers of wickedness, those who devour my people as if they were devouring food, so ignorant that they do not call on Jehovah?</VERS>
+      <VERS vnumber="5">They were in great fear and panic because God is with the righteous person.</VERS>
+      <VERS vnumber="6">They put the advice of oppressed people to shame because Jehovah is their protection.</VERS>
+      <VERS vnumber="7">If only salvation for Israel would come from Zion! When Jehovah restores his captive people, Jacob will rejoice. Israel will be glad.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

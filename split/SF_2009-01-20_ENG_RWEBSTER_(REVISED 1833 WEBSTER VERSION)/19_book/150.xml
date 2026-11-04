@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="150">
+      <VERS vnumber="1">Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power. <DIV>
+          <NOTE type="x-studynote">Praise ye…: Heb. Hallelujah</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">Praise him for his mighty acts: praise him according to his excellent greatness.</VERS>
+      <VERS vnumber="3">Praise him with the sound of the trumpet: praise him with the psaltery and harp. <DIV>
+          <NOTE type="x-studynote">trumpet: or, cornet</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">Praise him with the timbrel and dance: praise him with stringed instruments and pipes. <DIV>
+          <NOTE type="x-studynote">dance: or, pipe</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="5">Praise him upon the loud cymbals: praise him upon the high sounding cymbals.</VERS>
+      <VERS vnumber="6">Let every thing that hath breath praise the LORD. Praise ye the LORD.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="World English Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="117">
+      <VERS vnumber="1">Praise Yahweh, all you nations!    Extol him, all you peoples!</VERS>
+      <VERS vnumber="2">For his lovingkindness is great toward us.    Yahweh`s faithfulness endures forever. Praise Yah!      Psalm 118</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="141">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">[A Psalm] of <gr str="1732">David</gr>. </STYLE>
+        <gr str="3068">LORD</gr>, I <gr str="7121">cry </gr>to thee: make <gr str="2363">haste </gr>to me; give <gr str="238">ear </gr>to my <gr str="6963">voice</gr>, when I <gr str="7121">cry </gr>to thee.</VERS>
+      <VERS vnumber="2">Let my <gr str="8605">prayer </gr>be set <gr str="3559">forth </gr>
+        <gr str="6440">before </gr>thee <STYLE css="font-style:italic">as </STYLE>
+        <gr str="7004">incense</gr>; <STYLE css="font-style:italic">and</STYLE> the lifting <gr str="4864">up </gr>of my <gr str="3709">hands </gr>
+        <STYLE css="font-style:italic">as</STYLE> the <gr str="6153">evening </gr>
+        <gr str="4503">sacrifice</gr>. <DIV>
+          <NOTE type="x-studynote">set…: Heb. directed</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">
+        <gr str="7896">Set </gr>a <gr str="8108">watch</gr>, O <gr str="3068">LORD</gr>, before my <gr str="6310">mouth</gr>; <gr str="5341">keep </gr>the <gr str="1817">door </gr>of my <gr str="8193">lips</gr>.</VERS>
+      <VERS vnumber="4">
+        <gr str="5186">Incline </gr>not my <gr str="3820">heart </gr>to <STYLE css="font-style:italic">any </STYLE>
+        <gr str="7451">evil </gr>
+        <gr str="1697">thing</gr>, to <gr str="5953">practise </gr>
+        <gr str="7562">wicked </gr>
+        <gr str="5949">works </gr>with <gr str="376">men </gr>that <gr str="6466">work </gr>
+        <gr str="205">iniquity</gr>: and let me not <gr str="3898">eat </gr>of their <gr str="4516">dainties</gr>.</VERS>
+      <VERS vnumber="5">Let the <gr str="6662">righteous </gr>
+        <gr str="1986">smite </gr>me; <STYLE css="font-style:italic">it shall be</STYLE> a <gr str="2617">kindness</gr>: and let him <gr str="3198">reprove </gr>me; <STYLE css="font-style:italic">it shall be</STYLE> an <gr str="7218">excellent </gr>
+        <gr str="8081">oil</gr>, <STYLE css="font-style:italic">which</STYLE> shall not <gr str="5106">break </gr>my <gr str="7218">head</gr>: for yet my <gr str="8605">prayer </gr>also <STYLE css="font-style:italic">shall be</STYLE> in their <gr str="7451">calamities</gr>. <DIV>
+          <NOTE type="x-studynote">me; it shall be a…: or, me kindly, and reprove me; let not their precious oil break, etc</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">When their <gr str="8199">judges </gr>are <gr str="8058">overthrown </gr>in <gr str="5553">stony </gr>
+        <gr str="3027">places</gr>, they shall <gr str="8085">hear </gr>my <gr str="561">words</gr>; for they are <gr str="5276">sweet</gr>.</VERS>
+      <VERS vnumber="7">Our <gr str="6106">bones </gr>are <gr str="6340">scattered </gr>at the <gr str="7585">grave’s </gr>
+        <gr str="6310">mouth</gr>, as when one <gr str="6398">cutteth </gr>and <gr str="1234">cleaveth </gr>
+        <STYLE css="font-style:italic">wood</STYLE> upon the <gr str="776">earth</gr>.</VERS>
+      <VERS vnumber="8">But my <gr str="5869">eyes </gr>
+        <STYLE css="font-style:italic">are</STYLE> to thee, O <gr str="3069">GOD </gr>the <gr str="136">Lord</gr>: in thee is my <gr str="2620">trust</gr>; <gr str="6168">leave </gr>not my <gr str="5315">soul </gr>
+        <gr str="6168">destitute</gr>. <DIV>
+          <NOTE type="x-studynote">leave…: Heb. make not my soul bare</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="9">
+        <gr str="8104">Keep </gr>me from the <gr str="3027 6341">traps </gr>
+        <STYLE css="font-style:italic">which</STYLE> they have <gr str="3369">laid </gr>for me, and the <gr str="4170">snares </gr>of the <gr str="6466">workers </gr>of <gr str="205">iniquity</gr>.</VERS>
+      <VERS vnumber="10">Let the <gr str="7563">wicked </gr>
+        <gr str="5307">fall </gr>into their own <gr str="4364">nets</gr>, while <gr str="3162">I </gr>
+        <gr str="5674">escape</gr>. <DIV>
+          <NOTE type="x-studynote">escape: Heb. pass over</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

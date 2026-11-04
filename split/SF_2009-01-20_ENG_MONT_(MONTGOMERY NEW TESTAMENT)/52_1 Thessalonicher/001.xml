@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Montgomery New Testament" type="x-bible">
+  <BIBLEBOOK bnumber="52" bname="1 Thessalonicher" bsname="1.Thes">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">Paul and Silas and Timothy. To the church of the Thessalonians which is in God our Father and our Lord Jesus Christ. Grace be to you, and peace.</VERS>
+      <VERS vnumber="2">I am continually thanking God for all, always making mention of you in my prayers,</VERS>
+      <VERS vnumber="3">as I call to mind your work of faith, and labor of love, and patience of hope in our Lord Jesus Christ, in the presence of our God and Father.</VERS>
+      <VERS vnumber="4">For I know, O brothers, beloved of God, that he has chosen you;</VERS>
+      <VERS vnumber="5">for my gospel did not come to you in word only, but in power also,  and in the Holy Spirit, and with deep conviction. For you know also the manner in which I behaved myself among you for your sakes.</VERS>
+      <VERS vnumber="6">Moreover, you began to follow the pattern I set you, and the Lords also, receiving the word with joy in the Holy Spirit, although amid severe persecution.</VERS>
+      <VERS vnumber="7">Thus you became a pattern to all the believers in Macedonia and Achaia.</VERS>
+      <VERS vnumber="8">For the word of the Lord has been sounded forth from you, and its sound has been heard not only in Macedonia and Achaia, but also in every place where the tidings of your faith toward God have been spread abroad, so that I have no need to speak of it.</VERS>
+      <VERS vnumber="9">For others, of their own accord, tell about the welcome I had from you, and how you turned to God from your idols, to be slaved of a true and living God,</VERS>
+      <VERS vnumber="10">and to await for the coming of his Son from the heavens, the Son whom he raised from the dead, even Jesus, our Deliverer from the wrath to come.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="126">
+      <VERS vnumber="1"> A <gr str="7892">Song </gr>of <gr str="4609">degrees</gr>. When the <gr str="3068">LORD </gr>turned <gr str="7725">again </gr>
+        <gr str="*853" />the <gr str="7870">captivity </gr>of <gr str="6726">Zion</gr>, we <gr str="1961">were </gr>like them that <gr str="2492">dream</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="227">Then </gr>was our <gr str="6310">mouth </gr>
+        <gr str="4390">filled </gr>with <gr str="7814">laughter</gr>, and our <gr str="3956">tongue </gr>with <gr str="7440">singing</gr>: <gr str="227">then </gr>
+        <gr str="559">said </gr>they among the <gr str="1471">heathen</gr>, The <gr str="3068">LORD </gr>hath <gr str="6213">done </gr>great <gr str="1431">things </gr>
+        <gr str="5973">for </gr>
+        <gr str="428">them</gr>. </VERS>
+      <VERS vnumber="3"> The <gr str="3068">LORD </gr>hath <gr str="6213">done </gr>great <gr str="1431">things </gr>
+        <gr str="5973">for </gr>us; <STYLE css="color:#808080;font-style:italic"> whereof </STYLE> we <gr str="1961">are </gr>
+        <gr str="8056">glad</gr>. </VERS>
+      <VERS vnumber="4"> Turn <gr str="7725">again </gr>
+        <gr str="*853" />our <gr str="7622">captivity</gr>, O <gr str="3068">LORD</gr>, as the <gr str="650">streams </gr>in the <gr str="5045">south</gr>. </VERS>
+      <VERS vnumber="5"> They that <gr str="2232">sow </gr>in <gr str="1832">tears </gr>shall <gr str="7114">reap </gr>in <gr str="7440">joy</gr>. </VERS>
+      <VERS vnumber="6"> He that goeth <gr str="1980 1980">forth </gr>and <gr str="1058">weepeth</gr>, <gr str="5375">bearing </gr>
+        <gr str="4901">precious </gr>
+        <gr str="2233">seed</gr>, shall doubtless come <gr str="935 935">again </gr>with <gr str="7440">rejoicing</gr>, <gr str="5375">bringing </gr>his <gr str="485">sheaves </gr>
+        <STYLE css="color:#808080;font-style:italic"> with </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> him </STYLE>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

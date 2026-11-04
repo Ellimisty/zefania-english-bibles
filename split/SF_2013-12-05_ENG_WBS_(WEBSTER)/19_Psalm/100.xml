@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Webster" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="100">
+      <VERS vnumber="1">A Psalm of praise. Make a joyful noise to the LORD, all ye lands.</VERS>
+      <VERS vnumber="2">Serve the LORD with gladness: come before his presence with singing.</VERS>
+      <VERS vnumber="3">Know ye that the LORD he is God: it is he that hath made us, and not we ourselves; we are his people, and the sheep of his pasture.</VERS>
+      <VERS vnumber="4">Enter into his gates with thanksgiving, and into his courts with praise: be thankful to him, and bless his name.</VERS>
+      <VERS vnumber="5">For the LORD is good; his mercy is everlasting; and his truth endureth to all generations.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

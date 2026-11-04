@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="18" bname="Hiob" bsname="Hi">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1"> There <gr str="1961">was </gr>a <gr str="376">man </gr>in the <gr str="776">land </gr>of <gr str="5780">Uz</gr>, whose <gr str="8034">name </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="347">Job</gr>; and <gr str="1931">that </gr>
+        <gr str="376">man </gr>
+        <gr str="1961">was </gr>
+        <gr str="8535">perfect </gr>and <gr str="3477">upright</gr>, and one that <gr str="3373">feared </gr>
+        <gr str="430">God</gr>, and <gr str="5493">eschewed </gr>
+        <gr str="4480 7451">evil</gr>. </VERS>
+      <VERS vnumber="2"> And there were <gr str="3205">born </gr>unto him <gr str="7651">seven </gr>
+        <gr str="1121">sons </gr>and <gr str="7969">three </gr>
+        <gr str="1323">daughters</gr>. </VERS>
+      <VERS vnumber="3"> His <gr str="4735">substance </gr>also <gr str="1961">was </gr>
+        <gr str="7651">seven </gr>
+        <gr str="505">thousand </gr>
+        <gr str="6629">sheep</gr>, and <gr str="7969">three </gr>
+        <gr str="505">thousand </gr>
+        <gr str="1581">camels</gr>, and <gr str="2568">five </gr>
+        <gr str="3967">hundred </gr>
+        <gr str="6776">yoke </gr>of <gr str="1241">oxen</gr>, and <gr str="2568">five </gr>
+        <gr str="3967">hundred </gr>she <gr str="860">asses</gr>, and a <gr str="3966">very </gr>
+        <gr str="7227">great </gr>
+        <gr str="5657">household</gr>; so that <gr str="1931">this </gr>
+        <gr str="376">man </gr>
+        <gr str="1961">was </gr>the <gr str="1419">greatest </gr>of <gr str="4480 3605">all </gr>the <gr str="1121">men </gr>of the <gr str="6924">east</gr>. </VERS>
+      <VERS vnumber="4"> And his <gr str="1121">sons </gr>
+        <gr str="1980">went </gr>and <gr str="6213 4960">feasted </gr>
+        <STYLE css="color:#808080;font-style:italic"> in </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> their </STYLE>
+        <gr str="1004">houses</gr>, every <gr str="376">one </gr>his <gr str="3117">day</gr>; and <gr str="7971">sent </gr>and <gr str="7121">called </gr>for their <gr str="7969">three </gr>
+        <gr str="269">sisters </gr>to <gr str="398">eat </gr>and to <gr str="8354">drink </gr>
+        <gr str="5973">with </gr>them. </VERS>
+      <VERS vnumber="5"> And it <gr str="1961">was </gr>so, <gr str="3588">when </gr>the <gr str="3117">days </gr>of <STYLE css="color:#808080;font-style:italic"> their </STYLE>
+        <gr str="4960">feasting </gr>were gone <gr str="5362">about</gr>, that <gr str="347">Job </gr>
+        <gr str="7971">sent </gr>and <gr str="6942">sanctified </gr>them, and rose up <gr str="7925">early </gr>in the <gr str="1242">morning</gr>, and <gr str="5927">offered </gr>burnt <gr str="5930">offerings </gr>
+        <STYLE css="color:#808080;font-style:italic"> according </STYLE> to the <gr str="4557">number </gr>of them <gr str="3605">all</gr>: <gr str="3588">for </gr>
+        <gr str="347">Job </gr>
+        <gr str="559">said</gr>, It may <gr str="194">be </gr>that my <gr str="1121">sons </gr>have <gr str="2398">sinned</gr>, and <gr str="1288">cursed </gr>
+        <gr str="430">God </gr>in their <gr str="3824">hearts</gr>. <gr str="3602">Thus </gr>
+        <gr str="6213">did </gr>
+        <gr str="347">Job </gr>
+        <gr str="3605 3117">continually</gr>. </VERS>
+      <VERS vnumber="6"> Now there <gr str="1961">was </gr>a <gr str="3117">day </gr>when the <gr str="1121">sons </gr>of <gr str="430">God </gr>
+        <gr str="935">came </gr>to present <gr str="3320">themselves </gr>
+        <gr str="5921">before </gr>the <gr str="3068">LORD</gr>, and <gr str="7854">Satan </gr>
+        <gr str="935">came </gr>
+        <gr str="1571">also </gr>
+        <gr str="8432">among </gr>them. </VERS>
+      <VERS vnumber="7"> And the <gr str="3068">LORD </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>
+        <gr str="7854">Satan</gr>, <gr str="4480 370">Whence </gr>
+        <gr str="935">comest </gr>thou? Then <gr str="7854">Satan </gr>
+        <gr str="6030">answered </gr>
+        <gr str="*853" />the <gr str="3068">LORD</gr>, and <gr str="559">said</gr>, From going to and <gr str="4480 7751">fro </gr>in the <gr str="776">earth</gr>, and from walking up and <gr str="4480 1980">down </gr>in it. </VERS>
+      <VERS vnumber="8"> And the <gr str="3068">LORD </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>
+        <gr str="7854">Satan</gr>, Hast thou <gr str="7760 3820 5921">considered </gr>my <gr str="5650">servant </gr>
+        <gr str="347">Job</gr>, <gr str="3588">that </gr>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="369">none </gr>like <gr str="3644">him </gr>in the <gr str="776">earth</gr>, a <gr str="8535">perfect </gr>and an <gr str="3477">upright </gr>
+        <gr str="376">man</gr>, one that <gr str="3373">feareth </gr>
+        <gr str="430">God</gr>, and <gr str="5493">escheweth </gr>
+        <gr str="4480 7451">evil</gr>? </VERS>
+      <VERS vnumber="9"> Then <gr str="7854">Satan </gr>
+        <gr str="6030">answered </gr>
+        <gr str="*853" />the <gr str="3068">LORD</gr>, and <gr str="559">said</gr>, Doth <gr str="347">Job </gr>
+        <gr str="3372">fear </gr>
+        <gr str="430">God </gr>for <gr str="2600">naught</gr>? </VERS>
+      <VERS vnumber="10"> Hast <gr str="3808">not </gr>
+        <gr str="859">thou </gr>made a <gr str="7753">hedge </gr>
+        <gr str="1157">about </gr>him, and <gr str="1157">about </gr>his <gr str="1004">house</gr>, and <gr str="1157">about </gr>
+        <gr str="3605">all </gr>
+        <gr str="834">that </gr>he hath on every <gr str="4480 5439">side</gr>? thou hast <gr str="1288">blessed </gr>the <gr str="4639">work </gr>of his <gr str="3027">hands</gr>, and his <gr str="4735">substance </gr>is <gr str="6555">increased </gr>in the <gr str="776">land</gr>. </VERS>
+      <VERS vnumber="11">
+        <gr str="199">But </gr>put <gr str="7971">forth </gr>thine <gr str="3027">hand </gr>
+        <gr str="4994">now</gr>, and <gr str="5060">touch </gr>
+        <gr str="3605">all </gr>
+        <gr str="834">that </gr>he hath, <gr str="518">and </gr>he will <gr str="1288">curse </gr>thee <gr str="5921">to </gr>thy <gr str="6440">face</gr>. </VERS>
+      <VERS vnumber="12"> And the <gr str="3068">LORD </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>
+        <gr str="7854">Satan</gr>, <gr str="2009">Behold</gr>, <gr str="3605">all </gr>
+        <gr str="834">that </gr>he hath <STYLE css="color:#808080;font-style:italic"> is </STYLE> in thy <gr str="3027">power</gr>; <gr str="7535">only </gr>
+        <gr str="413">upon </gr>himself put not <gr str="408 7971">forth </gr>thine <gr str="3027">hand</gr>. So <gr str="7854">Satan </gr>went <gr str="3318">forth </gr>
+        <gr str="4480 5973">from </gr>the <gr str="6440">presence </gr>of the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="13"> And there <gr str="1961">was </gr>a <gr str="3117">day </gr>when his <gr str="1121">sons </gr>and his <gr str="1323">daughters </gr>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE>
+        <gr str="398">eating </gr>and <gr str="8354">drinking </gr>
+        <gr str="3196">wine </gr>in their <gr str="1060">eldest </gr>
+        <gr str="251">brother </gr>'s <gr str="1004">house</gr>: </VERS>
+      <VERS vnumber="14"> And there <gr str="935">came </gr>a <gr str="4397">messenger </gr>
+        <gr str="413">unto </gr>
+        <gr str="347">Job</gr>, and <gr str="559">said</gr>, The <gr str="1241">oxen </gr>
+        <gr str="1961">were </gr>
+        <gr str="2790">plowing</gr>, and the <gr str="860">asses </gr>
+        <gr str="7462">feeding </gr>
+        <gr str="5921 3027">beside </gr>them: </VERS>
+      <VERS vnumber="15"> And the <gr str="7614">Sabeans </gr>
+        <gr str="5307">fell </gr>
+        <STYLE css="color:#808080;font-style:italic"> upon </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE>, and took them <gr str="3947">away</gr>; yea, they have <gr str="5221">slain </gr>the <gr str="5288">servants </gr>with the <gr str="6310">edge </gr>of the <gr str="2719">sword</gr>; and <gr str="589">I </gr>
+        <gr str="7535">only </gr>am <gr str="4422">escaped </gr>
+        <gr str="905">alone </gr>to <gr str="5046">tell </gr>thee. </VERS>
+      <VERS vnumber="16"> While <gr str="2088">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="5750">yet </gr>
+        <gr str="1696">speaking</gr>, there <gr str="935">came </gr>also <gr str="2088">another</gr>, and <gr str="559">said</gr>, The <gr str="784">fire </gr>of <gr str="430">God </gr>is <gr str="5307">fallen </gr>
+        <gr str="4480">from </gr>
+        <gr str="8064">heaven</gr>, and hath burned <gr str="1197">up </gr>the <gr str="6629">sheep</gr>, and the <gr str="5288">servants</gr>, and <gr str="398">consumed </gr>them; and <gr str="589">I </gr>
+        <gr str="7535">only </gr>am <gr str="4422">escaped </gr>
+        <gr str="905">alone </gr>to <gr str="5046">tell </gr>thee. </VERS>
+      <VERS vnumber="17"> While <gr str="2088">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="5750">yet </gr>
+        <gr str="1696">speaking</gr>, there <gr str="935">came </gr>also <gr str="2088">another</gr>, and <gr str="559">said</gr>, The <gr str="3778">Chaldeans </gr>
+        <gr str="7760">made </gr>out <gr str="7969">three </gr>
+        <gr str="7218">bands</gr>, and <gr str="6584">fell </gr>
+        <gr str="5921">upon </gr>the <gr str="1581">camels</gr>, and have carried them <gr str="3947">away</gr>, yea, and <gr str="5221">slain </gr>the <gr str="5288">servants </gr>with the <gr str="6310">edge </gr>of the <gr str="2719">sword</gr>; and <gr str="589">I </gr>
+        <gr str="7535">only </gr>am <gr str="4422">escaped </gr>
+        <gr str="905">alone </gr>to <gr str="5046">tell </gr>thee. </VERS>
+      <VERS vnumber="18"> While <gr str="2088">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="5750">yet </gr>
+        <gr str="1696">speaking</gr>, there <gr str="935">came </gr>also <gr str="2088">another</gr>, and <gr str="559">said</gr>, Thy <gr str="1121">sons </gr>and thy <gr str="1323">daughters </gr>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE>
+        <gr str="398">eating </gr>and <gr str="8354">drinking </gr>
+        <gr str="3196">wine </gr>in their <gr str="1060">eldest </gr>
+        <gr str="251">brother </gr>'s <gr str="1004">house</gr>: </VERS>
+      <VERS vnumber="19"> And, <gr str="2009">behold</gr>, there <gr str="935">came </gr>a <gr str="1419">great </gr>
+        <gr str="7307">wind </gr>
+        <gr str="4480 5676">from </gr>the <gr str="4057">wilderness</gr>, and <gr str="5060">smote </gr>the <gr str="702">four </gr>
+        <gr str="6438">corners </gr>of the <gr str="1004">house</gr>, and it <gr str="5307">fell </gr>
+        <gr str="5921">upon </gr>the young <gr str="5288">men</gr>, and they are <gr str="4191">dead</gr>; and <gr str="589">I </gr>
+        <gr str="7535">only </gr>am <gr str="4422">escaped </gr>
+        <gr str="905">alone </gr>to <gr str="5046">tell </gr>thee. </VERS>
+      <VERS vnumber="20"> Then <gr str="347">Job </gr>
+        <gr str="6965">arose</gr>, and <gr str="7167">rent </gr>
+        <gr str="*853" />his <gr str="4598">mantle</gr>, and <gr str="1494">shaved </gr>
+        <gr str="*853" />his <gr str="7218">head</gr>, and fell <gr str="5307">down </gr>upon the <gr str="776">ground</gr>, and <gr str="7812">worshiped</gr>, </VERS>
+      <VERS vnumber="21"> And <gr str="559">said</gr>, <gr str="6174">Naked </gr>came I <gr str="3318">out </gr>of my mother's <gr str="4480 990 517">womb</gr>, and <gr str="6174">naked </gr>shall I <gr str="7725">return </gr>
+        <gr str="8033">thither</gr>: the <gr str="3068">LORD </gr>
+        <gr str="5414">gave</gr>, and the <gr str="3068">LORD </gr>hath taken <gr str="3947">away</gr>; <gr str="1288">blessed </gr>
+        <gr str="1961">be </gr>the <gr str="8034">name </gr>of the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="22"> In <gr str="3605">all </gr>
+        <gr str="2063">this </gr>
+        <gr str="347">Job </gr>
+        <gr str="2398">sinned </gr>
+        <gr str="3808">not</gr>, <gr str="3808">nor </gr>
+        <gr str="5414">charged </gr>
+        <gr str="430">God </gr>
+        <gr str="8604">foolishly</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

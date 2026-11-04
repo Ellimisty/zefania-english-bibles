@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="69">
+      <VERS vnumber="1">Unto the end. A Psalm of David, in remembrance that the Lord had saved him.</VERS>
+      <VERS vnumber="2">O God, reach out to help me. O Lord, hasten to assist me.</VERS>
+      <VERS vnumber="3">May those who seek my soul be confounded and awed.</VERS>
+      <VERS vnumber="4">May those who wish evils upon me be turned back and blush with shame. May they be turned away immediately, blushing with shame, who say to me: “Well, well.”</VERS>
+      <VERS vnumber="5">Let all who seek you exult and rejoice in you, and let those who love your salvation forever say: “The Lord be magnified.”</VERS>
+      <VERS vnumber="6">I am truly destitute and poor. O God, assist me. You are my helper and my deliverer. O Lord, do not delay.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

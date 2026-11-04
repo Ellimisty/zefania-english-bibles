@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Douay Rheims" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="132">
+      <VERS vnumber="1">Lord, my heart is not exalted: nor are my eyes lofty. Neither have I walked in great matters, nor in wonderful things above me.</VERS>
+      <VERS vnumber="2">If I was not humbly minded, but exalted my soul: As a child that is weaned is towards his mother, so reward in my soul.</VERS>
+      <VERS vnumber="3">Let Israel hope in the Lord, from henceforth now and for ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

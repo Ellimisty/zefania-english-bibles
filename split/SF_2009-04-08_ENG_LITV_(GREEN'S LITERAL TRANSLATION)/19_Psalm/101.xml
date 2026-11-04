@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Green's Literal Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="101">
+      <VERS vnumber="1">  A Psalm of David. I will sing of mercy and judgment; to You O Jehovah, I will sing praise.</VERS>
+      <VERS vnumber="2"> I will behave myself wisely in a perfect way; O when will You come to me? I will walk in the integrity of my heart in the midst of my house.</VERS>
+      <VERS vnumber="3"> I will set no wicked thing before my eyes; I have hated the work of those who turn aside; it shall not fasten upon me.</VERS>
+      <VERS vnumber="4"> A perverse heart shall depart from me; I will not know evil.</VERS>
+      <VERS vnumber="5">  Whoever secretly slanders his neighbor, I will cut him off; I will not endure him who has high eyes and a proud heart.</VERS>
+      <VERS vnumber="6"> My eyes shall be on the faithful of the land, so that they may dwell with me; he who walks in a perfect way shall serve me.</VERS>
+      <VERS vnumber="7">  He who works falsely shall not live inside my house; he who speaks lies shall not be established before my eyes.</VERS>
+      <VERS vnumber="8"> In the mornings I will cut off all the wicked of the land, so that I may cut off all the evil workers from the city of Jehovah.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

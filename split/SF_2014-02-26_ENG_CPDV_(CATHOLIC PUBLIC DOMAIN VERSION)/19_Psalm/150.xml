@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="150">
+      <VERS vnumber="1">Alleluia. Praise the Lord in his holy places. Praise him in the firmament of his power.</VERS>
+      <VERS vnumber="2">Praise him for his virtues. Praise him according to the multitude of his greatness.</VERS>
+      <VERS vnumber="3">Praise him with the sound of the trumpet. Praise him with psaltery and stringed instrument.</VERS>
+      <VERS vnumber="4">Praise him with timbrel and choir. Praise him with strings and organ.</VERS>
+      <VERS vnumber="5">Praise him with sweet-sounding cymbals. Praise him with cymbals of jubilation.</VERS>
+      <VERS vnumber="6">Let every spirit praise the Lord. Alleluia.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Darby Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="122">
+      <VERS vnumber="1">{A Song of degrees. Of David.} I rejoiced when they said unto me, Let us go into the house of Jehovah.</VERS>
+      <VERS vnumber="2">Our feet shall stand within thy gates, O Jerusalem.</VERS>
+      <VERS vnumber="3">Jerusalem, which art built as a city that is compact together,</VERS>
+      <VERS vnumber="4">Whither the tribes go up, the tribes of Jah, a testimony to Israel, to give thanks unto the name of Jehovah.</VERS>
+      <VERS vnumber="5">For there are set thrones for judgment, the thrones of the house of David.</VERS>
+      <VERS vnumber="6">Pray for the peace of Jerusalem: they shall prosper that love thee.</VERS>
+      <VERS vnumber="7">Peace be within thy bulwarks, prosperity within thy palaces.</VERS>
+      <VERS vnumber="8">For my brethren and companions' sakes I will say, Peace be within thee!</VERS>
+      <VERS vnumber="9">Because of the house of Jehovah our God I will seek thy good.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

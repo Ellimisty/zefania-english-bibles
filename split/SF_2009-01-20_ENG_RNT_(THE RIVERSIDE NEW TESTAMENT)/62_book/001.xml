@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="The Riverside New Testament" type="x-bible">
+  <BIBLEBOOK bnumber="62">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">WHAT was from the beginning, what we have heard, what we have seen with our eyes, what we looked upon and our hands touched \'97 it is about the Word of Life</VERS>
+      <VERS vnumber="2">
+        <DIV>
+          <NOTE type="x-studynote">the Life appeared and we saw and testify to it and tell you of the Life eternal which was with the Father and appeared to us</NOTE>
+        </DIV> \'97</VERS>
+      <VERS vnumber="3">what wo have seen and heard we are telling you also, so that you may have fellowship with us. And our fellowship is with the Father and with his Son Jesus Christ.</VERS>
+      <VERS vnumber="4">We are writing this that our joy may be complete.</VERS>
+      <VERS vnumber="5">This is the message which we have heard from him and tell to you, God is light and in him is no darkness at all.</VERS>
+      <VERS vnumber="6">If we say, "We have fellowship with him," and live in darkness, we lie and are not acting the truth.</VERS>
+      <VERS vnumber="7">If we live in the light, as he is in the light, we have fellowship with one another and the blood of Jesus his Son cleanses us from all sin.</VERS>
+      <VERS vnumber="8">If we say, "We have no sin," we deceive ourselves and the truth is not in us.</VERS>
+      <VERS vnumber="9">If we confess our sins, he is faithful and just to forgive us our sins and cleanse us from all unrighteousness:</VERS>
+      <VERS vnumber="10">If we say, "We have not sinned," we make him a liar and his message is not in us.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

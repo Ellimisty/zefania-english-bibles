@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="67">
+      <VERS vnumber="1">Bless us, O God, with your favour,let the light of your face fall upon us;  (Selah)</VERS>
+      <VERS vnumber="2">that the world may know your way,and all nations your power to save. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">Let the peoples praise you, O God;let the peoples all of them praise you.</VERS>
+      <VERS vnumber="4">Let the nations ring out their joy;for you govern the peoples with equity,and guide the nations on earth.  (Selah)</VERS>
+      <VERS vnumber="5">Let the peoples praise you, O God,let the peoples, all of them, praise you. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="6">The earth has yielded her increaseby the blessing of God, our God.</VERS>
+      <VERS vnumber="7">May this blessing of ours win people to himunto all the ends of the earth.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

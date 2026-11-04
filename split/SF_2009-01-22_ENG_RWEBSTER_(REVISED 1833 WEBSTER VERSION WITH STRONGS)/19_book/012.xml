@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="12">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief <gr str="5329">Musician </gr>upon <gr str="8067">Sheminith</gr>, A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>. </STYLE>
+        <gr str="3467">Help</gr>, <gr str="3068">LORD</gr>; for the godly <gr str="2623">man </gr>
+        <gr str="1584">ceaseth</gr>; for the <gr str="539">faithful </gr>
+        <gr str="6461">fail </gr>from among the <gr str="1121">children </gr>of <gr str="120">men</gr>. <DIV>
+          <NOTE type="x-studynote">upon…: or, upon the eighth</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">Help: or, Save</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">They <gr str="1696">speak </gr>
+        <gr str="7723">vanity </gr>every <gr str="376">one </gr>with his <gr str="7453">neighbour</gr>: <STYLE css="font-style:italic">with </STYLE>
+        <gr str="2513">flattering </gr>
+        <gr str="8193">lips </gr>
+        <STYLE css="font-style:italic">and</STYLE> with a <gr str="3820">double </gr>
+        <gr str="3820">heart </gr>do they <gr str="1696">speak</gr>. <DIV>
+          <NOTE type="x-studynote">a double…: Heb. an heart and an heart</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">The <gr str="3068">LORD </gr>shall cut <gr str="3772">off </gr>all <gr str="2513">flattering </gr>
+        <gr str="8193">lips</gr>, <STYLE css="font-style:italic">and</STYLE> the <gr str="3956">tongue </gr>that <gr str="1696">speaketh </gr>
+        <gr str="1419">proud </gr>things: <DIV>
+          <NOTE type="x-studynote">proud: Heb. great</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">Who have <gr str="559">said</gr>, With our <gr str="3956">tongue </gr>will we <gr str="1396">prevail</gr>; our <gr str="8193">lips </gr>
+        <STYLE css="font-style:italic">are</STYLE> our own: who <STYLE css="font-style:italic">is </STYLE>
+        <gr str="113">lord </gr>over us? <DIV>
+          <NOTE type="x-studynote">are…: Heb. are with us</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="5">For the <gr str="7701">oppression </gr>of the <gr str="6041">poor</gr>, for the <gr str="603">sighing </gr>of the <gr str="34">needy</gr>, now will I <gr str="6965">arise</gr>, <gr str="559">saith </gr>the <gr str="3068">LORD</gr>; I will <gr str="7896">set </gr>
+        <STYLE css="font-style:italic">him</STYLE> in <gr str="3468">safety </gr>
+        <STYLE css="font-style:italic">from him that </STYLE>
+        <gr str="6315">puffeth </gr>at him. <DIV>
+          <NOTE type="x-studynote">puffeth…: or, would ensnare him</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">The <gr str="565">words </gr>of the <gr str="3068">LORD </gr>
+        <STYLE css="font-style:italic">are </STYLE>
+        <gr str="2889">pure </gr>
+        <gr str="565">words</gr>: <STYLE css="font-style:italic">as </STYLE>
+        <gr str="3701">silver </gr>
+        <gr str="6884">tried </gr>in a <gr str="5948">furnace </gr>of <gr str="776">earth</gr>, <gr str="2212">purified </gr>seven <gr str="7659">times</gr>.</VERS>
+      <VERS vnumber="7">Thou shalt <gr str="8104">keep </gr>them, O <gr str="3068">LORD</gr>, thou shalt <gr str="5341">preserve </gr>them from <gr str="2098">this </gr>
+        <gr str="1755">generation </gr>for <gr str="5769">ever</gr>. <DIV>
+          <NOTE type="x-studynote">them from: Heb. him, etc: that is, every one of them, etc</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">The <gr str="7563">wicked </gr>
+        <gr str="1980">walk </gr>on every <gr str="5439">side</gr>, when the <gr str="2149">vilest </gr>
+        <gr str="1121 120">men </gr>are <gr str="7311">exalted</gr>. <DIV>
+          <NOTE type="x-studynote">men: Heb. of the sons of the men</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

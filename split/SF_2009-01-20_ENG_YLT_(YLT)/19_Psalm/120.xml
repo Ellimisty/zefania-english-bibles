@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="YLT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="120">
+      <VERS vnumber="1">A Song of the Ascents. Unto Jehovah in my distress I have  called, And He answereth me.</VERS>
+      <VERS vnumber="2">O Jehovah, deliver my soul from a lying lip, From a  deceitful tongue!</VERS>
+      <VERS vnumber="3">What doth He give to thee? And what doth He add to thee? O  deceitful tongue!</VERS>
+      <VERS vnumber="4">Sharp arrows of a mighty one, with broom-coals.</VERS>
+      <VERS vnumber="5">Wo to me, for I have inhabited Mesech, I have dwelt with  tents of Kedar.</VERS>
+      <VERS vnumber="6">Too much hath my soul dwelt with him who is hating peace.</VERS>
+      <VERS vnumber="7">I [am] peace, and when I speak they [are] for war!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

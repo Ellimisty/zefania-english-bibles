@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible - Jehovah Edition" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="122">
+      <VERS vnumber="1">A Song of Ascents. By David.   I was glad when they said to me,"Let's go to <STYLE id="cl:divineName">Jehovah</STYLE>'s house!"</VERS>
+      <VERS vnumber="2">Our feet are standing within your gates, Jerusalem;</VERS>
+      <VERS vnumber="3">Jerusalem, that is built as a city that is compact together;</VERS>
+      <VERS vnumber="4">where the tribes go up, even the tribes of Yah,according to an ordinance for Israel,to give thanks to the name of <STYLE id="cl:divineName">Jehovah</STYLE>.</VERS>
+      <VERS vnumber="5">For there are set thrones for judgment,the thrones of David's house.</VERS>
+      <VERS vnumber="6">Pray for the peace of Jerusalem.Those who love you will prosper.</VERS>
+      <VERS vnumber="7">Peace be within your walls,and prosperity within your palaces.</VERS>
+      <VERS vnumber="8">For my brothers' and companions' sakes,I will now say, "Peace be within you."</VERS>
+      <VERS vnumber="9">For the sake of the house of <STYLE id="cl:divineName">Jehovah</STYLE> our God,I will seek your good.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

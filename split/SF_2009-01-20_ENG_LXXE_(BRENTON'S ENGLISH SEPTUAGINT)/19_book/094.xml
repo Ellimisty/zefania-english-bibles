@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="94">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of David for the fourth day of the week.</STYLE> - The Lord is a God of <DIV>
+          <NOTE type="x-studynote">Gr. plural, bis</NOTE>
+        </DIV> vengeance; the God of vengeance has declared himself.</VERS>
+      <VERS vnumber="2">Be thou exalted, thou that judgest the earth: render a reward to the proud.</VERS>
+      <VERS vnumber="3">How long shall sinners, O Lord, how long shall sinners boast?</VERS>
+      <VERS vnumber="4">They will utter and speak unrighteousness; all the workers of iniquity will speak so.</VERS>
+      <VERS vnumber="5">They have afflicted thy people, O Lord, and hurt thine heritage.</VERS>
+      <VERS vnumber="6">They have slain the widow and fatherless, and murdered the stranger.</VERS>
+      <VERS vnumber="7">And they said, The Lord shall not see, neither shall the God of Jacob understand.</VERS>
+      <VERS vnumber="8">Understand now, ye simple among the people; and ye fools, at length be wise.</VERS>
+      <VERS vnumber="9">He that planted the ear, does he not hear? or he that formed the eye, does not he perceive?</VERS>
+      <VERS vnumber="10">He that chastises the heathen, shall not he punish, even he that teaches man knowledge?</VERS>
+      <VERS vnumber="11">
+        <DIV>
+          <NOTE type="x-studynote">1 Co 3:20</NOTE>
+        </DIV> The Lord knows the thoughts of men, that they are vain.</VERS>
+      <VERS vnumber="12">Blessed is the man whomsoever thou shalt chasten, O Lord, and shalt teach him out of thy law;</VERS>
+      <VERS vnumber="13">to give him rest from evil days, until a pit be digged for the sinful one.</VERS>
+      <VERS vnumber="14">For the Lord will not cast off his people, neither will he forsake his inheritance;</VERS>
+      <VERS vnumber="15">until righteousness return to judgement, and all the upright in heart shall follow it. Pause.</VERS>
+      <VERS vnumber="16">Who will rise up for me against the transgressors? or who will stand up with me against the workers of iniquity?</VERS>
+      <VERS vnumber="17">If the Lord had not helped me, my soul had almost sojourned in Hades.</VERS>
+      <VERS vnumber="18">If I said, My foot has been moved;</VERS>
+      <VERS vnumber="19">thy mercy, O Lord, helped me. O Lord, according to the multitude of my griefs within my heart, thy consolation have <DIV>
+          <NOTE type="x-studynote">Lit. «have loved’; Alex. hufranan, «have gladdened’</NOTE>
+        </DIV> soothed my soul.</VERS>
+      <VERS vnumber="20">Shall the throne of iniquity have fellowship with thee, which frames mischief by an ordinance?</VERS>
+      <VERS vnumber="21">They will hunt for the soul of the righteous, and condemn innocent blood.</VERS>
+      <VERS vnumber="22">But the Lord was my refuge; and my God the helper of my hope.</VERS>
+      <VERS vnumber="23">And he will recompense to them their iniquity and their wickedness: the Lord our God shall utterly destroy them.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

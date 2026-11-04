@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Green's Literal Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="15">
+      <VERS vnumber="1">  A Psalm of David. O Jehovah, who shall dwell in Your tabernacle? Who shall live in Your holy mountain?</VERS>
+      <VERS vnumber="2"> He who walks uprightly and works righteousness, and speaks the truth in his heart.</VERS>
+      <VERS vnumber="3">  He does not backbite with his tongue, nor do evil to his friend, nor lift up a reproach against his neighbor.</VERS>
+      <VERS vnumber="4"> In his eyes, the reprobate has been despised, but he honors those who fear Jehovah: He has sworn to his hurt, and will not change it.</VERS>
+      <VERS vnumber="5">  He has not given his silver at interest; nor has he taken a bribe against the innocent; he who does these things shall not be shaken forever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="87">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm [or] <gr str="7892">Song </gr>for the <gr str="1121">sons </gr>of <gr str="7141">Korah</gr>.</STYLE> His <gr str="3248">foundation </gr>
+        <STYLE css="font-style:italic">is</STYLE> in the <gr str="6944">holy </gr>
+        <gr str="2042">mountains</gr>. <DIV>
+          <NOTE type="x-studynote">for the sons: or, of the sons</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">The <gr str="3068">LORD </gr>
+        <gr str="157">loveth </gr>the <gr str="8179">gates </gr>of <gr str="6726">Zion </gr>more than all the <gr str="4908">dwellings </gr>of <gr str="3290">Jacob</gr>.</VERS>
+      <VERS vnumber="3">Glorious <gr str="3513">things </gr>are <gr str="1696">spoken </gr>of thee, O <gr str="5892">city </gr>of <gr str="430">God</gr>. <gr str="5542">Selah</gr>.</VERS>
+      <VERS vnumber="4">I will make <gr str="2142">mention </gr>of <gr str="7294">Rahab </gr>and <gr str="894">Babylon </gr>to them that <gr str="3045">know </gr>me: behold <gr str="6429">Philistia</gr>, and <gr str="6865">Tyre</gr>, with <gr str="3568">Cush</gr>; this <STYLE css="font-style:italic">man</STYLE> was <gr str="3205">born </gr>there.</VERS>
+      <VERS vnumber="5">And of <gr str="6726">Zion </gr>it shall be <gr str="559">said</gr>, This and that <gr str="376">man </gr>was <gr str="3205">born </gr>in her: and the <gr str="5945">Highest </gr>himself shall <gr str="3559">establish </gr>her.</VERS>
+      <VERS vnumber="6">The <gr str="3068">LORD </gr>shall <gr str="5608">count</gr>, when he writeth <gr str="3789">up </gr>the <gr str="5971">people</gr>, <STYLE css="font-style:italic">that</STYLE> this <STYLE css="font-style:italic">man</STYLE> was <gr str="3205">born </gr>there. <gr str="5542">Selah</gr>.</VERS>
+      <VERS vnumber="7">As well the <gr str="7891">singers </gr>as the <gr str="2490">players </gr>on instruments <STYLE css="font-style:italic">shall be there</STYLE>: all my <gr str="4599">springs </gr>
+        <STYLE css="font-style:italic">are</STYLE> in thee.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

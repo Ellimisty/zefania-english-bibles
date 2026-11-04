@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="John Wycliffe Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="14">
+      <VERS vnumber="1">
+Lord, who schal dwelle in thi tabernacle; ether who schal reste in thin hooli hil?
+</VERS>
+      <VERS vnumber="2">
+He that entrith with out wem; and worchith riytfulnesse.
+</VERS>
+      <VERS vnumber="3">
+Which spekith treuthe in his herte; which dide not gile in his tunge. Nethir dide yuel to his neiybore; and took not schenschip ayens hise neiyboris.
+</VERS>
+      <VERS vnumber="4">
+A wickid man is brouyt to nouyt in his siyt; but he glorifieth hem that dreden the Lord. Which swerith to his neiybore, and disseyueth not;
+</VERS>
+      <VERS vnumber="5">
+which yaf not his money to vsure; and took not yiftis on the innocent. He, that doith these thingis, schal not be moued with outen ende.
+</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="139">
+      <VERS vnumber="1"> To the chief <gr str="5329">Musician</gr>, A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>. O <gr str="3068">LORD</gr>, thou hast <gr str="2713">searched </gr>me, and <gr str="3045">known </gr>
+        <STYLE css="color:#808080;font-style:italic"> me </STYLE>. </VERS>
+      <VERS vnumber="2">
+        <gr str="859">Thou </gr>
+        <gr str="3045">knowest </gr>my <gr str="3427">downsitting </gr>and mine <gr str="6965">uprising</gr>, thou <gr str="995">understandest </gr>my <gr str="7454">thought </gr>afar <gr str="4480 7350">off</gr>. </VERS>
+      <VERS vnumber="3"> Thou <gr str="2219">compassest </gr>my <gr str="734">path </gr>and my lying <gr str="7252">down</gr>, and art <gr str="5532">acquainted </gr>
+        <STYLE css="color:#808080;font-style:italic"> with </STYLE>
+        <gr str="3605">all </gr>my <gr str="1870">ways</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="3588">For </gr>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="369">not </gr>a <gr str="4405">word </gr>in my <gr str="3956">tongue</gr>, <STYLE css="color:#808080;font-style:italic"> but </STYLE>, <gr str="2005">lo</gr>, O <gr str="3068">LORD</gr>, thou <gr str="3045">knowest </gr>it <gr str="3605">altogether</gr>. </VERS>
+      <VERS vnumber="5"> Thou hast <gr str="6696">beset </gr>me <gr str="268">behind </gr>and <gr str="6924">before</gr>, and <gr str="7896">laid </gr>thine <gr str="3709">hand </gr>
+        <gr str="5921">upon </gr>me. </VERS>
+      <VERS vnumber="6">
+        <STYLE css="color:#808080;font-style:italic"> Such </STYLE>
+        <gr str="1847">knowledge </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> too <gr str="6383">wonderful </gr>
+        <gr str="4480">for </gr>me; it is <gr str="7682">high</gr>, I <gr str="3808 3201">cannot </gr>
+        <STYLE css="color:#808080;font-style:italic"> attain </STYLE> unto it. </VERS>
+      <VERS vnumber="7">
+        <gr str="575">Whither </gr>shall I <gr str="1980">go </gr>from thy <gr str="4480 7307">spirit</gr>? or <gr str="575">whither </gr>shall I <gr str="1272">flee </gr>from thy <gr str="4480 6440">presence</gr>? </VERS>
+      <VERS vnumber="8">
+        <gr str="518">If </gr>I ascend <gr str="5266">up </gr>into <gr str="8064">heaven</gr>, <gr str="859">thou </gr>
+        <STYLE css="color:#808080;font-style:italic"> art </STYLE>
+        <gr str="8033">there</gr>: if I make my <gr str="3331">bed </gr>in <gr str="7585">hell</gr>, <gr str="2009">behold</gr>, thou <STYLE css="color:#808080;font-style:italic"> art </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>. </VERS>
+      <VERS vnumber="9">
+        <STYLE css="color:#808080;font-style:italic"> If </STYLE> I <gr str="5375">take </gr>the <gr str="3671">wings </gr>of the <gr str="7837">morning</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="7931">dwell </gr>in the uttermost <gr str="319">parts </gr>of the <gr str="3220">sea</gr>; </VERS>
+      <VERS vnumber="10">
+        <gr str="1571">Even </gr>
+        <gr str="8033">there </gr>shall thy <gr str="3027">hand </gr>
+        <gr str="5148">lead </gr>me, and thy right <gr str="3225">hand </gr>shall <gr str="270">hold </gr>me. </VERS>
+      <VERS vnumber="11"> If I <gr str="559">say</gr>, <gr str="389">Surely </gr>the <gr str="2822">darkness </gr>shall <gr str="7779">cover </gr>me; even the <gr str="3915">night </gr>shall be <gr str="216">light </gr>
+        <gr str="1157">about </gr>me. </VERS>
+      <VERS vnumber="12">
+        <gr str="1571">Yea</gr>, the <gr str="2822">darkness </gr>
+        <gr str="2821">hideth </gr>
+        <gr str="3808">not </gr>
+        <gr str="4480">from </gr>thee; but the <gr str="3915">night </gr>
+        <gr str="215">shineth </gr>as the <gr str="3117">day</gr>: the <gr str="2825">darkness </gr>and the <gr str="219">light </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> both alike <STYLE css="color:#808080;font-style:italic"> to </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> thee </STYLE>. </VERS>
+      <VERS vnumber="13">
+        <gr str="3588">For </gr>
+        <gr str="859">thou </gr>hast <gr str="7069">possessed </gr>my <gr str="3629">reins</gr>: thou hast <gr str="5526">covered </gr>me in my <gr str="517">mother </gr>'s <gr str="990">womb</gr>. </VERS>
+      <VERS vnumber="14"> I will <gr str="3034">praise </gr>thee; <gr str="5921 3588">for </gr>I am <gr str="3372">fearfully </gr>
+        <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="6395">wonderfully </gr>made: <gr str="6381">marvelous </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> thy <gr str="4639">works</gr>; and <STYLE css="color:#808080;font-style:italic"> that </STYLE> my <gr str="5315">soul </gr>
+        <gr str="3045">knoweth </gr>right <gr str="3966">well</gr>. </VERS>
+      <VERS vnumber="15"> My <gr str="6108">substance </gr>was <gr str="3808">not </gr>
+        <gr str="3582">hid </gr>
+        <gr str="4480">from </gr>thee, <gr str="834">when </gr>I was <gr str="6213">made </gr>in <gr str="5643">secret</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> curiously <gr str="7551">wrought </gr>in the lowest <gr str="8482">parts </gr>of the <gr str="776">earth</gr>. </VERS>
+      <VERS vnumber="16"> Thine <gr str="5869">eyes </gr>did <gr str="7200">see </gr>my substance, yet being <gr str="1564">unperfect</gr>; and <gr str="5921">in </gr>thy <gr str="5612">book </gr>
+        <gr str="3605">all </gr>
+        <STYLE css="color:#808080;font-style:italic"> my </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> members </STYLE> were <gr str="3789">written</gr>, <STYLE css="color:#808080;font-style:italic"> which </STYLE> in <gr str="3117">continuance </gr>were <gr str="3335">fashioned</gr>, when <STYLE css="color:#808080;font-style:italic"> as </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> yet </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="3808 259">none </gr>of them. </VERS>
+      <VERS vnumber="17">
+        <gr str="4100">How </gr>
+        <gr str="3365">precious </gr>also are thy <gr str="7454">thoughts </gr>unto me, O <gr str="410">God</gr>! <gr str="4100">how </gr>
+        <gr str="6105">great </gr>is the <gr str="7218">sum </gr>of them! </VERS>
+      <VERS vnumber="18">
+        <STYLE css="color:#808080;font-style:italic"> If </STYLE> I should <gr str="5608">count </gr>them, they are more in <gr str="7235">number </gr>than the <gr str="4480 2344">sand</gr>: when I <gr str="6974">awake</gr>, I am <gr str="5750">still </gr>with <gr str="5973">thee</gr>. </VERS>
+      <VERS vnumber="19">
+        <gr str="518">Surely </gr>thou wilt <gr str="6991">slay </gr>the <gr str="7563">wicked</gr>, O <gr str="433">God</gr>: <gr str="5493">depart </gr>
+        <gr str="4480">from </gr>me therefore, ye <gr str="1818">bloody </gr>
+        <gr str="376">men</gr>. </VERS>
+      <VERS vnumber="20">
+        <gr str="834">For </gr>they <gr str="559">speak </gr>against thee <gr str="4209">wickedly</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> thine <gr str="6145">enemies </gr>
+        <gr str="5375">take </gr>
+        <STYLE css="color:#808080;font-style:italic"> thy </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> name </STYLE> in <gr str="7723">vain</gr>. </VERS>
+      <VERS vnumber="21"> Do <gr str="3808">not </gr>I <gr str="8130">hate </gr>them, O <gr str="3068">LORD</gr>, that <gr str="8130">hate </gr>thee? and am not I <gr str="6962">grieved </gr>with those that rise up <gr str="8618">against </gr>thee? </VERS>
+      <VERS vnumber="22"> I <gr str="8130">hate </gr>them with <gr str="8503">perfect </gr>
+        <gr str="8135">hatred</gr>: I <gr str="1961">count </gr>them mine <gr str="341">enemies</gr>. </VERS>
+      <VERS vnumber="23">
+        <gr str="2713">Search </gr>me, O <gr str="410">God</gr>, and <gr str="3045">know </gr>my <gr str="3824">heart</gr>: <gr str="974">try </gr>me, and <gr str="3045">know </gr>my <gr str="8312">thoughts</gr>: </VERS>
+      <VERS vnumber="24"> And <gr str="7200">see </gr>
+        <gr str="518">if </gr>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> any </STYLE>
+        <gr str="6090">wicked </gr>
+        <gr str="1870">way </gr>in me, and <gr str="5148">lead </gr>me in the <gr str="1870">way </gr>
+        <gr str="5769">everlasting</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

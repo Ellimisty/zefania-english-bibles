@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="New Heart English Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="92">
+      <VERS vnumber="1">A Psalm. A song for the Sabbath day.It is a good thing to give thanks to the <STYLE id="cl:divineName">Lord</STYLE>,to sing praises to your name, Most High;</VERS>
+      <VERS vnumber="2">to proclaim your loving kindness in the morning,and your faithfulness every night,</VERS>
+      <VERS vnumber="3">with the ten-stringed lute, with the harp,and with the melody of the lyre.</VERS>
+      <VERS vnumber="4">For you, <STYLE id="cl:divineName">Lord</STYLE>, have made me glad through your work.I will triumph in the works of your hands.</VERS>
+      <VERS vnumber="5">How great are your works, <STYLE id="cl:divineName">Lord</STYLE>!Your thoughts are very deep.</VERS>
+      <VERS vnumber="6">A senseless man doesn't know,neither does a fool understand this:</VERS>
+      <VERS vnumber="7">though the wicked spring up as the grass,and all the evildoers flourish,they will be destroyed forever.</VERS>
+      <VERS vnumber="8">But you, <STYLE id="cl:divineName">Lord</STYLE>, are on high forevermore.</VERS>
+      <VERS vnumber="9">For, behold, your enemies, <STYLE id="cl:divineName">Lord</STYLE>,for, behold, your enemies shall perish.All the evildoers will be scattered.</VERS>
+      <VERS vnumber="10">But you have exalted my horn like that of the wild ox.I am anointed with fresh oil.</VERS>
+      <VERS vnumber="11">My eye has also seen my enemies.My ears have heard of the wicked enemies who rise up against me.</VERS>
+      <VERS vnumber="12">The righteous shall flourish like the palm tree.He will grow like a cedar in Lebanon.</VERS>
+      <VERS vnumber="13">They are planted in the <STYLE id="cl:divineName">Lord</STYLE>'s house.They will flourish in our God's courts.</VERS>
+      <VERS vnumber="14">They will still bring forth fruit in old age.They will be full of sap and green,</VERS>
+      <VERS vnumber="15">to show that the <STYLE id="cl:divineName">Lord</STYLE> is upright.He is my rock,and there is no unrighteousness in him.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

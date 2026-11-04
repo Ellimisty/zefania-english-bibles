@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="20" bname="Sprüche" bsname="Spr">
+    <CHAPTER cnumber="27">
+      <VERS vnumber="1"> Boast not <gr str="408 1984">thyself </gr>of <gr str="3117 4279">tomorrow</gr>; <gr str="3588">for </gr>thou <gr str="3045">knowest </gr>
+        <gr str="3808">not </gr>
+        <gr str="4100">what </gr>a <gr str="3117">day </gr>may bring <gr str="3205">forth</gr>. </VERS>
+      <VERS vnumber="2"> Let another <gr str="2114">man </gr>
+        <gr str="1984">praise </gr>thee, and <gr str="3808">not </gr>thine own <gr str="6310">mouth</gr>; a <gr str="5237">stranger</gr>, and <gr str="408">not </gr>thine own <gr str="8193">lips</gr>. </VERS>
+      <VERS vnumber="3"> A <gr str="68">stone </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3514">heavy</gr>, and the <gr str="2344">sand </gr>
+        <gr str="5192">weighty</gr>; but a <gr str="191">fool </gr>'s <gr str="3708">wrath </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3515">heavier </gr>than them <gr str="4480 8147">both</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="2534">Wrath </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="395">cruel</gr>, and <gr str="639">anger </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="7858">outrageous</gr>; but <gr str="4310">who </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> able to <gr str="5975">stand </gr>
+        <gr str="6440">before </gr>
+        <gr str="7068">envy</gr>? </VERS>
+      <VERS vnumber="5">
+        <gr str="1540">Open </gr>
+        <gr str="8433">rebuke </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2896">better </gr>than <gr str="5641">secret </gr>
+        <gr str="4480 160">love</gr>. </VERS>
+      <VERS vnumber="6">
+        <gr str="539">Faithful </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> the <gr str="6482">wounds </gr>of a <gr str="157">friend</gr>; but the <gr str="5390">kisses </gr>of an <gr str="8130">enemy </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="6280">deceitful</gr>. </VERS>
+      <VERS vnumber="7"> The <gr str="7649">full </gr>
+        <gr str="5315">soul </gr>
+        <gr str="947">loatheth </gr>a <gr str="5317">honeycomb</gr>; but to the <gr str="7457">hungry </gr>
+        <gr str="5315">soul </gr>
+        <gr str="3605">every </gr>bitter <gr str="4751">thing </gr>is <gr str="4966">sweet</gr>. </VERS>
+      <VERS vnumber="8"> As a <gr str="6833">bird </gr>that <gr str="5074">wandereth </gr>
+        <gr str="4480">from </gr>her <gr str="7064">nest</gr>, <gr str="3651">so </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="376">man </gr>that <gr str="5074">wandereth </gr>from his <gr str="4480 4725">place</gr>. </VERS>
+      <VERS vnumber="9">
+        <gr str="8081">Ointment </gr>and <gr str="7004">perfume </gr>
+        <gr str="8055">rejoice </gr>the <gr str="3820">heart</gr>: so <STYLE css="color:#808080;font-style:italic"> doth </STYLE> the <gr str="4986">sweetness </gr>of a man's <gr str="7453">friend </gr>by hearty <gr str="4480 6098 5315">counsel</gr>. </VERS>
+      <VERS vnumber="10"> Thine own <gr str="7453">friend</gr>, and thy <gr str="1">father </gr>'s <gr str="7453">friend</gr>, <gr str="5800">forsake </gr>
+        <gr str="408">not</gr>; <gr str="408">neither </gr>
+        <gr str="935">go </gr>into thy <gr str="251">brother </gr>'s <gr str="1004">house </gr>in the <gr str="3117">day </gr>of thy <gr str="343">calamity</gr>: <STYLE css="color:#808080;font-style:italic"> for </STYLE>
+        <gr str="2896">better </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="7934">neighbor </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="7138">near </gr>than a <gr str="4480 251">brother </gr>far <gr str="7350">off</gr>. </VERS>
+      <VERS vnumber="11"> My <gr str="1121">son</gr>, be <gr str="2449">wise</gr>, and make my <gr str="3820">heart </gr>
+        <gr str="8055">glad</gr>, that I may <gr str="7725 1697">answer </gr>him that <gr str="2778">reproacheth </gr>me. </VERS>
+      <VERS vnumber="12"> A <gr str="6175">prudent </gr>
+        <STYLE css="color:#808080;font-style:italic"> man </STYLE>
+        <gr str="7200">foreseeth </gr>the <gr str="7451">evil</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> hideth <gr str="5641">himself</gr>; <STYLE css="color:#808080;font-style:italic"> but </STYLE> the <gr str="6612">simple </gr>pass <gr str="5674">on</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> are <gr str="6064">punished</gr>. </VERS>
+      <VERS vnumber="13">
+        <gr str="3947">Take </gr>his <gr str="899">garment </gr>
+        <gr str="3588">that </gr>is <gr str="6148">surety </gr>for a <gr str="2114">stranger</gr>, and take a <gr str="2254">pledge </gr>of him <gr str="1157">for </gr>a strange <gr str="5237">woman</gr>. </VERS>
+      <VERS vnumber="14"> He that <gr str="1288">blesseth </gr>his <gr str="7453">friend </gr>with a <gr str="1419">loud </gr>
+        <gr str="6963">voice</gr>, rising <gr str="7925">early </gr>in the <gr str="1242">morning</gr>, it shall be <gr str="2803">counted </gr>a <gr str="7045">curse </gr>to him. </VERS>
+      <VERS vnumber="15"> A <gr str="2956">continual </gr>
+        <gr str="1812">dropping </gr>in a very <gr str="5464">rainy </gr>
+        <gr str="3117">day </gr>and a <gr str="4079">contentious </gr>
+        <gr str="802">woman </gr>are <gr str="7737">alike</gr>. </VERS>
+      <VERS vnumber="16"> Whosoever <gr str="6845">hideth </gr>her <gr str="6845">hideth </gr>the <gr str="7307">wind</gr>, and the <gr str="8081">ointment </gr>of his right <gr str="3225">hand</gr>, <STYLE css="color:#808080;font-style:italic"> which </STYLE>
+        <gr str="7121">betrayeth </gr>
+        <STYLE css="color:#808080;font-style:italic"> itself </STYLE>. </VERS>
+      <VERS vnumber="17">
+        <gr str="1270">Iron </gr>
+        <gr str="2300">sharpeneth </gr>
+        <gr str="1270">iron</gr>; so a <gr str="376">man </gr>
+        <gr str="2300">sharpeneth </gr>the <gr str="6440">countenance </gr>of his <gr str="7453">friend</gr>. </VERS>
+      <VERS vnumber="18"> Whoso <gr str="5341">keepeth </gr>the fig <gr str="8384">tree </gr>shall <gr str="398">eat </gr>the <gr str="6529">fruit </gr>thereof: so he that <gr str="8104">waiteth </gr>on his <gr str="113">master </gr>shall be <gr str="3513">honored</gr>. </VERS>
+      <VERS vnumber="19"> As in <gr str="4325">water </gr>
+        <gr str="6440">face </gr>
+        <STYLE css="color:#808080;font-style:italic"> answereth </STYLE> to <gr str="6440">face</gr>, <gr str="3651">so </gr>the <gr str="3820">heart </gr>of <gr str="120">man </gr>to <gr str="120">man</gr>. </VERS>
+      <VERS vnumber="20">
+        <gr str="7585">Hell </gr>and <gr str="10">destruction </gr>are <gr str="3808">never </gr>
+        <gr str="7646">full</gr>; so the <gr str="5869">eyes </gr>of <gr str="120">man </gr>are <gr str="3808">never </gr>
+        <gr str="7646">satisfied</gr>. </VERS>
+      <VERS vnumber="21">
+        <STYLE css="color:#808080;font-style:italic"> As </STYLE> the refining <gr str="4715">pot </gr>for <gr str="3701">silver</gr>, and the <gr str="3564">furnace </gr>for <gr str="2091">gold</gr>; so <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="376">man </gr>
+        <gr str="6310">to </gr>to his <gr str="4110">praise</gr>. </VERS>
+      <VERS vnumber="22">
+        <gr str="518">Though </gr>thou shouldest <gr str="3806">bray </gr>
+        <gr str="*853" />a <gr str="191">fool </gr>in a <gr str="4388">mortar </gr>
+        <gr str="8432">among </gr>
+        <gr str="7383">wheat </gr>with a <gr str="5940">pestle</gr>, <STYLE css="color:#808080;font-style:italic"> yet </STYLE> will <gr str="3808">not </gr>his <gr str="200">foolishness </gr>
+        <gr str="5493">depart </gr>
+        <gr str="4480 5921">from </gr>him. </VERS>
+      <VERS vnumber="23"> Be thou diligent to <gr str="3045 3045">know </gr>the <gr str="6440">state </gr>of thy <gr str="6629">flocks</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="7896 3820">look </gr>well to thy <gr str="5739">herds</gr>. </VERS>
+      <VERS vnumber="24">
+        <gr str="3588">For </gr>
+        <gr str="2633">riches </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="3808">not </gr>
+        <gr str="5769">forever</gr>: and <gr str="518">doth </gr>the <gr str="5145">crown </gr>
+        <STYLE css="color:#808080;font-style:italic"> endure </STYLE> to every <gr str="1755 1755">generation</gr>? </VERS>
+      <VERS vnumber="25"> The <gr str="2682">hay </gr>
+        <gr str="1540">appeareth</gr>, and the tender <gr str="1877">grass </gr>showeth <gr str="7200">itself</gr>, and <gr str="6212">herbs </gr>of the <gr str="2022">mountains </gr>are <gr str="622">gathered</gr>. </VERS>
+      <VERS vnumber="26"> The <gr str="3532">lambs </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> for thy <gr str="3830">clothing</gr>, and the <gr str="6260">goats </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> the <gr str="4242">price </gr>of the <gr str="7704">field</gr>. </VERS>
+      <VERS vnumber="27"> And <STYLE css="color:#808080;font-style:italic"> thou </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> shalt </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> have </STYLE>
+        <gr str="5795">goats </gr>' <gr str="2461">milk </gr>
+        <gr str="1767">enough </gr>for thy <gr str="3899">food</gr>, for the <gr str="3899">food </gr>of thy <gr str="1004">household</gr>, and <STYLE css="color:#808080;font-style:italic"> for </STYLE> the <gr str="2416">maintenance </gr>for thy <gr str="5291">maidens</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

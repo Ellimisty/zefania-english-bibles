@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="96">
+      <VERS vnumber="1"> O <gr str="7891">sing </gr>unto the <gr str="3068">LORD </gr>a <gr str="2319">new </gr>
+        <gr str="7892">song</gr>: <gr str="7891">sing </gr>unto the <gr str="3068">LORD</gr>, <gr str="3605">all </gr>the <gr str="776">earth</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="7891">Sing </gr>unto the <gr str="3068">LORD</gr>, <gr str="1288">bless </gr>his <gr str="8034">name</gr>; show <gr str="1319">forth </gr>his <gr str="3444">salvation </gr>from <gr str="4480 3117">day </gr>to <gr str="3117">day</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="5608">Declare </gr>his <gr str="3519">glory </gr>among the <gr str="1471">heathen</gr>, his <gr str="6381">wonders </gr>among <gr str="3605">all </gr>
+        <gr str="5971">people</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="3588">For </gr>the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="1419">great</gr>, and <gr str="3966">greatly </gr>to be <gr str="1984">praised</gr>: <gr str="1931">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> to be <gr str="3372">feared </gr>
+        <gr str="5921">above </gr>
+        <gr str="3605">all </gr>
+        <gr str="430">gods</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="3588">For </gr>
+        <gr str="3605">all </gr>the <gr str="430">gods </gr>of the <gr str="5971">nations </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="457">idols</gr>: but the <gr str="3068">LORD </gr>
+        <gr str="6213">made </gr>the <gr str="8064">heavens</gr>. </VERS>
+      <VERS vnumber="6">
+        <gr str="1935">Honor </gr>and <gr str="1926">majesty </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="6440">before </gr>him: <gr str="5797">strength </gr>and <gr str="8597">beauty </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> in his <gr str="4720">sanctuary</gr>. </VERS>
+      <VERS vnumber="7">
+        <gr str="3051">Give </gr>unto the <gr str="3068">LORD</gr>, O ye <gr str="4940">kindreds </gr>of the <gr str="5971">people</gr>, <gr str="3051">give </gr>unto the <gr str="3068">LORD </gr>
+        <gr str="3519">glory </gr>and <gr str="5797">strength</gr>. </VERS>
+      <VERS vnumber="8">
+        <gr str="3051">Give </gr>unto the <gr str="3068">LORD </gr>the <gr str="3519">glory </gr>
+        <STYLE css="color:#808080;font-style:italic"> due </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> unto </STYLE> his <gr str="8034">name</gr>: <gr str="5375">bring </gr>an <gr str="4503">offering</gr>, and <gr str="935">come </gr>into his <gr str="2691">courts</gr>. </VERS>
+      <VERS vnumber="9"> O <gr str="7812">worship </gr>the <gr str="3068">LORD </gr>in the <gr str="1927">beauty </gr>of <gr str="6944">holiness</gr>: <gr str="2342">fear </gr>
+        <gr str="4480 6440">before </gr>him, <gr str="3605">all </gr>the <gr str="776">earth</gr>. </VERS>
+      <VERS vnumber="10">
+        <gr str="559">Say </gr>among the <gr str="1471">heathen </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE> the <gr str="3068">LORD </gr>
+        <gr str="4427">reigneth</gr>: the <gr str="8398">world </gr>
+        <gr str="637">also </gr>shall be <gr str="3559">established </gr>that it shall <gr str="1077">not </gr>be <gr str="4131">moved</gr>: he shall <gr str="1777">judge </gr>the <gr str="5971">people </gr>
+        <gr str="4339">righteously</gr>. </VERS>
+      <VERS vnumber="11"> Let the <gr str="8064">heavens </gr>
+        <gr str="8055">rejoice</gr>, and let the <gr str="776">earth </gr>be <gr str="1523">glad</gr>; let the <gr str="3220">sea </gr>
+        <gr str="7481">roar</gr>, and the <gr str="4393">fullness </gr>thereof. </VERS>
+      <VERS vnumber="12"> Let the <gr str="7704">field </gr>be <gr str="5937">joyful</gr>, and <gr str="3605">all </gr>
+        <gr str="834">that </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> therein: <gr str="227">then </gr>shall <gr str="3605">all </gr>the <gr str="6086">trees </gr>of the <gr str="3293">wood </gr>
+        <gr str="7442">rejoice </gr>
+      </VERS>
+      <VERS vnumber="13">
+        <gr str="6440">Before </gr>the <gr str="3068">LORD</gr>: <gr str="3588">for </gr>he <gr str="935">cometh</gr>, <gr str="3588">for </gr>he <gr str="935">cometh </gr>to <gr str="8199">judge </gr>the <gr str="776">earth</gr>: he shall <gr str="8199">judge </gr>the <gr str="8398">world </gr>with <gr str="6664">righteousness</gr>, and the <gr str="5971">people </gr>with his <gr str="530">truth</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

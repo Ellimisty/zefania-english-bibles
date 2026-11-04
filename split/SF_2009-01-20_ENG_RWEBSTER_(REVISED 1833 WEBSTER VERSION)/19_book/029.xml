@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="29">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of David.</STYLE> Give to the LORD, O ye mighty, give to the LORD glory and strength. <DIV>
+          <NOTE type="x-studynote">ye mighty: Heb. ye sons of the mighty</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">Give to the LORD the glory due to his name; worship the LORD in the beauty of holiness. <DIV>
+          <NOTE type="x-studynote">the glory…: Heb. the honour of his name</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">in…: or, in his glorious sanctuary</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">The voice of the LORD <STYLE css="font-style:italic">is</STYLE> upon the waters: the God of glory thundereth: the LORD <STYLE css="font-style:italic">is</STYLE> upon many waters. <DIV>
+          <NOTE type="x-studynote">many: or, great</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">The voice of the LORD <STYLE css="font-style:italic">is</STYLE> powerful; the voice of the LORD <STYLE css="font-style:italic">is</STYLE> full of majesty. <DIV>
+          <NOTE type="x-studynote">powerful: Heb. in power</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">full…: Heb. in majesty</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="5">The voice of the LORD breaketh the cedars; yea, the LORD breaketh the cedars of Lebanon.</VERS>
+      <VERS vnumber="6">He maketh them also to skip like a calf; Lebanon and Sirion like a young unicorn.</VERS>
+      <VERS vnumber="7">The voice of the LORD divideth the flames of fire. <DIV>
+          <NOTE type="x-studynote">divideth: Heb. cutteth out</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">The voice of the LORD shaketh the wilderness; the LORD shaketh the wilderness of Kadesh.</VERS>
+      <VERS vnumber="9">The voice of the LORD maketh the hinds to calve, and maketh bare the forests: and in his temple doth every one speak of <STYLE css="font-style:italic">his</STYLE> glory. <DIV>
+          <NOTE type="x-studynote">to calve: or, to be in pain</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">doth…: or, every whit of it uttereth, etc</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="10">The LORD sitteth upon the flood; yea, the LORD sitteth King for ever.</VERS>
+      <VERS vnumber="11">The LORD will give strength to his people; the LORD will bless his people with peace.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

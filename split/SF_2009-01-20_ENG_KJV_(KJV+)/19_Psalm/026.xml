@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="26">
+      <VERS vnumber="1">
+        <STYLE css="color:#808080;font-style:italic"> A </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> Psalm </STYLE> of <gr str="1732">David</gr>. <gr str="8199">Judge </gr>me, O <gr str="3068">LORD</gr>; <gr str="3588">for </gr>
+        <gr str="589">I </gr>have <gr str="1980">walked </gr>in mine <gr str="8537">integrity</gr>: I have <gr str="982">trusted </gr>also in the <gr str="3068">LORD</gr>; <STYLE css="color:#808080;font-style:italic"> therefore </STYLE> I shall <gr str="3808">not </gr>
+        <gr str="4571">slide</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="974">Examine </gr>me, O <gr str="3068">LORD</gr>, and <gr str="5254">prove </gr>me; <gr str="6884">try </gr>my <gr str="3629">reins </gr>and my <gr str="3820">heart</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="3588">For </gr>thy <gr str="2617">lovingkindness </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="5048">before </gr>mine <gr str="5869">eyes</gr>: and I have <gr str="1980">walked </gr>in thy <gr str="571">truth</gr>. </VERS>
+      <VERS vnumber="4"> I have <gr str="3808">not </gr>
+        <gr str="3427">sat </gr>
+        <gr str="5973">with </gr>
+        <gr str="7723">vain </gr>
+        <gr str="4962">persons</gr>, <gr str="3808">neither </gr>will I go <gr str="935">in </gr>
+        <gr str="5973">with </gr>
+        <gr str="5956">dissemblers</gr>. </VERS>
+      <VERS vnumber="5"> I have <gr str="8130">hated </gr>the <gr str="6951">congregation </gr>of <gr str="7489">evildoers</gr>; and will <gr str="3808">not </gr>
+        <gr str="3427">sit </gr>
+        <gr str="5973">with </gr>the <gr str="7563">wicked</gr>. </VERS>
+      <VERS vnumber="6"> I will <gr str="7364">wash </gr>mine <gr str="3709">hands </gr>in <gr str="5356">innocency</gr>: so will I <gr str="5437">compass </gr>thine <gr str="*853" />
+        <gr str="4196">altar</gr>, O <gr str="3068">LORD</gr>: </VERS>
+      <VERS vnumber="7"> That I may <gr str="8085">publish </gr>with the <gr str="6963">voice </gr>of <gr str="8426">thanksgiving</gr>, and <gr str="5608">tell </gr>of <gr str="3605">all </gr>thy wondrous <gr str="6381">works</gr>. </VERS>
+      <VERS vnumber="8">
+        <gr str="3068">LORD</gr>, I have <gr str="157">loved </gr>the <gr str="4583">habitation </gr>of thy <gr str="1004">house</gr>, and the <gr str="4725">place </gr>where thine <gr str="3519">honor </gr>
+        <gr str="4908">dwelleth</gr>. </VERS>
+      <VERS vnumber="9">
+        <gr str="622">Gather </gr>
+        <gr str="408">not </gr>my <gr str="5315">soul </gr>
+        <gr str="5973">with </gr>
+        <gr str="2400">sinners</gr>, nor my <gr str="2416">life </gr>
+        <gr str="5973">with </gr>
+        <gr str="1818">bloody </gr>
+        <gr str="376">men</gr>: </VERS>
+      <VERS vnumber="10"> In <gr str="834">whose </gr>
+        <gr str="3027">hands </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2154">mischief</gr>, and their right <gr str="3225">hand </gr>is <gr str="4390">full </gr>of <gr str="7810">bribes</gr>. </VERS>
+      <VERS vnumber="11"> But as for <gr str="589">me</gr>, I will <gr str="1980">walk </gr>in mine <gr str="8537">integrity</gr>: <gr str="6299">redeem </gr>me, and be <gr str="2603">merciful </gr>unto me. </VERS>
+      <VERS vnumber="12"> My <gr str="7272">foot </gr>
+        <gr str="5975">standeth </gr>in an even <gr str="4334">place</gr>: in the <gr str="4721">congregations </gr>will I <gr str="1288">bless </gr>the <gr str="3068">LORD</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

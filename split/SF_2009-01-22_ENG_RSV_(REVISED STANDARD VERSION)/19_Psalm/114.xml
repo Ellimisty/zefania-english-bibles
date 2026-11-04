@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="114">
+      <VERS vnumber="1">When Israel went forth from Egypt, the house of Jacob from a people of strange language,</VERS>
+      <VERS vnumber="2">Judah became his sanctuary, Israel his dominion.</VERS>
+      <VERS vnumber="3">The sea looked and fled, Jordan turned back.</VERS>
+      <VERS vnumber="4">The mountains skipped like rams, the hills like lambs.</VERS>
+      <VERS vnumber="5">What ails you, O sea, that you flee? O Jordan, that you turn back?</VERS>
+      <VERS vnumber="6">O mountains, that you skip like rams? O hills, like lambs?</VERS>
+      <VERS vnumber="7">Tremble, O earth, at the presence of the LORD, at the presence of the God of Jacob,</VERS>
+      <VERS vnumber="8">who turns the rock into a pool of water, the flint into a spring of water.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

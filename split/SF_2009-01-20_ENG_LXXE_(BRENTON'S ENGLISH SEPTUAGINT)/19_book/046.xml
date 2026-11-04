@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="46">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For the end, for the sons of Core; a Psalm concerning secret things.</STYLE> - God is our refuge and strength, a help in the afflictions that have come heavily upon us.</VERS>
+      <VERS vnumber="2">Therefore will we not fear when the earth is troubled, and the mountains are removed into the depths of the seas.</VERS>
+      <VERS vnumber="3">Their waters have roared and been troubled, the mountains have been troubled by his might. Pause.</VERS>
+      <VERS vnumber="4">The flowings of the river gladden the city of God: the Most High has sanctified his tabernacle.</VERS>
+      <VERS vnumber="5">God is in the midst of her; she shall not be moved: God shall help her <DIV>
+          <NOTE type="x-studynote">Alex. and Heb. before, or, toward the morning</NOTE>
+        </DIV> with his countenance.</VERS>
+      <VERS vnumber="6">The nations were troubled, the kingdoms tottered: he uttered his voice, the earth shook.</VERS>
+      <VERS vnumber="7">The Lord of hosts is with us; the God of Jacob is our helper. Pause.</VERS>
+      <VERS vnumber="8">Come, and behold the works of the Lord, what wonders he has achieved on the earth.</VERS>
+      <VERS vnumber="9">Putting an end to wars as far as the ends of the earth; he will crush the bow, and break in pieces the weapon, and burn the bucklers with fire.</VERS>
+      <VERS vnumber="10">Be still, and know that I am God: I will be exalted among the nations, I will be exalted in the earth.</VERS>
+      <VERS vnumber="11">The Lord of hosts is with us; the God of Jacob is our helper.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

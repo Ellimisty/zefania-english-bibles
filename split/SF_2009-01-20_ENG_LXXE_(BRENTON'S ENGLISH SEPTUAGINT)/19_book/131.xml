@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="131">
+      <VERS vnumber="1">
+        <DIV>
+          <NOTE type="x-studynote">Alex. +’for David’</NOTE>
+        </DIV>
+        <STYLE css="font-style:italic">A Song of Degrees.</STYLE> - O Lord, my heart is not exalted, neither have mine eyes been haughtily raised: neither have I exercised myself in great matters, nor in things too wonderful for me.</VERS>
+      <VERS vnumber="2">I shall have sinned if I have not been humble, but have exulted my soul: according to the relation of a weaned child to his mother, so wilt thou recompense my soul.</VERS>
+      <VERS vnumber="3">Let Israel hope in the Lord, from henceforth and for ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

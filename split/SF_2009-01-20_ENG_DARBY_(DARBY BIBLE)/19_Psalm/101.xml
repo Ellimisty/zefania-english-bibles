@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Darby Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="101">
+      <VERS vnumber="1">{A Psalm of David.} I will sing of loving-kindness and judgment: unto thee, Jehovah, will I sing psalms.</VERS>
+      <VERS vnumber="2">I will behave myself wisely in a perfect way. When wilt thou come unto me? I will walk within my house in the integrity of my heart.</VERS>
+      <VERS vnumber="3">I will set no thing of Belial before mine eyes: I hate the work of them that turn aside; it shall not cleave to me.</VERS>
+      <VERS vnumber="4">A perverse heart shall depart from me; I will not know evil.</VERS>
+      <VERS vnumber="5">Whoso secretly slandereth his neighbour, him will I destroy; him that hath a high look and a proud heart will I not suffer.</VERS>
+      <VERS vnumber="6">Mine eyes shall be upon the faithful of the land, that they may dwell with me; he that walketh in a perfect way, he shall serve me.</VERS>
+      <VERS vnumber="7">He that practiseth deceit shall not dwell within my house; he that speaketh falsehoods shall not subsist in my sight.</VERS>
+      <VERS vnumber="8">Every morning will I destroy all the wicked of the land: to cut off all workers of iniquity from the city of Jehovah.</VERS>
+      <VERS vnumber="9" />
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="147">
+      <VERS vnumber="1">Hallelujah.It is good to sing praise to our God,for praise is sweet and seemly.</VERS>
+      <VERS vnumber="2">The <STYLE id="cl:divineName">Lord</STYLE> builds up Jerusalem,the outcasts of Israel he gathers.</VERS>
+      <VERS vnumber="3">He heals the broken in heart,and binds up their wounds.</VERS>
+      <VERS vnumber="4">He counts the numberless stars,he gives names to them all.</VERS>
+      <VERS vnumber="5">Great is our <STYLE id="cl:divineName">Lord</STYLE>, rich in power,and measureless is his wisdom.</VERS>
+      <VERS vnumber="6">The <STYLE id="cl:divineName">Lord</STYLE> lifts up the down-trodden,the wicked he brings to the ground. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">Sing songs of thanks to the <STYLE id="cl:divineName">Lord</STYLE>,and play on the lyre to our God.</VERS>
+      <VERS vnumber="8">For he covers the sky with clouds,he prepares rain for the earth,makes grass to grow on the mountains.</VERS>
+      <VERS vnumber="9">He gives the cattle their foodthe young ravens when they cry.</VERS>
+      <VERS vnumber="10">His pleasure is not in the strength of the horse,his joy is not in the speed of a runner;</VERS>
+      <VERS vnumber="11">but the <STYLE id="cl:divineName">Lord</STYLE> has his pleasure in those who fear him,in those who wait for his kindness. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="12">Praise the <STYLE id="cl:divineName">Lord</STYLE>, then, O Jerusalem:sing praise to your God, O Zion.</VERS>
+      <VERS vnumber="13">For he strengthens the bars of your gates,and blesses your children within you.</VERS>
+      <VERS vnumber="14">He brings peace to your borders,and choicest of wheat in abundance.</VERS>
+      <VERS vnumber="15">He sends his command to the earth:his word runs very swiftly.</VERS>
+      <VERS vnumber="16">Snow he gives like wool,frost he scatters like ashes.</VERS>
+      <VERS vnumber="17">He casts forth his ice like morsels:who can stand before his cold?</VERS>
+      <VERS vnumber="18">He sends forth his word, and melts them:his wind blows the waters flow. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="19">He declares his word to Jacob,his statutes and judgments to Israel.</VERS>
+      <VERS vnumber="20">No other nation did he do this for,they know nothing of his judgments.Hallelujah.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

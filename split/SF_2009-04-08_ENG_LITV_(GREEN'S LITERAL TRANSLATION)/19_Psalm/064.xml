@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Green's Literal Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="64">
+      <VERS vnumber="1">  To the chief musician. A Psalm of David. O God, hear my voice in my complaint; guard my life from the terror of the enemy.</VERS>
+      <VERS vnumber="2"> Hide me from the council of those who injure, from the tumult of evildoers,</VERS>
+      <VERS vnumber="3"> who sharpen their tongue like a sword; they tread their arrows, a bitter word,</VERS>
+      <VERS vnumber="4"> so that they may shoot at the innocent from a lurking place; suddenly they shoot at him, and fear not.</VERS>
+      <VERS vnumber="5"> They make themselves strong in an evil plan; they talk of laying snares secretly; they say, Who shall see them?</VERS>
+      <VERS vnumber="6"> They search into injustice, saying , We have finished a well laid plan. Yea, the inward part of man and the heart are deep!</VERS>
+      <VERS vnumber="7"> But God shall shoot an arrow at them; their wounds shall suddenly appear.</VERS>
+      <VERS vnumber="8"> So they shall be confounded; their tongue falls upon themselves; everyone seeing them shall flee.</VERS>
+      <VERS vnumber="9"> And all men shall fear and shall declare the work of God; yea, they shall in wisdom consider His work.</VERS>
+      <VERS vnumber="10"> The righteous shall rejoice in Jehovah, and shall trust in Him; and all the upright in heart shall glory.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

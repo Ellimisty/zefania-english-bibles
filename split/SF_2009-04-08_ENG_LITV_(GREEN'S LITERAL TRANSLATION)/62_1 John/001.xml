@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Green's Literal Translation" type="x-bible">
+  <BIBLEBOOK bnumber="62" bname="1 John" bsname="1Jn">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">  We announce to you what was from the beginning, what we have heard, what we have seen with our eyes, what we beheld, and what our hands touched, as regards the Word of Life.</VERS>
+      <VERS vnumber="2"> And the Life was revealed, and we have seen, and we bear witness, and we announce to you the everlasting Life which was with the Father, and was revealed to us.</VERS>
+      <VERS vnumber="3"> We announce to you what we have seen, and what we have heard, that you also may have fellowship with us. And truly our fellowship is with the Father and with His Son, Jesus Christ.</VERS>
+      <VERS vnumber="4"> And we write these things to you, that your joy may be full.</VERS>
+      <VERS vnumber="5"> And this is the message which we have heard from Him, and we announce to you: God is light, and no darkness is in Him, none!</VERS>
+      <VERS vnumber="6"> If we say that we have fellowship with Him, and we walk in darkness, we lie and are not practicing the truth.</VERS>
+      <VERS vnumber="7"> But if we walk in the light, as He is in the light, we have fellowship with one another, and the blood of His Son Jesus Christ cleanses us from all sin.</VERS>
+      <VERS vnumber="8"> If we say that we have no sin, we deceive ourselves, and the truth is not in us.</VERS>
+      <VERS vnumber="9"> If we confess our sins, He is faithful and righteous that He may forgive us the sins, and may cleanse us from all unrighteousness.</VERS>
+      <VERS vnumber="10"> If we say that we have not sinned, we make Him a liar, and His word is not in us.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

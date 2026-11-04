@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Rotherham Version" type="x-bible">
+  <BIBLEBOOK bname="Psalm" bnumber="19" bsname="Ps">
+    <CHAPTER cnumber="15">
+      <VERS vnumber="1">O Yahweh! Who shall be a guest in thy tent? Who shall abide in thy holy mountain?</VERS>
+      <VERS vnumber="2">He that walketh without blame, and doeth what is right, and speaketh truth with his heart;</VERS>
+      <VERS vnumber="3">Hath not carried slander on his tongue, hath not done his friend a wrong, nor, a reproach, taken up against his neighbour;</VERS>
+      <VERS vnumber="4">Despised in his sight, is the reprobate, but, them who revere Yahweh, he doth honour, he hath sworn to his neighbour, and will not change;</VERS>
+      <VERS vnumber="5">His silver, hath he not put out on interest, nor, a bribe against the innocent, hath he taken. He that doeth these things, shall not be shaken unto times age-abiding.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

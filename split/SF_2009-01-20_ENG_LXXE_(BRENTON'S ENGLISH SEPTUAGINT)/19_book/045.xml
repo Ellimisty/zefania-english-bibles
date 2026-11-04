@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="45">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For the end, for </STYLE>
+        <DIV>
+          <NOTE type="x-studynote">See also Ps 68 and Ps 79, titles; q. d. repeated, see Hebrew</NOTE>
+        </DIV>
+        <STYLE css="font-style:italic"> alternate strains by the sons of Core; for instruction, a Song concerning the beloved.</STYLE> - My heart <DIV>
+          <NOTE type="x-studynote">Lit. eructavit</NOTE>
+        </DIV> has uttered a good matter: I declare my works to the king: my tongue is the pen of a quick writer.</VERS>
+      <VERS vnumber="2">Thou art more beautiful than the sons of men: grace has been shed forth on thy lips: therefore God has blessed thee for ever.</VERS>
+      <VERS vnumber="3">Gird thy sword upon thy thigh, O Mighty One, in thy comeliness, and in thy beauty;</VERS>
+      <VERS vnumber="4">and bend thy bow, and prosper, and reign, because of truth and meekness and righteousness; and thy right hand shall guide thee wonderfully.</VERS>
+      <VERS vnumber="5">Thy weapons are sharpened, Mighty One, (the nations shall fall under thee) they are in the heart of the king’s enemies.</VERS>
+      <VERS vnumber="6">
+        <DIV>
+          <NOTE type="x-studynote">Heb 1:8-10</NOTE>
+        </DIV> Thy throne, O God, is for ever and ever: the sceptre of thy kingdom is a sceptre of righteousness.</VERS>
+      <VERS vnumber="7">Thou hast loved righteousness, and hated iniquity: therefore God, thy God, has anointed thee with the oil of gladness beyond thy fellows.</VERS>
+      <VERS vnumber="8">Myrrh, and stacte, and cassia are exhaled from thy garments, and out of the ivory palaces,</VERS>
+      <VERS vnumber="9">with which kings’ daughters have gladdened thee for thine honour: the queen stood by on thy right hand, clothed in vesture wrought with gold, and arrayed in divers colours.</VERS>
+      <VERS vnumber="10">Hear, O daughter, and see, and incline thine ear; forget also thy people, and thy father’s house.</VERS>
+      <VERS vnumber="11">Because the king has desired thy beauty; for he is thy Lord.</VERS>
+      <VERS vnumber="12">And the daughter of Tyre shall adore him with gifts; the rich of the people of the land shall supplicate thy <DIV>
+          <NOTE type="x-studynote">Gr. face</NOTE>
+        </DIV> favour.</VERS>
+      <VERS vnumber="13">All her glory is that of the daughter of the king <DIV>
+          <NOTE type="x-studynote">Alex. eswyen, within, so Hebrew</NOTE>
+        </DIV> of Esebon, robed as she is in golden fringed garments,</VERS>
+      <VERS vnumber="14">in embroidered clothing: virgins shall be brought to the king after her: her fellows shall be brought to thee.</VERS>
+      <VERS vnumber="15">They shall be brought with gladness and exultation: they shall be led into the king’s temple.</VERS>
+      <VERS vnumber="16">Instead of thy fathers children are born to thee: thou shalt make them princes over all the earth.</VERS>
+      <VERS vnumber="17">They shall make mention of thy name from generation to generation: therefore shall the nations give thanks to thee for ever, even <DIV>
+          <NOTE type="x-studynote">Gr. to the age of the age</NOTE>
+        </DIV> for ever and ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

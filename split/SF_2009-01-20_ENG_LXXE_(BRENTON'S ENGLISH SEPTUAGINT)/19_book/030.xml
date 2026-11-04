@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="30">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For the end, a Psalm </STYLE>
+        <DIV>
+          <NOTE type="x-studynote">Gr. of a song</NOTE>
+        </DIV>
+        <STYLE css="font-style:italic"> and Song at the dedication of the house of David.</STYLE> - I will exalt thee, O Lord; for thou hast lifted me up, and not caused mine enemies to rejoice over me.</VERS>
+      <VERS vnumber="2">O Lord my God, I cried to thee, and thou didst heal me.</VERS>
+      <VERS vnumber="3">O Lord, thou hast brought up my soul from Hades, thou hast delivered me from among them that go down to the pit.</VERS>
+      <VERS vnumber="4">Sing to the Lord, ye his saints, and give thanks for the remembrance of his holiness.</VERS>
+      <VERS vnumber="5">For anger is in his wrath, but life in his favour: weeping shall tarry for the evening, but joy shall be in the morning.</VERS>
+      <VERS vnumber="6">And I said in my prosperity, I shall never be moved.</VERS>
+      <VERS vnumber="7">O Lord, in thy good pleasure thou didst add strength to my beauty: but thou didst turn away thy face, and I was troubled.</VERS>
+      <VERS vnumber="8">To thee, O Lord, will I cry; and to my God will I make supplication.</VERS>
+      <VERS vnumber="9">What profit is there in my blood, when I go down to destruction? Shall the dust give praise to thee? or shall it declare thy truth?</VERS>
+      <VERS vnumber="10">The Lord heard, and had compassion upon me; the Lord is become my helper.</VERS>
+      <VERS vnumber="11">Thou hast turned my mourning into joy for me: thou hast rent off my sackcloth, and girded me with gladness;</VERS>
+      <VERS vnumber="12">that my glory may sing praise to thee, and I may not be pierced with sorrow. O Lord my God, I will give thanks to thee for ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

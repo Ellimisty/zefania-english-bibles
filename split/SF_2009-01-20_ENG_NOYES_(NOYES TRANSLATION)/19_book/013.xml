@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="13">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For the leader of the music. A psalm of David.</STYLE> How long, O LORD! wilt thou forget me for ever? How long wilt thou hide thy face from me?</VERS>
+      <VERS vnumber="2">How long shall I have anxiety in my soul for ever, And sorrow in my heart all the day? How long shall my enemy be exalted over me?</VERS>
+      <VERS vnumber="3">Look down and hear me, O LORD, my God! Enlighten my eyes, lest I sleep the sleep of death;</VERS>
+      <VERS vnumber="4">Lest my enemy say, "I have prevailed against him!" Lest my adversaries rejoice, when I am fallen.</VERS>
+      <VERS vnumber="5">Yet will I trust in thy goodness; My heart shall rejoice in thy salvation;</VERS>
+      <VERS vnumber="6">I will sing to the LORD, that he hath dealt kindly with me.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

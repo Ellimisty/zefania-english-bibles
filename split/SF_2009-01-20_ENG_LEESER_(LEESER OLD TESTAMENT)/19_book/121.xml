@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="121">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A song for the degrees.</STYLE> I lift up my eyes unto the mountains: whence shall come my help?</VERS>
+      <VERS vnumber="2">My help is from the Lord, the maker of heaven and earth.</VERS>
+      <VERS vnumber="3">He will not suffer thy foot to slip: thy keeper doth not slumber.</VERS>
+      <VERS vnumber="4">Behold, he slumbereth not, and he sleepeth notthe keeper of Israel.</VERS>
+      <VERS vnumber="5">The Lord is thy keeper: the Lord is thy shade, he is on thy right hand.</VERS>
+      <VERS vnumber="6">By day the sun shall not strike thee, nor the moon by night.</VERS>
+      <VERS vnumber="7">The Lord will guard thee against all evil: he will guard thy soul.</VERS>
+      <VERS vnumber="8">The Lord will guard thy going out and thy coming in from this time forth and for evermore.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

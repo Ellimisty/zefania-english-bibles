@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James 2000" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="75">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic;font-weight:bold">To the Chief Musician, altaschith. A Psalm or Song of Asaph.</STYLE> Unto you, O God, do we give thanks, unto you do we give thanks: for that your name is near, your wondrous works declare.</VERS>
+      <VERS vnumber="2">
+        <STYLE css="color:#FF0000">When I shall receive the congregation I will judge uprightly.</STYLE>
+      </VERS>
+      <VERS vnumber="3">
+        <STYLE css="color:#FF0000">The earth and all inhabitants are dissolved: I hold up the pillars of it. Selah.</STYLE>
+      </VERS>
+      <VERS vnumber="4">
+        <STYLE css="color:#FF0000">I said unto the fools, Deal not foolishly: and to the wicked, Lift not up the horn:</STYLE>
+      </VERS>
+      <VERS vnumber="5">
+        <STYLE css="color:#FF0000">Lift not up your horn on high: speak not with a stiff neck.</STYLE>
+      </VERS>
+      <VERS vnumber="6">For promotion comes neither from the east, nor from the west, nor from the south.</VERS>
+      <VERS vnumber="7">But God is the judge: he puts down one, and sets up another.</VERS>
+      <VERS vnumber="8">For in the hand of the LORD there is a cup, and the wine is red; it is fully mixed; and he pours out of the same: but the dregs thereof, all the wicked of the earth shall drain them down, and drink them.</VERS>
+      <VERS vnumber="9">But I will declare this forever; I will sing praises to the God of Jacob.</VERS>
+      <VERS vnumber="10">All the strength of the wicked also will I cut off; but the strength of the righteous shall be exalted.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

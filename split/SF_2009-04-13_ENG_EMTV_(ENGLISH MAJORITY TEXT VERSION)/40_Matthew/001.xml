@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.20" biblename="English Majority Text Version" type="x-bible">
+  <BIBLEBOOK bnumber="40" bname="Matthew" bsname="Mat">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">The book of the genealogy of Jesus Christ, the Son of David, the Son of Abraham:</VERS>
+      <VERS vnumber="2">Abraham fathered Isaac, Isaac fathered Jacob, and Jacob fathered Judah and his brothers.</VERS>
+      <VERS vnumber="3">Judah fathered Perez and Zerah by Tamar, Perez fathered Hezron, and Hezron fathered Ram.</VERS>
+      <VERS vnumber="4">Ram fathered Amminadab, Amminadab fathered Nahshon, and Nahshon fathered Salmon.</VERS>
+      <VERS vnumber="5">Salmon fathered Boaz by Rahab, Boaz fathered Obed by Ruth, Obed fathered Jesse,</VERS>
+      <VERS vnumber="6">and Jesse fathered David the king. David the king fathered Solomon by her who had been the wife of Uriah.</VERS>
+      <VERS vnumber="7">Solomon fathered Rehoboam, Rehoboam fathered Abijah, and Abijah fathered Asa.</VERS>
+      <VERS vnumber="8">Asa fathered Jehoshaphat, Jehoshaphat fathered Joram, and Joram fathered Uzziah.</VERS>
+      <VERS vnumber="9">Uzziah fathered Jotham, Jotham fathered Ahaz, and Ahaz fathered Hezekiah.</VERS>
+      <VERS vnumber="10">Hezekiah fathered Manasseh, Manasseh fathered Amon, and Amon fathered Josiah.</VERS>
+      <VERS vnumber="11">Josiah fathered Jeconiah and his brothers at the time of the captivity in Babylon.</VERS>
+      <VERS vnumber="12">And after the captivity in Babylon, Jeconiah fathered Shealtiel, and Shealtiel fathered Zerubbabel.</VERS>
+      <VERS vnumber="13">Zerubbabel fathered Abiud, Abiud fathered Eliakim, and Eliakim fathered Azor.</VERS>
+      <VERS vnumber="14">Azor fathered Zadok, Zadok fathered Achim, and Achim fathered Eliud.</VERS>
+      <VERS vnumber="15">Eliud fathered Eleazar, Eleazar fathered Matthan, and Matthan fathered Jacob.</VERS>
+      <VERS vnumber="16">And Jacob fathered Joseph the husband of Mary, of whom was born Jesus who is called Christ.</VERS>
+      <VERS vnumber="17">So all the generations from Abraham till David [were] fourteen generations, from David until the captivity in Babylon [were] fourteen generations, and from the captivity in Babylon until the Christ [were] fourteen generations.</VERS>
+      <VERS vnumber="18">Now the birth of Jesus Christ was like this: After His mother Mary had been betrothed to Joseph, before they came together, she was found pregnant by the Holy Spirit.</VERS>
+      <VERS vnumber="19">Then Joseph her husband, being righteous and not wanting to make her a public example, purposed to put her away secretly.</VERS>
+      <VERS vnumber="20">But while he was thinking about these things, behold, an angel of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not fear to take unto [you] Mary your wife, for that which is begotten in her is of the Holy Spirit.</VERS>
+      <VERS vnumber="21">And she shall bring forth a Son, and you shall call His name JESUS, for He shall save His people from their sins."</VERS>
+      <VERS vnumber="22">Now all this came to pass that the thing spoken by the Lord through the prophet might be fulfilled, saying,</VERS>
+      <VERS vnumber="23">"Behold, the virgin shall be with child, and shall bring forth a Son, and they shall call His name Immanuel,"which is translated, "God with us."</VERS>
+      <VERS vnumber="24">Then Joseph, having been aroused from sleep, did as the angel of the Lord had ordered him and took to [him] his wife,</VERS>
+      <VERS vnumber="25">but did not know her till she brought forth her firstborn Son. And he called His name JESUS.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

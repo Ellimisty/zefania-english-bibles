@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="20">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief Musician, A Psalm of David.</STYLE> The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee; <DIV>
+          <NOTE type="x-studynote">defend…: Heb. set thee on an high place</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">Send thee help from the sanctuary, and strengthen thee out of Zion; <DIV>
+          <NOTE type="x-studynote">thee help: Heb. thy help</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">strengthen: Heb. support</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">Remember all thy offerings, and accept thy burnt sacrifice; Selah. <DIV>
+          <NOTE type="x-studynote">accept: Heb. turn to ashes: or, make fat</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">Grant thee according to thy own heart, and fulfil all thy counsel.</VERS>
+      <VERS vnumber="5">We will rejoice in thy salvation, and in the name of our God we will set up <STYLE css="font-style:italic">our</STYLE> banners: the LORD fulfil all thy petitions.</VERS>
+      <VERS vnumber="6">Now I know that the LORD saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand. <DIV>
+          <NOTE type="x-studynote">his holy…: Heb. the heaven of his holiness</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">with…: Heb. by the strength of the salvation of</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="7">Some <STYLE css="font-style:italic">trust</STYLE> in chariots, and some in horses: but we will remember the name of the LORD our God.</VERS>
+      <VERS vnumber="8">They are brought down and fallen: but we are raised, and stand upright.</VERS>
+      <VERS vnumber="9">Save, LORD: let the king hear us when we call.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

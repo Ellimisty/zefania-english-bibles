@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="1">
+    <CHAPTER cnumber="5">
+      <VERS vnumber="1">This is the written genealogy of Adam. When God created man, he made him in the likeness of God.</VERS>
+      <VERS vnumber="2">He created them male and female and blessed them. When they were created, he called them Mankind.</VERS>
+      <VERS vnumber="3">When Adam had lived one hundred and thirty years, he had a son in his own likeness, in his own image; and he named him Seth.</VERS>
+      <VERS vnumber="4">After Seth was born, Adam lived eight hundred years and had other sons and daughters.</VERS>
+      <VERS vnumber="5">Altogether, Adam lived nine hundred and thirty years, and then he died.</VERS>
+      <VERS vnumber="6">Seth lived one hundred and five years when he became the father of Enosh.</VERS>
+      <VERS vnumber="7">After he became the father of Enosh, Seth lived eight hundred and seven years and had other sons and daughters.</VERS>
+      <VERS vnumber="8">Altogether, Seth lived nine hundred and twelve years, and then he died.</VERS>
+      <VERS vnumber="9">Enosh lived ninety years. He became the father of Kenan.</VERS>
+      <VERS vnumber="10">After he became the father of Kenan, Enosh lived eight hundred and fifteen years and had other sons and daughters.</VERS>
+      <VERS vnumber="11">Enosh lived a total of nine hundred and five years, and then he died.</VERS>
+      <VERS vnumber="12">Kenan lived seventy years. He became the father of Mahalalel.</VERS>
+      <VERS vnumber="13">After that Kenan lived eight hundred and forty years and had other sons and daughters.</VERS>
+      <VERS vnumber="14">Altogether, Kenan lived nine hundred and ten years, and then he died.</VERS>
+      <VERS vnumber="15">When Mahalalel lived sixty-five years, he became the father of Jared.</VERS>
+      <VERS vnumber="16">After he became the father of Jared, Mahalalel lived eight hundred and thirty years and had other sons and daughters.</VERS>
+      <VERS vnumber="17">Mahalalel lived a total of eight hundred and ninety-five years, and then he died.</VERS>
+      <VERS vnumber="18">When Jared lived one hundred and sixty-two years, he became the father of Enoch.</VERS>
+      <VERS vnumber="19">After he became the father of Enoch, Jared lived eight hundred years and had other sons and daughters.</VERS>
+      <VERS vnumber="20">Jared lived a total of nine hundred and sixty-two years, and then he died.</VERS>
+      <VERS vnumber="21">When Enoch lived sixty-five years, he became the father of Methuselah.</VERS>
+      <VERS vnumber="22">After he became the father of Methuselah, Enoch walked with God three hundred years and had other sons and daughters.</VERS>
+      <VERS vnumber="23">Altogether, Enoch lived three hundred and sixty-five years.</VERS>
+      <VERS vnumber="24">Enoch walked with God. Then he was no more, because God took <STYLE css="font-style:italic">moved</STYLE> him away.</VERS>
+      <VERS vnumber="25">When Methuselah lived one hundred and eighty-seven years, he became the father of Lamech.</VERS>
+      <VERS vnumber="26">After he became the father of Lamech, Methuselah lived seven hundred eighty-two years and had other sons and daughters.</VERS>
+      <VERS vnumber="27">Altogether, Methuselah lived nine hundred and sixty-nine years, and then he died.</VERS>
+      <VERS vnumber="28">When Lamech had lived one hundred and eighty-two years, he had a son.</VERS>
+      <VERS vnumber="29">He named him Noah. He said: »He will comfort us in the labor and painful toil of our hands caused by the ground Jehovah has cursed.«</VERS>
+      <VERS vnumber="30">After Noah was born, Lamech lived five hundred and ninety-five years and had other sons and daughters.</VERS>
+      <VERS vnumber="31">Lamech lived a total of seven hundred seventy-seven years, and then he died.</VERS>
+      <VERS vnumber="32">After Noah was five hundred years old, he became the father of Shem, Ham, and Japheth.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

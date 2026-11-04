@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="143">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">Hear my prayer, O Jehovah, Give ear to my supplications! Answer me in your faithfulness. Answer me in your righteousness!</VERS>
+      <VERS vnumber="2">Do not enter into judgment with your servant, for in your sight no man living is righteous.</VERS>
+      <VERS vnumber="3">For the enemy has persecuted me. He has crushed my life to the ground. He has made me dwell in dark places, like those who have long been dead.</VERS>
+      <VERS vnumber="4">Therefore my spirit is overwhelmed within me. My heart is devastated within me.</VERS>
+      <VERS vnumber="5">I remember the days of old. I meditate <STYLE css="font-style:italic">think deeply</STYLE>
+        <STYLE css="font-style:italic">intensely study</STYLE> on all your activities. I muse on the work of your hands.</VERS>
+      <VERS vnumber="6">I stretch out my hands to you for I long for you, like a parched land.</VERS>
+      <VERS vnumber="7">Answer me quickly, O Jehovah for my spirit fails. Do not hide your face from me or I will become like those who go down to the pit.</VERS>
+      <VERS vnumber="8">Let me hear your loving kindness in the morning. For I trust in you! Teach me the way in which I should walk for to you I am lifted up.</VERS>
+      <VERS vnumber="9">Deliver me, O Jehovah, from my enemies. I take refuge in you.</VERS>
+      <VERS vnumber="10">Teach me to do your will, for you are my God. Let your good Spirit lead me on level ground.</VERS>
+      <VERS vnumber="11">For the sake of your name, O Jehovah, revive me. In your righteousness bring me out of trouble.</VERS>
+      <VERS vnumber="12">In your loving kindness, cut off my enemies and destroy all those who afflict me. For I am your servant.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

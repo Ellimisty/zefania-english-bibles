@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="84">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief <gr str="5329">Musician </gr>upon <gr str="1665">Gittith</gr>, A <gr str="4210">Psalm </gr>for the <gr str="1121">sons </gr>of <gr str="7141">Korah</gr>.</STYLE> How <gr str="3039">amiable </gr>
+        <STYLE css="font-style:italic">are</STYLE> thy <gr str="4908">tabernacles</gr>, O <gr str="3068">LORD </gr>of <gr str="6635">hosts</gr>! <DIV>
+          <NOTE type="x-studynote">for the sons: or, of the sons</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">My <gr str="5315">soul </gr>
+        <gr str="3700">longeth</gr>, and, even <gr str="3615">fainteth </gr>for the <gr str="2691">courts </gr>of the <gr str="3068">LORD</gr>: my <gr str="3820">heart </gr>and my <gr str="1320">flesh </gr>crieth <gr str="7442">out </gr>for the <gr str="2416">living </gr>
+        <gr str="410">God</gr>.</VERS>
+      <VERS vnumber="3">Yea, the <gr str="6833">sparrow </gr>hath <gr str="4672">found </gr>an <gr str="1004">house</gr>, and the <gr str="1866">swallow </gr>a <gr str="7064">nest </gr>for herself, where she may <gr str="7896">lay </gr>her <gr str="667">young</gr>, <STYLE css="font-style:italic">even</STYLE> thy <gr str="4196">altars</gr>, O <gr str="3068">LORD </gr>of <gr str="6635">hosts</gr>, my <gr str="4428">King</gr>, and my <gr str="430">God</gr>.</VERS>
+      <VERS vnumber="4">
+        <gr str="835">Blessed </gr>
+        <STYLE css="font-style:italic">are</STYLE> they that <gr str="3427">dwell </gr>in thy <gr str="1004">house</gr>: they will be still <gr str="1984">praising </gr>thee. <gr str="5542">Selah</gr>.</VERS>
+      <VERS vnumber="5">
+        <gr str="835">Blessed </gr>
+        <STYLE css="font-style:italic">is</STYLE> the <gr str="120">man </gr>whose <gr str="5797">strength </gr>
+        <STYLE css="font-style:italic">is</STYLE> in thee; in whose <gr str="3824">heart </gr>
+        <STYLE css="font-style:italic">are</STYLE> the <gr str="4546">ways </gr>
+        <STYLE css="font-style:italic">of them</STYLE>.</VERS>
+      <VERS vnumber="6">
+        <STYLE css="font-style:italic">Who </STYLE>
+        <gr str="5674">passing </gr>through the <gr str="6010">valley </gr>of <gr str="1056 1057">Baca </gr>
+        <gr str="7896">make </gr>it a <gr str="4599">well</gr>; the <gr str="4175">rain </gr>also <gr str="5844">filleth </gr>the <gr str="1293">pools</gr>. <DIV>
+          <NOTE type="x-studynote">Baca…: or, mulberry trees make him a well, etc</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">filleth: Heb. covereth</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="7">They <gr str="3212">go </gr>from <gr str="2428">strength </gr>to <gr str="2428">strength</gr>, <STYLE css="font-style:italic">every one of them</STYLE> in <gr str="6726">Zion </gr>
+        <gr str="7200">appeareth </gr>before <gr str="430">God</gr>. <DIV>
+          <NOTE type="x-studynote">strength to…: or, company to company</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">O <gr str="3068">LORD </gr>
+        <gr str="430">God </gr>of <gr str="6635">hosts</gr>, <gr str="8085">hear </gr>my <gr str="8605">prayer</gr>: give <gr str="238">ear</gr>, O <gr str="430">God </gr>of <gr str="3290">Jacob</gr>. <gr str="5542">Selah</gr>.</VERS>
+      <VERS vnumber="9">
+        <gr str="7200">Behold</gr>, O <gr str="430">God </gr>our <gr str="4043">shield</gr>, and <gr str="5027">look </gr>upon the <gr str="6440">face </gr>of thy <gr str="4899">anointed</gr>.</VERS>
+      <VERS vnumber="10">For a <gr str="3117">day </gr>in thy <gr str="2691">courts </gr>
+        <STYLE css="font-style:italic">is </STYLE>
+        <gr str="2896">better </gr>than a <gr str="505">thousand</gr>. I had <gr str="977">rather </gr>be a <gr str="5605">doorkeeper </gr>in the <gr str="1004">house </gr>of my <gr str="430">God</gr>, than to <gr str="1752">dwell </gr>in the <gr str="168">tents </gr>of <gr str="7562">wickedness</gr>. <DIV>
+          <NOTE type="x-studynote">I had…: Heb. I would choose rather to sit at the threshold</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="11">For the <gr str="3068">LORD </gr>
+        <gr str="430">God </gr>
+        <STYLE css="font-style:italic">is</STYLE> a <gr str="8121">sun </gr>and <gr str="4043">shield</gr>: the <gr str="3068">LORD </gr>will <gr str="5414">give </gr>
+        <gr str="2580">grace </gr>and <gr str="3519">glory</gr>: no <gr str="2896">good </gr>will he <gr str="4513">withhold </gr>from them that <gr str="1980">walk </gr>
+        <gr str="8549">uprightly</gr>.</VERS>
+      <VERS vnumber="12">O <gr str="3068">LORD </gr>of <gr str="6635">hosts</gr>, <gr str="835">blessed </gr>
+        <STYLE css="font-style:italic">is</STYLE> the <gr str="120">man </gr>that <gr str="982">trusteth </gr>in thee.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

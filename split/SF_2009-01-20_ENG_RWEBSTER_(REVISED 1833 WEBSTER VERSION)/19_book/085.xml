@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="85">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief Musician, A Psalm for the sons of Korah.</STYLE> LORD, thou hast been favourable to thy land: thou hast brought back the captivity of Jacob. <DIV>
+          <NOTE type="x-studynote">for the sons: or, of the sons</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">favourable: or, well pleased</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">Thou hast forgiven the iniquity of thy people, thou hast covered all their sin. Selah.</VERS>
+      <VERS vnumber="3">Thou hast taken away all thy wrath: thou hast turned <STYLE css="font-style:italic">thyself</STYLE> from the fierceness of thy anger. <DIV>
+          <NOTE type="x-studynote">thyself…: or, thine anger from waxing hot</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">Restore us, O God of our salvation, and cause thy anger toward us to cease.</VERS>
+      <VERS vnumber="5">Wilt thou be angry with us for ever? wilt thou draw out thy anger to all generations?</VERS>
+      <VERS vnumber="6">Wilt thou not revive us again: that thy people may rejoice in thee?</VERS>
+      <VERS vnumber="7">Show us thy mercy, O LORD, and grant us thy salvation.</VERS>
+      <VERS vnumber="8">I will hear what God the LORD will speak: for he will speak peace to his people, and to his saints: but let them not turn again to folly.</VERS>
+      <VERS vnumber="9">Surely his salvation <STYLE css="font-style:italic">is</STYLE> near them that fear him; that glory may dwell in our land.</VERS>
+      <VERS vnumber="10">Mercy and truth are met together; righteousness and peace have kissed <STYLE css="font-style:italic">each other</STYLE>.</VERS>
+      <VERS vnumber="11">Truth shall spring out of the earth; and righteousness shall look down from heaven.</VERS>
+      <VERS vnumber="12">Yea, the LORD shall give <STYLE css="font-style:italic">that which is</STYLE> good; and our land shall yield her increase.</VERS>
+      <VERS vnumber="13">Righteousness shall go before him; and shall set <STYLE css="font-style:italic">us</STYLE> in the way of his steps.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

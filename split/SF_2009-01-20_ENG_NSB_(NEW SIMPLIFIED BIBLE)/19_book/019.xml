@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="19">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">The heavens declare the glory of God, and the sky displays what his hands have made.</VERS>
+      <VERS vnumber="2">Day to day declares speech. Night to night shows knowledge.</VERS>
+      <VERS vnumber="3">It is done without talking, without words, without their voices being heard.</VERS>
+      <VERS vnumber="4">Yet, their measuring line <STYLE css="font-style:italic">rule</STYLE> has gone out into the entire world, their message to the ends of the earth. He has set up a tent in the heavens for the sun.</VERS>
+      <VERS vnumber="5">It comes out of its chamber like a bridegroom. Like a champion, it is eager to run its course.</VERS>
+      <VERS vnumber="6">It rises from one end of the heavens. It circles around to the other. Nothing is hidden from its heat.</VERS>
+      <VERS vnumber="7">The law of Jehovah is perfect. It gives new life. The testimony of Jehovah is dependable. It makes the simple wise.</VERS>
+      <VERS vnumber="8">The statutes of Jehovah are correct. They make the heart rejoice. The commandments of Jehovah are radiant. They make the eyes shine.</VERS>
+      <VERS vnumber="9">The reverence of Jehovah is pure. It endures forever. The decisions of Jehovah are true. They are completely fair.</VERS>
+      <VERS vnumber="10">They are more desirable than gold, even the finest gold. They are sweeter than honey, even the drippings from a honeycomb.</VERS>
+      <VERS vnumber="11">They warn your servant. There is a great reward in following them.</VERS>
+      <VERS vnumber="12">Who can notice <STYLE css="font-style:italic">discern</STYLE>
+        <STYLE css="font-style:italic">understand</STYLE> every mistake? Forgive my hidden faults.</VERS>
+      <VERS vnumber="13">Keep me from sinning. Do not let anyone gain control over me. Then I will be blameless, and I will be free from any great offense.</VERS>
+      <VERS vnumber="14">May the words from my mouth and the thoughts from my heart be acceptable to you, O Jehovah, my rock and my Redeemer <STYLE css="font-style:italic">Purchaser</STYLE>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

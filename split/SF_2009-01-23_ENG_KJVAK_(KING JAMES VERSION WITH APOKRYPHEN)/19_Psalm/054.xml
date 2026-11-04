@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James Version with Apokryphen" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="54">
+      <CAPTION vref="1">To the chief Musician on Neginoth, Maschil, A Psalm of David,</CAPTION>
+      <VERS vnumber="1">when the Ziphims came and said to Saul, Doth not David hide himself with us?</VERS>
+      <VERS vnumber="2">Hear my prayer, O God; give ear to the words of my mouth.</VERS>
+      <VERS vnumber="3">For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.</VERS>
+      <VERS vnumber="4">Behold, God is mine helper: the Lord is with them that uphold my soul.</VERS>
+      <VERS vnumber="5">He shall reward evil unto mine enemies: cut them off in thy truth.</VERS>
+      <VERS vnumber="6">I will freely sacrifice unto thee: I will praise thy name, O LORD; for it is good.</VERS>
+      <VERS vnumber="7">For he hath delivered me out of all trouble: and mine eye hath seen his desire upon mine enemies.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

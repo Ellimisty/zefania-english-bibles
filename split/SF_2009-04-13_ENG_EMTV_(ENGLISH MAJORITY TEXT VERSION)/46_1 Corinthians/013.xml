@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.20" biblename="English Majority Text Version" type="x-bible">
+  <BIBLEBOOK bnumber="46" bname="1 Corinthians" bsname="1Co">
+    <CHAPTER cnumber="13">
+      <VERS vnumber="1">Though I speak with the tongues of men and of angels, but have not love, I have become [as] sounding brass or a clashing cymbal.</VERS>
+      <VERS vnumber="2">And though I have [the gift of] prophecy, and know all mysteries and all knowledge, and though I have all faith, so as to remove mountains, but have not love, I am nothing.</VERS>
+      <VERS vnumber="3">And though I give away all my possessions to feed [the poor], and though I deliver up my body to be burned, but have not love, it profits me nothing.</VERS>
+      <VERS vnumber="4">Love is patient, love is kind; love does not envy; love does not boast, is not arrogant;</VERS>
+      <VERS vnumber="5">does not behave disgracefully, does not seek its own, is not provoked to anger, thinks no evil;</VERS>
+      <VERS vnumber="6">does not rejoice over unrighteousness, but rejoices with the truth;</VERS>
+      <VERS vnumber="7">bears all things, believes all things, hopes all things, endures all things.</VERS>
+      <VERS vnumber="8">Love never fails. But whether there [are] prophecies, they shall pass away; whether there[ are] tongues, they shall cease; whether there[ is] knowledge, it shall pass away.</VERS>
+      <VERS vnumber="9">Now we know in part, and we prophesy in part.</VERS>
+      <VERS vnumber="10">But when that which is perfect has come, then that which is partial shall pass away.</VERS>
+      <VERS vnumber="11">When I was a child, I spoke as a child, I thought as a child, I reasoned as a child; but when I became a man, I put away the things of the child.</VERS>
+      <VERS vnumber="12">For now we see through a mirror by reflection, but then face to face. Now I know in part, but then I shall know just as I also am known.</VERS>
+      <VERS vnumber="13">And now abide faith, hope, love, these three; but the greatest of these is love.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

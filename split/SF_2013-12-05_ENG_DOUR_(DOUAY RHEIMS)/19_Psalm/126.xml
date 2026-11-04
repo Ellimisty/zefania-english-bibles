@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Douay Rheims" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="126">
+      <VERS vnumber="1">They that trust in the Lord shall be as mount Sion: he shall not be moved for ever that dwelleth</VERS>
+      <VERS vnumber="2">in Jerusalem. Mountains are round about it: so the Lord is round about his people from henceforth now and for ever.</VERS>
+      <VERS vnumber="3">For the Lord will not leave the rod of sinners upon the lot of the just: that the just may not stretch forth their hands to iniquity.</VERS>
+      <VERS vnumber="4">Do good, O Lord, to those that are good, and to the upright of heart.</VERS>
+      <VERS vnumber="5">But such as turn aside into bonds, the Lord shall lead out with the workers of iniquity: peace upon Israel.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

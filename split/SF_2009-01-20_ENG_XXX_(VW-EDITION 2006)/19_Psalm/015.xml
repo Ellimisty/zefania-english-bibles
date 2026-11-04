@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="15">
+      <CAPTION vref="1">A Psalm of David.</CAPTION>
+      <VERS vnumber="1">O Jehovah, who may abide in Your tent? Who may dwell on Your holy hill?</VERS>
+      <VERS vnumber="2">He who walks uprightly, and works righteousness, and speaks the truth in his heart;</VERS>
+      <VERS vnumber="3">he who does not backbite with his tongue, nor does evil to his neighbor, nor takes up a reproach against his friend;</VERS>
+      <VERS vnumber="4">in whose eyes the reprobate is despised, but he honors those who fear Jehovah; he has sworn to his hurt, and does not change it;</VERS>
+      <VERS vnumber="5">he has not put out his money at interest, nor has he taken a bribe against the innocent. He who does these things shall never be moved.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

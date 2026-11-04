@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="ISV NT" type="x-bible">
+  <BIBLEBOOK bnumber="40" bname="Matthäus" bsname="Mt">
+    <CHAPTER cnumber="28">
+      <VERS vnumber="1">After the Sabbath, around dawn on the first day of the week, Mary Magdalene and the other Mary went to take a look at the tomb.</VERS>
+      <VERS vnumber="2">Suddenly there was a powerful earthquake. For an angel of the Lord had come down from heaven, stepped forward, rolled the stone away, and was sitting on it.</VERS>
+      <VERS vnumber="3">His appearance was like lightning, and his clothes were as white as snow.</VERS>
+      <VERS vnumber="4">Because they were so afraid of him, the guards shook and became like dead men.</VERS>
+      <VERS vnumber="5">But the angel said to the women, “Stop being afraid! For I know you're looking for Jesus, who was crucified.</VERS>
+      <VERS vnumber="6">He is not here. He has been raised, just as he said. Come and see the place where he was lying.</VERS>
+      <VERS vnumber="7">Then go quickly and tell his disciples that he is risen from the dead. He is going ahead of you into Galilee, and you will see him there. Remember, I have told you!”</VERS>
+      <VERS vnumber="8">So they quickly left the tomb with fear and great joy and ran to tell his disciples.</VERS>
+      <VERS vnumber="9">Suddenly Jesus met them and said,<STYLE css="font-weight:bold">“Greetings!”</STYLE> They went up to him, took hold of his feet, and worshiped him.</VERS>
+      <VERS vnumber="10">Then Jesus said to them,<STYLE css="font-weight:bold">“Stop being afraid! Go and tell my brothers to leave for Galilee, and there they will see me.”</STYLE>
+      </VERS>
+      <VERS vnumber="11">While the women were on their way, some of the guards went into the city and told the high priests all that had happened.</VERS>
+      <VERS vnumber="12">So they met with the elders and agreed on a plan to give the soldiers a large amount of money.</VERS>
+      <VERS vnumber="13">They said, “Say that his disciples came at night and stole him while you were sleeping.</VERS>
+      <VERS vnumber="14">If this is reported to the governor, we will satisfy him and keep you out of trouble.”</VERS>
+      <VERS vnumber="15">So the soldiers took the money and did as they were instructed. This story has been spread among the Jews to this day.</VERS>
+      <VERS vnumber="16">The eleven disciples went into Galilee to the hillside to which Jesus had directed them.</VERS>
+      <VERS vnumber="17">When they saw him, they worshiped him, though some had doubts.</VERS>
+      <VERS vnumber="18">Then Jesus came up and said to them,<STYLE css="font-weight:bold">“All authority in heaven and on earth has been given to me.</STYLE>
+      </VERS>
+      <VERS vnumber="19">
+        <STYLE css="font-weight:bold">Therefore, as you go, disciple all the nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit,</STYLE>
+      </VERS>
+      <VERS vnumber="20">
+        <STYLE css="font-weight:bold">teaching them to obey all that I have commanded you. And remember, I am with you each and every day</STYLE>
+        <STYLE css="font-weight:bold">until the end of the age.”</STYLE>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

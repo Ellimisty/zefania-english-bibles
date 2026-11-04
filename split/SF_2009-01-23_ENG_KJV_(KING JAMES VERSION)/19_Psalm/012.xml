@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="12">
+      <CAPTION vref="1">To the chief Musician upon Sheminith, A Psalm of David. </CAPTION>
+      <VERS vnumber="1">Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men.</VERS>
+      <VERS vnumber="2">They speak vanity every one with his neighbour: with flattering lips and with a double heart do they speak.</VERS>
+      <VERS vnumber="3">The LORD shall cut off all flattering lips, and the tongue that speaketh proud things:</VERS>
+      <VERS vnumber="4">Who have said, With our tongue will we prevail; our lips are our own: who is lord over us?</VERS>
+      <VERS vnumber="5">For the oppression of the poor, for the sighing of the needy, now will I arise, saith the LORD; I will set him in safety from him that puffeth at him.</VERS>
+      <VERS vnumber="6">The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times.</VERS>
+      <VERS vnumber="7">Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever.</VERS>
+      <VERS vnumber="8">The wicked walk on every side, when the vilest men are exalted.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

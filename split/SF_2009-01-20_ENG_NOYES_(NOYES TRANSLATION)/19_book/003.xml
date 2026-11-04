@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="3">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of David, when he fled from his son Absalom.</STYLE> How many, O LORD, are mine enemies! How many are they who rise up against me!</VERS>
+      <VERS vnumber="2">How many are they who say of me, "There is no help for him with God"! <STYLE css="font-style:italic">Pause.</STYLE>
+      </VERS>
+      <VERS vnumber="3">But thou, O LORD! art my shield, My glory, and the lifterup of my head.</VERS>
+      <VERS vnumber="4">I call upon the LORD with my voice, And he heareth me from his holy hill. <STYLE css="font-style:italic">Pause.</STYLE>
+      </VERS>
+      <VERS vnumber="5">I lay me down and sleep; I awake, for the LORD sustaineth me.</VERS>
+      <VERS vnumber="6">I will not fear the ten thousands of people Who on every side set themselves against me.</VERS>
+      <VERS vnumber="7">Arise, O LORD! Save me, O my God! For thou smitest the cheek of all my enemies; Thou breakest the teeth of the wicked.</VERS>
+      <VERS vnumber="8">Deliverance cometh from the LORD: May thy blessing be with thy people! <STYLE css="font-style:italic">Pause.</STYLE>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

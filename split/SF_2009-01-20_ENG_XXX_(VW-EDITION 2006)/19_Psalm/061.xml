@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="61">
+      <CAPTION vref="1">To the chief Musician. Neginah. A Psalm of David.</CAPTION>
+      <VERS vnumber="1">Hear my cry, O God; give attention to my prayer.</VERS>
+      <VERS vnumber="2">From the ends of the earth I cry out to You when my heart is faint; lead me to the Rock that is higher than I.</VERS>
+      <VERS vnumber="3">For You have been a shelter for me, a strong tower before the enemy.</VERS>
+      <VERS vnumber="4">I will dwell in Your tent forever; I will trust in the shelter of Your wings. Selah.</VERS>
+      <VERS vnumber="5">For You, O God, have heard my vows; You have given an inheritance to those who fear Your name.</VERS>
+      <VERS vnumber="6">You will add days to the days of the king; his years unto generations and generations.</VERS>
+      <VERS vnumber="7">He shall abide before God forever; appoint mercy and truth to preserve him.</VERS>
+      <VERS vnumber="8">So I will make music unto Your name forever, so that I may daily make good my vows.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

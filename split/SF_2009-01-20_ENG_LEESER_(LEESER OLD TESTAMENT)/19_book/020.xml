@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="20">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief musician, a psalm of David.</STYLE>
+        <DIV>
+          <NOTE type="x-studynote">(20:2)</NOTE>
+        </DIV> May the Lord answer thee on the day of distress; may the name of the God of Jacob protect thee;</VERS>
+      <VERS vnumber="2">
+        <DIV>
+          <NOTE type="x-studynote">(20:3)</NOTE>
+        </DIV> May he send thee help from the sanctuary, and support thee from Zion;</VERS>
+      <VERS vnumber="3">
+        <DIV>
+          <NOTE type="x-studynote">(20:4)</NOTE>
+        </DIV> May he remember all thy meatofferings, and accept in favor thy burntsacrifice. Selah.</VERS>
+      <VERS vnumber="4">
+        <DIV>
+          <NOTE type="x-studynote">(20:5)</NOTE>
+        </DIV> May he grant thee according to thy own heart, and fulfill all thy resolves.</VERS>
+      <VERS vnumber="5">
+        <DIV>
+          <NOTE type="x-studynote">(20:6)</NOTE>
+        </DIV> We will rejoice in thy salvation, and in the name of our God will we upraise our banners: may the Lord fulfill all thy petitions.</VERS>
+      <VERS vnumber="6">
+        <DIV>
+          <NOTE type="x-studynote">(20:7)</NOTE>
+        </DIV> Now I know that the Lord saveth his anointed: he will answer him from his holy heavens, with the saving strength of his right hand.</VERS>
+      <VERS vnumber="7">
+        <DIV>
+          <NOTE type="x-studynote">(20:8)</NOTE>
+        </DIV> Some <STYLE css="font-style:italic">trust</STYLE> in chariots, and some in horses; but we will invoke the name of the Lord our God.</VERS>
+      <VERS vnumber="8">
+        <DIV>
+          <NOTE type="x-studynote">(20:9)</NOTE>
+        </DIV> They are prostrate and fallen; but we are risen up and stand erect.</VERS>
+      <VERS vnumber="9">
+        <DIV>
+          <NOTE type="x-studynote">(20:10)</NOTE>
+        </DIV> O Lord, save <STYLE css="font-style:italic">us</STYLE>: may the king answer us on the day when we call <STYLE css="font-style:italic">on him</STYLE>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

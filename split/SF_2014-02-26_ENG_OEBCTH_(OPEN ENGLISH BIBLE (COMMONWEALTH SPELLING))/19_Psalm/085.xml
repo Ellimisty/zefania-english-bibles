@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="85">
+      <VERS vnumber="1">Once, <STYLE id="cl:divineName">Lord</STYLE>, you did favour your land,granting change of fortune to Jacob,</VERS>
+      <VERS vnumber="2">forgiving the guilt of your people,pardoning all their sin,  (Selah)</VERS>
+      <VERS vnumber="3">withdrawing all your fury,turning from your hot anger. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="4">Restore us, O God our saviour,put away your displeasure against us.</VERS>
+      <VERS vnumber="5">Will you cherish your anger against us forever,prolonging your wrath to all generations?</VERS>
+      <VERS vnumber="6">Will you not revive us again,that your people may be glad in you?</VERS>
+      <VERS vnumber="7">Show us your kindness, O <STYLE id="cl:divineName">Lord</STYLE>,grant us your salvation. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="8">Let me hear what God the <STYLE id="cl:divineName">Lord</STYLE> will speak;for he will speak of peaceto his people, to those who love him,and turn their hearts to him.</VERS>
+      <VERS vnumber="9">Soon those who fear him shall see how he saves,and glory shall live in our land. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="10">Kindness and loyalty meet;peace and righteousness kiss.</VERS>
+      <VERS vnumber="11">Loyalty springs from the earth;righteousness looks from the sky.</VERS>
+      <VERS vnumber="12">The <STYLE id="cl:divineName">Lord</STYLE> shall give all that is good,our land yielding its increase,</VERS>
+      <VERS vnumber="13">righteousness marching before him,and peace on the path he treads.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

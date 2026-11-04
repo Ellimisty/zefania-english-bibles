@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Geneva Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="15">
+      <VERS vnumber="1">A Psalme of Dauid. Lorde, who shal dwell in thy Tabernacle? who shall rest in thine holy Mountaine?</VERS>
+      <VERS vnumber="2">He that <DIV>
+          <NOTE type="x-studynote">He shows that we cannot call on God unless we trust in him.</NOTE>
+        </DIV> walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.</VERS>
+      <VERS vnumber="3">He that slandereth not with his tongue, nor doeth euill to his neighbour, nor receiueth a false report against his neighbour.</VERS>
+      <VERS vnumber="4">
+        <DIV>
+          <NOTE type="x-studynote">He who flatters not the ungodly in their wickedness.</NOTE>
+        </DIV>In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. [He that] sweareth to [his own] hurt, and changeth not.</VERS>
+      <VERS vnumber="5">[He that] <DIV>
+          <NOTE type="x-studynote">To the hinderance of his neighbour.</NOTE>
+        </DIV> putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these [things] <DIV>
+          <NOTE type="x-studynote">That is, will not be cast from the Church as a hypocrite.</NOTE>
+        </DIV> shall never be moved.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

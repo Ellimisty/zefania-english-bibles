@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="89">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">This Psalm is a genuine one of David, though supernumerary, composed when he fought in single combat with <DIV>
+          <NOTE type="x-studynote">Alex. Goliath</NOTE>
+        </DIV> Goliad. - I was small among my brethren, and youngest in my father’s house: I tended my father’s sheep.</VERS>
+      <VERS vnumber="2">My hands formed a musical instrument, and my fingers tuned a psaltery.</VERS>
+      <VERS vnumber="3">And who shall tell my Lord? the Lord himself, he himself hears.</VERS>
+      <VERS vnumber="4">He sent forth his angel, and took me from my father’s sheep, and he anointed me with the oil of his anointing.</VERS>
+      <VERS vnumber="5">My brothers were handsome and tall; but the Lord did not take pleasure in them.</VERS>
+      <VERS vnumber="6">I went forth to meet the Philistine; and he cursed me by his idols.</VERS>
+      <VERS vnumber="7">But I drew his own sword, and beheaded him, and removed reproach from the children of Israel.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

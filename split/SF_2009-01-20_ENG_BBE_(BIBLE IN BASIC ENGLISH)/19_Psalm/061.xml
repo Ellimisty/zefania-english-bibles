@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="61">
+      <VERS vnumber="1"> To the chief music-maker. On a corded instrument. Of David. </VERS>
+      <VERS vnumber="2">\61:1\Let my cry come to you, O God; let your ears be open to my prayer.</VERS>
+      <VERS vnumber="3">\61:2\From the end of the earth will I send up my cry to you, when my heart is overcome: take me to the rock which is over-high for me.</VERS>
+      <VERS vnumber="4">\61:3\For you have been my secret place, and my high tower from those who made war on me.</VERS>
+      <VERS vnumber="5">\61:4\I will make your tent my resting-place for ever: I will keep myself under the cover of your wings. (Selah.)</VERS>
+      <VERS vnumber="6">\61:5\For you, O God, have made answer to my prayers; you have given me the heritage of those who give honour to your name.</VERS>
+      <VERS vnumber="7">\61:6\You will give the king long life; and make his years go on through the generations.</VERS>
+      <VERS vnumber="8">\61:7\May the seat of his authority be before God for ever; may mercy and righteousness keep him safe.</VERS>
+      <VERS vnumber="9">\61:8\So will I make songs in praise of your name for ever, giving to God that which is right day by day.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

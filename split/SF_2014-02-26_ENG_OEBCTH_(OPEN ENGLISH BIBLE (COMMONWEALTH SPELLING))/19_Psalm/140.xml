@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="140">
+      <VERS vnumber="1">Rescue me, <STYLE id="cl:divineName">Lord</STYLE>, from evil people;from people of violence guard me</VERS>
+      <VERS vnumber="2">from those who plot evil in their heart,and stir up war continually:</VERS>
+      <VERS vnumber="3">who make their tongue as sharp as a serpent’s,and under whose lips is the poison of adders.  (Selah)  <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="4">Preserve me, O <STYLE id="cl:divineName">Lord</STYLE>, from the hands of the wicked,from the violent guard mefrom those who are plotting to trip up my feet.</VERS>
+      <VERS vnumber="5">The proud have hidden a trap for me,cords they have spread as a net for my feet:snares they have set at the side of my track.  (Selah)  <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="6">I have said to the <STYLE id="cl:divineName">Lord</STYLE>, “My God are you;give ear, <STYLE id="cl:divineName">Lord</STYLE>, to my loud plea.</VERS>
+      <VERS vnumber="7">O <STYLE id="cl:divineName">Lord</STYLE> my <STYLE id="cl:divineName">Lord</STYLE>, my Saviour mighty,you did cover my head in the day of battle.</VERS>
+      <VERS vnumber="8">Grant not, O <STYLE id="cl:divineName">Lord</STYLE>, the desires of the wicked;and what they have purposed, promote you not.”  (Selah)  <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="9">Let them not lift up their heads against me.May the mischief they prate bring themselves to destruction,</VERS>
+      <VERS vnumber="10">may he rain upon them coals of fire,may he strike them down swiftly, to rise no more,</VERS>
+      <VERS vnumber="11">no place in the land may there be for the slanderer:may the violent be hunted from sorrow to sorrow. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="12">I know that the <STYLE id="cl:divineName">Lord</STYLE> will do right by the weak,and will execute justice for those who are needy.</VERS>
+      <VERS vnumber="13">Surely the righteous shall praise your name,and they who are upright shall live in your presence.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

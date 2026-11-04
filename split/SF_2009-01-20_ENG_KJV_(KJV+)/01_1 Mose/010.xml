@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="1" bname="1 Mose" bsname="1Mo">
+    <CHAPTER cnumber="10">
+      <VERS vnumber="1"> Now <gr str="428">these </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> the <gr str="8435">generations </gr>of the <gr str="1121">sons </gr>of <gr str="5146">Noah</gr>, <gr str="8035">Shem</gr>, <gr str="2526">Ham</gr>, and <gr str="3315">Japheth</gr>: and unto them were <gr str="1121">sons </gr>
+        <gr str="3205">born </gr>
+        <gr str="310">after </gr>the <gr str="3999">flood</gr>. </VERS>
+      <VERS vnumber="2"> The <gr str="1121">sons </gr>of <gr str="3315">Japheth</gr>; <gr str="1586">Gomer</gr>, and <gr str="4031">Magog</gr>, and <gr str="4074">Madai</gr>, and <gr str="3120">Javan</gr>, and <gr str="8422">Tubal</gr>, and <gr str="4902">Meshech</gr>, and <gr str="8494">Tiras</gr>. </VERS>
+      <VERS vnumber="3"> And the <gr str="1121">sons </gr>of <gr str="1586">Gomer</gr>; <gr str="813">Ashkenaz</gr>, and <gr str="7384">Riphath</gr>, and <gr str="8425">Togarmah</gr>. </VERS>
+      <VERS vnumber="4"> And the <gr str="1121">sons </gr>of <gr str="3120">Javan</gr>; <gr str="473">Elishah</gr>, and <gr str="8659">Tarshish</gr>, <gr str="3794">Kittim</gr>, and <gr str="1721">Dodanim</gr>. </VERS>
+      <VERS vnumber="5"> By <gr str="4480 428">these </gr>were the <gr str="339">isles </gr>of the <gr str="1471">Gentiles </gr>
+        <gr str="6504">divided </gr>in their <gr str="776">lands</gr>; every <gr str="376">one </gr>after his <gr str="3956">tongue</gr>, after their <gr str="4940">families</gr>, in their <gr str="1471">nations</gr>. </VERS>
+      <VERS vnumber="6"> And the <gr str="1121">sons </gr>of <gr str="2526">Ham</gr>; <gr str="3568">Cush</gr>, and <gr str="4714">Mizraim</gr>, and <gr str="6316">Phut</gr>, and <gr str="3667">Canaan</gr>. </VERS>
+      <VERS vnumber="7"> And the <gr str="1121">sons </gr>of <gr str="3568">Cush</gr>; <gr str="5434">Seba</gr>, and <gr str="2341">Havilah</gr>, and <gr str="5454">Sabtah</gr>, and <gr str="7484">Raamah</gr>, and <gr str="5455">Sabtecha</gr>: and the <gr str="1121">sons </gr>of <gr str="7484">Raamah</gr>; <gr str="7614">Sheba</gr>, and <gr str="1719">Dedan</gr>. </VERS>
+      <VERS vnumber="8"> And <gr str="3568">Cush </gr>
+        <gr str="3205">begot </gr>
+        <gr str="*853" />
+        <gr str="5248">Nimrod</gr>: <gr str="1931">he </gr>
+        <gr str="2490">began </gr>to <gr str="1961">be </gr>a mighty <gr str="1368">one </gr>in the <gr str="776">earth</gr>. </VERS>
+      <VERS vnumber="9">
+        <gr str="1931">He </gr>
+        <gr str="1961">was </gr>a <gr str="1368">mighty </gr>
+        <gr str="6718">hunter </gr>
+        <gr str="6440">before </gr>the <gr str="3068">LORD</gr>: <gr str="5921 3651">wherefore </gr>it is <gr str="559">said</gr>, Even as <gr str="5248">Nimrod </gr>the <gr str="1368">mighty </gr>
+        <gr str="6718">hunter </gr>
+        <gr str="6440">before </gr>the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="10"> And the <gr str="7225">beginning </gr>of his <gr str="4467">kingdom </gr>
+        <gr str="1961">was </gr>
+        <gr str="894">Babel</gr>, and <gr str="751">Erech</gr>, and <gr str="390">Accad</gr>, and <gr str="3641">Calneh</gr>, in the <gr str="776">land </gr>of <gr str="8152">Shinar</gr>. </VERS>
+      <VERS vnumber="11"> Out <gr str="4480">of </gr>
+        <gr str="1931">that </gr>
+        <gr str="776">land </gr>went <gr str="3318">forth </gr>
+        <gr str="804">Asshur</gr>, and <gr str="1129">built </gr>
+        <gr str="*853" />
+        <gr str="5210">Nineveh</gr>, and the <gr str="5892">city </gr>
+        <gr str="7344">Rehoboth</gr>, and <gr str="3625">Calah</gr>, </VERS>
+      <VERS vnumber="12"> And <gr str="7449">Resen </gr>
+        <gr str="996">between </gr>
+        <gr str="5210">Nineveh </gr>and <gr str="3625">Calah</gr>: the <gr str="1931">same </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="1419">great </gr>
+        <gr str="5892">city</gr>. </VERS>
+      <VERS vnumber="13"> And <gr str="4714">Mizraim </gr>
+        <gr str="3205">begot </gr>
+        <gr str="*853" />
+        <gr str="3866">Ludim</gr>, and <gr str="6047">Anamim</gr>, and <gr str="3853">Lehabim</gr>, and <gr str="5320">Naphtuhim</gr>, </VERS>
+      <VERS vnumber="14"> And <gr str="6625">Pathrusim</gr>, and <gr str="3695">Casluhim</gr>, (out of <gr str="4480 8033 834">whom </gr>
+        <gr str="3318">came </gr>
+        <gr str="6430">Philistim</gr>,) and <gr str="3732">Caphtorim</gr>. </VERS>
+      <VERS vnumber="15"> And <gr str="3667">Canaan </gr>
+        <gr str="3205">begot </gr>
+        <gr str="*853" />
+        <gr str="6721">Sidon </gr>his <gr str="1060">firstborn</gr>, and <gr str="2845">Heth</gr>, </VERS>
+      <VERS vnumber="16"> And the <gr str="2983">Jebusite</gr>, and the <gr str="567">Amorite</gr>, and the <gr str="1622">Girgasite</gr>, </VERS>
+      <VERS vnumber="17"> And the <gr str="2340">Hivite</gr>, and the <gr str="6208">Arkite</gr>, and the <gr str="5513">Sinite</gr>, </VERS>
+      <VERS vnumber="18"> And the <gr str="721">Arvadite</gr>, and the <gr str="6786">Zemarite</gr>, and the <gr str="2577">Hamathite</gr>: and <gr str="310">afterward </gr>were the <gr str="4940">families </gr>of the <gr str="3669">Canaanites </gr>spread <gr str="6327">abroad</gr>. </VERS>
+      <VERS vnumber="19"> And the <gr str="1366">border </gr>of the <gr str="3669">Canaanites </gr>
+        <gr str="1961">was </gr>from <gr str="4480 6721">Sidon</gr>, as thou <gr str="935">comest </gr>to <gr str="1642">Gerar</gr>, <gr str="5704">unto </gr>
+        <gr str="5804">Gaza</gr>; as thou <gr str="935">goest</gr>, unto <gr str="5467">Sodom</gr>, and <gr str="6017">Gomorrah</gr>, and <gr str="126">Admah</gr>, and <gr str="6636">Zeboim</gr>, even <gr str="5704">unto </gr>
+        <gr str="3962">Lasha</gr>. </VERS>
+      <VERS vnumber="20">
+        <gr str="428">These </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> the <gr str="1121">sons </gr>of <gr str="2526">Ham</gr>, after their <gr str="4940">families</gr>, after their <gr str="3956">tongues</gr>, in their <gr str="776">countries</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> in their <gr str="1471">nations</gr>. </VERS>
+      <VERS vnumber="21"> Unto <gr str="8035">Shem </gr>also the <gr str="1">father </gr>of <gr str="3605">all </gr>the <gr str="1121">children </gr>of <gr str="5677">Eber</gr>, the <gr str="251">brother </gr>of <gr str="3315">Japheth </gr>the <gr str="1419">elder</gr>, <gr str="1571">even </gr>to <gr str="1931">him </gr>were <STYLE css="color:#808080;font-style:italic"> children </STYLE>
+        <gr str="3205">born</gr>. </VERS>
+      <VERS vnumber="22"> The <gr str="1121">children </gr>of <gr str="8035">Shem</gr>; <gr str="5867">Elam</gr>, and <gr str="804">Asshur</gr>, and <gr str="775">Arphaxad</gr>, and <gr str="3865">Lud</gr>, and <gr str="758">Aram</gr>. </VERS>
+      <VERS vnumber="23"> And the <gr str="1121">children </gr>of <gr str="758">Aram</gr>; <gr str="5780">Uz</gr>, and <gr str="2343">Hul</gr>, and <gr str="1666">Gether</gr>, and <gr str="4851">Mash</gr>. </VERS>
+      <VERS vnumber="24"> And <gr str="775">Arphaxad </gr>
+        <gr str="3205">begot </gr>
+        <gr str="*853" />
+        <gr str="7974">Salah</gr>; and <gr str="7974">Salah </gr>
+        <gr str="3205">begot </gr>
+        <gr str="*853" />
+        <gr str="5677">Eber</gr>. </VERS>
+      <VERS vnumber="25"> And unto <gr str="5677">Eber </gr>were <gr str="3205">born </gr>
+        <gr str="8147">two </gr>
+        <gr str="1121">sons</gr>: the <gr str="8034">name </gr>of <gr str="259">one </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="6389">Peleg</gr>; <gr str="3588">for </gr>in his <gr str="3117">days </gr>was the <gr str="776">earth </gr>
+        <gr str="6385">divided</gr>; and his <gr str="251">brother </gr>'s <gr str="8034">name </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="3355">Joktan</gr>. </VERS>
+      <VERS vnumber="26"> And <gr str="3355">Joktan </gr>
+        <gr str="3205">begot </gr>
+        <gr str="*853" />
+        <gr str="486">Almodad</gr>, and <gr str="8026">Sheleph</gr>, and <gr str="2700">Hazarmaveth</gr>, and <gr str="3392">Jerah</gr>, </VERS>
+      <VERS vnumber="27"> And <gr str="1913">Hadoram</gr>, and <gr str="187">Uzal</gr>, and <gr str="1853">Diklah</gr>, </VERS>
+      <VERS vnumber="28"> And <gr str="5745">Obal</gr>, and <gr str="39">Abimael</gr>, and <gr str="7614">Sheba</gr>, </VERS>
+      <VERS vnumber="29"> And <gr str="211">Ophir</gr>, and <gr str="2341">Havilah</gr>, and <gr str="3103">Jobab</gr>: <gr str="3605">all </gr>
+        <gr str="428">these </gr>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE> the <gr str="1121">sons </gr>of <gr str="3355">Joktan</gr>. </VERS>
+      <VERS vnumber="30"> And their <gr str="4186">dwelling </gr>
+        <gr str="1961">was </gr>from <gr str="4480 4852">Mesha</gr>, as thou <gr str="935">goest </gr>unto <gr str="5611">Sephar </gr>a <gr str="2022">mount </gr>of the <gr str="6924">east</gr>. </VERS>
+      <VERS vnumber="31">
+        <gr str="428">These </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> the <gr str="1121">sons </gr>of <gr str="8035">Shem</gr>, after their <gr str="4940">families</gr>, after their <gr str="3956">tongues</gr>, in their <gr str="776">lands</gr>, after their <gr str="1471">nations</gr>. </VERS>
+      <VERS vnumber="32">
+        <gr str="428">These </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> the <gr str="4940">families </gr>of the <gr str="1121">sons </gr>of <gr str="5146">Noah</gr>, after their <gr str="8435">generations</gr>, in their <gr str="1471">nations</gr>: and by <gr str="4480 428">these </gr>were the <gr str="1471">nations </gr>
+        <gr str="6504">divided </gr>in the <gr str="776">earth </gr>
+        <gr str="310">after </gr>the <gr str="3999">flood</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

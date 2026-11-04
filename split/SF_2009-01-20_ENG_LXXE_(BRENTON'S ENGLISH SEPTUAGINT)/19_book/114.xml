@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="114">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">Alleluia.</STYLE> - At the going forth of Israel from Egypt, of the house of Jacob from a barbarous people,</VERS>
+      <VERS vnumber="2">Judea became his <DIV>
+          <NOTE type="x-studynote">Or, consecrated thing</NOTE>
+        </DIV> sanctuary, and Israel his dominion.</VERS>
+      <VERS vnumber="3">The sea saw and fled: Jordan was turned back.</VERS>
+      <VERS vnumber="4">The mountains skipped like rams, and the hills like lambs.</VERS>
+      <VERS vnumber="5">What ailed thee, O sea, that thou fleddest? and thou Jordan, that thou wast turned back?</VERS>
+      <VERS vnumber="6">Ye mountains, that ye skipped like rams, and ye hills, like lambs?</VERS>
+      <VERS vnumber="7">The earth trembled at the presence of the Lord, at the presence of the God of Jacob;</VERS>
+      <VERS vnumber="8">who turned the rock into pools of water, and the <DIV>
+          <NOTE type="x-studynote">Gr. sharp rock</NOTE>
+        </DIV> flint into fountains of water.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

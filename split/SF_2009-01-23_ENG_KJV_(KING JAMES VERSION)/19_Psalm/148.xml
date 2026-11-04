@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="148">
+      <VERS vnumber="1">Praise ye the LORD. Praise ye the LORD from the heavens: praise him in the heights.</VERS>
+      <VERS vnumber="2">Praise ye him, all his angels: praise ye him, all his hosts.</VERS>
+      <VERS vnumber="3">Praise ye him, sun and moon: praise him, all ye stars of light.</VERS>
+      <VERS vnumber="4">Praise him, ye heavens of heavens, and ye waters that be above the heavens.</VERS>
+      <VERS vnumber="5">Let them praise the name of the LORD: for he commanded, and they were created.</VERS>
+      <VERS vnumber="6">He hath also stablished them for ever and ever: he hath made a decree which shall not pass.</VERS>
+      <VERS vnumber="7">Praise the LORD from the earth, ye dragons, and all deeps:</VERS>
+      <VERS vnumber="8">Fire, and hail; snow, and vapour; stormy wind fulfilling his word:</VERS>
+      <VERS vnumber="9">Mountains, and all hills; fruitful trees, and all cedars:</VERS>
+      <VERS vnumber="10">Beasts, and all cattle; creeping things, and flying fowl:</VERS>
+      <VERS vnumber="11">Kings of the earth, and all people; princes, and all judges of the earth:</VERS>
+      <VERS vnumber="12">Both young men, and maidens; old men, and children:</VERS>
+      <VERS vnumber="13">Let them praise the name of the LORD: for his name alone is excellent; his glory is above the earth and heaven.</VERS>
+      <VERS vnumber="14">He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Praise ye the LORD.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

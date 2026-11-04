@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="148">
+      <VERS vnumber="1">
+        <gr str="1984">Praise </gr>ye the <gr str="3050">LORD</gr>. <gr str="1984">Praise </gr>ye <gr str="*853" />the <gr str="3068">LORD </gr>
+        <gr str="4480">from </gr>the <gr str="8064">heavens</gr>: <gr str="1984">praise </gr>him in the <gr str="4791">heights</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="1984">Praise </gr>ye him, <gr str="3605">all </gr>his <gr str="4397">angels</gr>: <gr str="1984">praise </gr>ye him, <gr str="3605">all </gr>his <gr str="6635">hosts</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="1984">Praise </gr>ye him, <gr str="8121">sun </gr>and <gr str="3394">moon</gr>: <gr str="1984">praise </gr>him, <gr str="3605">all </gr>ye <gr str="3556">stars </gr>of <gr str="216">light</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="1984">Praise </gr>him, ye <gr str="8064">heavens </gr>of <gr str="8064">heavens</gr>, and ye <gr str="4325">waters </gr>
+        <gr str="834">that </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="4480 5921">above </gr>the <gr str="8064">heavens</gr>. </VERS>
+      <VERS vnumber="5"> Let them <gr str="1984">praise </gr>
+        <gr str="*853" />the <gr str="8034">name </gr>of the <gr str="3068">LORD</gr>: <gr str="3588">for </gr>
+        <gr str="1931">he </gr>
+        <gr str="6680">commanded</gr>, and they were <gr str="1254">created</gr>. </VERS>
+      <VERS vnumber="6"> He hath also <gr str="5975">established </gr>them <gr str="5703">forever </gr>and <gr str="5769">ever</gr>: he hath <gr str="5414">made </gr>a <gr str="2706">decree </gr>which shall <gr str="3808">not </gr>
+        <gr str="5674">pass</gr>. </VERS>
+      <VERS vnumber="7">
+        <gr str="1984">Praise </gr>
+        <gr str="*853">
+        </gr>the <gr str="3068">LORD </gr>
+        <gr str="4480">from </gr>the <gr str="776">earth</gr>, ye <gr str="8577">dragons</gr>, and <gr str="3605">all </gr>
+        <gr str="8415">deeps</gr>: </VERS>
+      <VERS vnumber="8">
+        <gr str="784">Fire</gr>, and <gr str="1259">hail</gr>; <gr str="7950">snow</gr>, and <gr str="7008">vapor</gr>; <gr str="5591">stormy </gr>
+        <gr str="7307">wind </gr>
+        <gr str="6213">fulfilling </gr>his <gr str="1697">word</gr>: </VERS>
+      <VERS vnumber="9">
+        <gr str="2022">Mountains</gr>, and <gr str="3605">all </gr>
+        <gr str="1389">hills</gr>; <gr str="6529">fruitful </gr>
+        <gr str="6086">trees</gr>, and <gr str="3605">all </gr>
+        <gr str="730">cedars</gr>: </VERS>
+      <VERS vnumber="10">
+        <gr str="2416">Beasts</gr>, and <gr str="3605">all </gr>
+        <gr str="929">cattle</gr>; creeping <gr str="7431">things</gr>, and <gr str="3671">flying </gr>
+        <gr str="6833">fowl</gr>: </VERS>
+      <VERS vnumber="11">
+        <gr str="4428">Kings </gr>of the <gr str="776">earth</gr>, and <gr str="3605">all </gr>
+        <gr str="3816">people</gr>; <gr str="8269">princes</gr>, and <gr str="3605">all </gr>
+        <gr str="8199">judges </gr>of the <gr str="776">earth</gr>: </VERS>
+      <VERS vnumber="12"> Both young <gr str="970">men</gr>, <gr str="1571">and </gr>
+        <gr str="1330">maidens</gr>; old <gr str="2205">men</gr>, <gr str="5973">and </gr>
+        <gr str="5288">children</gr>: </VERS>
+      <VERS vnumber="13"> Let them <gr str="1984">praise </gr>
+        <gr str="*853" />the <gr str="8034">name </gr>of the <gr str="3068">LORD</gr>: <gr str="3588">for </gr>his <gr str="8034">name </gr>
+        <gr str="905">alone </gr>is <gr str="7682">excellent</gr>; his <gr str="1935">glory </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="5921">above </gr>the <gr str="776">earth </gr>and <gr str="8064">heaven</gr>. </VERS>
+      <VERS vnumber="14"> He also <gr str="7311">exalteth </gr>the <gr str="7161">horn </gr>of his <gr str="5971">people</gr>, the <gr str="8416">praise </gr>of <gr str="3605">all </gr>his <gr str="2623">saints</gr>; <STYLE css="color:#808080;font-style:italic"> even </STYLE> of the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>, a <gr str="5971">people </gr>
+        <gr str="7138">near </gr>unto him. <gr str="1984">Praise </gr>ye the <gr str="3050">LORD</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

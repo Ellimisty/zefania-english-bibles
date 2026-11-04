@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="138">
+      <CAPTION vref="1">A Psalm of David.</CAPTION>
+      <VERS vnumber="1">I will give thanks unto You with my whole heart; before the gods I will make music unto You.</VERS>
+      <VERS vnumber="2">I will bow down toward Your holy temple, and give thanks unto Your name for Your lovingkindness and Your truth; for You have magnified Your Word above all Your name.</VERS>
+      <VERS vnumber="3">In the day when I cried out, You answered me, and made me bold with strength in my soul.</VERS>
+      <VERS vnumber="4">All the kings of the earth shall give thanks unto You, O Jehovah, when they hear the Words of Your mouth.</VERS>
+      <VERS vnumber="5">Yea, they shall sing of the ways of Jehovah, for great is the glory of Jehovah.</VERS>
+      <VERS vnumber="6">Though Jehovah is on high, yet He gives attention to the lowly; but the proud He recognizes from afar.</VERS>
+      <VERS vnumber="7">Though I walk in the midst of distress, You will revive me; You will stretch out Your hand against the wrath of my enemies, and Your right hand will deliver me.</VERS>
+      <VERS vnumber="8">Jehovah will perfect that which concerns me; Your mercy, O Jehovah, is eternal; do not forsake the works of Your hands.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

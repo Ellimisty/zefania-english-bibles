@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="4">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief <gr str="5329">Musician </gr>on <gr str="5058">Neginoth</gr>, A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>. </STYLE>
+        <gr str="6030">Hear </gr>me when I <gr str="7121">call</gr>, O <gr str="430">God </gr>of my <gr str="6664">righteousness</gr>: thou hast <gr str="7337">enlarged </gr>me <STYLE css="font-style:italic">when I was</STYLE> in <gr str="6862">distress</gr>; have <gr str="2603">mercy </gr>upon me, and <gr str="8085">hear </gr>my <gr str="8605">prayer</gr>. <DIV>
+          <NOTE type="x-studynote">chief…: or, overseer</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">have…: or, be gracious unto me</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">O ye <gr str="1121">sons </gr>of <gr str="376">men</gr>, how <gr str="5704">long </gr>
+        <STYLE css="font-style:italic">will ye turn</STYLE> my <gr str="3519">glory </gr>into <gr str="3639">shame</gr>? <STYLE css="font-style:italic">how long</STYLE> will ye <gr str="157">love </gr>
+        <gr str="7385">vanity</gr>, <STYLE css="font-style:italic">and </STYLE>
+        <gr str="1245">seek </gr>after <gr str="3577">falsehood</gr>? <gr str="5542">Selah</gr>.</VERS>
+      <VERS vnumber="3">But <gr str="3045">know </gr>that the <gr str="3068">LORD </gr>hath set <gr str="6395">apart </gr>him that is <gr str="2623">godly </gr>for himself: the <gr str="3068">LORD </gr>will <gr str="8085">hear </gr>when I <gr str="7121">call </gr>to him.</VERS>
+      <VERS vnumber="4">Stand in <gr str="7264">awe</gr>, and <gr str="2398">sin </gr>not: <gr str="559">commune </gr>with your own <gr str="3824">heart </gr>upon your <gr str="4904">bed</gr>, and be <gr str="1826">still</gr>. <gr str="5542">Selah</gr>.</VERS>
+      <VERS vnumber="5">
+        <gr str="2076">Offer </gr>the <gr str="2077">sacrifices </gr>of <gr str="6664">righteousness</gr>, and put your <gr str="982">trust </gr>in the <gr str="3068">LORD</gr>.</VERS>
+      <VERS vnumber="6">
+        <STYLE css="font-style:italic">There are </STYLE>
+        <gr str="7227">many </gr>that <gr str="559">say</gr>, Who will <gr str="7200">show </gr>us <STYLE css="font-style:italic">any </STYLE>
+        <gr str="2896">good</gr>? <gr str="3068">LORD</gr>, lift thou upon <gr str="5375">us </gr>the <gr str="216">light </gr>of thy <gr str="6440">countenance</gr>.</VERS>
+      <VERS vnumber="7">Thou hast <gr str="5414">put </gr>
+        <gr str="8057">gladness </gr>in my <gr str="3820">heart</gr>, more than in the <gr str="6256">time </gr>when their <gr str="1715">grain </gr>and their <gr str="8492">wine </gr>
+        <gr str="7231">increased</gr>.</VERS>
+      <VERS vnumber="8">I will <gr str="3162">both </gr>lie <gr str="7901">down </gr>in <gr str="7965">peace</gr>, and <gr str="3462">sleep</gr>: for thou <gr str="910">only</gr>, <gr str="3068">LORD</gr>, makest me <gr str="3427">dwell </gr>in <gr str="983">safety</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

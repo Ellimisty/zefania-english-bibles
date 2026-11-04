@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible - Jehovah Edition" type="x-bible">
+  <BIBLEBOOK bnumber="32" bname="Jonah" bsname="Jon">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">Now the word of <STYLE id="cl:divineName">Jehovah</STYLE> came to Jonah the son of Amittai, saying,</VERS>
+      <VERS vnumber="2">"Arise, go to Nineveh, that great city, and proclaim against it, for their wickedness has come up before me."</VERS>
+      <VERS vnumber="3">But Jonah rose up to flee to Tarshish from the presence of <STYLE id="cl:divineName">Jehovah</STYLE>. He went down to Joppa, and found a ship going to Tarshish; so he paid its fare, and went down into it, to go with them to Tarshish from the presence of <STYLE id="cl:divineName">Jehovah</STYLE>.</VERS>
+      <VERS vnumber="4">But <STYLE id="cl:divineName">Jehovah</STYLE> sent out a great wind on the sea, and there was a mighty storm on the sea, so that the ship was likely to break up.</VERS>
+      <VERS vnumber="5">Then the mariners were afraid, and cried every man to his god. They threw the cargo that was in the ship into the sea, to lighten it. But Jonah had gone down into the innermost parts of the ship, and he was laying down, and was fast asleep.</VERS>
+      <VERS vnumber="6">So the shipmaster came to him, and said to him, "What do you mean, sleeper? Arise, call on your God! Maybe your God will notice us, so that we won't perish."</VERS>
+      <VERS vnumber="7">They all said to each other, "Come, let us cast lots, that we may know for whose cause this evil is on us." So they cast lots, and the lot fell on Jonah.</VERS>
+      <VERS vnumber="8">Then they asked him, "Tell us, please, for whose cause this evil is on us. What is your occupation? Where do you come from? What is your country? Of what people are you?"</VERS>
+      <VERS vnumber="9">He said to them, "I am a Hebrew, and I fear <STYLE id="cl:divineName">Jehovah</STYLE>, the God of heaven, who has made the sea and the dry land."</VERS>
+      <VERS vnumber="10">Then were the men exceedingly afraid, and said to him, "What is this that you have done?" For the men knew that he was fleeing from the presence of <STYLE id="cl:divineName">Jehovah</STYLE>, because he had told them.</VERS>
+      <VERS vnumber="11">Then said they to him, "What shall we do to you, that the sea may be calm to us?" For the sea grew more and more stormy.</VERS>
+      <VERS vnumber="12">He said to them, "Take me up, and throw me into the sea. Then the sea will be calm for you; for I know that because of me this great storm is on you."</VERS>
+      <VERS vnumber="13">Nevertheless the men rowed hard to get them back to the land; but they could not, for the sea grew more and more stormy against them.</VERS>
+      <VERS vnumber="14">Therefore they cried to <STYLE id="cl:divineName">Jehovah</STYLE>, and said, "We beg you, <STYLE id="cl:divineName">Jehovah</STYLE>, we beg you, let us not perish for this man's life, and do not lay on us innocent blood; for you, <STYLE id="cl:divineName">Jehovah</STYLE>, have done as it pleased you."</VERS>
+      <VERS vnumber="15">So they took up Jonah, and threw him into the sea; and the sea ceased its raging.</VERS>
+      <VERS vnumber="16">Then the men feared <STYLE id="cl:divineName">Jehovah</STYLE> exceedingly; and they offered a sacrifice to <STYLE id="cl:divineName">Jehovah</STYLE>, and made vows.</VERS>
+      <VERS vnumber="17">
+        <STYLE id="cl:divineName">Jehovah</STYLE> prepared a great fish to swallow up Jonah, and Jonah was in the belly of the fish three days and three nights.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

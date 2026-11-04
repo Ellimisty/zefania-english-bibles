@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="147">
+      <VERS vnumber="1">Praise the LORD! For it is good to sing praises to our God; for he is gracious, and a song of praise is seemly.</VERS>
+      <VERS vnumber="2">The LORD builds up Jerusalem; he gathers the outcasts of Israel.</VERS>
+      <VERS vnumber="3">He heals the brokenhearted, and binds up their wounds.</VERS>
+      <VERS vnumber="4">He determines the number of the stars, he gives to all of them their names.</VERS>
+      <VERS vnumber="5">Great is our LORD, and abundant in power; his understanding is beyond measure.</VERS>
+      <VERS vnumber="6">The LORD lifts up the downtrodden, he casts the wicked to the ground.</VERS>
+      <VERS vnumber="7">Sing to the LORD with thanksgiving; make melody to our God upon the lyre!</VERS>
+      <VERS vnumber="8">He covers the heavens with clouds, he prepares rain for the earth, he makes grass grow upon the hills.</VERS>
+      <VERS vnumber="9">He gives to the beasts their food, and to the young ravens which cry.</VERS>
+      <VERS vnumber="10">His delight is not in the strength of the horse, nor his pleasure in the legs of a man;</VERS>
+      <VERS vnumber="11">but the LORD takes pleasure in those who fear him, in those who hope in his steadfast love.</VERS>
+      <VERS vnumber="12">Praise the LORD, O Jerusalem! Praise your God, O Zion!</VERS>
+      <VERS vnumber="13">For he strengthens the bars of your gates; he blesses your sons within you.</VERS>
+      <VERS vnumber="14">He makes peace in your borders; he fills you with the finest of the wheat.</VERS>
+      <VERS vnumber="15">He sends forth his command to the earth; his word runs swiftly.</VERS>
+      <VERS vnumber="16">He gives snow like wool; he scatters hoarfrost like ashes.</VERS>
+      <VERS vnumber="17">He casts forth his ice like morsels; who can stand before his cold?</VERS>
+      <VERS vnumber="18">He sends forth his word, and melts them; he makes his wind blow, and the waters flow.</VERS>
+      <VERS vnumber="19">He declares his word to Jacob, his statutes and ordinances to Israel.</VERS>
+      <VERS vnumber="20">He has not dealt thus with any other nation; they do not know his ordinances. Praise the LORD!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

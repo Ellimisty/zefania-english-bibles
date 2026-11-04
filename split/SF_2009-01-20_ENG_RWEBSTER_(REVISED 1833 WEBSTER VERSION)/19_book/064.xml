@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="64">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief Musician, A Psalm of David.</STYLE> Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.</VERS>
+      <VERS vnumber="2">Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:</VERS>
+      <VERS vnumber="3">Who whet their tongue like a sword, <STYLE css="font-style:italic">and</STYLE> bend <STYLE css="font-style:italic">their bows to shoot</STYLE> their arrows, <STYLE css="font-style:italic">even</STYLE> bitter words:</VERS>
+      <VERS vnumber="4">That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.</VERS>
+      <VERS vnumber="5">They encourage themselves <STYLE css="font-style:italic">in</STYLE> an evil matter: they speak of laying snares secretly; they say, Who shall see them? <DIV>
+          <NOTE type="x-studynote">matter: or, speech</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">of…: Heb. to hide his snares</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">They search out iniquities; they accomplish a diligent search: both the inward <STYLE css="font-style:italic">thought</STYLE> of every one <STYLE css="font-style:italic">of them</STYLE>, and the heart, <STYLE css="font-style:italic">is</STYLE> deep. <DIV>
+          <NOTE type="x-studynote">they…: or, we are consumed by that which they have throughly searched</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">a diligent…: Heb. a search searched</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="7">But God shall shoot at them <STYLE css="font-style:italic">with</STYLE> an arrow; suddenly shall they be wounded. <DIV>
+          <NOTE type="x-studynote">shall they…: Heb. their wound shall be</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">So they shall make their own tongue to fall upon themselves: all that see them shall flee away.</VERS>
+      <VERS vnumber="9">And all men shall fear, and shall declare the work of God; for they shall wisely consider of his doing.</VERS>
+      <VERS vnumber="10">The righteous shall be glad in the LORD, and shall trust in him; and all the upright in heart shall glory.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

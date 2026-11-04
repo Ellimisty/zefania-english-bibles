@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="93">
+      <VERS vnumber="1">The <STYLE id="cl:divineName">Lord</STYLE> has taken his seat on the throne,clothed with majesty, armed with might.Now the world stands firm, to be shaken no more,</VERS>
+      <VERS vnumber="2">firm stands your throne from all eternity.You are from everlasting. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">The floods, O <STYLE id="cl:divineName">Lord</STYLE>, have lifted,the floods have lifted their voice,the floods lift up their roar.</VERS>
+      <VERS vnumber="4">But more grand than the great roaring waters,more grand than the ocean waves,grand on the height stands the <STYLE id="cl:divineName">Lord</STYLE>. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">What you have ordained is most sure;most sure shall your house stand inviolate,O <STYLE id="cl:divineName">Lord</STYLE>, for ever and ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

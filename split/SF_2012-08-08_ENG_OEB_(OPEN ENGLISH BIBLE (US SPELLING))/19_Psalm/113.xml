@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="113">
+      <VERS vnumber="1">Hallelujah.Praise the <STYLE id="cl:divineName">Lord</STYLE>, you his servants,praise the name of the <STYLE id="cl:divineName">Lord</STYLE>.</VERS>
+      <VERS vnumber="2">The name of the <STYLE id="cl:divineName">Lord</STYLE> be blessedfrom now and for evermore.</VERS>
+      <VERS vnumber="3">From sunrise to sunsetis the name of the <STYLE id="cl:divineName">Lord</STYLE> to be praised. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="4">High is the <STYLE id="cl:divineName">Lord</STYLE> above all nations,above the heavens is his glory.</VERS>
+      <VERS vnumber="5">Who is like the <STYLE id="cl:divineName">Lord</STYLE> our God,seated on high? <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">He raises the weak from the dust,he lifts the poor from the dunghill,</VERS>
+      <VERS vnumber="8">and sets them beside the princes,even the princes of his people.</VERS>
+      <VERS vnumber="9">He gives the childless woman a home,and makes her the happy mother of children.Hallelujah.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

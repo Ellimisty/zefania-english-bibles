@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="28">
+      <VERS vnumber="1">
+        <STYLE css="color:#808080;font-style:italic"> A </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> Psalm </STYLE> of <gr str="1732">David</gr>. <gr str="413">Unto </gr>thee will I <gr str="7121">cry</gr>, O <gr str="3068">LORD </gr>my <gr str="6697">rock</gr>; be <gr str="408">not </gr>
+        <gr str="2790">silent </gr>
+        <gr str="4480">to </gr>me: <gr str="6435">lest</gr>, <STYLE css="color:#808080;font-style:italic"> if </STYLE> thou be <gr str="2790">silent </gr>
+        <gr str="4480">to </gr>me, I become <gr str="4911 5973">like </gr>them that go <gr str="3381">down </gr>into the <gr str="953">pit</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="8085">Hear </gr>the <gr str="6963">voice </gr>of my <gr str="8469">supplications</gr>, when I <gr str="7768">cry </gr>
+        <gr str="413">unto </gr>thee, when I lift <gr str="5375">up </gr>my <gr str="3027">hands </gr>
+        <gr str="413">toward </gr>thy <gr str="6944">holy </gr>
+        <gr str="1687">oracle</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="4900">Draw </gr>me <gr str="408">not </gr>away <gr str="5973">with </gr>the <gr str="7563">wicked</gr>, and <gr str="5973">with </gr>the <gr str="6466">workers </gr>of <gr str="205">iniquity</gr>, which <gr str="1696">speak </gr>
+        <gr str="7965">peace </gr>
+        <gr str="5973">to </gr>their <gr str="7453">neighbors</gr>, but <gr str="7451">mischief </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> in their <gr str="3824">hearts</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="5414">Give </gr>them according to their <gr str="6467">deeds</gr>, and according to the <gr str="7455">wickedness </gr>of their <gr str="4611">endeavors</gr>: <gr str="5414">give </gr>them after the <gr str="4639">work </gr>of their <gr str="3027">hands</gr>; <gr str="7725">render </gr>to them their <gr str="1576">desert</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="3588">Because </gr>they <gr str="995 413">regard </gr>
+        <gr str="3808">not </gr>the <gr str="6468">works </gr>of the <gr str="3068">LORD</gr>, nor the <gr str="4639">operation </gr>of his <gr str="3027">hands</gr>, he shall <gr str="2040">destroy </gr>them, and <gr str="3808">not </gr>build them <gr str="1129">up</gr>. </VERS>
+      <VERS vnumber="6">
+        <gr str="1288">Blessed </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> the <gr str="3068">LORD</gr>, <gr str="3588">because </gr>he hath <gr str="8085">heard </gr>the <gr str="6963">voice </gr>of my <gr str="8469">supplications</gr>. </VERS>
+      <VERS vnumber="7"> The <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> my <gr str="5797">strength </gr>and my <gr str="4043">shield</gr>; my <gr str="3820">heart </gr>
+        <gr str="982">trusted </gr>in him, and I am <gr str="5826">helped</gr>: therefore my <gr str="3820">heart </gr>greatly <gr str="5937">rejoiceth</gr>; and with my <gr str="4480 7892">song </gr>will I <gr str="3034">praise </gr>him. </VERS>
+      <VERS vnumber="8"> The <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> their <gr str="5797">strength</gr>, and <gr str="1931">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="3444">saving </gr>
+        <gr str="4581">strength </gr>of his <gr str="4899">anointed</gr>. </VERS>
+      <VERS vnumber="9">
+        <gr str="3467">Save </gr>
+        <gr str="*853">
+        </gr>thy <gr str="5971">people</gr>, and <gr str="1288">bless </gr>
+        <gr str="*853" />thine <gr str="5159">inheritance</gr>: <gr str="7462">feed </gr>them also, and lift them <gr str="5375">up </gr>
+        <gr str="5704 5769">forever</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

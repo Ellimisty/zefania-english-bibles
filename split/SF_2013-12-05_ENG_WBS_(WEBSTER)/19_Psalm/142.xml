@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Webster" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="142">
+      <VERS vnumber="1">+</VERS>
+      <VERS vnumber="2">\142:1\Maschil of David; a prayer when he was in the cave. I cried to the LORD with my voice; with my voice to the LORD I made my supplication.</VERS>
+      <VERS vnumber="3">\142:2\I poured out my complaint before him; I showed before him my trouble.</VERS>
+      <VERS vnumber="4">\142:3\When my spirit was overwhelmed within me, then thou knewest my path. In the way in which I walked have they privily laid a snare for me.</VERS>
+      <VERS vnumber="5">\142:4\I looked on my right hand, and beheld, but there was no man that would know me: refuge failed me; no man cared for my soul.</VERS>
+      <VERS vnumber="6">\142:5\I cried to thee, O LORD: I said, Thou art my refuge and my portion in the land of the living.</VERS>
+      <VERS vnumber="7">\142:6\Attend to my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I.</VERS>
+      <VERS vnumber="8">\142:7\Bring my soul out of prison, that I may praise thy name: the righteous shall encompass me; for thou wilt deal bountifully with me.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="6" bname="Josua" bsname="Jos">
+    <CHAPTER cnumber="20">
+      <VERS vnumber="1">Then the LORD said to Joshua,</VERS>
+      <VERS vnumber="2">"Say to the people of Israel, `Appoint the cities of refuge, of which I spoke to you through Moses,</VERS>
+      <VERS vnumber="3">that the manslayer who kills any person without intent or unwittingly may flee there; they shall be for you a refuge from the avenger of blood.</VERS>
+      <VERS vnumber="4">He shall flee to one of these cities and shall stand at the entrance of the gate of the city, and explain his case to the elders of that city; then they shall take him into the city, and give him a place, and he shall remain with them.</VERS>
+      <VERS vnumber="5">And if the avenger of blood pursues him, they shall not give up the slayer into his hand; because he killed his neighbor unwittingly, having had no enmity against him in times past.</VERS>
+      <VERS vnumber="6">And he shall remain in that city until he has stood before the congregation for judgment, until the death of him who is high priest at the time: then the slayer may go again to his own town and his own home, to the town from which he fled.'"</VERS>
+      <VERS vnumber="7">So they set apart Kedesh in Galilee in the hill country of Naph'tali, and Shechem in the hill country of E'phraim, and Kir'iath-ar'ba (that is, Hebron) in the hill country of Judah.</VERS>
+      <VERS vnumber="8">And beyond the Jordan east of Jericho, they appointed Bezer in the wilderness on the tableland, from the tribe of Reuben, and Ramoth in Gilead, from the tribe of Gad, and Golan in Bashan, from the tribe of Manas'seh.</VERS>
+      <VERS vnumber="9">These were the cities designated for all the people of Israel, and for the stranger sojourning among them, that any one who killed a person without intent could flee there, so that he might not die by the hand of the avenger of blood, till he stood before the congregation.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

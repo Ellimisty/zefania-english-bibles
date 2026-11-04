@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="101">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of <gr str="1732">David</gr>.</STYLE> I will <gr str="7891">sing </gr>of <gr str="2617">mercy </gr>and <gr str="4941">judgment</gr>: to thee, O <gr str="3068">LORD</gr>, will I <gr str="2167">sing</gr>.</VERS>
+      <VERS vnumber="2">I will behave myself <gr str="7919">wisely </gr>in a <gr str="8549">perfect </gr>
+        <gr str="1870">way</gr>. O when wilt thou <gr str="935">come </gr>to me? I will <gr str="1980">walk </gr>
+        <gr str="7130">within </gr>my <gr str="1004">house </gr>with a <gr str="8537">perfect </gr>
+        <gr str="3824">heart</gr>.</VERS>
+      <VERS vnumber="3">I will <gr str="7896">set </gr>no <gr str="1100">wicked </gr>
+        <gr str="1697">thing </gr>before my <gr str="5869">eyes</gr>: I <gr str="8130">hate </gr>the <gr str="6213">work </gr>of them that turn <gr str="7750">aside</gr>; <STYLE css="font-style:italic">it</STYLE> shall not <gr str="1692">cleave </gr>to me. <DIV>
+          <NOTE type="x-studynote">wicked…: Heb. thing of Belial</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">A <gr str="6141">perverse </gr>
+        <gr str="3824">heart </gr>shall <gr str="5493">depart </gr>from me: I will not <gr str="3045">know </gr>a <gr str="7451">wicked </gr>
+        <STYLE css="font-style:italic">person</STYLE>.</VERS>
+      <VERS vnumber="5">Whoever <gr str="5643">secretly </gr>
+        <gr str="3960">slandereth </gr>his <gr str="7453">neighbour</gr>, him will I cut <gr str="6789">off</gr>: him that hath an <gr str="1362">high </gr>
+        <gr str="5869">look </gr>and a <gr str="7342">proud </gr>
+        <gr str="3824">heart </gr>I will not <gr str="3201">endure</gr>.</VERS>
+      <VERS vnumber="6">My <gr str="5869">eyes </gr>
+        <STYLE css="font-style:italic">shall be</STYLE> upon the <gr str="539">faithful </gr>of the <gr str="776">land</gr>, that they may <gr str="3427">dwell </gr>with me: he that <gr str="1980">walketh </gr>in a <gr str="8549">perfect </gr>
+        <gr str="1870">way</gr>, he shall <gr str="8334">serve </gr>me. <DIV>
+          <NOTE type="x-studynote">in a…: or, perfect in the way</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="7">He that <gr str="6213">worketh </gr>
+        <gr str="7423">deceit </gr>shall not <gr str="3427">dwell </gr>
+        <gr str="7130">within </gr>my <gr str="1004">house</gr>: he that <gr str="1696">telleth </gr>
+        <gr str="8267">lies </gr>shall not <gr str="3559">tarry </gr>in my <gr str="5869">sight</gr>. <DIV>
+          <NOTE type="x-studynote">shall not tarry: Heb. shall not be established</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">I will <gr str="1242">early </gr>
+        <gr str="6789">destroy </gr>all the <gr str="7563">wicked </gr>of the <gr str="776">land</gr>; that I may cut <gr str="3772">off </gr>all who <gr str="6466">practise </gr>
+        <gr str="205">wickedness </gr>from the <gr str="5892">city </gr>of the <gr str="3068">LORD</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

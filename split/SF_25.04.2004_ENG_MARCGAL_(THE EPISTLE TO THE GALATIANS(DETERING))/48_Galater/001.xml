@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="1.0.0.8" biblename="The Epistle to the Galatians (Hermann Detering)" type="x-bible">
+  <BIBLEBOOK bnumber="48" bname="Galater" bsname="Gal">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="0">The Epistle to the Galatians</VERS>
+      <VERS vnumber="0">English version of the translation by Hermann Detering </VERS>
+      <VERS vnumber="0">provided by Frans-Joris Fabri (based on RSV)</VERS>
+      <VERS vnumber="0">
+        <DIV>
+          <NOTE type="x-erased">Original (Marcionite) Text, erased by Catholic Editor</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="0">
+        <DIV>
+          <NOTE type="x-studynote">Catholic Substitute, resp. Addition</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="0">Numbers in brackets refer to:  IV. Explanations</VERS>
+      <VERS vnumber="0">Introduction: Paul, called to be an Apostle not by man, but by God</VERS>
+      <VERS vnumber="1">Paul, an apostle- not from men nor through man, but through Jesus Christ <DIV>
+          <NOTE type="x-studynote">and God the Father</NOTE>
+        </DIV>, who <DIV>
+          <NOTE type="x-erased">rose</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote"> raised him</NOTE>
+        </DIV> from the dead (1)</VERS>
+      <VERS vnumber="2">and all the brothers who are with me, To the churches of Galatia:</VERS>
+      <VERS vnumber="3">Grace to you and peace from God our Father and the Lord Jesus Christ,</VERS>
+      <VERS vnumber="4">
+        <DIV>
+          <NOTE type="x-studynote">who gave himself for our sins to deliver us from the present evil age, according to the will of our God and Father,</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="5">
+        <DIV>
+          <NOTE type="x-studynote">to whom be the glory forever and ever. Amen. </NOTE>
+        </DIV>(2)</VERS>
+      <VERS vnumber="0">There is but one Gospel: Paul’s</VERS>
+      <VERS vnumber="6">I am astonished that you are so quickly deserting him who called you in the grace [of Christ] (3) and are turning to a different gospel,</VERS>
+      <VERS vnumber="7">which <DIV>
+          <NOTE type="x-erased">according to my Gospel </NOTE>
+        </DIV>[4] is not “another one” [coming from “another” God]<DIV>
+          <NOTE type="x-erased"> at all</NOTE>
+        </DIV>, but there are some who trouble you and want to distort the gospel of Christ.</VERS>
+      <VERS vnumber="8">But even if we [the original author here refers to the Paul of Acts] or an angel from heaven [of the Creator God] should preach [to you] something different from what we preached to you, let him be accursed!</VERS>
+      <VERS vnumber="9">
+        <DIV>
+          <NOTE type="x-studynote"> As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, let him be accursed!</NOTE>
+        </DIV> (5)</VERS>
+      <VERS vnumber="10">For am I now [saying just this] seeking the approval of man, or of <DIV>
+          <NOTE type="x-erased">the</NOTE>
+        </DIV> God <DIV>
+          <NOTE type="x-erased">of this aeon</NOTE>
+        </DIV>[i.e. the Creator God]? (6) Or am I trying to please man? If I were still trying to please man, I would not be a servant of Christ.</VERS>
+      <VERS vnumber="0">Paul’s Gospel, received not from the Jerusalem Apostles, but from Jesus Christ</VERS>
+      <VERS vnumber="11">For I would have you know, brothers, that the gospel that was preached by me is not man's gospel.</VERS>
+      <VERS vnumber="12">For I did not receive it from any man, nor was I taught it, but I received it through a revelation of Jesus Christ.</VERS>
+      <VERS vnumber="13">
+        <DIV>
+          <NOTE type="x-studynote">For you have heard of my former life in Judaism, how I persecuted the church of God violently and tried to destroy it.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="14">
+        <DIV>
+          <NOTE type="x-studynote"> And I was advancing in Judaism beyond many of my own age among my people, so extremely zealous was I for the traditions of my fathers. </NOTE>
+        </DIV>(7)</VERS>
+      <VERS vnumber="15">But when he who had set me apart before I was born, and who called me by his grace,</VERS>
+      <VERS vnumber="16">was pleased (8) to reveal his Son to me, in order that I might preach him among the Gentiles, I did not immediately consult with flesh and blood;</VERS>
+      <VERS vnumber="17">nor did I go up to Jerusalem to those who were apostles before me, but I went away into Arabia, and returned again to Damascus.</VERS>
+      <VERS vnumber="18">
+        <DIV>
+          <NOTE type="x-studynote">Then after three years I went up to Jerusalem to visit Cephas and remained with him fifteen days.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="19">
+        <DIV>
+          <NOTE type="x-studynote">But I saw none of the other apostles except James the Lord's brother.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="20">
+        <DIV>
+          <NOTE type="x-studynote">In what I am writing to you, before God [I profess], I do not lie!</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="21">
+        <DIV>
+          <NOTE type="x-studynote"> Then I went into the regions of Syria and Cilicia.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="22">
+        <DIV>
+          <NOTE type="x-studynote">And I was still unknown in person to the churches of Judea that are in Christ.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="23">
+        <DIV>
+          <NOTE type="x-studynote">They only were hearing it said, "He who used to persecute us is now preaching the faith he once tried to destroy."</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="24">
+        <DIV>
+          <NOTE type="x-studynote">And they glorified God because of me. </NOTE>
+        </DIV>(9)</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

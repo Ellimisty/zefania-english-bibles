@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="6">
+      <CAPTION vref="1">To the Chief Musician. Sheminith. A Psalm of David.</CAPTION>
+      <VERS vnumber="1">O Jehovah, rebuke me not in Your anger, nor chasten me in Your fury.</VERS>
+      <VERS vnumber="2">Have mercy upon me, O Jehovah, for I am weak; O Jehovah, heal me, for my bones are anxious.</VERS>
+      <VERS vnumber="3">My soul also is exceedingly anxious; but You, O Jehovah, how long?</VERS>
+      <VERS vnumber="4">Return, O Jehovah, rescue my soul! Deliver me because of Your goodness!</VERS>
+      <VERS vnumber="5">For in death there is no remembrance of You; in Sheol who will give thanks to You?</VERS>
+      <VERS vnumber="6">I am weary from my groaning; all night I make my bed swim; I dissolve my couch with my tears.</VERS>
+      <VERS vnumber="7">My eye has wasted away because of grief; it has grown weak because of all my enemies.</VERS>
+      <VERS vnumber="8">Depart from me, all you workers of iniquity; for Jehovah has heard the voice of my weeping.</VERS>
+      <VERS vnumber="9">Jehovah has heard my supplication; Jehovah will receive my prayer.</VERS>
+      <VERS vnumber="10">Let all my enemies be ashamed and greatly dismayed; let them turn back and be ashamed in a moment.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

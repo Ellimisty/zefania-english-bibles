@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="120">
+      <VERS vnumber="1">A Song of Ascents.</VERS>
+      <VERS vnumber="2">In my distress I cry to the LORD, that he may answer me:</VERS>
+      <VERS vnumber="3">"Deliver me, O LORD, from lying lips, from a deceitful tongue."</VERS>
+      <VERS vnumber="4">What shall be given to you? And what more shall be done to you, you deceitful tongue?</VERS>
+      <VERS vnumber="5">A warrior's sharp arrows, with glowing coals of the broom tree!</VERS>
+      <VERS vnumber="6">Woe is me, that I sojourn in Meshech, that I dwell among the tents of Kedar!</VERS>
+      <VERS vnumber="7">Too long have I had my dwelling among those who hate peace. [ (Psalms 120:8) I am for peace; but when I speak, they are for war! ]</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

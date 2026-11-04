@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="5" bname="5 Mose" bsname="5Mo">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">
+        <gr str="428">These </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> the <gr str="1697">words </gr>
+        <gr str="834">which </gr>
+        <gr str="4872">Moses </gr>
+        <gr str="1696">spoke </gr>
+        <gr str="413">unto </gr>
+        <gr str="3605">all </gr>
+        <gr str="3478">Israel </gr>on this <gr str="5676">side </gr>
+        <gr str="3383">Jordan </gr>in the <gr str="4057">wilderness</gr>, in the <gr str="6160">plain </gr>over <gr str="4136">against </gr>the <gr str="5489">Red </gr>
+        <STYLE css="color:#808080;font-style:italic"> sea </STYLE>, <gr str="996">between </gr>
+        <gr str="6290">Paran</gr>, and <gr str="8603">Tophel</gr>, and <gr str="3837">Laban</gr>, and <gr str="2698">Hazeroth</gr>, and <gr str="1774">Dizahab</gr>. </VERS>
+      <VERS vnumber="2"> (<STYLE css="color:#808080;font-style:italic"> There </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="259 6240">eleven </gr>
+        <gr str="3117">days </gr>
+        <STYLE css="color:#808080;font-style:italic"> journey </STYLE> from <gr str="4480 2722">Horeb </gr>by the <gr str="1870">way </gr>of <gr str="2022">mount </gr>
+        <gr str="8165">Seir </gr>
+        <gr str="5704">unto </gr>
+        <gr str="6947">Kadesh </gr>-barnea.) </VERS>
+      <VERS vnumber="3"> And it came to <gr str="1961">pass </gr>in the <gr str="705">fortieth </gr>
+        <gr str="8141">year</gr>, in the <gr str="6249 6240">eleventh </gr>
+        <gr str="2320">month</gr>, on the <gr str="259">first </gr>
+        <STYLE css="color:#808080;font-style:italic"> day </STYLE> of the <gr str="2320">month</gr>, <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <gr str="4872">Moses </gr>
+        <gr str="1696">spoke </gr>
+        <gr str="413">unto </gr>the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>, according unto <gr str="3605">all </gr>
+        <gr str="834">that </gr>the <gr str="3068">LORD </gr>had given him in <gr str="6680 *853">commandment </gr>
+        <gr str="413">unto </gr>them; </VERS>
+      <VERS vnumber="4">
+        <gr str="310">After </gr>he had <gr str="5221">slain </gr>
+        <gr str="*853" />
+        <gr str="5511">Sihon </gr>the <gr str="4428">king </gr>of the <gr str="567">Amorites</gr>, <gr str="834">which </gr>
+        <gr str="3427">dwelt </gr>in <gr str="2809">Heshbon</gr>, and <gr str="5747">Og </gr>the <gr str="4428">king </gr>of <gr str="1316">Bashan</gr>, <gr str="834">which </gr>
+        <gr str="3427">dwelt </gr>at <gr str="6252">Astaroth </gr>in <gr str="154">Edrei</gr>: </VERS>
+      <VERS vnumber="5"> On this <gr str="5676">side </gr>
+        <gr str="3383">Jordan</gr>, in the <gr str="776">land </gr>of <gr str="4124">Moab</gr>, <gr str="2974">began </gr>
+        <gr str="4872">Moses </gr>to <gr str="874">declare </gr>
+        <gr str="*853" />
+        <gr str="2063">this </gr>
+        <gr str="8451">law</gr>, <gr str="559">saying</gr>, </VERS>
+      <VERS vnumber="6"> The <gr str="3068">LORD </gr>our <gr str="430">God </gr>
+        <gr str="1696">spoke </gr>
+        <gr str="413">unto </gr>us in <gr str="2722">Horeb</gr>, <gr str="559">saying</gr>, Ye have <gr str="3427">dwelt </gr>long <gr str="7227">enough </gr>in <gr str="2088">this </gr>
+        <gr str="2022">mount</gr>: </VERS>
+      <VERS vnumber="7">
+        <gr str="6437">Turn </gr>you, and take your <gr str="5265">journey</gr>, and <gr str="935">go </gr>to the <gr str="2022">mount </gr>of the <gr str="567">Amorites</gr>, and <gr str="413">unto </gr>
+        <gr str="3605">all </gr>
+        <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> places </STYLE>
+        <gr str="7934">nigh </gr>thereunto, in the <gr str="6160">plain</gr>, in the <gr str="2022">hills</gr>, and in the <gr str="8219">vale</gr>, and in the <gr str="5045">south</gr>, and by the <gr str="3220">sea </gr>
+        <gr str="2348">side</gr>, to the <gr str="776">land </gr>of the <gr str="3669">Canaanites</gr>, and unto <gr str="3844">Lebanon</gr>, <gr str="5704">unto </gr>the <gr str="1419">great </gr>
+        <gr str="5104">river</gr>, the <gr str="5104">river </gr>
+        <gr str="6578">Euphrates</gr>. </VERS>
+      <VERS vnumber="8">
+        <gr str="7200">Behold</gr>, I have <gr str="5414">set </gr>
+        <gr str="*853" />the <gr str="776">land </gr>
+        <gr str="6440">before </gr>you: go <gr str="935">in </gr>and <gr str="3423">possess </gr>
+        <gr str="*853" />the <gr str="776">land </gr>
+        <gr str="834">which </gr>the <gr str="3068">LORD </gr>
+        <gr str="7650">swore </gr>unto your <gr str="1">fathers</gr>, <gr str="85">Abraham</gr>, <gr str="3327">Isaac</gr>, and <gr str="3290">Jacob</gr>, to <gr str="5414">give </gr>unto them and to their <gr str="2233">seed </gr>
+        <gr str="310">after </gr>them. </VERS>
+      <VERS vnumber="9"> And I <gr str="559">spoke </gr>
+        <gr str="413">unto </gr>you at <gr str="1931">that </gr>
+        <gr str="6256">time</gr>, <gr str="559">saying</gr>, I am not <gr str="3201 3808">able </gr>to <gr str="5375">bear </gr>you myself <gr str="905">alone</gr>: </VERS>
+      <VERS vnumber="10"> The <gr str="3068">LORD </gr>your <gr str="430">God </gr>hath <gr str="7235">multiplied </gr>you, and, <gr str="2009">behold</gr>, ye <STYLE css="color:#808080;font-style:italic"> are </STYLE> this <gr str="3117">day </gr>as the <gr str="3556">stars </gr>of <gr str="8064">heaven </gr>for <gr str="7230">multitude</gr>. </VERS>
+      <VERS vnumber="11"> (The <gr str="3068">LORD </gr>
+        <gr str="430">God </gr>of your <gr str="1">fathers </gr>make you a <gr str="505">thousand </gr>
+        <gr str="6471">times </gr>so many <gr str="3254">more </gr>as ye <STYLE css="color:#808080;font-style:italic"> are </STYLE>, and <gr str="1288">bless </gr>you, <gr str="834">as </gr>he hath <gr str="1696">promised </gr>you!) </VERS>
+      <VERS vnumber="12">
+        <gr str="349">How </gr>can I myself <gr str="905">alone </gr>
+        <gr str="5375">bear </gr>your <gr str="2960">encumbrance</gr>, and your <gr str="4853">burden</gr>, and your <gr str="7379">strife</gr>? </VERS>
+      <VERS vnumber="13">
+        <gr str="3051">Take </gr>you <gr str="2450">wise </gr>
+        <gr str="376">men</gr>, and <gr str="995">understanding</gr>, and <gr str="3045">known </gr>among your <gr str="7626">tribes</gr>, and I will <gr str="7760">make </gr>them <gr str="7218">rulers </gr>over you. </VERS>
+      <VERS vnumber="14"> And ye <gr str="6030">answered </gr>me, and <gr str="559">said</gr>, The <gr str="1697">thing </gr>
+        <gr str="834">which </gr>thou hast <gr str="1696">spoken </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2896">good </gr>
+        <STYLE css="color:#808080;font-style:italic"> for </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> us </STYLE> to <gr str="6213">do</gr>. </VERS>
+      <VERS vnumber="15"> So I <gr str="3947">took </gr>
+        <gr str="*853" />the <gr str="7218">chief </gr>of your <gr str="7626">tribes</gr>, <gr str="2450">wise </gr>
+        <gr str="376">men</gr>, and <gr str="3045">known</gr>, and <gr str="5414">made </gr>them <gr str="7218">heads </gr>
+        <gr str="5921">over </gr>you, <gr str="8269">captains </gr>over <gr str="505">thousands</gr>, and <gr str="8269">captains </gr>over <gr str="3967">hundreds</gr>, and <gr str="8269">captains </gr>over <gr str="2572">fifties</gr>, and <gr str="8269">captains </gr>over <gr str="6235">tens</gr>, and <gr str="7860">officers </gr>among your <gr str="7626">tribes</gr>. </VERS>
+      <VERS vnumber="16"> And I <gr str="6680">charged </gr>
+        <gr str="*853" />your <gr str="8199">judges </gr>at <gr str="1931">that </gr>
+        <gr str="6256">time</gr>, <gr str="559">saying</gr>, <gr str="8085">Hear </gr>
+        <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> causes </STYLE>
+        <gr str="996">between </gr>your <gr str="251">brethren</gr>, and <gr str="8199">judge </gr>
+        <gr str="6664">righteously </gr>
+        <gr str="996">between </gr>
+        <STYLE css="color:#808080;font-style:italic"> every </STYLE>
+        <gr str="376">man </gr>and his <gr str="251">brother</gr>, and the <gr str="1616">stranger </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> with him. </VERS>
+      <VERS vnumber="17"> Ye shall <gr str="3808">not </gr>
+        <gr str="5234">respect </gr>
+        <gr str="6440">persons </gr>in <gr str="4941">judgment</gr>; <STYLE css="color:#808080;font-style:italic"> but </STYLE> ye shall <gr str="8085">hear </gr>the <gr str="6996">small </gr>as well as the <gr str="1419">great</gr>; ye shall <gr str="3808">not </gr>be <gr str="1481">afraid </gr>of the <gr str="4480 6440">face </gr>of <gr str="376">man</gr>; <gr str="3588">for </gr>the <gr str="4941">judgment </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="430">God </gr>'s: and the <gr str="1697">cause </gr>
+        <gr str="834">that </gr>is too <gr str="7185">hard </gr>
+        <gr str="4480">for </gr>you, <gr str="7126">bring </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <gr str="413">unto </gr>me, and I will <gr str="8085">hear </gr>it. </VERS>
+      <VERS vnumber="18"> And I <gr str="6680">commanded </gr>you at <gr str="1931">that </gr>
+        <gr str="6256">time </gr>
+        <gr str="*853" />
+        <gr str="3605">all </gr>the <gr str="1697">things </gr>
+        <gr str="834">which </gr>ye should <gr str="6213">do</gr>. </VERS>
+      <VERS vnumber="19"> And when we <gr str="5265">departed </gr>from <gr str="4480 2722">Horeb</gr>, we went <gr str="1980">through </gr>
+        <gr str="*853" />
+        <gr str="3605">all </gr>
+        <gr str="1931">that </gr>
+        <gr str="1419">great </gr>and <gr str="3372">terrible </gr>
+        <gr str="4057">wilderness</gr>, <gr str="834">which </gr>ye <gr str="7200">saw </gr>by the <gr str="1870">way </gr>of the <gr str="2022">mountain </gr>of the <gr str="567">Amorites</gr>, <gr str="834">as </gr>the <gr str="3068">LORD </gr>our <gr str="430">God </gr>
+        <gr str="6680">commanded </gr>us; and we <gr str="935">came </gr>
+        <gr str="5704">to </gr>
+        <gr str="6947">Kadesh </gr>-barnea. </VERS>
+      <VERS vnumber="20"> And I <gr str="559">said </gr>
+        <gr str="413">unto </gr>you, Ye are <gr str="935">come </gr>
+        <gr str="5704">unto </gr>the <gr str="2022">mountain </gr>of the <gr str="567">Amorites</gr>, <gr str="834">which </gr>the <gr str="3068">LORD </gr>our <gr str="430">God </gr>doth <gr str="5414">give </gr>unto us. </VERS>
+      <VERS vnumber="21">
+        <gr str="7200">Behold</gr>, the <gr str="3068">LORD </gr>thy <gr str="430">God </gr>hath <gr str="5414">set </gr>
+        <gr str="*853" />the <gr str="776">land </gr>
+        <gr str="6440">before </gr>thee: go <gr str="5927">up </gr>
+        <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="3423">possess </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>, <gr str="834">as </gr>the <gr str="3068">LORD </gr>
+        <gr str="430">God </gr>of thy <gr str="1">fathers </gr>hath <gr str="1696">said </gr>unto thee; <gr str="3372">fear </gr>
+        <gr str="408">not</gr>, <gr str="408">neither </gr>be <gr str="2865">discouraged</gr>. </VERS>
+      <VERS vnumber="22"> And ye came <gr str="7126">near </gr>
+        <gr str="413">unto </gr>me every <gr str="3605">one </gr>of you, and <gr str="559">said</gr>, We will <gr str="7971">send </gr>
+        <gr str="376">men </gr>
+        <gr str="6440">before </gr>us, and they shall search us <gr str="2658">out </gr>
+        <gr str="*853" />the <gr str="776">land</gr>, and <gr str="7725">bring </gr>us <gr str="1697">word </gr>again <gr str="*853" />by <gr str="834">what </gr>
+        <gr str="1870">way </gr>we must go <gr str="5927">up</gr>, <gr str="*853">and </gr>
+        <gr str="413">into </gr>
+        <gr str="834">what </gr>
+        <gr str="5892">cities </gr>we shall <gr str="935">come</gr>. </VERS>
+      <VERS vnumber="23"> And the <gr str="1697">saying </gr>pleased me <gr str="3190 5869">well</gr>: and I <gr str="3947">took </gr>
+        <gr str="8147 6240">twelve </gr>
+        <gr str="376">men </gr>
+        <gr str="4480">of </gr>you, <gr str="259">one </gr>of a <gr str="7626">tribe</gr>: </VERS>
+      <VERS vnumber="24"> And they <gr str="6437">turned </gr>and went <gr str="5927">up </gr>into the <gr str="2022">mountain</gr>, and <gr str="935">came </gr>
+        <gr str="5704">unto </gr>the <gr str="5158">valley </gr>of <gr str="812">Eshcol</gr>, and searched it <gr str="7270 *853">out</gr>. </VERS>
+      <VERS vnumber="25"> And they <gr str="3947">took </gr>of the <gr str="4480 6529">fruit </gr>of the <gr str="776">land </gr>in their <gr str="3027">hands</gr>, and brought <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <gr str="3381">down </gr>
+        <gr str="413">unto </gr>us, and <gr str="7725">brought </gr>us <gr str="1697">word </gr>again, and <gr str="559">said</gr>, <STYLE css="color:#808080;font-style:italic"> It </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="2896">good </gr>
+        <gr str="776">land </gr>
+        <gr str="834">which </gr>the <gr str="3068">LORD </gr>our <gr str="430">God </gr>doth <gr str="5414">give </gr>us. </VERS>
+      <VERS vnumber="26"> Notwithstanding ye <gr str="14">would </gr>
+        <gr str="3808">not </gr>go <gr str="5927">up</gr>, but rebelled <gr str="4784">against </gr>
+        <gr str="*853" />the <gr str="6310">commandment </gr>of the <gr str="3068">LORD </gr>your <gr str="430">God</gr>: </VERS>
+      <VERS vnumber="27"> And ye <gr str="7279">murmured </gr>in your <gr str="168">tents</gr>, and <gr str="559">said</gr>, Because the <gr str="3068">LORD </gr>
+        <gr str="8135">hated </gr>us, he hath brought us <gr str="3318">forth </gr>out of the <gr str="4480 776">land </gr>of <gr str="4714">Egypt</gr>, to <gr str="5414">deliver </gr>us into the <gr str="3027">hand </gr>of the <gr str="567">Amorites</gr>, to <gr str="8045">destroy </gr>us. </VERS>
+      <VERS vnumber="28">
+        <gr str="575">Whither </gr>shall <gr str="587">we </gr>go <gr str="5927">up</gr>? our <gr str="251">brethren </gr>have <gr str="4549">discouraged </gr>
+        <gr str="*853" />our <gr str="3824">heart</gr>, <gr str="559">saying</gr>, The <gr str="5971">people </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="1419">greater </gr>and <gr str="7311">taller </gr>
+        <gr str="4480">than </gr>we; the <gr str="5892">cities </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="1419">great </gr>and <gr str="1219">walled </gr>up to <gr str="8064">heaven</gr>; and <gr str="1571">moreover </gr>we have <gr str="7200">seen </gr>the <gr str="1121">sons </gr>of the <gr str="6062">Anakims </gr>
+        <gr str="8033">there</gr>. </VERS>
+      <VERS vnumber="29"> Then I <gr str="559">said </gr>
+        <gr str="413">unto </gr>you, <gr str="6206">Dread </gr>
+        <gr str="3808">not</gr>, <gr str="3808">neither </gr>be <gr str="3372">afraid </gr>
+        <gr str="4480">of </gr>them. </VERS>
+      <VERS vnumber="30"> The <gr str="3068">LORD </gr>your <gr str="430">God </gr>which <gr str="1980">goeth </gr>
+        <gr str="6440">before </gr>you, <gr str="1931">he </gr>shall <gr str="3898">fight </gr>for you, according to <gr str="3605">all </gr>
+        <gr str="834">that </gr>he <gr str="6213">did </gr>
+        <gr str="854">for </gr>you in <gr str="4714">Egypt </gr>before your <gr str="5869">eyes</gr>; </VERS>
+      <VERS vnumber="31"> And in the <gr str="4057">wilderness</gr>, <gr str="834">where </gr>thou hast <gr str="7200">seen </gr>how <gr str="834">that </gr>the <gr str="3068">LORD </gr>thy <gr str="430">God </gr>
+        <gr str="5375">bore </gr>thee, <gr str="834">as </gr>a <gr str="376">man </gr>doth <gr str="5375">bear </gr>
+        <gr str="*853" />his <gr str="1121">son</gr>, in <gr str="3605">all </gr>the <gr str="1870">way </gr>
+        <gr str="834">that </gr>ye <gr str="1980">went</gr>, <gr str="5704">until </gr>ye <gr str="935">came </gr>
+        <gr str="5704">into </gr>
+        <gr str="2088">this </gr>
+        <gr str="4725">place</gr>. </VERS>
+      <VERS vnumber="32"> Yet in <gr str="2088">this </gr>
+        <gr str="1697">thing </gr>ye did <gr str="369">not </gr>
+        <gr str="539">believe </gr>the <gr str="3068">LORD </gr>your <gr str="430">God</gr>, </VERS>
+      <VERS vnumber="33"> Who <gr str="1980">went </gr>in the <gr str="1870">way </gr>
+        <gr str="6440">before </gr>you, to search you <gr str="8446">out </gr>a <gr str="4725">place </gr>to pitch your <gr str="2583">tents </gr>
+        <STYLE css="color:#808080;font-style:italic"> in </STYLE>, in <gr str="784">fire </gr>by <gr str="3915">night</gr>, to <gr str="7200">show </gr>you by <gr str="834">what </gr>
+        <gr str="1870">way </gr>ye should <gr str="1980">go</gr>, and in a <gr str="6051">cloud </gr>by <gr str="3119">day</gr>. </VERS>
+      <VERS vnumber="34"> And the <gr str="3068">LORD </gr>
+        <gr str="8085">heard </gr>
+        <gr str="*853" />the <gr str="6963">voice </gr>of your <gr str="1697">words</gr>, and was <gr str="7107">wroth</gr>, and <gr str="7650">swore</gr>, <gr str="559">saying</gr>, </VERS>
+      <VERS vnumber="35">
+        <gr str="518">Surely </gr>there shall not <gr str="376">one </gr>of <gr str="428">these </gr>
+        <gr str="376">men </gr>of <gr str="2088">this </gr>
+        <gr str="7451">evil </gr>
+        <gr str="1755">generation </gr>
+        <gr str="7200">see </gr>
+        <gr str="*853" />that <gr str="2896">good </gr>
+        <gr str="776">land</gr>, <gr str="834">which </gr>I <gr str="7650">swore </gr>to <gr str="5414">give </gr>unto your <gr str="1">fathers</gr>, </VERS>
+      <VERS vnumber="36">
+        <gr str="2108">Save </gr>
+        <gr str="3612">Caleb </gr>the <gr str="1121">son </gr>of <gr str="3312">Jephunneh</gr>; <gr str="1931">he </gr>shall <gr str="7200">see </gr>it, and to him will I <gr str="5414">give </gr>
+        <gr str="*853" />the <gr str="776">land </gr>
+        <gr str="834">that </gr>he hath <gr str="1869">trodden </gr>upon, and to his <gr str="1121">children</gr>, <gr str="3282 834">because </gr>he hath <gr str="4390">wholly </gr>
+        <gr str="310">followed </gr>the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="37">
+        <gr str="1571">Also </gr>the <gr str="3068">LORD </gr>was <gr str="599">angry </gr>with me for your <gr str="1558">sakes</gr>, <gr str="559">saying</gr>, <gr str="859">Thou </gr>
+        <gr str="1571">also </gr>shalt <gr str="3808">not </gr>go <gr str="935">in </gr>
+        <gr str="8033">thither</gr>. </VERS>
+      <VERS vnumber="38">
+        <STYLE css="color:#808080;font-style:italic"> But </STYLE>
+        <gr str="3091">Joshua </gr>the <gr str="1121">son </gr>of <gr str="5126">Nun</gr>, which <gr str="5975">standeth </gr>
+        <gr str="6440">before </gr>thee, <gr str="1931">he </gr>shall go <gr str="935">in </gr>
+        <gr str="8033">thither</gr>: <gr str="2388">encourage </gr>him: <gr str="3588">for </gr>
+        <gr str="1931">he </gr>shall cause <gr str="*853" />
+        <gr str="3478">Israel </gr>to <gr str="5157">inherit </gr>it. </VERS>
+      <VERS vnumber="39"> Moreover your little <gr str="2945">ones</gr>, <gr str="834">which </gr>ye <gr str="559">said </gr>should <gr str="1961">be </gr>a <gr str="957">prey</gr>, and your <gr str="1121">children</gr>, <gr str="834">which </gr>in that <gr str="3117">day </gr>had no <gr str="3045 3808">knowledge </gr>between <gr str="2896">good </gr>and <gr str="7451">evil</gr>, <gr str="1992">they </gr>shall go <gr str="935">in </gr>
+        <gr str="8033">thither</gr>, and unto them will I <gr str="5414">give </gr>it, and <gr str="1992">they </gr>shall <gr str="3423">possess </gr>it. </VERS>
+      <VERS vnumber="40"> But <STYLE css="color:#808080;font-style:italic"> as </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> for </STYLE>
+        <gr str="859">you</gr>, <gr str="6437">turn </gr>you, and take your <gr str="5265">journey </gr>into the <gr str="4057">wilderness </gr>by the <gr str="1870">way </gr>of the <gr str="5488">Red </gr>
+        <gr str="3220">sea</gr>. </VERS>
+      <VERS vnumber="41"> Then ye <gr str="6030">answered </gr>and <gr str="559">said </gr>
+        <gr str="413">unto </gr>me, We have <gr str="2398">sinned </gr>against the <gr str="3068">LORD</gr>, <gr str="587">we </gr>will go <gr str="5927">up </gr>and <gr str="3898">fight</gr>, according to <gr str="3605">all </gr>
+        <gr str="834">that </gr>the <gr str="3068">LORD </gr>our <gr str="430">God </gr>
+        <gr str="6680">commanded </gr>us. And when ye had girded <gr str="2296">on </gr>every <gr str="376">man </gr>
+        <gr str="*853" />his <gr str="3627">weapons </gr>of <gr str="4421">war</gr>, ye were <gr str="1951">ready </gr>to go <gr str="5927">up </gr>into the <gr str="2022">hill</gr>. </VERS>
+      <VERS vnumber="42"> And the <gr str="3068">LORD </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>me, <gr str="559">Say </gr>unto them, Go not <gr str="5927 3808">up</gr>, <gr str="3808">neither </gr>
+        <gr str="3898">fight</gr>; <gr str="3588">for </gr>I <STYLE css="color:#808080;font-style:italic"> am </STYLE>
+        <gr str="369">not </gr>
+        <gr str="7130">among </gr>you; <gr str="3808">lest </gr>ye be <gr str="5062">smitten </gr>
+        <gr str="6440">before </gr>your <gr str="341">enemies</gr>. </VERS>
+      <VERS vnumber="43"> So I <gr str="1696">spoke </gr>
+        <gr str="413">unto </gr>you; and ye would <gr str="3808">not </gr>
+        <gr str="8085">hear</gr>, but rebelled <gr str="4784">against </gr>
+        <gr str="*853" />the <gr str="6310">commandment </gr>of the <gr str="3068">LORD</gr>, and went presumptuously <gr str="5927 2102">up </gr>into the <gr str="2022">hill</gr>. </VERS>
+      <VERS vnumber="44"> And the <gr str="567">Amorites</gr>, which <gr str="3427">dwelt </gr>in <gr str="1931">that </gr>
+        <gr str="2022">mountain</gr>, came <gr str="3318">out </gr>
+        <gr str="7125">against </gr>you, and <gr str="7291">chased </gr>you, <gr str="834">as </gr>
+        <gr str="1682">bees </gr>
+        <gr str="6213">do</gr>, and <gr str="3807">destroyed </gr>you in <gr str="8165">Seir</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE>
+        <gr str="5704">unto </gr>
+        <gr str="2767">Hormah</gr>. </VERS>
+      <VERS vnumber="45"> And ye <gr str="7725">returned </gr>and <gr str="1058">wept </gr>
+        <gr str="6440">before </gr>the <gr str="3068">LORD</gr>; but the <gr str="3068">LORD </gr>would <gr str="3808">not </gr>
+        <gr str="8085">hearken </gr>to your <gr str="6963">voice</gr>, <gr str="3808">nor </gr>give <gr str="238">ear </gr>
+        <gr str="413">unto </gr>you. </VERS>
+      <VERS vnumber="46"> So ye <gr str="3427">abode </gr>in <gr str="6946">Kadesh </gr>
+        <gr str="7227">many </gr>
+        <gr str="3117">days</gr>, according unto the <gr str="3117">days </gr>
+        <gr str="834">that </gr>ye <gr str="3427">abode </gr>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

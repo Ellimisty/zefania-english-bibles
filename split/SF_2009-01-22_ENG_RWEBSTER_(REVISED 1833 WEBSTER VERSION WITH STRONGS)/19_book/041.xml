@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="41">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief <gr str="5329">Musician</gr>, A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>. </STYLE>
+        <gr str="835">Blessed </gr>
+        <STYLE css="font-style:italic">is</STYLE> he that <gr str="7919">considereth </gr>the <gr str="1800">poor</gr>: the <gr str="3068">LORD </gr>will <gr str="4422">deliver </gr>him in the <gr str="3117">time </gr>of <gr str="7451">trouble</gr>. <DIV>
+          <NOTE type="x-studynote">the poor: or, the weak, or, sick</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">in time…: Heb. in the day of evil</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">The <gr str="3068">LORD </gr>will <gr str="8104">preserve </gr>him, and keep him <gr str="2421">alive</gr>; <STYLE css="font-style:italic">and</STYLE> he shall be <gr str="833">blessed </gr>upon the <gr str="776">earth</gr>: and thou wilt not <gr str="5414">deliver </gr>him to the <gr str="5315">will </gr>of his <gr str="341">enemies</gr>. <DIV>
+          <NOTE type="x-studynote">thou…: or, do not thou deliver</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">The <gr str="3068">LORD </gr>will <gr str="5582">strengthen </gr>him upon the <gr str="6210">bed </gr>of <gr str="1741">languishing</gr>: thou wilt <gr str="2015">make </gr>all his <gr str="4904">bed </gr>in his <gr str="2483">sickness</gr>. <DIV>
+          <NOTE type="x-studynote">make: Heb. turn</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">I <gr str="559">said</gr>, <gr str="3068">LORD</gr>, be <gr str="2603">merciful </gr>to me: <gr str="7495">heal </gr>my <gr str="5315">soul</gr>; for I have <gr str="2398">sinned </gr>against thee.</VERS>
+      <VERS vnumber="5">My <gr str="341">enemies </gr>
+        <gr str="559">speak </gr>
+        <gr str="7451">evil </gr>of me, When shall he <gr str="4191">die</gr>, and his <gr str="8034">name </gr>
+        <gr str="6">perish</gr>?</VERS>
+      <VERS vnumber="6">And if he <gr str="935">cometh </gr>to <gr str="7200">see </gr>
+        <STYLE css="font-style:italic">me</STYLE>, he <gr str="1696">speaketh </gr>
+        <gr str="7723">vanity</gr>: his <gr str="3820">heart </gr>
+        <gr str="6908">gathereth </gr>
+        <gr str="205">iniquity </gr>to itself; <STYLE css="font-style:italic">when</STYLE> he <gr str="3318">goeth </gr>
+        <gr str="2351">abroad</gr>, he <gr str="1696">telleth </gr>
+        <STYLE css="font-style:italic">it</STYLE>.</VERS>
+      <VERS vnumber="7">All that <gr str="8130">hate </gr>me <gr str="3907">whisper </gr>
+        <gr str="3162">together </gr>against me: against me do they <gr str="2803">devise </gr>my <gr str="7451">hurt</gr>. <DIV>
+          <NOTE type="x-studynote">my…: Heb. evil to me</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">An <gr str="1100">evil </gr>
+        <gr str="1697">disease</gr>, <STYLE css="font-style:italic">say they</STYLE>, cleaveth <gr str="3332">fast </gr>to him: and <STYLE css="font-style:italic">now</STYLE> that he <gr str="7901">lieth </gr>he shall <gr str="6965">rise </gr>no <gr str="3254">more</gr>. <DIV>
+          <NOTE type="x-studynote">An…: Heb. A thing of Belial</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="9">Yea, my own <gr str="7965">familiar </gr>
+        <gr str="376">friend</gr>, in whom I <gr str="982">trusted</gr>, who <gr str="398">ate </gr>of my <gr str="3899">bread</gr>, hath lifted <gr str="1431">up </gr>
+        <STYLE css="font-style:italic">his </STYLE>
+        <gr str="6119">heel </gr>against me. <DIV>
+          <NOTE type="x-studynote">mine…: Heb. the man of my peace</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">lifted…: Heb. magnified</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="10">But thou, O <gr str="3068">LORD</gr>, be <gr str="2603">merciful </gr>to me, and raise me <gr str="6965">up</gr>, that I may <gr str="7999">repay </gr>them.</VERS>
+      <VERS vnumber="11">By this I <gr str="3045">know </gr>that thou <gr str="2654">favourest </gr>me, because my <gr str="341">enemy </gr>doth not <gr str="7321">triumph </gr>over me.</VERS>
+      <VERS vnumber="12">And as for me, thou <gr str="8551">upholdest </gr>me in my <gr str="8537">integrity</gr>, and <gr str="5324">settest </gr>me before thy <gr str="6440">face </gr>for <gr str="5769">ever</gr>.</VERS>
+      <VERS vnumber="13">
+        <gr str="1288">Blessed </gr>
+        <STYLE css="font-style:italic">be</STYLE> the <gr str="3068">LORD </gr>
+        <gr str="430">God </gr>of <gr str="3478">Israel </gr>from <gr str="5769">everlasting</gr>, and to <gr str="5769">everlasting</gr>. <gr str="543">Amen</gr>, and <gr str="543">Amen</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

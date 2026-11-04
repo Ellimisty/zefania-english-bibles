@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="80">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For the </STYLE>
+        <DIV>
+          <NOTE type="x-studynote">See Ps 44, and Ps 68, titles</NOTE>
+        </DIV>
+        <STYLE css="font-style:italic"> end, for alternate strains, a testimony for Asaph, a Psalm concerning the Assyrian.</STYLE> - Attend, O Shepherd of Israel, who guidest Joseph like a flock; thou who sittest upon the cherubs, manifest thyself;</VERS>
+      <VERS vnumber="2">before Ephraim and Benjamin and Manasse, stir up thy power, and come to deliver us.</VERS>
+      <VERS vnumber="3">Turn us, O God, and cause thy face to shine; and we shall be delivered.</VERS>
+      <VERS vnumber="4">O Lord God of hosts, how long art thou angry with the prayer of thy servant?</VERS>
+      <VERS vnumber="5">Thou wilt feed us with bread of tears; and wilt cause us to drink tears by measure.</VERS>
+      <VERS vnumber="6">Thou has made us a strife to our neighbours; and our enemies have mocked at us.</VERS>
+      <VERS vnumber="7">Turn us, O Lord God of hosts, and cause thy face to shine; and we shall be saved. Pause.</VERS>
+      <VERS vnumber="8">Thou hast transplanted a vine out of Egypt: thou hast cast out the heathen, and planted it.</VERS>
+      <VERS vnumber="9">Thou madest a way before it, and didst cause its roots to strike, and the land was filled with it.</VERS>
+      <VERS vnumber="10">Its shadow covered the mountains, and its shoots equalled the <DIV>
+          <NOTE type="x-studynote">Gr. cedars of God, see Ge 30:8; Jon 3:3; Ac 7:20</NOTE>
+        </DIV> goodly cedars.</VERS>
+      <VERS vnumber="11">It sent forth its branches to the sea, and its shoots to the river.</VERS>
+      <VERS vnumber="12">Wherefore hast thou broken down its hedge, while all that pass by the way pluck it?</VERS>
+      <VERS vnumber="13">The boar out of the wood has laid it waste, and the wild beast has devoured it.</VERS>
+      <VERS vnumber="14">O God of hosts, turn, we pray thee: look on us from heaven, and behold and visit this vine;</VERS>
+      <VERS vnumber="15">and restore that which thy right hand has planted: and look on the son of man whom thou didst strengthen for thyself.</VERS>
+      <VERS vnumber="16">It is burnt with fire and dug up: they shall perish at the rebuke of thy <DIV>
+          <NOTE type="x-studynote">See Ps 20:9</NOTE>
+        </DIV> presence.</VERS>
+      <VERS vnumber="17">Let thy hand be upon the man of thy right hand, and upon the son of man whom thou didst strengthen for thyself.</VERS>
+      <VERS vnumber="18">So will we not depart from thee: thou shalt quicken us, and we will call upon thy name.</VERS>
+      <VERS vnumber="19">Turn us, O Lord God of hosts, and make thy face to shine; and we shall be saved.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="64">
+      <VERS vnumber="1">Hear, O my God, the voice of my lament:guard my life from the foe who affrights me.</VERS>
+      <VERS vnumber="2">Hide me from villains who secretly plot,from the blustering throng of the workers of evil,</VERS>
+      <VERS vnumber="3">who have sharpened their tongue like a sword,and aimed bitter words like arrows,</VERS>
+      <VERS vnumber="4">which from ambush they launch at the blameless,shooting swiftly and unafraid. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">They strengthen their wicked purpose,they tell of the snares they have hidden,they say to themselves, “Who can see?”</VERS>
+      <VERS vnumber="6">They think out their crimes full cunninglyhidden deep in their crafty hearts. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">But God with his arrow will shoot them,swiftly shall they be smitten.</VERS>
+      <VERS vnumber="8">For their tongue he will bring them to ruin,all will shudder with horror at the sight of them. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="9">Then every person, touched to awe,as they ponder what God has wrought,will tell the tale of his deeds.</VERS>
+      <VERS vnumber="10">In the <STYLE id="cl:divineName">Lord</STYLE> shall the righteous rejoice,in him shall they take refuge;and all the true-hearted shall glory.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

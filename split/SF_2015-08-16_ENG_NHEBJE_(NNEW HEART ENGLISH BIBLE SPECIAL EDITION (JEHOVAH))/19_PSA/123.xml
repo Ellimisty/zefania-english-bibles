@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible JE" type="x-bible">
+  <BIBLEBOOK bnumber="19" bsname="PSA">
+    <CHAPTER cnumber="123">
+      <VERS vnumber="1" />
+      <VERS vnumber="2">Behold, as the eyes of servants look to the hand of their master, as the eyes of a maid to the hand of her mistress; so our eyes look to Jehovah, our God, until he has mercy on us.</VERS>
+      <VERS vnumber="3">Have mercy on us, Jehovah, have mercy on us, for we have endured much contempt.</VERS>
+      <VERS vnumber="4">Our soul is exceedingly filled with the scoffing of those who are at ease, with the contempt of the proud.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

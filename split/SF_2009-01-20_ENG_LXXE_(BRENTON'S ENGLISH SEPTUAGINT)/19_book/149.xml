@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="149">
+      <VERS vnumber="1">Alleluia. Sing to the Lord a new song: his praise is in the assembly of the saints.</VERS>
+      <VERS vnumber="2">Let Israel rejoice in him that made him; and let the children of Sion exult in their king.</VERS>
+      <VERS vnumber="3">Let them praise his name in the dance: let them sings praises to him with timbrel and psaltery.</VERS>
+      <VERS vnumber="4">For the Lord takes pleasure in his people; and will exalt the meek with salvation.</VERS>
+      <VERS vnumber="5">The saints shall rejoice in glory; and shall exult on their beds.</VERS>
+      <VERS vnumber="6">The <DIV>
+          <NOTE type="x-studynote">Gr. exaltations, q. d. extollings</NOTE>
+        </DIV> high praises of God shall be in their throat, and two-edged swords in their hands;</VERS>
+      <VERS vnumber="7">to execute vengeance on the nations, and punishments among the peoples;</VERS>
+      <VERS vnumber="8">to bind their kings with fetters, and their nobles with manacles of iron;</VERS>
+      <VERS vnumber="9">to execute on them the judgement <DIV>
+          <NOTE type="x-studynote">Gr. inscribed, sc. in the scripture</NOTE>
+        </DIV> written: this honour have all his saints.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="138">
+      <VERS vnumber="1">
+        <STYLE css="color:#808080;font-style:italic"> A </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> Psalm </STYLE> of <gr str="1732">David</gr>. I will <gr str="3034">praise </gr>thee with my <gr str="3605">whole </gr>
+        <gr str="3820">heart</gr>: <gr str="5048">before </gr>the <gr str="430">gods </gr>will I sing <gr str="2167">praise </gr>unto thee. </VERS>
+      <VERS vnumber="2"> I will <gr str="7812">worship </gr>
+        <gr str="413">toward </gr>thy <gr str="6944">holy </gr>
+        <gr str="1964">temple</gr>, and <gr str="3034">praise </gr>
+        <gr str="*853" />thy <gr str="8034">name </gr>
+        <gr str="3588">for </gr>thy <gr str="2617">lovingkindness </gr>and <gr str="5921">for </gr>thy <gr str="571">truth</gr>: <gr str="3588">for </gr>thou hast <gr str="1431">magnified </gr>thy <gr str="565">word </gr>
+        <gr str="5921">above </gr>
+        <gr str="3605">all </gr>thy <gr str="8034">name</gr>. </VERS>
+      <VERS vnumber="3"> In the <gr str="3117">day </gr>when I <gr str="7121">cried </gr>thou <gr str="6030">answeredst </gr>me, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="7292">strengthenedst </gr>me <STYLE css="color:#808080;font-style:italic"> with </STYLE>
+        <gr str="5797">strength </gr>in my <gr str="5315">soul</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="3605">All </gr>the <gr str="4428">kings </gr>of the <gr str="776">earth </gr>shall <gr str="3034">praise </gr>thee, O <gr str="3068">LORD</gr>, <gr str="3588">when </gr>they <gr str="8085">hear </gr>the <gr str="561">words </gr>of thy <gr str="6310">mouth</gr>. </VERS>
+      <VERS vnumber="5"> Yea, they shall <gr str="7891">sing </gr>in the <gr str="1870">ways </gr>of the <gr str="3068">LORD</gr>: <gr str="3588">for </gr>
+        <gr str="1419">great </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="3519">glory </gr>of the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="6">
+        <gr str="3588">Though </gr>the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="7311">high</gr>, yet hath he <gr str="7200">respect </gr>unto the <gr str="8217">lowly</gr>: but the <gr str="1364">proud </gr>he <gr str="3045">knoweth </gr>afar <gr str="4480 4801">off</gr>. </VERS>
+      <VERS vnumber="7">
+        <gr str="518">Though </gr>I <gr str="1980">walk </gr>in the <gr str="7130">midst </gr>of <gr str="6869">trouble</gr>, thou wilt <gr str="2421">revive </gr>me: thou shalt stretch <gr str="7971">forth </gr>thine <gr str="3027">hand </gr>
+        <gr str="5921">against </gr>the <gr str="639">wrath </gr>of mine <gr str="341">enemies</gr>, and thy right <gr str="3225">hand </gr>shall <gr str="3467">save </gr>me. </VERS>
+      <VERS vnumber="8"> The <gr str="3068">LORD </gr>will <gr str="1584">perfect </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> which </STYLE>
+        <gr str="1157">concerneth </gr>me: thy <gr str="2617">mercy</gr>, O <gr str="3068">LORD</gr>, <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>: <gr str="7503">forsake </gr>
+        <gr str="408">not </gr>the <gr str="4639">works </gr>of thine own <gr str="3027">hands</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="130">
+      <VERS vnumber="1"> A <gr str="7892">Song </gr>of <gr str="4609">degrees</gr>. Out of the <gr str="4480 4615">depths </gr>have I <gr str="7121">cried </gr>unto thee, O <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="136">Lord</gr>, <gr str="8085">hear </gr>my <gr str="6963">voice</gr>: let thine <gr str="241">ears </gr>
+        <gr str="1961">be </gr>
+        <gr str="7183">attentive </gr>to the <gr str="6963">voice </gr>of my <gr str="8469">supplications</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="518">If </gr>thou, <gr str="3050">LORD</gr>, shouldest <gr str="8104">mark </gr>
+        <gr str="5771">iniquities</gr>, O <gr str="136">Lord</gr>, <gr str="4310">who </gr>shall <gr str="5975">stand</gr>? </VERS>
+      <VERS vnumber="4">
+        <gr str="3588">But </gr>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="5547">forgiveness </gr>
+        <gr str="5973">with </gr>thee, <gr str="4616">that </gr>thou mayest be <gr str="3372">feared</gr>. </VERS>
+      <VERS vnumber="5"> I wait <gr str="6960">for </gr>the <gr str="3068">LORD</gr>, my <gr str="5315">soul </gr>doth <gr str="6960">wait</gr>, and in his <gr str="1697">word </gr>do I <gr str="3176">hope</gr>. </VERS>
+      <VERS vnumber="6"> My <gr str="5315">soul </gr>
+        <STYLE css="color:#808080;font-style:italic"> waiteth </STYLE> for the <gr str="136">Lord </gr>more than they that <gr str="4480 8104">watch </gr>for the <gr str="1242">morning</gr>: <STYLE css="color:#808080;font-style:italic"> I </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> say, </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> more </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> than </STYLE> they that <gr str="8104">watch </gr>for the <gr str="1242">morning</gr>. </VERS>
+      <VERS vnumber="7"> Let <gr str="3478">Israel </gr>
+        <gr str="3176">hope </gr>
+        <gr str="413">in </gr>the <gr str="3068">LORD</gr>: <gr str="3588">for </gr>
+        <gr str="5973">with </gr>the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2617">mercy</gr>, and <gr str="5973">with </gr>him <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="7235">plenteous </gr>
+        <gr str="6304">redemption</gr>. </VERS>
+      <VERS vnumber="8"> And <gr str="1931">he </gr>shall <gr str="6299">redeem </gr>
+        <gr str="*853" />
+        <gr str="3478">Israel </gr>from <gr str="4480 3605">all </gr>his <gr str="5771">iniquities</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

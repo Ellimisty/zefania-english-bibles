@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="King James Version PCE" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="28">
+      <VERS vnumber="1">A Psalm  of David.  Unto thee will I cry, O <STYLE id="cl:divineName">Lord</STYLE> my rock; be not silent to me: lest,  if  thou be silent to me, I become like them that go down into the pit.</VERS>
+      <VERS vnumber="2">Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle.</VERS>
+      <VERS vnumber="3">Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief  is  in their hearts.</VERS>
+      <VERS vnumber="4">Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert.</VERS>
+      <VERS vnumber="5">Because they regard not the works of the <STYLE id="cl:divineName">Lord</STYLE>, nor the operation of his hands, he shall destroy them, and not build them up.</VERS>
+      <VERS vnumber="6">Blessed  be  the <STYLE id="cl:divineName">Lord</STYLE>, because he hath heard the voice of my supplications.</VERS>
+      <VERS vnumber="7">The <STYLE id="cl:divineName">Lord</STYLE> is  my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.</VERS>
+      <VERS vnumber="8">The <STYLE id="cl:divineName">Lord</STYLE> is  their strength, and he  is  the saving strength of his anointed.</VERS>
+      <VERS vnumber="9">Save thy people, and bless thine inheritance: feed them also, and lift them up for ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

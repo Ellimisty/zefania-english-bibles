@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="12">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief musician upon Sheminith, a psalm of David.</STYLE>
+        <DIV>
+          <NOTE type="x-studynote">(12:2)</NOTE>
+        </DIV> Help, O Lord; for the pious have ceased to be; for the truthful have failed from among the children of men.</VERS>
+      <VERS vnumber="2">
+        <DIV>
+          <NOTE type="x-studynote">(12:3)</NOTE>
+        </DIV> Deceptively do they speak every one with his neighbor, with flattering lips, with a double heart do they speak.</VERS>
+      <VERS vnumber="3">
+        <DIV>
+          <NOTE type="x-studynote">(12:4)</NOTE>
+        </DIV> May the Lord cut off all flattering lips, the tongue that speaketh boastful things:</VERS>
+      <VERS vnumber="4">
+        <DIV>
+          <NOTE type="x-studynote">(12:5)</NOTE>
+        </DIV> Who have said, With our tongue will we be mighty; our lips are with us; who is Lord over us!</VERS>
+      <VERS vnumber="5">
+        <DIV>
+          <NOTE type="x-studynote">(12:6)</NOTE>
+        </DIV> Because of the oppression of the poor, because of the sighing of the needy, now will I arise, saith the Lord: I will grant safety to him for whom the other layeth a snare.</VERS>
+      <VERS vnumber="6">
+        <DIV>
+          <NOTE type="x-studynote">(12:7)</NOTE>
+        </DIV> The words of the Lord are pure words, as silver refined in the crucible of earth, purified seven times.</VERS>
+      <VERS vnumber="7">
+        <DIV>
+          <NOTE type="x-studynote">(12:8)</NOTE>
+        </DIV> Thou, O Lord, wilt preserve them; thou wilt guard them from this generation for ever.</VERS>
+      <VERS vnumber="8">
+        <DIV>
+          <NOTE type="x-studynote">(12:9)</NOTE>
+        </DIV> On every side do the wicked walk about, when the vile are exalted over the sons of man.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

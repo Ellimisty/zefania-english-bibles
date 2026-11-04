@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="123">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Song of degrees.</STYLE> To thee I lift up my eyes, O thou that dwellest in the heavens.</VERS>
+      <VERS vnumber="2">Behold, as the eyes of servants <STYLE css="font-style:italic">look</STYLE> to the hand of their masters, <STYLE css="font-style:italic">and</STYLE> as the eyes of a maiden to the hand of her mistress; so our eyes <STYLE css="font-style:italic">wait</STYLE> upon the LORD our God, until he shall have mercy upon us.</VERS>
+      <VERS vnumber="3">Have mercy upon us, O LORD, have mercy upon us: for we are exceedingly filled with contempt.</VERS>
+      <VERS vnumber="4">Our soul is exceedingly filled with the scorning of those that are at ease, <STYLE css="font-style:italic">and</STYLE> with the contempt of the proud.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

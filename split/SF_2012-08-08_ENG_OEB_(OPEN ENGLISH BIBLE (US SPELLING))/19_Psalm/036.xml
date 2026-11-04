@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="36">
+      <VERS vnumber="1">Sin whispers within heart of the wicked,who have no dread of God before their eyes.</VERS>
+      <VERS vnumber="2">It flatters them in their eyesthat their sin will not be found out. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">First, their speech becomes wicked and false,they give up acting wisely and well.</VERS>
+      <VERS vnumber="4">Then they plot deliberate wrong,take their stand on the wicked way,without the least shrinking from evil. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">Your love, O <STYLE id="cl:divineName">Lord</STYLE>, touches the heavens,your faithfulness reaches the clouds.</VERS>
+      <VERS vnumber="6">Your justice is like the great mountains,your judgments are like the broad sea.<STYLE id="cl:divineName">Lord</STYLE>, you save people and animals.</VERS>
+      <VERS vnumber="7">How precious your love, O God!All may seek shelter in the shadow of your wings.</VERS>
+      <VERS vnumber="8">They feast on the fat of your house,they drink of your brook of delights.</VERS>
+      <VERS vnumber="9">For with you is the fountain of life,in the light that is yours we see light. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="10">O continue your grace to the faithful,your love to the upright in heart.</VERS>
+      <VERS vnumber="11">Let no arrogant foot tread upon me,no wicked hand drive me to exile. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="12">There the workers of wrong lie prostrate,thrust down to rise up no more.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

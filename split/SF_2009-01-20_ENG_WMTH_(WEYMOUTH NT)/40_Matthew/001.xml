@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Weymouth NT" type="x-bible">
+  <BIBLEBOOK bnumber="40" bname="Matthew" bsname="Matt">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">The Genealogy of Jesus Christ, the son of David, the son of Abraham.</VERS>
+      <VERS vnumber="2">Abraham was the father of Isaac; Isaac of Jacob; Jacob of Judah and his brothers.</VERS>
+      <VERS vnumber="3">Judah was the father (by Tamar) of Perez and Zerah; Perez of Hezron; Hezron of Ram;</VERS>
+      <VERS vnumber="4">Ram of Amminadab; Amminadab of Nahshon; Nahshon of Salmon;</VERS>
+      <VERS vnumber="5">Salmon (by Rahab) of Boaz; Boaz (by Ruth) of Obed; Obed of Jesse;</VERS>
+      <VERS vnumber="6">Jesse of David–the King. David (by Uriah's widow) was the father of Solomon;</VERS>
+      <VERS vnumber="7">Solomon of Rehoboam; Rehoboam of Abijah; Abijah of Asa;</VERS>
+      <VERS vnumber="8">Asa of Jehoshaphat; Jehoshaphat of Jehoram; Jehoram of Uzziah;</VERS>
+      <VERS vnumber="9">Uzziah of Jotham; Jotham of Ahaz; Ahaz of Hezekiah;</VERS>
+      <VERS vnumber="10">Hezekiah of Manasseh; Manasseh of Amon; Amon of Josiah;</VERS>
+      <VERS vnumber="11">Josiah of Jeconiah and his brothers at the period of the Removal to Babylon.</VERS>
+      <VERS vnumber="12">After the Removal to Babylon Jeconiah had a son Shealtiel; Shealtiel was the father of Zerubbabel;</VERS>
+      <VERS vnumber="13">Zerubbabel of Abiud; Abiud of Eliakim; Eliakim of Azor;</VERS>
+      <VERS vnumber="14">Azor of Zadok; Zadok of Achim; Achim of Eliud;</VERS>
+      <VERS vnumber="15">Eliud of Eleazar; Eleazar of Matthan; Matthan of Jacob;</VERS>
+      <VERS vnumber="16">and Jacob of Joseph the husband of Mary, who was the mother of JESUS who is called CHRIST.</VERS>
+      <VERS vnumber="17">There are therefore, in all, fourteen generations from Abraham to David; fourteen from David to the Removal to Babylon; and fourteen from the Removal to Babylon to the Christ.</VERS>
+      <VERS vnumber="18">The circumstances of the birth of Jesus Christ were these. After his mother Mary was betrothed to Joseph, before they were united in marriage, she was found to be with child through the Holy Spirit.</VERS>
+      <VERS vnumber="19">But Joseph her husband, being a kind-hearted man and unwilling publicly to disgrace her, had determined to release her privately from the betrothal.</VERS>
+      <VERS vnumber="20">But while he was contemplating this step, an angel of the Lord appeared to him in a dream and said, »Joseph, son of David, do not be afraid to bring home your wife Mary, for she is with child through the Holy Spirit.</VERS>
+      <VERS vnumber="21">She will give birth to a Son, and you are to call His name JESUS for He it is who will save His People from their sins.«</VERS>
+      <VERS vnumber="22">All this took place in fulfilment of what the Lord had spoken through the Prophet,</VERS>
+      <VERS vnumber="23">
+        <STYLE css="font-style:italic">»Mark! The maiden will be with child and will give birth to a son, and they will call His name Immanuel«</STYLE> –a word which signifies <STYLE css="font-style:italic">`God with us'</STYLE>.</VERS>
+      <VERS vnumber="24">When Joseph awoke, he did as the angel of the Lord had commanded, and brought home his wife,</VERS>
+      <VERS vnumber="25">but did not live with her until she had given birth to a son. The child's name he called JESUS.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

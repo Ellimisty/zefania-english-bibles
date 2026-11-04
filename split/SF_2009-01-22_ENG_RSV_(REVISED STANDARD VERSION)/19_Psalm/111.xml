@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="111">
+      <VERS vnumber="1">Prasie the LORD. I will give thanks to the LORD with my whole heart, in the company of the upright, in the congregation.</VERS>
+      <VERS vnumber="2">Great are the works of the LORD, studied by all who have pleasure in them.</VERS>
+      <VERS vnumber="3">Full of honor and majesty is his work, and his righteousness endures for ever.</VERS>
+      <VERS vnumber="4">He has caused his wonderful works to be remembered; the LORD is gracious and merciful.</VERS>
+      <VERS vnumber="5">He provides food for those who fear him; he is ever mindful of his covenant.</VERS>
+      <VERS vnumber="6">He has shown his people the power of his works, in giving them the heritage of the nations.</VERS>
+      <VERS vnumber="7">The works of his hands are faithful and just; all his precepts are trustworthy,</VERS>
+      <VERS vnumber="8">they are established for ever and ever, to be performed with faithfulness and uprightness.</VERS>
+      <VERS vnumber="9">He sent redemption to his people; he has commanded his covenant for ever. Holy and terrible is his name!</VERS>
+      <VERS vnumber="10">The fear of the LORD is the beginning of wisdom; a good understanding have all those who practice it. His praise endures for ever!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

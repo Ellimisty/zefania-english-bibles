@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="140">
+      <VERS vnumber="1"> To the chief <gr str="5329">Musician</gr>, A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>. <gr str="2502">Deliver </gr>me, O <gr str="3068">LORD</gr>, from the <gr str="7451">evil </gr>
+        <gr str="4480 120">man</gr>: <gr str="5341">preserve </gr>me from the <gr str="2555">violent </gr>
+        <gr str="4480 376">man</gr>; </VERS>
+      <VERS vnumber="2">
+        <gr str="834">Which </gr>
+        <gr str="2803">imagine </gr>
+        <gr str="7451">mischiefs </gr>in <STYLE css="color:#808080;font-style:italic"> their </STYLE>
+        <gr str="3820">heart</gr>; <gr str="3605 3117">continually </gr>are they gathered <gr str="1481">together </gr>
+        <STYLE css="color:#808080;font-style:italic"> for </STYLE>
+        <gr str="4421">war</gr>. </VERS>
+      <VERS vnumber="3"> They have <gr str="8150">sharpened </gr>their <gr str="3956">tongues </gr>
+        <gr str="3644">like </gr>a <gr str="5175">serpent</gr>; <gr str="5919">adders </gr>' <gr str="2534">poison </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="8478">under </gr>their <gr str="8193">lips</gr>. <gr str="5542">Selah</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="8104">Keep </gr>me, O <gr str="3068">LORD</gr>, from the <gr str="4480 3027">hands </gr>of the <gr str="7563">wicked</gr>; <gr str="5341">preserve </gr>me from the violent <gr str="4480 376 2555">man</gr>; <gr str="834">who </gr>have <gr str="2803">purposed </gr>to <gr str="1760">overthrow </gr>my <gr str="6471">goings</gr>. </VERS>
+      <VERS vnumber="5"> The <gr str="1343">proud </gr>have <gr str="2934">hid </gr>a <gr str="6341">snare </gr>for me, and <gr str="2256">cords</gr>; they have <gr str="6566">spread </gr>a <gr str="7568">net </gr>by the <gr str="3027 4570">wayside</gr>; they have <gr str="7896">set </gr>
+        <gr str="4170">gins </gr>for me. <gr str="5542">Selah</gr>. </VERS>
+      <VERS vnumber="6"> I <gr str="559">said </gr>unto the <gr str="3068">LORD</gr>, <gr str="859">Thou </gr>
+        <STYLE css="color:#808080;font-style:italic"> art </STYLE> my <gr str="410">God</gr>: <gr str="238">hear </gr>the <gr str="6963">voice </gr>of my <gr str="8469">supplications</gr>, O <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="7"> O <gr str="3069">GOD </gr>the <gr str="136">Lord</gr>, the <gr str="5797">strength </gr>of my <gr str="3444">salvation</gr>, thou hast <gr str="5526">covered </gr>my <gr str="7218">head </gr>in the <gr str="3117">day </gr>of <gr str="5402">battle</gr>. </VERS>
+      <VERS vnumber="8">
+        <gr str="5414">Grant </gr>
+        <gr str="408">not</gr>, O <gr str="3068">LORD</gr>, the <gr str="3970">desires </gr>of the <gr str="7563">wicked</gr>: <gr str="6329">further </gr>
+        <gr str="408">not </gr>his wicked <gr str="2162">device</gr>; <STYLE css="color:#808080;font-style:italic"> lest </STYLE> they <gr str="7311">exalt </gr>themselves. <gr str="5542">Selah</gr>. </VERS>
+      <VERS vnumber="9">
+        <STYLE css="color:#808080;font-style:italic"> As </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> for </STYLE> the <gr str="7218">head </gr>of those that compass me <gr str="4524">about</gr>, let the <gr str="5999">mischief </gr>of their own <gr str="8193">lips </gr>
+        <gr str="3680">cover </gr>them. </VERS>
+      <VERS vnumber="10"> Let burning <gr str="1513">coals </gr>
+        <gr str="4131">fall </gr>
+        <gr str="5921">upon </gr>them: let them be <gr str="5307">cast </gr>into the <gr str="784">fire</gr>; into deep <gr str="4113">pits</gr>, that they <gr str="6965">rise </gr>
+        <gr str="1077">not </gr>up again. </VERS>
+      <VERS vnumber="11"> Let <gr str="1077">not </gr>an evil <gr str="376 3956">speaker </gr>be <gr str="3559">established </gr>in the <gr str="776">earth</gr>: <gr str="7451">evil </gr>shall <gr str="6679">hunt </gr>the <gr str="2555">violent </gr>
+        <gr str="376">man </gr>to <gr str="4073">overthrow </gr>
+        <STYLE css="color:#808080;font-style:italic"> him </STYLE>. </VERS>
+      <VERS vnumber="12"> I <gr str="3045">know </gr>
+        <gr str="3588">that </gr>the <gr str="3068">LORD </gr>will <gr str="6213">maintain </gr>the <gr str="1779">cause </gr>of the <gr str="6041">afflicted</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> the <gr str="4941">right </gr>of the <gr str="34">poor</gr>. </VERS>
+      <VERS vnumber="13">
+        <gr str="389">Surely </gr>the <gr str="6662">righteous </gr>shall give <gr str="3034">thanks </gr>unto thy <gr str="8034">name</gr>: the <gr str="3477">upright </gr>shall <gr str="3427">dwell </gr>
+        <gr str="*853" />in thy <gr str="6440">presence</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

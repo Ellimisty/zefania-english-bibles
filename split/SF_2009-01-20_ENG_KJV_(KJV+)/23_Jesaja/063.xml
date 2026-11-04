@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="23" bname="Jesaja" bsname="Jes">
+    <CHAPTER cnumber="63">
+      <VERS vnumber="1">
+        <gr str="4310">Who </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2088">this </gr>that <gr str="935">cometh </gr>from <gr str="4480 123">Edom</gr>, with <gr str="2556">dyed </gr>
+        <gr str="899">garments </gr>from <gr str="4480 1224">Bozrah</gr>? <gr str="2088">this </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="1921">glorious </gr>in his <gr str="3830">apparel</gr>, <gr str="6808">traveling </gr>in the <gr str="7230">greatness </gr>of his <gr str="3581">strength</gr>? <gr str="589">I </gr>that <gr str="1696">speak </gr>in <gr str="6666">righteousness</gr>, <gr str="7227">mighty </gr>to <gr str="3467">save</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="4069">Wherefore </gr>
+        <STYLE css="color:#808080;font-style:italic"> art </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> thou </STYLE>
+        <gr str="122">red </gr>in thine <gr str="3830">apparel</gr>, and thy <gr str="899">garments </gr>like him that <gr str="1869">treadeth </gr>in the wine <gr str="1660">vat</gr>? </VERS>
+      <VERS vnumber="3"> I have <gr str="1869">trodden </gr>the <gr str="6333">winepress </gr>
+        <gr str="905">alone</gr>; and of the <gr str="4480 5971">people </gr>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="369 376">none </gr>
+        <gr str="854">with </gr>me: for I will <gr str="1869">tread </gr>them in mine <gr str="639">anger</gr>, and <gr str="7429">trample </gr>them in my <gr str="2534">fury</gr>; and their <gr str="5332">blood </gr>shall be <gr str="5137">sprinkled </gr>
+        <gr str="5921">upon </gr>my <gr str="899">garments</gr>, and I will <gr str="1351">stain </gr>
+        <gr str="3605">all </gr>my <gr str="4403">raiment</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="3588">For </gr>the <gr str="3117">day </gr>of <gr str="5359">vengeance </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> in mine <gr str="3820">heart</gr>, and the <gr str="8141">year </gr>of my <gr str="1350">redeemed </gr>is <gr str="935">come</gr>. </VERS>
+      <VERS vnumber="5"> And I <gr str="5027">looked</gr>, and <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="369">none </gr>to <gr str="5826">help</gr>; and I <gr str="8074">wondered </gr>that <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="369">none </gr>to <gr str="5564">uphold</gr>: therefore mine own <gr str="2220">arm </gr>brought <gr str="3467">salvation </gr>unto me; and my <gr str="2534">fury</gr>, <gr str="1931">it </gr>
+        <gr str="5564">upheld </gr>me. </VERS>
+      <VERS vnumber="6"> And I will tread <gr str="947">down </gr>the <gr str="5971">people </gr>in mine <gr str="639">anger</gr>, and make them <gr str="7937">drunk </gr>in my <gr str="2534">fury</gr>, and I will bring <gr str="3381">down </gr>their <gr str="5332">strength </gr>to the <gr str="776">earth</gr>. </VERS>
+      <VERS vnumber="7"> I will <gr str="2142">mention </gr>the <gr str="2617">lovingkindnesses </gr>of the <gr str="3068">LORD</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> the <gr str="8416">praises </gr>of the <gr str="3068">LORD</gr>, <gr str="5921">according </gr>to <gr str="3605">all </gr>
+        <gr str="834">that </gr>the <gr str="3068">LORD </gr>hath <gr str="1580">bestowed </gr>on us, and the <gr str="7227">great </gr>
+        <gr str="2898">goodness </gr>toward the <gr str="1004">house </gr>of <gr str="3478">Israel</gr>, <gr str="834">which </gr>he hath <gr str="1580">bestowed </gr>on them according to his <gr str="7356">mercies</gr>, and according to the <gr str="7230">multitude </gr>of his <gr str="2617">lovingkindnesses</gr>. </VERS>
+      <VERS vnumber="8"> For he <gr str="559">said</gr>, <gr str="389">Surely </gr>
+        <gr str="1992">they </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> my <gr str="5971">people</gr>, <gr str="1121">children </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE> will <gr str="3808">not </gr>
+        <gr str="8266">lie</gr>: so he <gr str="1961">was </gr>their <gr str="3467">Savior</gr>. </VERS>
+      <VERS vnumber="9"> In <gr str="3605">all </gr>their <gr str="6869">affliction </gr>he was <gr str="6862">afflicted</gr>, and the <gr str="4397">angel </gr>of his <gr str="6440">presence </gr>
+        <gr str="3467">saved </gr>them: in his <gr str="160">love </gr>and in his <gr str="2551">pity </gr>
+        <gr str="1931">he </gr>
+        <gr str="1350">redeemed </gr>them; and he <gr str="5190">bore </gr>them, and <gr str="5375">carried </gr>them <gr str="3605">all </gr>the <gr str="3117">days </gr>of <gr str="5769">old</gr>. </VERS>
+      <VERS vnumber="10"> But <gr str="1992">they </gr>
+        <gr str="4784">rebelled</gr>, and <gr str="6087">vexed </gr>
+        <gr str="*853" />his <gr str="6944">Holy </gr>
+        <gr str="7307">Spirit</gr>: therefore he was <gr str="2015">turned </gr>to be their <gr str="341">enemy</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="1931">he </gr>
+        <gr str="3898">fought </gr>against them. </VERS>
+      <VERS vnumber="11"> Then he <gr str="2142">remembered </gr>the <gr str="3117">days </gr>of <gr str="5769">old</gr>, <gr str="4872">Moses</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> his <gr str="5971">people</gr>, <STYLE css="color:#808080;font-style:italic"> saying </STYLE>, <gr str="346">Where </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> he that brought them <gr str="5927">up </gr>out of the <gr str="4480 3220">sea </gr>
+        <gr str="854">with </gr>the <gr str="7462">shepherd </gr>of his <gr str="6629">flock</gr>? <gr str="346">where </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> he that <gr str="7760">put </gr>
+        <gr str="*853" />his <gr str="6944">Holy </gr>
+        <gr str="7307">Spirit </gr>
+        <gr str="7130">within </gr>him? </VERS>
+      <VERS vnumber="12"> That <gr str="1980">led </gr>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE> by the right <gr str="3225">hand </gr>of <gr str="4872">Moses </gr>with his <gr str="8597">glorious </gr>
+        <gr str="2220">arm</gr>, <gr str="1234">dividing </gr>the <gr str="4325">water </gr>
+        <gr str="4480 6440">before </gr>them, to <gr str="6213">make </gr>himself an <gr str="5769">everlasting </gr>
+        <gr str="8034">name</gr>? </VERS>
+      <VERS vnumber="13"> That <gr str="1980">led </gr>them through the <gr str="8415">deep</gr>, as a <gr str="5483">horse </gr>in the <gr str="4057">wilderness</gr>, <STYLE css="color:#808080;font-style:italic"> that </STYLE> they should <gr str="3808">not </gr>
+        <gr str="3782">stumble</gr>? </VERS>
+      <VERS vnumber="14"> As a <gr str="929">beast </gr>goeth <gr str="3381">down </gr>into the <gr str="1237">valley</gr>, the <gr str="7307">Spirit </gr>of the <gr str="3068">LORD </gr>caused him to <gr str="5117">rest</gr>: <gr str="3651">so </gr>didst thou <gr str="5090">lead </gr>thy <gr str="5971">people</gr>, to <gr str="6213">make </gr>thyself a <gr str="8597">glorious </gr>
+        <gr str="8034">name</gr>. </VERS>
+      <VERS vnumber="15"> Look <gr str="5027">down </gr>from <gr str="4480 8064">heaven</gr>, and <gr str="7200">behold </gr>from the <gr str="4480 2073">habitation </gr>of thy <gr str="6944">holiness </gr>and of thy <gr str="8597">glory</gr>: <gr str="346">where </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> thy <gr str="7068">zeal </gr>and thy <gr str="1369">strength</gr>, the <gr str="1995">sounding </gr>of thy <gr str="4578">bowels </gr>and of thy <gr str="7356">mercies </gr>
+        <gr str="413">toward </gr>me? are they <gr str="662">restrained</gr>? </VERS>
+      <VERS vnumber="16">
+        <gr str="3588">Doubtless </gr>
+        <gr str="859">thou </gr>
+        <STYLE css="color:#808080;font-style:italic"> art </STYLE> our <gr str="1">father</gr>, <gr str="3588">though </gr>
+        <gr str="85">Abraham </gr>be <gr str="3808 3045">ignorant </gr>of us, and <gr str="3478">Israel </gr>
+        <gr str="5234">acknowledge </gr>us <gr str="3808">not</gr>: <gr str="859">thou</gr>, O <gr str="3068">LORD</gr>, <STYLE css="color:#808080;font-style:italic"> art </STYLE> our <gr str="1">father</gr>, our <gr str="1350">redeemer</gr>; thy <gr str="8034">name </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> from <gr str="4480 5769">everlasting</gr>. </VERS>
+      <VERS vnumber="17"> O <gr str="3068">LORD</gr>, <gr str="4100">why </gr>hast thou made us to <gr str="8582">err </gr>from thy <gr str="4480 1870">ways</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="7188">hardened </gr>our <gr str="3820">heart </gr>from thy <gr str="4480 3374">fear</gr>? <gr str="7725">Return </gr>for thy servants' <gr str="4616 5650">sake</gr>, the <gr str="7626">tribes </gr>of thine <gr str="5159">inheritance</gr>. </VERS>
+      <VERS vnumber="18"> The <gr str="5971">people </gr>of thy <gr str="6944">holiness </gr>have <gr str="3423">possessed </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE> but a little <gr str="4705">while</gr>: our <gr str="6862">adversaries </gr>have trodden <gr str="947">down </gr>thy <gr str="4720">sanctuary</gr>. </VERS>
+      <VERS vnumber="19"> We <gr str="1961">are </gr>
+        <STYLE css="color:#808080;font-style:italic"> thine </STYLE>: thou <gr str="3808 4480 5769">never </gr>didst bear <gr str="4910">rule </gr>over them; they were <gr str="3808">not </gr>
+        <gr str="7121">called </gr>
+        <gr str="5921">by </gr>thy <gr str="8034">name</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

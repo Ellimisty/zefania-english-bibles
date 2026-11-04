@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">
+        <gr str="835">Blessed </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="376">man </gr>
+        <gr str="834">that </gr>
+        <gr str="1980">walketh </gr>
+        <gr str="3808">not </gr>in the <gr str="6098">counsel </gr>of the <gr str="7563">ungodly</gr>, <gr str="3808">nor </gr>
+        <gr str="5975">standeth </gr>in the <gr str="1870">way </gr>of <gr str="2400">sinners</gr>, <gr str="3808">nor </gr>
+        <gr str="3427">sitteth </gr>in the <gr str="4186">seat </gr>of the <gr str="3887">scornful</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="3588 518">But </gr>his <gr str="2656">delight </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> in the <gr str="8451">law </gr>of the <gr str="3068">LORD</gr>; and in his <gr str="8451">law </gr>doth he <gr str="1897">meditate </gr>
+        <gr str="3119">day </gr>and <gr str="3915">night</gr>. </VERS>
+      <VERS vnumber="3"> And he shall <gr str="1961">be </gr>like a <gr str="6086">tree </gr>
+        <gr str="8362">planted </gr>
+        <gr str="5921">by </gr>the <gr str="6388">rivers </gr>of <gr str="4325">water</gr>, <gr str="834">that </gr>bringeth <gr str="5414">forth </gr>his <gr str="6529">fruit </gr>in his <gr str="6256">season</gr>; his <gr str="5929">leaf </gr>also shall <gr str="3808">not </gr>
+        <gr str="5034">wither</gr>; and <gr str="3605 834">whatsoever </gr>he <gr str="6213">doeth </gr>shall <gr str="6743">prosper</gr>. </VERS>
+      <VERS vnumber="4"> The <gr str="7563">ungodly </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="3808">not </gr>
+        <gr str="3651">so</gr>: <gr str="3588 518">but </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> like the <gr str="4671">chaff </gr>
+        <gr str="834">which </gr>the <gr str="7307">wind </gr>driveth <gr str="5086">away</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="5921 3651">Therefore </gr>the <gr str="7563">ungodly </gr>shall <gr str="3808">not </gr>
+        <gr str="6965">stand </gr>in the <gr str="4941">judgment</gr>, nor <gr str="2400">sinners </gr>in the <gr str="5712">congregation </gr>of the <gr str="6662">righteous</gr>. </VERS>
+      <VERS vnumber="6">
+        <gr str="3588">For </gr>the <gr str="3068">LORD </gr>
+        <gr str="3045">knoweth </gr>the <gr str="1870">way </gr>of the <gr str="6662">righteous</gr>: but the <gr str="1870">way </gr>of the <gr str="7563">ungodly </gr>shall <gr str="6">perish</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="King James Version PCE" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="128">
+      <VERS vnumber="1">A Song of degrees.  Blessed  is  every one that feareth the <STYLE id="cl:divineName">Lord</STYLE>; that walketh in his ways.</VERS>
+      <VERS vnumber="2">For thou shalt eat the labour of thine hands: happy  shalt  thou  be , and  it shall be  well with thee.</VERS>
+      <VERS vnumber="3">Thy wife  shall be  as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.</VERS>
+      <VERS vnumber="4">Behold, that thus shall the man be blessed that feareth the <STYLE id="cl:divineName">Lord</STYLE>.</VERS>
+      <VERS vnumber="5">The <STYLE id="cl:divineName">Lord</STYLE> shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.</VERS>
+      <VERS vnumber="6">Yea, thou shalt see thy children’s children,  and  peace upon Israel.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

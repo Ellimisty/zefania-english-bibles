@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="World English Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="150">
+      <VERS vnumber="1">Praise Yah!    Praise God in his sanctuary!    Praise him in his heavens for his acts of power!</VERS>
+      <VERS vnumber="2">Praise him for his mighty acts!    Praise him according to his excellent greatness!</VERS>
+      <VERS vnumber="3">Praise him with the sounding of the trumpet!    Praise him with harp and lyre!</VERS>
+      <VERS vnumber="4">Praise him with tambourine and dancing!    Praise him with stringed instruments and flute!</VERS>
+      <VERS vnumber="5">Praise him with loud cymbals!    Praise him with resounding cymbals!</VERS>
+      <VERS vnumber="6">Let everything that has breath praise Yah!    Praise Yah!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="117">
+      <VERS vnumber="1">Praise the <STYLE id="cl:divineName">Lord</STYLE>, all you nations:laud him, all you peoples.</VERS>
+      <VERS vnumber="2">For his mighty love is over us:the <STYLE id="cl:divineName">Lord</STYLE> is faithful forever.Hallelujah.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

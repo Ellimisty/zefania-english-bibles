@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="13">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief musician, a psalm of David.</STYLE>
+        <DIV>
+          <NOTE type="x-studynote">(13:2)</NOTE>
+        </DIV> How long, O Lord, wilt thou forget me continually! how long wilt thou hide thy face from me?</VERS>
+      <VERS vnumber="2">
+        <DIV>
+          <NOTE type="x-studynote">(13:3)</NOTE>
+        </DIV> How long shall I have to devise resolves in my soul, with grief in my heart daily? how long shall my enemy exalt himself over me?</VERS>
+      <VERS vnumber="3">
+        <DIV>
+          <NOTE type="x-studynote">(13:4)</NOTE>
+        </DIV> Look down, answer me, O Lord my God! Enlighten my eyes, that I may not sleep the sleep of death;</VERS>
+      <VERS vnumber="4">
+        <DIV>
+          <NOTE type="x-studynote">(13:5)</NOTE>
+        </DIV> That my enemy may not say, I have overcome him; that my assailants may not be glad when I am moved.</VERS>
+      <VERS vnumber="5">
+        <DIV>
+          <NOTE type="x-studynote">(13:6)</NOTE>
+        </DIV> But I trust in thy kindness, let my heart be glad because of thy salvation:</VERS>
+      <VERS vnumber="6">I will sing unto the Lord, because he hath dealt bountifully with me.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

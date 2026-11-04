@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="129">
+      <VERS vnumber="1">A Canticle in steps. From the depths, I have cried out to you, O Lord.</VERS>
+      <VERS vnumber="2">O Lord, hear my voice. Let your ears be attentive to the voice of my supplication.</VERS>
+      <VERS vnumber="3">If you, O Lord, were to heed iniquities, who, O Lord, could persevere?</VERS>
+      <VERS vnumber="4">For with you, there is forgiveness, and because of your law, I persevered with you, Lord. My soul has persevered in his word.</VERS>
+      <VERS vnumber="5">My soul has hoped in the Lord.</VERS>
+      <VERS vnumber="6">From the morning watch, even until night, let Israel hope in the Lord.</VERS>
+      <VERS vnumber="7">For with the Lord there is mercy, and with him there is bountiful redemption.</VERS>
+      <VERS vnumber="8">And he will redeem Israel from all his iniquities.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

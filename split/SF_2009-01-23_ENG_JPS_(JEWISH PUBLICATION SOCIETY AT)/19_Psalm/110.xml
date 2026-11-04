@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Jewish Publication Society AT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="110">
+      <VERS vnumber="1">A Psalm of David. The LORD saith unto my lord: 'Sit thou at My right hand, until I make thine enemies thy footstool.'</VERS>
+      <VERS vnumber="2">The rod of Thy strength the LORD will send out of Zion: 'Rule thou in the midst of thine enemies.'</VERS>
+      <VERS vnumber="3">Thy people offer themselves willingly in the day of thy warfare; in adornments of holiness, from the womb of the dawn, thine is the dew of thy youth.</VERS>
+      <VERS vnumber="4">The LORD hath sworn, and will not repent: 'Thou art a priest for ever after the manner of Melchizedek.'</VERS>
+      <VERS vnumber="5">The Lord at thy right hand doth crush kings in the day of His wrath.</VERS>
+      <VERS vnumber="6">He will judge among the nations; He filleth it with dead bodies, He crusheth the head over a wide land.</VERS>
+      <VERS vnumber="7">He will drink of the brook in the way; therefore will he lift up the head.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

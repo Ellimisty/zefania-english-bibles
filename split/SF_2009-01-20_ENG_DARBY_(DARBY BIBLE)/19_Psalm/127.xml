@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Darby Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="127">
+      <VERS vnumber="1">{A Song of degrees. Of Solomon.} Unless Jehovah build the house, in vain do its builders labour in it; unless Jehovah keep the city, the keeper watcheth in vain:</VERS>
+      <VERS vnumber="2">It is vain for you to rise up early, to lie down late, to eat the bread of sorrows: so to his beloved one he giveth sleep.</VERS>
+      <VERS vnumber="3">Lo, children are an inheritance from Jehovah, [and] the fruit of the womb a reward.</VERS>
+      <VERS vnumber="4">As arrows in the hand of a mighty man, so are the children of youth.</VERS>
+      <VERS vnumber="5">Happy is the man that hath filled his quiver with them. They shall not be ashamed when they speak with enemies in the gate.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

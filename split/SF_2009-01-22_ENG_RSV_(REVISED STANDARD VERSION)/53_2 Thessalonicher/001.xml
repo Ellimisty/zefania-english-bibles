@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="53" bname="2 Thessalonicher" bsname="2.Thes">
+    <CHAPTER cnumber="1">
+      <CAPTION vref="1">Therefore comfort one another with these words.</CAPTION>
+      <VERS vnumber="1">Paul, Silva'nus, and Timothy, To the church of the Thessalo'nians in God our Father and the Lord Jesus Christ:</VERS>
+      <VERS vnumber="2">Grace to you and peace from God the Father and the Lord Jesus Christ.</VERS>
+      <VERS vnumber="3">We are bound to give thanks to God always for you, brethren, as is fitting, because your faith is growing abundantly, and the love of every one of you for one another is increasing.</VERS>
+      <VERS vnumber="4">Therefore we ourselves boast of you in the churches of God for your steadfastness and faith in all your persecutions and in the afflictions which you are enduring.</VERS>
+      <VERS vnumber="5">This is evidence of the righteous judgment of God, that you may be made worthy of the kingdom of God, for which you are suffering--</VERS>
+      <VERS vnumber="6">since indeed God deems it just to repay with affliction those who afflict you,</VERS>
+      <VERS vnumber="7">and to grant rest with us to you who are afflicted, when the Lord Jesus is revealed from heaven with his mighty angels in flaming fire,</VERS>
+      <VERS vnumber="8">inflicting vengeance upon those who do not know God and upon those who do not obey the gospel of our Lord Jesus.</VERS>
+      <VERS vnumber="9">They shall suffer the punishment of eternal destruction and exclusion from the presence of the Lord and from the glory of his might,</VERS>
+      <VERS vnumber="10">when he comes on that day to be glorified in his saints, and to be marveled at in all who have believed, because our testimony to you was believed.</VERS>
+      <VERS vnumber="11">To this end we always pray for you, that our God may make you worthy of his call, and may fulfil every good resolve and work of faith by his power,</VERS>
+      <VERS vnumber="12">so that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

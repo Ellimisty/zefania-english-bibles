@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Jewish Publication Society AT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="12">
+      <VERS vnumber="1">Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men.</VERS>
+      <VERS vnumber="2">They speak falsehood every one with his neighbour; with flattering lip, and with a double heart, do they speak.</VERS>
+      <VERS vnumber="3">May the LORD cut off all flattering lips, the tongue that speaketh proud things!</VERS>
+      <VERS vnumber="4">Who have said: 'Our tongue will we make mighty; our lips are with us: who is lord over us?'</VERS>
+      <VERS vnumber="5">'For the oppression of the poor, for the sighing of the needy, now will I arise', saith the LORD; 'I will set him in safety at whom they puff.'</VERS>
+      <VERS vnumber="6">The words of the LORD are pure words, as silver tried in a crucible on the earth, refined seven times.</VERS>
+      <VERS vnumber="7">Thou wilt keep them, O LORD; Thou wilt preserve us from this generation for ever.</VERS>
+      <VERS vnumber="8">The wicked walk on every side, when vileness is exalted among the sons of men.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

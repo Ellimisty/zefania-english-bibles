@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Rotherham Version" type="x-bible">
+  <BIBLEBOOK bname="Psalm" bnumber="19" bsname="Ps">
+    <CHAPTER cnumber="150">
+      <VERS vnumber="1">Praise ye Yah, Praise ye GOD in his sanctuary, Praise him, in his strong expanse:</VERS>
+      <VERS vnumber="2">Praise him, for his mighty deeds, Praise him, according to his exceeding greatness:</VERS>
+      <VERS vnumber="3">Praise him, with the blast of a horn, Praise him, with the harp and lyre:</VERS>
+      <VERS vnumber="4">Praise him, with timbrel and dance,Praise him, with stringed instrument and flute,</VERS>
+      <VERS vnumber="5">Praise him, with cymbals of clear tone,Praise him, with cymbals of loud clang:</VERS>
+      <VERS vnumber="6">Let, every breathing thing, praise Yah, Praise ye Yah!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="86">
+      <VERS vnumber="1">Incline your ear, <STYLE id="cl:divineName">Lord</STYLE>, and answer me,for I am afflicted and needy.Guard me, for I am loyal:save your servant, who trusts in you.</VERS>
+      <VERS vnumber="3">
+        <STYLE id="cl:divineName">Lord</STYLE>, be gracious to me, for you are my God;I cry to you all the day.</VERS>
+      <VERS vnumber="4">Gladden the heart of your servant;for to you, <STYLE id="cl:divineName">Lord</STYLE>, I set my hope.</VERS>
+      <VERS vnumber="5">For you, <STYLE id="cl:divineName">Lord</STYLE>, are good and forgiving,rich in love towards all who call on you. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="6">Listen, O <STYLE id="cl:divineName">Lord</STYLE>, to my prayer;attend to my plea for mercy.</VERS>
+      <VERS vnumber="7">In the day of my trouble I call on you,with assurance that you will answer me.</VERS>
+      <VERS vnumber="8">None of the gods is like you, <STYLE id="cl:divineName">Lord</STYLE>,nor are any works like yours.</VERS>
+      <VERS vnumber="9">All the nations you have madewill come and bow down before you,giving glory, O <STYLE id="cl:divineName">Lord</STYLE>, to your name.</VERS>
+      <VERS vnumber="10">For great are you, and a doer of wonders;you alone are God. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="11">Teach me, O <STYLE id="cl:divineName">Lord</STYLE>, your way,that I may walk in your truth:so my heart shall rejoice in your name.</VERS>
+      <VERS vnumber="12">I will give you thanks, O <STYLE id="cl:divineName">Lord</STYLE>,with all my heart, my God,I will honour your name forever.</VERS>
+      <VERS vnumber="13">For great is your love towards me,from the depths of Sheol you have saved me. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="14">Haughty men have risen up against me, O God,a band of the violent seeking my life,who think nothing of you.</VERS>
+      <VERS vnumber="15">But you are a God of pity and grace,patient and rich in kindness and faithfulness;turn to me with your grace, O <STYLE id="cl:divineName">Lord</STYLE>.</VERS>
+      <VERS vnumber="16">Grant your strength to your servant,and save the child of your handmaid.</VERS>
+      <VERS vnumber="17">Show me a sign of your favour,which those who hate me may see with confusion,since you, <STYLE id="cl:divineName">Lord</STYLE>, are my helper and comforter.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

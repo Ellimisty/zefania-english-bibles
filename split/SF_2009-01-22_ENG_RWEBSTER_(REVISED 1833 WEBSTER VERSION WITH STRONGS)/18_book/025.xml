@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="18">
+    <CHAPTER cnumber="25">
+      <VERS vnumber="1">Then <gr str="6030">answered </gr>
+        <gr str="1085">Bildad </gr>the <gr str="7747">Shuhite</gr>, and <gr str="559">said</gr>,</VERS>
+      <VERS vnumber="2">
+        <gr str="4910">Dominion </gr>and <gr str="6343">fear </gr>
+        <STYLE css="font-style:italic">are</STYLE> with him, he <gr str="6213">maketh </gr>
+        <gr str="7965">peace </gr>in his high <gr str="4791">places</gr>.</VERS>
+      <VERS vnumber="3">Is <gr str="3426">there </gr>any <gr str="4557">number </gr>of his <gr str="1416">armies</gr>? and upon whom doth not his <gr str="216">light </gr>
+        <gr str="6965">arise</gr>?</VERS>
+      <VERS vnumber="4">How then can <gr str="582">man </gr>be <gr str="6663">justified </gr>with <gr str="410">God</gr>? or how can he be <gr str="2135">clean </gr>
+        <STYLE css="font-style:italic">that is </STYLE>
+        <gr str="3205">born </gr>of a <gr str="802">woman</gr>?</VERS>
+      <VERS vnumber="5">Behold even to the <gr str="3394">moon</gr>, and it <gr str="166">shineth </gr>not; and the <gr str="3556">stars </gr>are not <gr str="2141">pure </gr>in his <gr str="5869">sight</gr>.</VERS>
+      <VERS vnumber="6">How much less <gr str="582">man</gr>, <STYLE css="font-style:italic">that is</STYLE> a <gr str="7415">worm</gr>? and the <gr str="1121">son </gr>of <gr str="120">man</gr>, <STYLE css="font-style:italic">who is</STYLE> a <gr str="8438">worm</gr>?</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

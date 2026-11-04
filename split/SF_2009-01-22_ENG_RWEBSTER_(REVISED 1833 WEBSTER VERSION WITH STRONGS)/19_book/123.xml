@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="123">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A <gr str="7892">Song </gr>of <gr str="4609">degrees</gr>.</STYLE> To thee I lift <gr str="5375">up </gr>my <gr str="5869">eyes</gr>, O thou that <gr str="3427">dwellest </gr>in the <gr str="8064">heavens</gr>.</VERS>
+      <VERS vnumber="2">Behold, as the <gr str="5869">eyes </gr>of <gr str="5650">servants </gr>
+        <STYLE css="font-style:italic">look</STYLE> to the <gr str="3027">hand </gr>of their <gr str="113">masters</gr>, <STYLE css="font-style:italic">and</STYLE> as the <gr str="5869">eyes </gr>of a <gr str="8198">maiden </gr>to the <gr str="3027">hand </gr>of her <gr str="1404">mistress</gr>; so our <gr str="5869">eyes </gr>
+        <STYLE css="font-style:italic">wait</STYLE> upon the <gr str="3068">LORD </gr>our <gr str="430">God</gr>, until he shall have <gr str="2603">mercy </gr>upon us.</VERS>
+      <VERS vnumber="3">Have <gr str="2603">mercy </gr>upon us, O <gr str="3068">LORD</gr>, have <gr str="2603">mercy </gr>upon us: for we are <gr str="7227">exceedingly </gr>
+        <gr str="7646">filled </gr>with <gr str="937">contempt</gr>.</VERS>
+      <VERS vnumber="4">Our <gr str="5315">soul </gr>is <gr str="7227">exceedingly </gr>
+        <gr str="7646">filled </gr>with the <gr str="3933">scorning </gr>of those that are at <gr str="7600">ease</gr>, <STYLE css="font-style:italic">and</STYLE> with the <gr str="937">contempt </gr>of the <gr str="3238 1343 1349">proud</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

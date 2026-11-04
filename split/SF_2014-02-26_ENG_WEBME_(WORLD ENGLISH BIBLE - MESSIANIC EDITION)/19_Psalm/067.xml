@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="World English Bible - Messianic Edition" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="67">
+      <VERS vnumber="1">May God be merciful to us, bless us,and cause his face to shine on us.Selah.</VERS>
+      <VERS vnumber="2">That your way may be known on earth,and your salvation [yeshuat] among all nations,</VERS>
+      <VERS vnumber="3">let the peoples praise you, God.Let all the peoples praise you.</VERS>
+      <VERS vnumber="4">Oh let the nations be glad and sing for joy,for you will judge the peoples with equity,and govern the nations on earth.Selah.</VERS>
+      <VERS vnumber="5">Let the peoples praise you, God.Let all the peoples praise you.</VERS>
+      <VERS vnumber="6">The earth has yielded its increase.God, even our own God, will bless us.</VERS>
+      <VERS vnumber="7">God will bless us.All the ends of the earth shall fear him.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="12">
+      <VERS vnumber="1">Unto the end. A Psalm of David. How long, O Lord? Will you forget me until the end? How long will you turn your face away from me?</VERS>
+      <VERS vnumber="2">How long can I take counsel in my soul, sorrowing in my heart throughout the day?</VERS>
+      <VERS vnumber="3">How long will my enemy be exalted over me?</VERS>
+      <VERS vnumber="4">Look upon me and listen to me, O Lord my God. Enlighten my eyes, lest I fall asleep forever in death,</VERS>
+      <VERS vnumber="5">lest at any time my enemy may say, “I have prevailed against him.” Those who trouble me will exult, if I have been disturbed.</VERS>
+      <VERS vnumber="6">But I have hoped in your mercy. My heart will exult in your salvation. I will sing to the Lord, who assigns good things to me. And I will sing psalms to the name of the Lord Most High.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

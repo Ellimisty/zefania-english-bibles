@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="123">
+      <CAPTION vref="1">A Song of Ascents.</CAPTION>
+      <VERS vnumber="1">Unto You I lift up my eyes, O You who dwell in the heavens.</VERS>
+      <VERS vnumber="2">Behold, as the eyes of servants look to the hand of their masters, as the eyes of a maid to the hand of her mistress, so our eyes wait upon Jehovah our God, until He shall have mercy upon us.</VERS>
+      <VERS vnumber="3">Have mercy upon us, O Jehovah, have mercy upon us! For we are more than enough held in contempt.</VERS>
+      <VERS vnumber="4">Our soul has more than enough of the derision of those who are at ease, with the contempt of the proud who oppress us.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

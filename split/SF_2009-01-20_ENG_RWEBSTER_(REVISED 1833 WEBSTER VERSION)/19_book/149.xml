@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="149">
+      <VERS vnumber="1">Praise ye the LORD. Sing to the LORD a new song, <STYLE css="font-style:italic">and</STYLE> his praise in the congregation of saints. <DIV>
+          <NOTE type="x-studynote">Praise…: Heb. Hallelujah</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">Let Israel rejoice in him that made him: let the children of Zion be joyful in their King. <DIV>
+          <NOTE type="x-studynote">in him…: Heb. in his Makers</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">Let them praise his name in the dance: let them sing praises to him with the timbrel and harp. <DIV>
+          <NOTE type="x-studynote">in…: or, with the pipe</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">For the LORD taketh pleasure in his people: he will beautify the meek with salvation.</VERS>
+      <VERS vnumber="5">Let the saints be joyful in glory: let them sing aloud upon their beds.</VERS>
+      <VERS vnumber="6">
+        <STYLE css="font-style:italic">Let</STYLE> the high <STYLE css="font-style:italic">praises</STYLE> of God <STYLE css="font-style:italic">be</STYLE> in their mouth, and a twoedged sword in their hand; <DIV>
+          <NOTE type="x-studynote">mouth: Heb. throat</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="7">To execute vengeance upon the heathen, <STYLE css="font-style:italic">and</STYLE> punishments upon the people;</VERS>
+      <VERS vnumber="8">To bind their kings with chains, and their nobles with fetters of iron;</VERS>
+      <VERS vnumber="9">To execute upon them the judgment written: this honour have all his saints. Praise ye the LORD.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

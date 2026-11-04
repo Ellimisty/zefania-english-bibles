@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James 2000" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="110">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic;font-weight:bold">A Psalm of David.</STYLE> The LORD said unto my Lord, <STYLE css="color:#FF0000">Sit at my right hand, until I make your enemies your footstool.</STYLE>
+      </VERS>
+      <VERS vnumber="2">The LORD shall send the rod of your strength out of Zion: rule you in the midst of your enemies.</VERS>
+      <VERS vnumber="3">Your people shall be willing in the day of your power, in the beauties of holiness from the womb of the morning: you have the dew of your youth.</VERS>
+      <VERS vnumber="4">The LORD has sworn, and will not relent, <STYLE css="color:#FF0000">You are a priest forever after the order of Melchizedek.</STYLE>
+      </VERS>
+      <VERS vnumber="5">The Lord at your right hand shall strike through kings in the day of his wrath.</VERS>
+      <VERS vnumber="6">He shall judge among the nations, he shall fill the places with the dead bodies; he shall crush the heads over many countries.</VERS>
+      <VERS vnumber="7">He shall drink of the brook in the way: therefore shall he lift up the head.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

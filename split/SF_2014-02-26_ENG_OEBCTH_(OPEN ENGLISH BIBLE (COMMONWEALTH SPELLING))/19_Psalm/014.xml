@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="14">
+      <VERS vnumber="1">Fools say in their heart,“There is no God.”Vile, hateful their life is;not one does good. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="2">From heaven the <STYLE id="cl:divineName">Lord</STYLE> looks outon humans, to seeif any are wise,and care for God. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">But all have turned bad,the taint is on all;not one does good,no, not one. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="4">Have they learned their lesson,those workers of evil?Who ate up my people,eating, devouring,never calling to the <STYLE id="cl:divineName">Lord</STYLE>. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">Sore afraid will they be;for God is amongthose who are righteous,</VERS>
+      <VERS vnumber="6">you may mock the plans of the poor,but the <STYLE id="cl:divineName">Lord</STYLE> is their refuge. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">If only help from Zionwould come for Israel!When the <STYLE id="cl:divineName">Lord</STYLE> brings his peoplea change of fortune,how glad will be Jacob,and Israel how joyful!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

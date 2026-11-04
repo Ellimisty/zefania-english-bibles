@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.3" biblename="New Heart English Bible ME" type="x-bible">
+  <BIBLEBOOK bnumber="19" bsname="PSA">
+    <CHAPTER cnumber="150">
+      <VERS vnumber="1">Praise the LORD. Praise God in his sanctuary. Praise him in his heavens for his acts of power.</VERS>
+      <VERS vnumber="2">Praise him for his mighty acts. Praise him according to his excellent greatness.</VERS>
+      <VERS vnumber="3">Praise him with the sounding of the trumpet. Praise him with harp and lyre.</VERS>
+      <VERS vnumber="4">Praise him with tambourine and dancing. Praise him with stringed instruments and flute.</VERS>
+      <VERS vnumber="5">Praise him with loud cymbals. Praise him with resounding cymbals.</VERS>
+      <VERS vnumber="6">Let everything that has breath praise the LORD. Praise the LORD.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

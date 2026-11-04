@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="English Jubilee 2000 Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="120">
+      <VERS vnumber="1">&lt;&lt;A Song of degrees.&gt;&gt; In my distress I cried unto the LORD, and he answered me.</VERS>
+      <VERS vnumber="2">Deliver my soul, O LORD, from lying lips [and] from a deceitful tongue.</VERS>
+      <VERS vnumber="3">What shall be given unto thee? or what shall be done unto thee, thou false tongue?</VERS>
+      <VERS vnumber="4">Sharp arrows of the mighty, with coals of juniper.</VERS>
+      <VERS vnumber="5">Woe is me, that I sojourn in Mesech, [that] I dwell in the tents of Kedar!</VERS>
+      <VERS vnumber="6">My soul has long dwelt with those that hate peace.</VERS>
+      <VERS vnumber="7">I [am for] peace; but when I speak, they [are] for war.:</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

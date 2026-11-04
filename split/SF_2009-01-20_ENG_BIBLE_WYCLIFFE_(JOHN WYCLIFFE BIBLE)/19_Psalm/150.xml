@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="John Wycliffe Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="150">
+      <VERS vnumber="1">
+The title of the hundrid and fiftithe salm. Alleluya. Herie ye the Lord in hise seyntis; herie ye hym in the firmament of his vertu.
+</VERS>
+      <VERS vnumber="2">
+Herie ye hym in hise vertues; herie ye hym bi the multitude of his greetnesse.
+</VERS>
+      <VERS vnumber="3">
+Herie ye hym in the soun of trumpe; herie ye hym in a sautre and harpe.
+</VERS>
+      <VERS vnumber="4">
+Herie ye hym in a tympane and queer; herie ye hym in strengis and orgun.
+</VERS>
+      <VERS vnumber="5">
+Herie ye  hym in cymbalis sownynge wel, herye ye hym in cymbalis of iubilacioun;
+</VERS>
+      <VERS vnumber="6">
+ech spirit, herye the Lord.
+</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="10">
+      <VERS vnumber="1">Unto the end. A Psalm of David.</VERS>
+      <VERS vnumber="2">I trust in the Lord. How can you say to my soul, “Sojourn to the mountain, like a sparrow.”</VERS>
+      <VERS vnumber="3">For behold, the sinners have bent their bow. They have prepared their arrows in the quiver, so as to shoot arrows in the dark at the upright of heart.</VERS>
+      <VERS vnumber="4">For they have destroyed the things that you have completed. But what has the just one done?</VERS>
+      <VERS vnumber="5">The Lord is in his holy temple. The Lord’s throne is in heaven. His eyes look upon the poor. His eyelids question the sons of men.</VERS>
+      <VERS vnumber="6">The Lord questions the just and the impious. Yet he who loves iniquity, hates his own soul.</VERS>
+      <VERS vnumber="7">He will rain down snares upon sinners. Fire and brimstone and windstorms will be the portion of their cup.</VERS>
+      <VERS vnumber="8">For the Lord is just, and he has chosen justice. His countenance has beheld equity.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

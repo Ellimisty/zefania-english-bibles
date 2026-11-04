@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="13" bname="1 Chronik" bsname="1Chr">
+    <CHAPTER cnumber="3">
+      <VERS vnumber="1"> Now <gr str="428">these </gr>
+        <gr str="1961">were </gr>the <gr str="1121">sons </gr>of <gr str="1732">David</gr>, <gr str="834">which </gr>were <gr str="3205">born </gr>unto him in <gr str="2275">Hebron</gr>; the <gr str="1060">firstborn </gr>
+        <gr str="550">Amnon</gr>, of <gr str="293">Ahinoam </gr>the <gr str="3159">Jezreelitess</gr>; the <gr str="8145">second </gr>
+        <gr str="1840">Daniel</gr>, of <gr str="26">Abigail </gr>the <gr str="3762">Carmelitess</gr>: </VERS>
+      <VERS vnumber="2"> The <gr str="7992">third</gr>, <gr str="53">Absalom </gr>the <gr str="1121">son </gr>of <gr str="4601">Maachah </gr>the <gr str="1323">daughter </gr>of <gr str="8526">Talmai </gr>
+        <gr str="4428">king </gr>of <gr str="1650">Geshur</gr>: the <gr str="7243">fourth</gr>, <gr str="138">Adonijah </gr>the <gr str="1121">son </gr>of <gr str="2294">Haggith</gr>: </VERS>
+      <VERS vnumber="3"> The <gr str="2549">fifth</gr>, <gr str="8203">Shephatiah </gr>of <gr str="37">Abital</gr>: the <gr str="8345">sixth</gr>, <gr str="3507">Ithream </gr>by <gr str="5698">Eglah </gr>his <gr str="802">wife</gr>. </VERS>
+      <VERS vnumber="4">
+        <STYLE css="color:#808080;font-style:italic"> These </STYLE>
+        <gr str="8337">six </gr>were <gr str="3205">born </gr>unto him in <gr str="2275">Hebron</gr>; and <gr str="8033">there </gr>he <gr str="4427">reigned </gr>
+        <gr str="7651">seven </gr>
+        <gr str="8141">years </gr>and <gr str="8337">six </gr>
+        <gr str="2320">months</gr>: and in <gr str="3389">Jerusalem </gr>he <gr str="4427">reigned </gr>
+        <gr str="7970">thirty </gr>and <gr str="7969">three </gr>
+        <gr str="8141">years</gr>. </VERS>
+      <VERS vnumber="5"> And <gr str="428">these </gr>were <gr str="3205">born </gr>unto him in <gr str="3389">Jerusalem</gr>; <gr str="8092">Shimea</gr>, and <gr str="7727">Shobab</gr>, and <gr str="5416">Nathan</gr>, and <gr str="8010">Solomon</gr>, <gr str="702">four</gr>, of <gr str="1340">Bath </gr>-shua the <gr str="1323">daughter </gr>of <gr str="5988">Ammiel</gr>: </VERS>
+      <VERS vnumber="6">
+        <gr str="2984">Ibhar </gr>also, and <gr str="476">Elishama</gr>, and <gr str="467">Eliphelet</gr>, </VERS>
+      <VERS vnumber="7"> And <gr str="5052">Nogah</gr>, and <gr str="5298">Nepheg</gr>, and <gr str="3309">Japhia</gr>, </VERS>
+      <VERS vnumber="8"> And <gr str="476">Elishama</gr>, and <gr str="450">Eliada</gr>, and <gr str="467">Eliphelet</gr>, <gr str="8672">nine</gr>. </VERS>
+      <VERS vnumber="9">
+        <STYLE css="color:#808080;font-style:italic"> These </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE>
+        <gr str="3605">all </gr>the <gr str="1121">sons </gr>of <gr str="1732">David</gr>, <gr str="4480 905">beside </gr>the <gr str="1121">sons </gr>of the <gr str="6370">concubines</gr>, and <gr str="8559">Tamar </gr>their <gr str="269">sister</gr>. </VERS>
+      <VERS vnumber="10"> And <gr str="8010">Solomon </gr>'s <gr str="1121">son </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="7346">Rehoboam</gr>, <gr str="29">Abia </gr>his <gr str="1121">son</gr>, <gr str="609">Asa </gr>his <gr str="1121">son</gr>, <gr str="3092">Jehoshaphat </gr>his <gr str="1121">son</gr>, </VERS>
+      <VERS vnumber="11">
+        <gr str="3141">Joram </gr>his <gr str="1121">son</gr>, <gr str="274">Ahaziah </gr>his <gr str="1121">son</gr>, <gr str="3101">Joash </gr>his <gr str="1121">son</gr>, </VERS>
+      <VERS vnumber="12">
+        <gr str="558">Amaziah </gr>his <gr str="1121">son</gr>, <gr str="5838">Azariah </gr>his <gr str="1121">son</gr>, <gr str="3147">Jotham </gr>his <gr str="1121">son</gr>, </VERS>
+      <VERS vnumber="13">
+        <gr str="271">Ahaz </gr>his <gr str="1121">son</gr>, <gr str="2396">Hezekiah </gr>his <gr str="1121">son</gr>, <gr str="4519">Manasseh </gr>his <gr str="1121">son</gr>, </VERS>
+      <VERS vnumber="14">
+        <gr str="526">Amon </gr>his <gr str="1121">son</gr>, <gr str="2977">Josiah </gr>his <gr str="1121">son</gr>. </VERS>
+      <VERS vnumber="15"> And the <gr str="1121">sons </gr>of <gr str="2977">Josiah </gr>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE>, the <gr str="1060">firstborn </gr>
+        <gr str="3110">Johanan</gr>, the <gr str="8145">second </gr>
+        <gr str="3079">Jehoiakim</gr>, the <gr str="7992">third </gr>
+        <gr str="6667">Zedekiah</gr>, the <gr str="7243">fourth </gr>
+        <gr str="7967">Shallum</gr>. </VERS>
+      <VERS vnumber="16"> And the <gr str="1121">sons </gr>of <gr str="3079">Jehoiakim</gr>: <gr str="3204">Jeconiah </gr>his <gr str="1121">son</gr>, <gr str="6667">Zedekiah </gr>his <gr str="1121">son</gr>. </VERS>
+      <VERS vnumber="17"> And the <gr str="1121">sons </gr>of <gr str="3204">Jeconiah</gr>; <gr str="617">Assir</gr>, <gr str="7597">Salathiel </gr>his <gr str="1121">son</gr>, </VERS>
+      <VERS vnumber="18">
+        <gr str="4443">Malchiram </gr>also, and <gr str="6305">Pedaiah</gr>, and <gr str="8137">Shenazar</gr>, <gr str="3359">Jecamiah</gr>, <gr str="1953">Hoshama</gr>, and <gr str="5072">Nedabiah</gr>. </VERS>
+      <VERS vnumber="19"> And the <gr str="1121">sons </gr>of <gr str="6305">Pedaiah </gr>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE>, <gr str="2216">Zerubbabel</gr>, and <gr str="8096">Shimei</gr>: and the <gr str="1121">sons </gr>of <gr str="2216">Zerubbabel</gr>; <gr str="4918">Meshullam</gr>, and <gr str="2608">Hananiah</gr>, and <gr str="8019">Shelomith </gr>their <gr str="269">sister</gr>: </VERS>
+      <VERS vnumber="20"> And <gr str="2807">Hashubah</gr>, and <gr str="169">Ohel</gr>, and <gr str="1296">Berechiah</gr>, and <gr str="2619">Hasadiah</gr>, <gr str="3142">Jushab </gr>-hesed, <gr str="2568">five</gr>. </VERS>
+      <VERS vnumber="21"> And the <gr str="1121">sons </gr>of <gr str="2608">Hananiah</gr>; <gr str="6410">Pelatiah</gr>, and <gr str="3470">Jesaiah</gr>: the <gr str="1121">sons </gr>of <gr str="7509">Rephaiah</gr>, the <gr str="1121">sons </gr>of <gr str="770">Arnan</gr>, the <gr str="1121">sons </gr>of <gr str="5662">Obadiah</gr>, the <gr str="1121">sons </gr>of <gr str="7935">Shechaniah</gr>. </VERS>
+      <VERS vnumber="22"> And the <gr str="1121">sons </gr>of <gr str="7935">Shechaniah</gr>; <gr str="8098">Shemaiah</gr>: and the <gr str="1121">sons </gr>of <gr str="8098">Shemaiah</gr>; <gr str="2407">Hattush</gr>, and <gr str="3008">Igeal</gr>, and <gr str="1282">Bariah</gr>, and <gr str="5294">Neariah</gr>, and <gr str="8202">Shaphat</gr>, <gr str="8337">six</gr>. </VERS>
+      <VERS vnumber="23"> And the <gr str="1121">sons </gr>of <gr str="5294">Neariah</gr>; <gr str="454">Elioenai</gr>, and <gr str="2396">Hezekiah</gr>, and <gr str="5840">Azrikam</gr>, <gr str="7969">three</gr>. </VERS>
+      <VERS vnumber="24"> And the <gr str="1121">sons </gr>of <gr str="454">Elioenai </gr>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE>, <gr str="1939">Hodaiah</gr>, and <gr str="475">Eliashib</gr>, and <gr str="6411">Pelaiah</gr>, and <gr str="6126">Akkub</gr>, and <gr str="3110">Johanan</gr>, and <gr str="1806">Dalaiah</gr>, and <gr str="6054">Anani</gr>, <gr str="7651">seven</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

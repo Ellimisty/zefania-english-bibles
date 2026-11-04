@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="124">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A song of the degrees by David.</STYLE> If it had not been the Lord who was for us, so should Israel say;</VERS>
+      <VERS vnumber="2">If it had not been the Lord who was for us, when men rose up against us:</VERS>
+      <VERS vnumber="3">Then would they have swallowed us up alive, when their wrath was kindled against us;</VERS>
+      <VERS vnumber="4">Then would the waters have overwhelmed us, the stream would have passed over our soul;</VERS>
+      <VERS vnumber="5">Then would have passed over our soul the presumptuous waters.</VERS>
+      <VERS vnumber="6">Blessed be the Lord, who hath not given us up as a prey to their teeth.</VERS>
+      <VERS vnumber="7">Our soul is escaped like a bird out of the snare of the fowlers: the snare is broken, and we are escaped.</VERS>
+      <VERS vnumber="8">Our help is in the name of the Lord, the maker of heaven and earth.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

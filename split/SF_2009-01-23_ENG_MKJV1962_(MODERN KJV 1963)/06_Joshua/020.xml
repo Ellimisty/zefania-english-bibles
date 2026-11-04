@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Modern KJV 1963" type="x-bible">
+  <BIBLEBOOK bnumber="6" bname="Joshua" bsname="Josh">
+    <CHAPTER cnumber="20">
+      <VERS vnumber="1">And the LORD spoke to Joshua, saying,</VERS>
+      <VERS vnumber="2">Speak to the sons of Israel, saying, Appoint cities of refuge for you, as I have spoken to you by the hand of Moses;</VERS>
+      <VERS vnumber="3">that the manslayer who in innocence strikes [anyone] mortally, without knowing, may flee there. And they shall be your refuge from the avenger of blood.</VERS>
+      <VERS vnumber="4">And he shall flee to one of those cities, and shall stand at the entrance of the gate of the city, and shall declare his cause in the ears of the elders of that city. And they shall take him into the city to themselves and make him a place, and he shall live with them.</VERS>
+      <VERS vnumber="5">And if the avenger of blood pursues him, then they shall not deliver the manslayer into his hand, for he has struck his neighbor without knowing, and did not hate him in past time.</VERS>
+      <VERS vnumber="6">And he shall live in that city until he stands before the congregation for judgment, until the death of the high priest who is in those days. Then the manslayer shall return and come to his city, and to his house, to the city from where he fled.</VERS>
+      <VERS vnumber="7">And they set apart Kadesh in Galilee, in the hills of Naphtali; and Shechem in the hills of Ephraim; and Kirjath-arba (it [is] Hebron) in the hills of Judah.</VERS>
+      <VERS vnumber="8">And beyond the Jordan, [at] Jericho eastward, they gave Bezer in the wilderness, on the tableland out of the tribe of Reuben; and Ramoth in Gilead out of the tribe of Gad; and Golan in Bashan out of the tribe of Manasseh.</VERS>
+      <VERS vnumber="9">These were the appointed cities for all the sons of Israel, and for the alien who was living in their midst, that he who had killed [anyone] without knowing might flee there, and not die by the hand of the avenger of blood, until he stood before the congregation.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

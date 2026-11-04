@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="18" bname="Hiob" bsname="Hi">
+    <CHAPTER cnumber="10">
+      <VERS vnumber="1"> My <gr str="5315">soul </gr>is <gr str="5354">weary </gr>of my <gr str="2416">life</gr>; I will <gr str="5800">leave </gr>my <gr str="7879">complaint </gr>
+        <gr str="5921">upon </gr>myself; I will <gr str="1696">speak </gr>in the <gr str="4751">bitterness </gr>of my <gr str="5315">soul</gr>. </VERS>
+      <VERS vnumber="2"> I will <gr str="559">say </gr>
+        <gr str="413">unto </gr>
+        <gr str="433">God</gr>, Do <gr str="408">not </gr>
+        <gr str="7561">condemn </gr>me; <gr str="3045">show </gr>me <gr str="5921 4100">wherefore </gr>thou <gr str="7378">contendest </gr>with me. </VERS>
+      <VERS vnumber="3">
+        <STYLE css="color:#808080;font-style:italic"> Is </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <gr str="2896">good </gr>unto thee <gr str="3588">that </gr>thou shouldest <gr str="6231">oppress</gr>, <gr str="3588">that </gr>thou shouldest <gr str="3988">despise </gr>the <gr str="3018">work </gr>of thine <gr str="3709">hands</gr>, and <gr str="3313">shine </gr>
+        <gr str="5921">upon </gr>the <gr str="6098">counsel </gr>of the <gr str="7563">wicked</gr>? </VERS>
+      <VERS vnumber="4"> Hast thou <gr str="5869">eyes </gr>of <gr str="1320">flesh</gr>? <gr str="518">or </gr>
+        <gr str="7200">seest </gr>thou as <gr str="582">man </gr>
+        <gr str="7200">seeth</gr>? </VERS>
+      <VERS vnumber="5">
+        <STYLE css="color:#808080;font-style:italic"> Are </STYLE> thy <gr str="3117">days </gr>as the <gr str="3117">days </gr>of <gr str="582">man</gr>? <STYLE css="color:#808080;font-style:italic"> are </STYLE> thy <gr str="8141">years </gr>as <gr str="1397">man </gr>'s <gr str="3117">days</gr>, </VERS>
+      <VERS vnumber="6">
+        <gr str="3588">That </gr>thou <gr str="1245">inquirest </gr>after mine <gr str="5771">iniquity</gr>, and <gr str="1875">searchest </gr>after my <gr str="2403">sin</gr>? </VERS>
+      <VERS vnumber="7"> Thou <gr str="1847">knowest </gr>
+        <gr str="3588">that </gr>I am <gr str="3808">not </gr>
+        <gr str="7561">wicked</gr>; and <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="369">none </gr>that can <gr str="5337">deliver </gr>out of thine <gr str="4480 3027">hand</gr>. </VERS>
+      <VERS vnumber="8"> Thine <gr str="3027">hands </gr>have <gr str="6087">made </gr>me and <gr str="6213">fashioned </gr>me <gr str="3162">together </gr>round <gr str="5439">about</gr>; yet thou dost <gr str="1104">destroy </gr>me. </VERS>
+      <VERS vnumber="9">
+        <gr str="2142">Remember</gr>, I beseech <gr str="4994">thee</gr>, <gr str="3588">that </gr>thou hast <gr str="6213">made </gr>me as the <gr str="2563">clay</gr>; and wilt thou bring me into dust <gr str="7725 413 6083">again</gr>? </VERS>
+      <VERS vnumber="10"> Hast thou <gr str="3808">not </gr>poured me <gr str="5413">out </gr>as <gr str="2461">milk</gr>, and <gr str="7087">curdled </gr>me like <gr str="1385">cheese</gr>? </VERS>
+      <VERS vnumber="11"> Thou hast <gr str="3847">clothed </gr>me with <gr str="5785">skin </gr>and <gr str="1320">flesh</gr>, and hast <gr str="7753">fenced </gr>me with <gr str="6106">bones </gr>and <gr str="1517">sinews</gr>. </VERS>
+      <VERS vnumber="12"> Thou hast <gr str="6213 5978">granted </gr>me <gr str="2416">life </gr>and <gr str="2617">favor</gr>, and thy <gr str="6486">visitation </gr>hath <gr str="8104">preserved </gr>my <gr str="7307">spirit</gr>. </VERS>
+      <VERS vnumber="13"> And <gr str="428">these </gr>
+        <STYLE css="color:#808080;font-style:italic"> things </STYLE> hast thou <gr str="6845">hid </gr>in thine <gr str="3824">heart</gr>: I <gr str="3045">know </gr>
+        <gr str="3588">that </gr>
+        <gr str="2063">this </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="5973">with </gr>thee. </VERS>
+      <VERS vnumber="14">
+        <gr str="518">If </gr>I <gr str="2398">sin</gr>, then thou <gr str="8104">markest </gr>me, and thou wilt <gr str="3808">not </gr>
+        <gr str="5352">acquit </gr>me from mine <gr str="4480 5771">iniquity</gr>. </VERS>
+      <VERS vnumber="15">
+        <gr str="518">If </gr>I be <gr str="7561">wicked</gr>, <gr str="480">woe </gr>unto me; and <STYLE css="color:#808080;font-style:italic"> if </STYLE> I be <gr str="6663">righteous</gr>, <STYLE css="color:#808080;font-style:italic"> yet </STYLE> will I <gr str="3808">not </gr>lift <gr str="5375">up </gr>my <gr str="7218">head</gr>. <STYLE css="color:#808080;font-style:italic"> I </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> am </STYLE>
+        <gr str="7649">full </gr>of <gr str="7036">confusion</gr>; therefore <gr str="7200">see </gr>thou mine <gr str="6040">affliction</gr>; </VERS>
+      <VERS vnumber="16"> For it <gr str="1342">increaseth</gr>. Thou <gr str="6679">huntest </gr>me as a fierce <gr str="7826">lion</gr>: and <gr str="7725">again </gr>thou showest thyself <gr str="6381">marvelous </gr>upon me. </VERS>
+      <VERS vnumber="17"> Thou <gr str="2318">renewest </gr>thy <gr str="5707">witnesses </gr>
+        <gr str="5048">against </gr>me, and <gr str="7235">increasest </gr>thine <gr str="3708">indignation </gr>
+        <gr str="5973">upon </gr>me; <gr str="2487">changes </gr>and <gr str="6635">war </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="5973">against </gr>me. </VERS>
+      <VERS vnumber="18">
+        <gr str="4100">Wherefore </gr>then hast thou brought me <gr str="3318">forth </gr>out of the <gr str="4480 7358">womb</gr>? Oh that I had given up the <gr str="1478">ghost</gr>, and <gr str="3808">no </gr>
+        <gr str="5869">eye </gr>had <gr str="7200">seen </gr>me! </VERS>
+      <VERS vnumber="19"> I should have <gr str="1961">been </gr>as <gr str="834">though </gr>I had <gr str="3808">not </gr>
+        <gr str="1961">been</gr>; I should have been <gr str="2986">carried </gr>from the <gr str="4480 990">womb </gr>to the <gr str="6913">grave</gr>. </VERS>
+      <VERS vnumber="20">
+        <STYLE css="color:#808080;font-style:italic"> Are </STYLE>
+        <gr str="3808">not </gr>my <gr str="3117">days </gr>
+        <gr str="4592">few</gr>? <gr str="2308">cease </gr>
+        <STYLE css="color:#808080;font-style:italic"> then, </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> and </STYLE> let me <gr str="7896 4480">alone</gr>, that I may take <gr str="1082">comfort </gr>a <gr str="4592">little</gr>, </VERS>
+      <VERS vnumber="21">
+        <gr str="2962">Before </gr>I <gr str="1980">go </gr>
+        <STYLE css="color:#808080;font-style:italic"> whence </STYLE> I shall <gr str="3808">not </gr>
+        <gr str="7725">return</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE>
+        <gr str="413">to </gr>the <gr str="776">land </gr>of <gr str="2822">darkness </gr>and the shadow of <gr str="6757">death</gr>; </VERS>
+      <VERS vnumber="22"> A <gr str="776">land </gr>of <gr str="5890">darkness</gr>, <gr str="3644">as </gr>
+        <gr str="652">darkness </gr>
+        <STYLE css="color:#808080;font-style:italic"> itself; </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> and </STYLE> of the shadow of <gr str="6757">death</gr>, <gr str="3808">without </gr>any <gr str="5468">order</gr>, and <STYLE css="color:#808080;font-style:italic"> where </STYLE> the <gr str="3313">light </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3644">as </gr>
+        <gr str="652">darkness</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="141">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">[A Psalm] of David.</STYLE> LORD, I cry to thee: make haste to me; give ear to my voice, when I cry to thee.</VERS>
+      <VERS vnumber="2">Let my prayer be set forth before thee <STYLE css="font-style:italic">as</STYLE> incense; <STYLE css="font-style:italic">and</STYLE> the lifting up of my hands <STYLE css="font-style:italic">as</STYLE> the evening sacrifice. <DIV>
+          <NOTE type="x-studynote">set…: Heb. directed</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">Set a watch, O LORD, before my mouth; keep the door of my lips.</VERS>
+      <VERS vnumber="4">Incline not my heart to <STYLE css="font-style:italic">any</STYLE> evil thing, to practise wicked works with men that work iniquity: and let me not eat of their dainties.</VERS>
+      <VERS vnumber="5">Let the righteous smite me; <STYLE css="font-style:italic">it shall be</STYLE> a kindness: and let him reprove me; <STYLE css="font-style:italic">it shall be</STYLE> an excellent oil, <STYLE css="font-style:italic">which</STYLE> shall not break my head: for yet my prayer also <STYLE css="font-style:italic">shall be</STYLE> in their calamities. <DIV>
+          <NOTE type="x-studynote">me; it shall be a…: or, me kindly, and reprove me; let not their precious oil break, etc</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">When their judges are overthrown in stony places, they shall hear my words; for they are sweet.</VERS>
+      <VERS vnumber="7">Our bones are scattered at the grave’s mouth, as when one cutteth and cleaveth <STYLE css="font-style:italic">wood</STYLE> upon the earth.</VERS>
+      <VERS vnumber="8">But my eyes <STYLE css="font-style:italic">are</STYLE> to thee, O GOD the Lord: in thee is my trust; leave not my soul destitute. <DIV>
+          <NOTE type="x-studynote">leave…: Heb. make not my soul bare</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="9">Keep me from the traps <STYLE css="font-style:italic">which</STYLE> they have laid for me, and the snares of the workers of iniquity.</VERS>
+      <VERS vnumber="10">Let the wicked fall into their own nets, while I escape. <DIV>
+          <NOTE type="x-studynote">escape: Heb. pass over</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

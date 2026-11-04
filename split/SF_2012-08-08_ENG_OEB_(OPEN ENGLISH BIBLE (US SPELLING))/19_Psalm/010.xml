@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="10">
+      <VERS vnumber="1">Why do you stand, <STYLE id="cl:divineName">Lord</STYLE>, so far away,hiding yourself in times of trouble?</VERS>
+      <VERS vnumber="2">The wicked, in their pride, are pursuing the helpless:let them be caught in the schemes they have plotted. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">For the wicked boast of their wanton greed;the robber despises the <STYLE id="cl:divineName">Lord</STYLE>, and curses him,</VERS>
+      <VERS vnumber="4">in wicked pride, thinks:God doesn’t care,God doesn’t call to account. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">Never a season that they do not prosper;your judgments are far above out of their sight:they scoff at their foes. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="6">Each says in their heart,“I will never be shaken;I will live for all timeuntouched by misfortune.”</VERS>
+      <VERS vnumber="7">Their mouths are full of deceit and oppression:under their tongues lurks mischief and wrong. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="8">Lying in secret in some village ambush,and stealthily watching, they murder the innocent.</VERS>
+      <VERS vnumber="9">Like a lion lurks in a secret lairthey lurk intending to catch the defenceless;to seize them, to drag them away in their net. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="10">Their victims are crushed, sink down to the ground.Under claws the hapless fall.</VERS>
+      <VERS vnumber="11">In their hearts the wicked saythat God has forgotten,has hidden his face,will see nothing. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="12">Arise, <STYLE id="cl:divineName">Lord</STYLE>, lift up your hand,do not forget the cry of the wretched.</VERS>
+      <VERS vnumber="13">Why do the wicked treat God with contempt,and say in their hearts, “God doesn’t care”? <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="14">You have seen the trouble and sorrow;you mark it all, and will take it in hand.The hapless can count on you,helper of orphans. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="15">Break the arm of the wicked and evil:search out their sin, till no more be found.</VERS>
+      <VERS vnumber="16">The <STYLE id="cl:divineName">Lord</STYLE> is king forever and ever:the nations will vanish from his land. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="17">
+        <STYLE id="cl:divineName">Lord</STYLE>, you have heard the desire of the humble,inclining your ear, strengthening their hearts,</VERS>
+      <VERS vnumber="18">rights you have won for the crushed and the orphan,so no one on earth may strike terror again.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

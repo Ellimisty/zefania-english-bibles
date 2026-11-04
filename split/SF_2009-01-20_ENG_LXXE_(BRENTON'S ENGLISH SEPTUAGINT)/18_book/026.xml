@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="18">
+    <CHAPTER cnumber="26">
+      <VERS vnumber="1">But Job answered and said,</VERS>
+      <VERS vnumber="2">To whom dost thou attach thyself, or whom art thou going to assist? is it not he that has much strength, and he who has a strong arm?</VERS>
+      <VERS vnumber="3">To whom hast thou given counsel? is it not to him who has all wisdom? whom wilt thou follow? is it not one who has the greatest power?</VERS>
+      <VERS vnumber="4">To whom hast thou uttered words? and whose breath is it that has come forth from thee?</VERS>
+      <VERS vnumber="5">Shall giants be born from under the water and the <DIV>
+          <NOTE type="x-studynote">Gr. neighbours</NOTE>
+        </DIV> inhabitants thereof?</VERS>
+      <VERS vnumber="6">Hell is naked before him, and destruction has no covering.</VERS>
+      <VERS vnumber="7">He stretches out the north wind upon nothing, and he upon nothing hangs the earth;</VERS>
+      <VERS vnumber="8">binding water in his clouds, and the cloud is not rent under it.</VERS>
+      <VERS vnumber="9">He keeps back the face of his throne, stretching out his cloud upon it.</VERS>
+      <VERS vnumber="10">He has encompassed the face of the water by an appointed ordinance, until the end of light and darkness.</VERS>
+      <VERS vnumber="11">The pillars of heaven are prostrate and astonished at his rebuke.</VERS>
+      <VERS vnumber="12">He has calmed the sea with his might, and by his wisdom the whale has been overthrown.</VERS>
+      <VERS vnumber="13">And the barriers of heaven fear him, and by a command he has slain the apostate dragon.</VERS>
+      <VERS vnumber="14">Behold, these are parts of his way; and we will hearken to him at the <DIV>
+          <NOTE type="x-studynote">Gr. moisture, q. d. drop</NOTE>
+        </DIV> least intimation of his word: but the strength of his thunder who knows, when he shall employ it?</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

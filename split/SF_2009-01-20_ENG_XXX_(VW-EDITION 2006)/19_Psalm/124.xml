@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="124">
+      <CAPTION vref="1">A Song of Ascents of David.</CAPTION>
+      <VERS vnumber="1">Unless it had been Jehovah who was for us, let Israel now say:</VERS>
+      <VERS vnumber="2">Unless it had been Jehovah who was for us, when men rose up against us,</VERS>
+      <VERS vnumber="3">then they would have swallowed us alive, when their wrath was kindled against us.</VERS>
+      <VERS vnumber="4">Then the waters would have overwhelmed us, the stream would have gone over our soul;</VERS>
+      <VERS vnumber="5">then the churning waters would have gone over our soul.</VERS>
+      <VERS vnumber="6">Blessed is Jehovah, who has not given us as prey to their teeth.</VERS>
+      <VERS vnumber="7">Our soul has escaped as a bird out of the snare of the fowlers; the snare is broken, and we have escaped.</VERS>
+      <VERS vnumber="8">Our help is in the name of Jehovah, who made the heavens and the earth.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

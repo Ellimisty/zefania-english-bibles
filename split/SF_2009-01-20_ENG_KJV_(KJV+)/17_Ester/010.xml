@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="17" bname="Ester" bsname="Est">
+    <CHAPTER cnumber="10">
+      <VERS vnumber="1"> And the <gr str="4428">king </gr>
+        <gr str="325">Ahasuerus </gr>
+        <gr str="7760">laid </gr>a <gr str="4522">tribute </gr>
+        <gr str="5921">upon </gr>the <gr str="776">land</gr>, and <STYLE css="color:#808080;font-style:italic"> upon </STYLE> the <gr str="339">isles </gr>of the <gr str="3220">sea</gr>. </VERS>
+      <VERS vnumber="2"> And <gr str="3605">all </gr>the <gr str="4639">acts </gr>of his <gr str="8633">power </gr>and of his <gr str="1369">might</gr>, and the <gr str="6575">declaration </gr>of the <gr str="1420">greatness </gr>of <gr str="4782">Mordecai</gr>, <gr str="834">whereunto </gr>the <gr str="4428">king </gr>
+        <gr str="1431">advanced </gr>him, <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="1992">they </gr>
+        <gr str="3808">not </gr>
+        <gr str="3789">written </gr>
+        <gr str="5921">in </gr>the <gr str="5612">book </gr>of the <gr str="1697 3117">chronicles </gr>of the <gr str="4428">kings </gr>of <gr str="4074">Media </gr>and <gr str="6539">Persia</gr>? </VERS>
+      <VERS vnumber="3">
+        <gr str="3588">For </gr>
+        <gr str="4782">Mordecai </gr>the <gr str="3064">Jew </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="4932">next </gr>unto <gr str="4428">king </gr>
+        <gr str="325">Ahasuerus</gr>, and <gr str="1419">great </gr>among the <gr str="3064">Jews</gr>, and <gr str="7521">accepted </gr>of the <gr str="7230">multitude </gr>of his <gr str="251">brethren</gr>, <gr str="1875">seeking </gr>the <gr str="2896">wealth </gr>of his <gr str="5971">people</gr>, and <gr str="1696">speaking </gr>
+        <gr str="7965">peace </gr>to <gr str="3605">all </gr>his <gr str="2233">seed</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

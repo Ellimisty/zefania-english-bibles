@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="25">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of David.</STYLE> - To thee, O Lord, have I lifted up my soul.</VERS>
+      <VERS vnumber="2">O my God, I have trusted in thee: let me not be confounded, neither let mine enemies laugh me to scorn.</VERS>
+      <VERS vnumber="3">For none of them that wait on thee shall in any wise be ashamed: let them be ashamed that transgress without cause.</VERS>
+      <VERS vnumber="4">Shew me thy ways, O Lord; and teach me thy paths.</VERS>
+      <VERS vnumber="5">Lead me in thy truth, and teach me: for thou art God my Saviour: and I have waited on thee all the day.</VERS>
+      <VERS vnumber="6">Remember thy compassions, O Lord, and thy mercies, for they are from everlasting.</VERS>
+      <VERS vnumber="7">Remember not the sins of my youth, nor my sins of ignorance: remember me according to thy mercy, for thy goodness’ sake, O Lord.</VERS>
+      <VERS vnumber="8">Good and upright is the Lord: therefore will he <DIV>
+          <NOTE type="x-studynote">sc. as a law-giver</NOTE>
+        </DIV> instruct sinners in the way.</VERS>
+      <VERS vnumber="9">The meek will he guide in judgement: the meek will he teach his ways.</VERS>
+      <VERS vnumber="10">All the ways of the Lord are mercy and truth to them that seek his covenant and his testimonies.</VERS>
+      <VERS vnumber="11">For thy name’s sake, O Lord, do thou also be merciful to my sin; for it is great.</VERS>
+      <VERS vnumber="12">Who is the man that fears the Lord? he shall instruct him in the way which he has chosen.</VERS>
+      <VERS vnumber="13">His soul shall dwell in prosperity; and his seed shall inherit the earth.</VERS>
+      <VERS vnumber="14">The Lord is the strength of them that fear him; and his covenant is to manifest <DIV>
+          <NOTE type="x-studynote">Or, «it,’ sc. what has just been stated</NOTE>
+        </DIV> truth to them.</VERS>
+      <VERS vnumber="15">Mine eyes are continually to the Lord; for he shall draw my feet out of the snare.</VERS>
+      <VERS vnumber="16">Look upon me, and have mercy upon me; for I am an only child and poor.</VERS>
+      <VERS vnumber="17">The afflictions of my heart have been multiplied; deliver me from my distresses.</VERS>
+      <VERS vnumber="18">Look upon mine affliction and my trouble; and forgive all my sins.</VERS>
+      <VERS vnumber="19">Look upon mine enemies; for they have been multiplied; and they have hated me with unjust hatred.</VERS>
+      <VERS vnumber="20">Keep my soul, and deliver me: let me not be ashamed; for I have hoped in thee.</VERS>
+      <VERS vnumber="21">The harmless and upright joined themselves to me: for I waited for thee, O Lord.</VERS>
+      <VERS vnumber="22">Deliver Israel, O God, out of all his afflictions.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

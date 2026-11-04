@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible - Jehovah Edition" type="x-bible">
+  <BIBLEBOOK bnumber="3" bname="Leviticus" bsname="Lev">
+    <CHAPTER cnumber="12">
+      <VERS vnumber="1">
+        <STYLE id="cl:divineName">Jehovah</STYLE> spoke to Moses, saying,</VERS>
+      <VERS vnumber="2">"Speak to the children of Israel, saying, 'If a woman conceives, and bears a male child, then she shall be unclean seven days; as in the days of her monthly period she shall be unclean.</VERS>
+      <VERS vnumber="3">In the eighth day the flesh of his foreskin shall be circumcised.</VERS>
+      <VERS vnumber="4">She shall continue in the blood of purification thirty-three days. She shall not touch any holy thing, nor come into the sanctuary, until the days of her purifying are completed.</VERS>
+      <VERS vnumber="5">But if she bears a female child, then she shall be unclean two weeks, as in her period; and she shall continue in the blood of purification sixty-six days.</VERS>
+      <VERS vnumber="6">"'When the days of her purification are completed, for a son, or for a daughter, she shall bring to the priest at the door of the Tent of Meeting, a year old lamb for a burnt offering, and a young pigeon, or a turtledove, for a sin offering:</VERS>
+      <VERS vnumber="7">and he shall offer it before <STYLE id="cl:divineName">Jehovah</STYLE>, and make atonement for her; and she shall be cleansed from the fountain of her blood."'This is the law for her who bears, whether a male or a female.</VERS>
+      <VERS vnumber="8">If she cannot afford a lamb, then she shall take two turtledoves, or two young pigeons; the one for a burnt offering, and the other for a sin offering: and the priest shall make atonement for her, and she shall be clean.'"</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

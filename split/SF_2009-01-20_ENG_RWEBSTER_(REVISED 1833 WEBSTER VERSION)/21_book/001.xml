@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="21">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">The words of the Preacher, the son of David, king of Jerusalem.</VERS>
+      <VERS vnumber="2">Vanity of vanities, saith the Preacher, vanity of vanities; all <STYLE css="font-style:italic">is</STYLE> vanity.</VERS>
+      <VERS vnumber="3">What profit hath a man of all his labour which he taketh under the sun?</VERS>
+      <VERS vnumber="4">
+        <STYLE css="font-style:italic">One</STYLE> generation passeth away, and <STYLE css="font-style:italic">another</STYLE> generation cometh: but the earth abideth for ever.</VERS>
+      <VERS vnumber="5">The sun also riseth, and the sun goeth down, and hasteth to his place where he arose. <DIV>
+          <NOTE type="x-studynote">hasteth: Heb. panteth</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">The wind goeth toward the south, and turneth about to the north; it whirleth about continually, and the wind returneth again according to its circuits.</VERS>
+      <VERS vnumber="7">All the rivers run into the sea; yet the sea <STYLE css="font-style:italic">is</STYLE> not full; to the place from which the rivers come, there they return again. <DIV>
+          <NOTE type="x-studynote">return…: Heb. return to go</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">All things <STYLE css="font-style:italic">are</STYLE> full of labour; man cannot utter <STYLE css="font-style:italic">it</STYLE>: the eye is not satisfied with seeing, nor the ear filled with hearing.</VERS>
+      <VERS vnumber="9">The thing that hath been, it <STYLE css="font-style:italic">is that</STYLE> which shall be; and that which is done <STYLE css="font-style:italic">is</STYLE> that which shall be done: and <STYLE css="font-style:italic">there is</STYLE> no new <STYLE css="font-style:italic">thing</STYLE> under the sun.</VERS>
+      <VERS vnumber="10">Is there <STYLE css="font-style:italic">any</STYLE> thing of which it may be said, See, this <STYLE css="font-style:italic">is</STYLE> new? it hath been already of old time, which was before us.</VERS>
+      <VERS vnumber="11">
+        <STYLE css="font-style:italic">There is</STYLE> no remembrance of former <STYLE css="font-style:italic">things</STYLE>; neither shall there be <STYLE css="font-style:italic">any</STYLE> remembrance of <STYLE css="font-style:italic">things</STYLE> that are to come with <STYLE css="font-style:italic">those</STYLE> that shall come after.</VERS>
+      <VERS vnumber="12">I the Preacher was king over Israel in Jerusalem.</VERS>
+      <VERS vnumber="13">And I gave my heart to seek and search out by wisdom concerning all <STYLE css="font-style:italic">things</STYLE> that are done under heaven: this grievous labour hath God given to the sons of man to be exercised with it. <DIV>
+          <NOTE type="x-studynote">to be…: or, to afflict them</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="14">I have seen all the works that are done under the sun; and, behold, all <STYLE css="font-style:italic">is</STYLE> vanity and vexation of spirit.</VERS>
+      <VERS vnumber="15">
+        <STYLE css="font-style:italic">That which is</STYLE> crooked cannot be made straight: and that which is lacking cannot be numbered. <DIV>
+          <NOTE type="x-studynote">that which is wanting: Heb. defect</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="16">I spoke to my own heart, saying, Lo, I have come to great estate, and have gained more wisdom than all <STYLE css="font-style:italic">they</STYLE> that have been before me in Jerusalem: and my heart had great experience of wisdom and knowledge. <DIV>
+          <NOTE type="x-studynote">had…: Heb. had seen much</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="17">And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit.</VERS>
+      <VERS vnumber="18">For in much wisdom <STYLE css="font-style:italic">is</STYLE> much grief: and he that increaseth knowledge increaseth sorrow.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

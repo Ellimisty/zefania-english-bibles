@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="92">
+      <VERS vnumber="1">It is good to give thanks to the <STYLE id="cl:divineName">Lord</STYLE>,to sing praise to your name, O Most High,</VERS>
+      <VERS vnumber="2">to declare your love in the morning,and your faithfulness in the night,</VERS>
+      <VERS vnumber="3">with voice and a ten-stringed harp,with music that throbs on the lyre.</VERS>
+      <VERS vnumber="4">For you make me glad by your deeds, <STYLE id="cl:divineName">Lord</STYLE>,at the work of your hands I will ring out my joy. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">How great are your works, O <STYLE id="cl:divineName">Lord</STYLE>;how deep are your thoughts!</VERS>
+      <VERS vnumber="6">The insensitive cannot know,nor can a fool understand,</VERS>
+      <VERS vnumber="7">that, though the wicked flourish like grass,and evil-doers all blossom,they will perish forever. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="8">But you are exalted forever.</VERS>
+      <VERS vnumber="9">For see! Your enemies, <STYLE id="cl:divineName">Lord</STYLE>For see! Your enemies perish,all evil-doers are scattered.</VERS>
+      <VERS vnumber="10">But you lift me to honour,and anoint me afresh with oil.</VERS>
+      <VERS vnumber="11">My eyes will feast on my foes,and my ears will hear of the doom of the wicked. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="12">The righteous will sprout like the palm,will grow like a cedar of Lebanon.</VERS>
+      <VERS vnumber="13">In the house of the <STYLE id="cl:divineName">Lord</STYLE> are they planted,in the courts of our God they will sprout.</VERS>
+      <VERS vnumber="14">They will still bear fruit in old age,all sappy and fresh will they be</VERS>
+      <VERS vnumber="15">So they proclaim the <STYLE id="cl:divineName">Lord</STYLE> to be just,my rock, in whom is no wrong.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

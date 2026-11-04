@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="22">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">The Song of Songs, which is by Solomon.</VERS>
+      <VERS vnumber="2">
+        <STYLE css="font-style:italic">M.</STYLE> O that he would kiss me with one of the kisses of his mouth! For thy love is better than wine.</VERS>
+      <VERS vnumber="3">Because of the savor of thy precious perfumes, (Thy name is like fragrant oil poured forth,) Therefore do the virgins love thee.</VERS>
+      <VERS vnumber="4">Draw me after thee; let us run! The king hath led me to his chambers! We will be glad and rejoice in thee; We will praise thy love more than wine. Justly do they love thee!</VERS>
+      <VERS vnumber="5">I am black, but comely, O ye daughters of Jerusalem, As the tents of Kedar, as the curtains of Solomon.</VERS>
+      <VERS vnumber="6">Gaze not upon me because I am black, Because the sun hath looked upon me! My mothers sons were angry with me; They made me keeper of the vineyards; My vineyard, my own, have I not kept.</VERS>
+      <VERS vnumber="7">Tell me, thou whom my soul loveth, where thou feedest thy flock, Where thou leadest it to rest at noon; For why should I be like a veiled one by the flocks of thy companions?</VERS>
+      <VERS vnumber="8">
+        <STYLE css="font-style:italic">Lad.</STYLE> If thou know not, O thou fairest among women, Trace thou thy way by the tracks of the flock, And feed thy kids beside the shepherds tents!</VERS>
+      <VERS vnumber="9">
+        <STYLE css="font-style:italic">Lov.</STYLE> To the horses in the chariots of Pharaoh Do I compare thee, my love!</VERS>
+      <VERS vnumber="10">Comely are thy cheeks with rows of jewels, Thy neck with strings of pearls.</VERS>
+      <VERS vnumber="11">Golden chains will we make for thee, With studs of silver.</VERS>
+      <VERS vnumber="12">
+        <STYLE css="font-style:italic">M.</STYLE> While the king reclineth at his table, My spikenard sendeth forth its fragrance.</VERS>
+      <VERS vnumber="13">A bunch of myrrh is my beloved to me; He shall abide between my breasts.</VERS>
+      <VERS vnumber="14">My beloved is to me a cluster of hennaflowers From the gardens of Engedi.</VERS>
+      <VERS vnumber="15">
+        <STYLE css="font-style:italic">Lov.</STYLE> Behold, thou art fair, my love; behold, thou art fair! Thine eyes are doves.</VERS>
+      <VERS vnumber="16">
+        <STYLE css="font-style:italic">M.</STYLE> Behold, thou art fair, my beloved, yea, lovely; And green is our bed.</VERS>
+      <VERS vnumber="17">The cedars are the beams of our house, And its roof the cypresses.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="142">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Maskil of David, when he was in the cave. A prayer.</STYLE>
+        <DIV>
+          <NOTE type="x-studynote">(142:2)</NOTE>
+        </DIV> With my voice I cry unto the Lord: with my voice I make supplication unto the Lord.</VERS>
+      <VERS vnumber="2">
+        <DIV>
+          <NOTE type="x-studynote">(142:3)</NOTE>
+        </DIV> I pour out before him my grief: my distress I recite before him.</VERS>
+      <VERS vnumber="3">
+        <DIV>
+          <NOTE type="x-studynote">(142:4)</NOTE>
+        </DIV> When my spirit was overwhelmed within meand thou knowest well my pathon the way whereon I desired to walk they had secretly laid a snare for me.</VERS>
+      <VERS vnumber="4">
+        <DIV>
+          <NOTE type="x-studynote">(142:5)</NOTE>
+        </DIV> Look to the right, and behold, yea, there is no man that recognizeth me: <STYLE css="font-style:italic">every</STYLE> refuge is lost to me; there is no one that careth for my soul.</VERS>
+      <VERS vnumber="5">
+        <DIV>
+          <NOTE type="x-studynote">(142:6)</NOTE>
+        </DIV> I cried unto thee, O Lord: I said, Thou art my refuge, my portion in the land of life.</VERS>
+      <VERS vnumber="6">
+        <DIV>
+          <NOTE type="x-studynote">(142:7)</NOTE>
+        </DIV> Listen unto my entreaty; for I am very miserable: deliver me from my pursuers; for they are too mighty for me.</VERS>
+      <VERS vnumber="7">
+        <DIV>
+          <NOTE type="x-studynote">(142:8)</NOTE>
+        </DIV> Bring forth out of prison my soul, that I may thank thy name: with me shall the righteous crown themselves, when thou wilt deal bountifully with me.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

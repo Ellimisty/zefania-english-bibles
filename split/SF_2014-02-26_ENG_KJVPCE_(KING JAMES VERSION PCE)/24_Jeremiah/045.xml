@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="King James Version PCE" type="x-bible">
+  <BIBLEBOOK bnumber="24" bname="Jeremiah" bsname="Jer">
+    <CHAPTER cnumber="45">
+      <VERS vnumber="1">The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,</VERS>
+      <VERS vnumber="2">Thus saith the <STYLE id="cl:divineName">Lord</STYLE>, the God of Israel, unto thee, O Baruch;</VERS>
+      <VERS vnumber="3">Thou didst say, Woe is me now! for the <STYLE id="cl:divineName">Lord</STYLE> hath added grief to my sorrow; I fainted in my sighing, and I find no rest.</VERS>
+      <VERS vnumber="4">Thus shalt thou say unto him, The <STYLE id="cl:divineName">Lord</STYLE> saith thus; Behold,  that  which I have built will I break down, and that which I have planted I will pluck up, even this whole land.</VERS>
+      <VERS vnumber="5">And seekest thou great things for thyself? seek  them  not: for, behold, I will bring evil upon all flesh, saith the <STYLE id="cl:divineName">Lord</STYLE>: but thy life will I give unto thee for a prey in all places whither thou goest.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="125">
+      <VERS vnumber="1">A Canticle in steps.  When the Lord turned back the captivity of Zion,we became like those who are consoled.</VERS>
+      <VERS vnumber="2">Then our mouth was filled with gladness and our tongue with exultation.Then they will say among the nations:“The Lord has done great things for them.”</VERS>
+      <VERS vnumber="3">The Lord has done great things for us. We have become joyful.</VERS>
+      <VERS vnumber="4">Convert our captivity, O Lord, like a torrent in the south.</VERS>
+      <VERS vnumber="5">Those who sow in tears shall reap in exultation.</VERS>
+      <VERS vnumber="6">When departing, they went forth and wept, sowing their seeds.</VERS>
+      <VERS vnumber="7">But when returning, they will arrive with exultation, carrying their sheaves.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

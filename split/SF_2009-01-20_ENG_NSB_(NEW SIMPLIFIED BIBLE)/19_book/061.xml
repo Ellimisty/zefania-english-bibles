@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="61">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">Hear my cry, O God; listen to my prayer!</VERS>
+      <VERS vnumber="2">In despair and far from home I call to you! Take me to the rock that is my safe refuge,</VERS>
+      <VERS vnumber="3">for you are my protector, my strong tower <STYLE css="font-style:italic">defense</STYLE> against my enemies.</VERS>
+      <VERS vnumber="4">Let me live in your sanctuary all my life. Let me find safety under your wings.</VERS>
+      <VERS vnumber="5">You have heard my vows, O God, and you have given me what belongs to those who respect your name.</VERS>
+      <VERS vnumber="6">Add many years to the king's life; let him live on and on!</VERS>
+      <VERS vnumber="7">May he rule forever in your presence, O God. Protect him with your constant love and faithfulness.</VERS>
+      <VERS vnumber="8">So I will always sing praises to your name, as I perform my vows day after day.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

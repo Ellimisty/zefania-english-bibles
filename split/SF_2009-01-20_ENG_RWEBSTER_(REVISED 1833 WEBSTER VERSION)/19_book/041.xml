@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="41">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief Musician, A Psalm of David.</STYLE> Blessed <STYLE css="font-style:italic">is</STYLE> he that considereth the poor: the LORD will deliver him in the time of trouble. <DIV>
+          <NOTE type="x-studynote">the poor: or, the weak, or, sick</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">in time…: Heb. in the day of evil</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">The LORD will preserve him, and keep him alive; <STYLE css="font-style:italic">and</STYLE> he shall be blessed upon the earth: and thou wilt not deliver him to the will of his enemies. <DIV>
+          <NOTE type="x-studynote">thou…: or, do not thou deliver</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">The LORD will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness. <DIV>
+          <NOTE type="x-studynote">make: Heb. turn</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">I said, LORD, be merciful to me: heal my soul; for I have sinned against thee.</VERS>
+      <VERS vnumber="5">My enemies speak evil of me, When shall he die, and his name perish?</VERS>
+      <VERS vnumber="6">And if he cometh to see <STYLE css="font-style:italic">me</STYLE>, he speaketh vanity: his heart gathereth iniquity to itself; <STYLE css="font-style:italic">when</STYLE> he goeth abroad, he telleth <STYLE css="font-style:italic">it</STYLE>.</VERS>
+      <VERS vnumber="7">All that hate me whisper together against me: against me do they devise my hurt. <DIV>
+          <NOTE type="x-studynote">my…: Heb. evil to me</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">An evil disease, <STYLE css="font-style:italic">say they</STYLE>, cleaveth fast to him: and <STYLE css="font-style:italic">now</STYLE> that he lieth he shall rise no more. <DIV>
+          <NOTE type="x-studynote">An…: Heb. A thing of Belial</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="9">Yea, my own familiar friend, in whom I trusted, who ate of my bread, hath lifted up <STYLE css="font-style:italic">his</STYLE> heel against me. <DIV>
+          <NOTE type="x-studynote">mine…: Heb. the man of my peace</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">lifted…: Heb. magnified</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="10">But thou, O LORD, be merciful to me, and raise me up, that I may repay them.</VERS>
+      <VERS vnumber="11">By this I know that thou favourest me, because my enemy doth not triumph over me.</VERS>
+      <VERS vnumber="12">And as for me, thou upholdest me in my integrity, and settest me before thy face for ever.</VERS>
+      <VERS vnumber="13">Blessed <STYLE css="font-style:italic">be</STYLE> the LORD God of Israel from everlasting, and to everlasting. Amen, and Amen.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

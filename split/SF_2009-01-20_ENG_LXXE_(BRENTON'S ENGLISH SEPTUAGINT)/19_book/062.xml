@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="62">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For the end, a Psalm of David for Idithun.</STYLE> - Shall not my soul be subjected to God? for of him is my salvation.</VERS>
+      <VERS vnumber="2">For he is my God, and my saviour; my helper, I shall not be moved <DIV>
+          <NOTE type="x-studynote">Or, any more</NOTE>
+        </DIV> very much.</VERS>
+      <VERS vnumber="3">How long will ye assault a man? ye are all slaughtering as with a bowed wall and a broken hedge.</VERS>
+      <VERS vnumber="4">They only took counsel to set at nought mine honour: I ran in thirst: with their mouth they blessed, but with their heart they cursed. Pause.</VERS>
+      <VERS vnumber="5">Nevertheless do thou, my soul, be subjected to God; for of him is my patient hope.</VERS>
+      <VERS vnumber="6">For he is my God and my Saviour; my helper, I shall not be moved.</VERS>
+      <VERS vnumber="7">
+        <DIV>
+          <NOTE type="x-studynote">Gr. on</NOTE>
+        </DIV> In God is my salvation and my glory: he is the God of my help, and my hope is in God.</VERS>
+      <VERS vnumber="8">Hope in him, all ye congregation of the people; pour out your hearts before him, for God is our helper. Pause.</VERS>
+      <VERS vnumber="9">But the sons of men are vain; the sons of men are false, so as to be deceitful in the balances; they are <DIV>
+          <NOTE type="x-studynote">Gr. altogether</NOTE>
+        </DIV> all alike formed out of vanity.</VERS>
+      <VERS vnumber="10">Trust not in unrighteousness, and lust not after robberies: if wealth should flow in, set not your heart upon it.</VERS>
+      <VERS vnumber="11">God has spoken once, and I have heard these two things, that power is of God;</VERS>
+      <VERS vnumber="12">and mercy is thine, O Lord; for thou wilt recompense every one according to his works.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

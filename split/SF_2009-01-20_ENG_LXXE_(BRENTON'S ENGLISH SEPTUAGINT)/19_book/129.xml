@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="129">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Song of Degrees.</STYLE> - Many a time have they warred against me from my youth, let Israel now say:</VERS>
+      <VERS vnumber="2">Many a time have they warred against me from my youth: and yet they prevailed not against me.</VERS>
+      <VERS vnumber="3">The sinners wrought upon my back: they prolonged their <DIV>
+          <NOTE type="x-studynote">Nwe iniquity, easily read for hgwe a furrow</NOTE>
+        </DIV> iniquity.</VERS>
+      <VERS vnumber="4">The righteous Lord has cut asunder the necks of sinners.</VERS>
+      <VERS vnumber="5">Let all that hate Sion be put to shame and turned back.</VERS>
+      <VERS vnumber="6">Let them be as the grass of the house-tops, which withers before it is plucked up.</VERS>
+      <VERS vnumber="7">Wherewith the reaper fills not his hand, nor he that makes up the sheaves, his bosom.</VERS>
+      <VERS vnumber="8">Neither do they that go by say, The blessing of the Lord be upon you: we have blessed you in the name of the Lord.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

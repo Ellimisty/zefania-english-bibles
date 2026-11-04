@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="20">
+      <VERS vnumber="1"> To the chief music-maker. A Psalm. Of David. </VERS>
+      <VERS vnumber="2">\20:1\May the Lord give ear to you in the day of trouble; may you be placed on high by the name of the God of Jacob;</VERS>
+      <VERS vnumber="3">\20:2\May he send you help from the holy place, and give you strength from Zion;</VERS>
+      <VERS vnumber="4">\20:3\May he keep all your offerings in mind, and be pleased with the fat of your burned offerings; (Selah.)</VERS>
+      <VERS vnumber="5">\20:4\May he give you your heart's desire, and put all your purposes into effect.</VERS>
+      <VERS vnumber="6">\20:5\We will be glad in your salvation, and in the name of our God we will put up our flags: may the Lord give you all your requests.</VERS>
+      <VERS vnumber="7">\20:6\Now am I certain that the Lord gives salvation to his king; he will give him an answer from his holy heaven with the strength of salvation in his right hand.</VERS>
+      <VERS vnumber="8">\20:7\Some put their faith in carriages and some in horses; but we will be strong in the name of the Lord our God.</VERS>
+      <VERS vnumber="9">\20:8\They are bent down and made low; but we have been lifted up.</VERS>
+      <VERS vnumber="10">\20:9\Come to our help, Lord: let the king give ear to our cry.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

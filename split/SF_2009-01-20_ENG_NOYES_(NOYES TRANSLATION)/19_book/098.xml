@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="98">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm.</STYLE> Sing to the LORD a new song; For he hath done marvellous things; His own right hand and his holy arm have gotten him the victory!</VERS>
+      <VERS vnumber="2">The LORD hath made known his salvation; His righteousness hath he manifested in the sight of the nations.</VERS>
+      <VERS vnumber="3">He hath remembered his mercy and truth toward the house of Israel, And all the ends of the earth have seen the salvation of our God.</VERS>
+      <VERS vnumber="4">Shout unto the LORD, all the earth! Break forth into joy, and exult, and sing!</VERS>
+      <VERS vnumber="5">Sing to the LORD with the harp, With the harp, and the voice of song!</VERS>
+      <VERS vnumber="6">With clarions, and the sound of trumpets, Make a joyful noise before the LORD the King!</VERS>
+      <VERS vnumber="7">Let the sea roar, and the fulness thereof; The world, and they that dwell therein;</VERS>
+      <VERS vnumber="8">Let the rivers clap their hands, And the mountains rejoice together</VERS>
+      <VERS vnumber="9">Before the LORD! for he cometh to judge the earth! With righteousness will he judge the world, And the nations with equity.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

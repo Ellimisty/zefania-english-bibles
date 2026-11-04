@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Jewish Publication Society AT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="24">
+      <VERS vnumber="1">A Psalm of David. The earth is the LORD'S, and the fulness thereof; the world, and they that dwell therein.</VERS>
+      <VERS vnumber="2">For He hath founded it upon the seas, and established it upon the floods.</VERS>
+      <VERS vnumber="3">Who shall ascend into the mountain of the LORD? and who shall stand in His holy place?</VERS>
+      <VERS vnumber="4">He that hath clean hands, and a pure heart; who hath not taken My name in vain, and hath not sworn deceitfully.</VERS>
+      <VERS vnumber="5">He shall receive a blessing from the LORD, and righteousness from the God of his salvation.</VERS>
+      <VERS vnumber="6">Such is the generation of them that seek after Him, that seek Thy face, even Jacob. Selah</VERS>
+      <VERS vnumber="7">Lift up your heads, O ye gates, and be ye lifted up, ye everlasting doors; that the King of glory may come in.</VERS>
+      <VERS vnumber="8">'Who is the King of glory?' 'The LORD strong and mighty, the LORD mighty in battle.'</VERS>
+      <VERS vnumber="9">Lift up your heads, O ye gates, yea, lift them up, ye everlasting doors; that the King of glory may come in.</VERS>
+      <VERS vnumber="10">'Who then is the King of glory?' 'The LORD of hosts; He is the King of glory.' Selah</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

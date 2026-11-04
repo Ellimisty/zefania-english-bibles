@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="The Common Edition: New Testament" type="x-bible">
+  <BIBLEBOOK bnumber="66">
+    <CHAPTER cnumber="15">
+      <VERS vnumber="1">Then I saw another sign in heaven, great and marvelous, seven angels with seven plagues, which are the last, because with them the wrath of God is finished.</VERS>
+      <VERS vnumber="2">And I saw what looked like a sea of glass mixed with fire and, standing beside the sea of glass, those who had been victorious over the beast and his image and over the number of his name. They held harps of God</VERS>
+      <VERS vnumber="3">and they sang the song of Moses, the servant of God, and the song of the Lamb, saying, <STYLE css="display:block;text-indent:5mm">»Great and marvelous are your deeds,</STYLE>
+        <STYLE css="display:block;text-indent:10mm">O Lord God the Almighty!</STYLE>
+        <STYLE css="display:block;text-indent:5mm">Just and true are your ways,</STYLE>
+        <STYLE css="display:block;text-indent:10mm">O King of the ages!</STYLE>
+      </VERS>
+      <VERS vnumber="4">
+        <STYLE css="display:block;text-indent:5mm">Who will not fear, O Lord,</STYLE>
+        <STYLE css="display:block;text-indent:10mm">and glorify your name?</STYLE>
+        <STYLE css="display:block;text-indent:5mm">For you alone are holy.</STYLE>
+        <STYLE css="display:block;text-indent:5mm">All the nations will come</STYLE>
+        <STYLE css="display:block;text-indent:10mm">and worship before you,</STYLE>
+        <STYLE css="display:block;text-indent:5mm">for your righteous acts have been revealed.«</STYLE>
+      </VERS>
+      <VERS vnumber="5">After this I looked, and the temple of the tabernacle of testimony in heaven was opened,</VERS>
+      <VERS vnumber="6">and the seven angels who had the seven plagues came out of the temple, clothed in linen, clean and bright, and girded around their chests with golden sashes.</VERS>
+      <VERS vnumber="7">Then one of the four living creatures gave to the seven angels seven golden bowls full of the wrath of God, who lives for ever and ever.</VERS>
+      <VERS vnumber="8">And the temple was filled with smoke from the glory of God and from his power, and no one could enter the temple until the seven plagues of the seven angels were completed.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="16">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A writing of David.</STYLE> - Keep me, O Lord; for I have hoped in thee.</VERS>
+      <VERS vnumber="2">I said to the Lord, Thou art my Lord; for thou has no need of my <DIV>
+          <NOTE type="x-studynote">Gr. good deeds, or things</NOTE>
+        </DIV> goodness.</VERS>
+      <VERS vnumber="3">On behalf of the saints that are in his land, he has magnified all his pleasure in them.</VERS>
+      <VERS vnumber="4">Their weaknesses have been multiplied; afterward they hasted. I will by no means assemble their bloody meetings, neither will I make mention of their names with my lips.</VERS>
+      <VERS vnumber="5">The Lord is the portion of mine inheritance and of my cup: thou art he that restores my inheritance to me.</VERS>
+      <VERS vnumber="6">The lines have fallen to me in the best places, yea, I have a most excellent heritage.</VERS>
+      <VERS vnumber="7">I will bless the Lord who has instructed me; my reins too have chastened me even <DIV>
+          <NOTE type="x-studynote">possibly, during the night, q. d. as long as night lasted</NOTE>
+        </DIV> till night.</VERS>
+      <VERS vnumber="8">I foresaw the Lord always before my face; for he is on my right hand, that I should not be moved.</VERS>
+      <VERS vnumber="9">Therefore my heart rejoiced an my tongue exulted; moreover also my flesh shall rest in hope:</VERS>
+      <VERS vnumber="10">because thou wilt not leave my soul in hell, neither <DIV>
+          <NOTE type="x-studynote">Ac 13:35</NOTE>
+        </DIV> wilt thou suffer thine Holy One to see corruption.</VERS>
+      <VERS vnumber="11">Thou hast made known to me the ways of life; thou wilt fill me with joy with thy countenance: at thy right hand there are delights for ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

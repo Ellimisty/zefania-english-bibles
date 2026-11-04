@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="23" bname="Jesaja" bsname="Jes">
+    <CHAPTER cnumber="20">
+      <VERS vnumber="1"> In the <gr str="8141">year </gr>that <gr str="8661">Tartan </gr>
+        <gr str="935">came </gr>unto <gr str="795">Ashdod</gr>, (when <gr str="5623">Sargon </gr>the <gr str="4428">king </gr>of <gr str="804">Assyria </gr>
+        <gr str="7971">sent </gr>him,) and <gr str="3898">fought </gr>against <gr str="795">Ashdod</gr>, and <gr str="3920">took </gr>it; </VERS>
+      <VERS vnumber="2"> At the <gr str="1931">same </gr>
+        <gr str="6256">time </gr>
+        <gr str="1696">spoke </gr>the <gr str="3068">LORD </gr>
+        <gr str="3027">by </gr>
+        <gr str="3470">Isaiah </gr>the <gr str="1121">son </gr>of <gr str="531">Amoz</gr>, <gr str="559">saying</gr>, <gr str="1980">Go </gr>and <gr str="6605">loose </gr>the <gr str="8242">sackcloth </gr>from <gr str="4480 5921">off </gr>thy <gr str="4975">loins</gr>, and put <gr str="2502">off </gr>thy <gr str="5275">shoe </gr>
+        <gr str="4480 5921">from </gr>thy <gr str="7272">foot</gr>. And he <gr str="6213">did </gr>
+        <gr str="3651">so</gr>, <gr str="1980">walking </gr>
+        <gr str="6174">naked </gr>and <gr str="3182">barefoot</gr>. </VERS>
+      <VERS vnumber="3"> And the <gr str="3068">LORD </gr>
+        <gr str="559">said</gr>, Like <gr str="834">as </gr>my <gr str="5650">servant </gr>
+        <gr str="3470">Isaiah </gr>hath <gr str="1980">walked </gr>
+        <gr str="6174">naked </gr>and <gr str="3182">barefoot </gr>
+        <gr str="7969">three </gr>
+        <gr str="8141">years </gr>
+        <STYLE css="color:#808080;font-style:italic"> for </STYLE> a <gr str="226">sign </gr>and <gr str="4159">wonder </gr>
+        <gr str="5921">upon </gr>
+        <gr str="4714">Egypt </gr>and <gr str="5921">upon </gr>
+        <gr str="3568">Ethiopia</gr>; </VERS>
+      <VERS vnumber="4">
+        <gr str="3651">So </gr>shall the <gr str="4428">king </gr>of <gr str="804">Assyria </gr>lead <gr str="5090">away </gr>
+        <gr str="*853" />the <gr str="4714">Egyptians </gr>
+        <gr str="7628">prisoners</gr>, and the <gr str="3568">Ethiopians </gr>
+        <gr str="1546">captives</gr>, <gr str="5288">young </gr>and <gr str="2205">old</gr>, <gr str="6174">naked </gr>and <gr str="3182">barefoot</gr>, even with <STYLE css="color:#808080;font-style:italic"> their </STYLE>
+        <gr str="8357">buttocks </gr>
+        <gr str="2834">uncovered</gr>, to the <gr str="6172">shame </gr>of <gr str="4714">Egypt</gr>. </VERS>
+      <VERS vnumber="5"> And they shall be <gr str="2865">afraid </gr>and <gr str="954">ashamed </gr>of <gr str="4480 3568">Ethiopia </gr>their <gr str="4007">expectation</gr>, and <gr str="4480">of </gr>
+        <gr str="4714">Egypt </gr>their <gr str="8597">glory</gr>. </VERS>
+      <VERS vnumber="6"> And the <gr str="3427">inhabitant </gr>of <gr str="2088">this </gr>
+        <gr str="339">isle </gr>shall <gr str="559">say </gr>in <gr str="1931">that </gr>
+        <gr str="3117">day</gr>, <gr str="2009">Behold</gr>, <gr str="3541">such </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> our <gr str="4007">expectation</gr>, <gr str="834 8033">whither </gr>we <gr str="5127">flee </gr>for <gr str="5833">help </gr>to be <gr str="5337">delivered </gr>
+        <gr str="4480 6440">from </gr>the <gr str="4428">king </gr>of <gr str="804">Assyria</gr>: and <gr str="349">how </gr>shall <gr str="587">we </gr>
+        <gr str="4422">escape</gr>? </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

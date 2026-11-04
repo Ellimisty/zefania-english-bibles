@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Updated Bible Version" type="x-bible">
+  <BIBLEBOOK bnumber="23">
+    <CHAPTER cnumber="12">
+      <VERS vnumber="1">And in that day you will say, I will give thanks to you, O Yahweh; for though you were angry with me, your anger has turned away and you comfort me.</VERS>
+      <VERS vnumber="2">Look, God is my salvation; I will trust, and will not be afraid; for Yah, Yahweh, is my strength and song; and he has become my salvation.</VERS>
+      <VERS vnumber="3">Therefore with joy you<DIV>
+          <NOTE type="x-emphasize">{+}</NOTE>
+        </DIV> will draw water out of the wells of salvation.</VERS>
+      <VERS vnumber="4">And in that day you<DIV>
+          <NOTE type="x-emphasize">{+}</NOTE>
+        </DIV> will say, Give thanks to Yahweh, call on his name, declare his doings among the peoples, make mention that his name is exalted.</VERS>
+      <VERS vnumber="5">Sing to Yahweh; for he has done excellent things: let this be known in all the earth.</VERS>
+      <VERS vnumber="6">Cry aloud and shout, you inhabitant of Zion; for great in the midst of you is the Holy One of Israel.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

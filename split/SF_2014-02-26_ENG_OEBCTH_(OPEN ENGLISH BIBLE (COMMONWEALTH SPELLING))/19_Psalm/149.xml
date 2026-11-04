@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="149">
+      <VERS vnumber="1">Hallelujah.Sing to the <STYLE id="cl:divineName">Lord</STYLE> a new song,sound his praise where the faithful are gathered.</VERS>
+      <VERS vnumber="2">Let Israel rejoice in its maker,sons of Zion exult in their king.</VERS>
+      <VERS vnumber="3">Let them praise his name in the dance,making music with lyre and with timbrel.</VERS>
+      <VERS vnumber="4">For the <STYLE id="cl:divineName">Lord</STYLE> delights in his people,adorning the humble with victory. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">Let the faithful exult and extol himwith glad ringing cries all night long.</VERS>
+      <VERS vnumber="6">High praises of God in their mouth,and a two-edged sword in their hand:</VERS>
+      <VERS vnumber="7">on the heathen to execute vengeance,and chastisement sore on the nations,</VERS>
+      <VERS vnumber="8">binding their kings with chains,and their nobles with fetters of iron,</VERS>
+      <VERS vnumber="9">to execute on them the doom that is written. <BR art="x-nl" /> This is the glory of all his faithful.Hallelujah.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

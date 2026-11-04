@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="110">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of <gr str="1732">David</gr>.</STYLE> The <gr str="3068">LORD </gr>
+        <gr str="5002">said </gr>to my <gr str="113">Lord</gr>, <gr str="3427">Sit </gr>thou at my right <gr str="3225">hand</gr>, until I <gr str="7896">make </gr>thy <gr str="341">enemies </gr>thy <gr str="1916 7272">footstool</gr>.</VERS>
+      <VERS vnumber="2">The <gr str="3068">LORD </gr>shall <gr str="7971">send </gr>the <gr str="4294">rod </gr>of thy <gr str="5797">strength </gr>out of <gr str="6726">Zion</gr>: <gr str="7287">rule </gr>thou in the <gr str="7130">midst </gr>of thy <gr str="341">enemies</gr>.</VERS>
+      <VERS vnumber="3">Thy <gr str="5971">people </gr>
+        <STYLE css="font-style:italic">shall be </STYLE>
+        <gr str="5071">willing </gr>in the <gr str="3117">day </gr>of thy <gr str="2428">power</gr>, in the <gr str="1926">beauties </gr>of <gr str="6944">holiness </gr>from the <gr str="7358">womb </gr>of the <gr str="4891">morning</gr>: thou hast the <gr str="2919">dew </gr>of thy <gr str="3208">youth</gr>. <DIV>
+          <NOTE type="x-studynote">from…: or, more than the womb of the morning: thou shalt have, etc</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">The <gr str="3068">LORD </gr>hath <gr str="7650">sworn</gr>, and will not <gr str="5162">repent</gr>, Thou <STYLE css="font-style:italic">art</STYLE> a <gr str="3548">priest </gr>for <gr str="5769">ever </gr>after the <gr str="1700">order </gr>of <gr str="4442">Melchizedek</gr>.</VERS>
+      <VERS vnumber="5">The <gr str="136">Lord </gr>at thy right <gr str="3225">hand </gr>shall <gr str="4272">strike </gr>through <gr str="4428">kings </gr>in the <gr str="3117">day </gr>of his <gr str="639">wrath</gr>.</VERS>
+      <VERS vnumber="6">He shall <gr str="1777">judge </gr>among the <gr str="1471">heathen</gr>, he shall <gr str="4390">fill </gr>
+        <STYLE css="font-style:italic">the places</STYLE> with the dead <gr str="1472">bodies</gr>; he shall <gr str="4272">wound </gr>the <gr str="7218">heads </gr>over <gr str="7227">many </gr>
+        <gr str="776">countries</gr>. <DIV>
+          <NOTE type="x-studynote">many: or, great</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="7">He shall <gr str="8354">drink </gr>of the <gr str="5158">brook </gr>in the <gr str="1870">way</gr>: therefore shall he lift <gr str="7311">up </gr>the <gr str="7218">head</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

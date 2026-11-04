@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="128">
+      <VERS vnumber="1"> A <gr str="7892">Song </gr>of <gr str="4609">degrees</gr>. <gr str="835">Blessed </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> every <gr str="3605">one </gr>that <gr str="3373">feareth </gr>the <gr str="3068">LORD</gr>; that <gr str="1980">walketh </gr>in his <gr str="1870">ways</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="3588">For </gr>thou shalt <gr str="398">eat </gr>the <gr str="3018">labor </gr>of thine <gr str="3709">hands</gr>: <gr str="835">happy </gr>
+        <STYLE css="color:#808080;font-style:italic"> shalt </STYLE> thou <STYLE css="color:#808080;font-style:italic"> be </STYLE>, and <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="2896">well </gr>with thee. </VERS>
+      <VERS vnumber="3"> Thy <gr str="802">wife </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> as a <gr str="6509">fruitful </gr>
+        <gr str="1612">vine </gr>by the <gr str="3411">sides </gr>of thine <gr str="1004">house</gr>: thy <gr str="1121">children </gr>like <gr str="2132">olive </gr>
+        <gr str="8363">plants </gr>round <gr str="5439">about </gr>thy <gr str="7979">table</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="2009">Behold</gr>, <gr str="3588">that </gr>
+        <gr str="3651">thus </gr>shall the <gr str="1397">man </gr>be <gr str="1288">blessed </gr>that <gr str="3373">feareth </gr>the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="5"> The <gr str="3068">LORD </gr>shall <gr str="1288">bless </gr>thee out of <gr str="4480 6726">Zion</gr>: and thou shalt <gr str="7200">see </gr>the <gr str="2898">good </gr>of <gr str="3389">Jerusalem </gr>
+        <gr str="3605">all </gr>the <gr str="3117">days </gr>of thy <gr str="2416">life</gr>. </VERS>
+      <VERS vnumber="6"> Yea, thou shalt <gr str="7200">see </gr>thy <gr str="1121">children </gr>'s <gr str="1121">children</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="7965">peace </gr>
+        <gr str="5921">upon </gr>
+        <gr str="3478">Israel</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

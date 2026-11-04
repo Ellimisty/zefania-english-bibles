@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="25" bname="Klagelieder" bsname="Kla">
+    <CHAPTER cnumber="5">
+      <VERS vnumber="1">
+        <gr str="2142">Remember</gr>, O <gr str="3068">LORD</gr>, <gr str="4100">what </gr>is <gr str="1961">come </gr>upon us: <gr str="5027">consider</gr>, and <gr str="7200">behold </gr>
+        <gr str="*853" />our <gr str="2781">reproach</gr>. </VERS>
+      <VERS vnumber="2"> Our <gr str="5159">inheritance </gr>is <gr str="2015">turned </gr>to <gr str="2114">strangers</gr>, our <gr str="1004">houses </gr>to <gr str="5237">aliens</gr>. </VERS>
+      <VERS vnumber="3"> We <gr str="1961">are </gr>
+        <gr str="3490">orphans </gr>and <gr str="369 1">fatherless</gr>, our <gr str="517">mothers </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> as <gr str="490">widows</gr>. </VERS>
+      <VERS vnumber="4"> We have <gr str="8354">drunken </gr>our <gr str="4325">water </gr>for <gr str="3701">money</gr>; our <gr str="6086">wood </gr>is <gr str="935 4242">sold </gr>unto us. </VERS>
+      <VERS vnumber="5"> Our <gr str="6677">necks </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="5921">under </gr>
+        <gr str="7291">persecution</gr>: we <gr str="3021">labor</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> have no <gr str="3808 5117">rest</gr>. </VERS>
+      <VERS vnumber="6"> We have <gr str="5414">given </gr>the <gr str="3027">hand </gr>
+        <STYLE css="color:#808080;font-style:italic"> to </STYLE> the <gr str="4714">Egyptians</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> to </STYLE> the <gr str="804">Assyrians</gr>, to be <gr str="7646">satisfied </gr>with <gr str="3899">bread</gr>. </VERS>
+      <VERS vnumber="7"> Our <gr str="1">fathers </gr>have <gr str="2398">sinned</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="369">not</gr>; and <gr str="587">we </gr>have <gr str="5445">borne </gr>their <gr str="5771">iniquities</gr>. </VERS>
+      <VERS vnumber="8">
+        <gr str="5650">Servants </gr>have ruled <gr str="4910">over </gr>us: <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="369">none </gr>that doth <gr str="6561">deliver </gr>
+        <STYLE css="color:#808080;font-style:italic"> us </STYLE> out of their <gr str="4480 3027">hand</gr>. </VERS>
+      <VERS vnumber="9"> We <gr str="935">got </gr>our <gr str="3899">bread </gr>with <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> peril </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> of </STYLE> our <gr str="5315">lives </gr>because <gr str="4480 6440">of </gr>the <gr str="2719">sword </gr>of the <gr str="4057">wilderness</gr>. </VERS>
+      <VERS vnumber="10"> Our <gr str="5785">skin </gr>was <gr str="3648">black </gr>like an <gr str="8574">oven </gr>because <gr str="4480 6440">of </gr>the <gr str="2152">terrible </gr>
+        <gr str="7458">famine</gr>. </VERS>
+      <VERS vnumber="11"> They <gr str="6031">ravished </gr>the <gr str="802">women </gr>in <gr str="6726">Zion</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> the <gr str="1330">maids </gr>in the <gr str="5892">cities </gr>of <gr str="3063">Judah</gr>. </VERS>
+      <VERS vnumber="12">
+        <gr str="8269">Princes </gr>are hanged <gr str="8518">up </gr>by their <gr str="3027">hand</gr>: the <gr str="6440">faces </gr>of <gr str="2205">elders </gr>were <gr str="3808">not </gr>
+        <gr str="1921">honored</gr>. </VERS>
+      <VERS vnumber="13"> They <gr str="5375">took </gr>the young <gr str="970">men </gr>to <gr str="2911">grind</gr>, and the <gr str="5288">children </gr>
+        <gr str="3782">fell </gr>under the <gr str="6086">wood</gr>. </VERS>
+      <VERS vnumber="14"> The <gr str="2205">elders </gr>have <gr str="7673">ceased </gr>from the <gr str="4480 8179">gate</gr>, the young <gr str="970">men </gr>from their <gr str="4480 5058">music</gr>. </VERS>
+      <VERS vnumber="15"> The <gr str="4885">joy </gr>of our <gr str="3820">heart </gr>is <gr str="7673">ceased</gr>; our <gr str="4234">dance </gr>is <gr str="2015">turned </gr>into <gr str="60">mourning</gr>. </VERS>
+      <VERS vnumber="16"> The <gr str="5850">crown </gr>is <gr str="5307">fallen </gr>
+        <STYLE css="color:#808080;font-style:italic"> from </STYLE> our <gr str="7218">head</gr>: <gr str="188">woe </gr>unto us, <gr str="3588">that </gr>we have <gr str="2398">sinned</gr>! </VERS>
+      <VERS vnumber="17">
+        <gr str="5921">For </gr>
+        <gr str="2088">this </gr>our <gr str="3820">heart </gr>
+        <gr str="1961">is </gr>
+        <gr str="1739">faint</gr>; <gr str="5921">for </gr>
+        <gr str="428">these </gr>
+        <STYLE css="color:#808080;font-style:italic"> things </STYLE> our <gr str="5869">eyes </gr>are <gr str="2821">dim</gr>. </VERS>
+      <VERS vnumber="18"> Because <gr str="5921">of </gr>the <gr str="2022">mountain </gr>of <gr str="6726">Zion</gr>, <gr str="7945">which </gr>is <gr str="8074">desolate</gr>, the <gr str="7776">foxes </gr>
+        <gr str="1980">walk </gr>upon it. </VERS>
+      <VERS vnumber="19">
+        <gr str="859">Thou</gr>, O <gr str="3068">LORD</gr>, <gr str="3427">remainest </gr>
+        <gr str="5769">forever</gr>; thy <gr str="3678">throne </gr>from <gr str="1755">generation </gr>to <gr str="1755">generation</gr>. </VERS>
+      <VERS vnumber="20">
+        <gr str="4100">Wherefore </gr>dost thou <gr str="7911">forget </gr>us <gr str="5331">forever</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="5800">forsake </gr>us so <gr str="753">long </gr>
+        <gr str="3117">time</gr>? </VERS>
+      <VERS vnumber="21">
+        <gr str="7725">Turn </gr>thou us <gr str="413">unto </gr>thee, O <gr str="3068">LORD</gr>, and we shall be <gr str="7725">turned</gr>; <gr str="2318">renew </gr>our <gr str="3117">days </gr>as of <gr str="6924">old</gr>. </VERS>
+      <VERS vnumber="22">
+        <gr str="3588 518">But </gr>thou hast utterly <gr str="3988 3988">rejected </gr>us; thou art very <gr str="7107 5704 3966">wroth </gr>
+        <gr str="5921">against </gr>us. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

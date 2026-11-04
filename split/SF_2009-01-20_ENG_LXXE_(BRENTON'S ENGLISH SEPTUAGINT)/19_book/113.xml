@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="113">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">Alleluia.</STYLE> - Praise the Lord, ye servants of his, praise, the name of the Lord.</VERS>
+      <VERS vnumber="2">Let the name of the Lord be blessed, from this present time and for ever.</VERS>
+      <VERS vnumber="3">From the rising of the sun to his setting, the name of the Lord is to be praised.</VERS>
+      <VERS vnumber="4">The Lord is high above all the nations; his glory is above the heavens.</VERS>
+      <VERS vnumber="5">Who is as the Lord our God? who dwells in the high places,</VERS>
+      <VERS vnumber="6">and yet looks upon the low things in heaven, and on the earth:</VERS>
+      <VERS vnumber="7">who lifts up the poor from the earth, and raises up the needy from the dunghill;</VERS>
+      <VERS vnumber="8">to set him with princes, even with the princes of his people:</VERS>
+      <VERS vnumber="9">who settles the barren woman in a house, as a mother rejoicing over children.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="48">
+    <CHAPTER cnumber="1">
+      <CAPTION vref="1">(Writer: Paul) (50-52 C.E.) (Corinth or Syrian Antioch)</CAPTION>
+      <VERS vnumber="1">From Paul, who is an apostle not from men nor through men but through Jesus Christ, and God the Father, who raised him from the dead.</VERS>
+      <VERS vnumber="2">And from the brothers who are with me, to the congregations of Galatia:</VERS>
+      <VERS vnumber="3">Grace to you and peace from God our Father, and our Lord Jesus Christ.</VERS>
+      <VERS vnumber="4">He <STYLE css="font-style:italic">Jesus</STYLE> gave himself for our sins that he might deliver us out of this present evil age. This is according to the will of our God and Father.</VERS>
+      <VERS vnumber="5">To him is glory forever and ever. Amen.</VERS>
+      <VERS vnumber="6">I am amazed that you so quickly turned away from the One who called you by the grace of Christ. You turned to different good news.</VERS>
+      <VERS vnumber="7">Yet this is not another good news. But there are some who trouble <STYLE css="font-style:italic">agitate</STYLE> you, and they would pervert the good news of Christ.</VERS>
+      <VERS vnumber="8">If we, or an angel from heaven, should preach to you any message other than that which we preached to you, let him be accursed <STYLE css="font-style:italic">condemned</STYLE>
+        <STYLE css="font-style:italic">expelled</STYLE>.</VERS>
+      <VERS vnumber="9">We said before and now I say again, if any man preaches to you any message other than what you received, let him be accursed!</VERS>
+      <VERS vnumber="10">Do I now seek the favor of men, or of God? Am I striving to please men? If I were still pleasing men, I would not be a servant of Christ.</VERS>
+      <VERS vnumber="11">For I make known to you brothers that the good news that was preached by me is not according to man.</VERS>
+      <VERS vnumber="12">I did not receive it from man. I was not taught it! It came to me through revelation from Jesus Christ.</VERS>
+      <VERS vnumber="13">You heard about the way I lived as a Jew. How I persecuted the congregation of God beyond measure. In fact I tried to destroy it!</VERS>
+      <VERS vnumber="14">I advanced as a Jew beyond many of my own age among my countrymen. I was more exceedingly zealous for the traditions of my fathers.</VERS>
+      <VERS vnumber="15">It pleased God to separate me even from my mothers womb and call me through his grace.</VERS>
+      <VERS vnumber="16">He revealed his Son to me that I might preach him among the nations. I do not confer with flesh and blood <STYLE css="font-style:italic">human beings</STYLE>.</VERS>
+      <VERS vnumber="17">I did not go to Jerusalem to those who were apostles before I was. I went away to Arabia and again I returned to Damascus.</VERS>
+      <VERS vnumber="18">Then after three years I went to Jerusalem to visit Cephas, and waited with him fifteen days.</VERS>
+      <VERS vnumber="19">But I saw none of the other apostles except James the Lord's brother.</VERS>
+      <VERS vnumber="20">What I write is true. God knows I do not lie.</VERS>
+      <VERS vnumber="21">Then I came to the regions of Syria and Cilicia.</VERS>
+      <VERS vnumber="22">I was still unknown by face to the congregations of Judea that are in Christ.</VERS>
+      <VERS vnumber="23">They heard it said: »He that once persecuted us now preaches the faith he once tried to destroy.«</VERS>
+      <VERS vnumber="24">They glorified God because of me.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

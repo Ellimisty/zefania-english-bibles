@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="46">
+      <CAPTION vref="1">To the chief Musician for the sons of Korah, A Song upon Alamoth. </CAPTION>
+      <VERS vnumber="1">God is our refuge and strength, a very present help in trouble.</VERS>
+      <VERS vnumber="2">Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;</VERS>
+      <VERS vnumber="3">Though the waters thereof roar and be troubled, though the mountains shake with the swelling thereof. Selah.</VERS>
+      <VERS vnumber="4">There is a river, the streams whereof shall make glad the city of God, the holy place of the tabernacles of the most High.</VERS>
+      <VERS vnumber="5">God is in the midst of her; she shall not be moved: God shall help her, and that right early.</VERS>
+      <VERS vnumber="6">The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted.</VERS>
+      <VERS vnumber="7">The LORD of hosts is with us; the God of Jacob is our refuge. Selah.</VERS>
+      <VERS vnumber="8">Come, behold the works of the LORD, what desolations he hath made in the earth.</VERS>
+      <VERS vnumber="9">He maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire.</VERS>
+      <VERS vnumber="10">Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth.</VERS>
+      <VERS vnumber="11">The LORD of hosts is with us; the God of Jacob is our refuge. Selah.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

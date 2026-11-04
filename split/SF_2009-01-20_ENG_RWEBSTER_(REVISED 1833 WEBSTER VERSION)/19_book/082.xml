@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="82">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of Asaph.</STYLE> God standeth in the congregation of the mighty; he judgeth among the gods. <DIV>
+          <NOTE type="x-studynote">of Asaph: or, for Asaph</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">How long will ye judge unjustly, and accept the persons of the wicked? Selah.</VERS>
+      <VERS vnumber="3">Defend the poor and fatherless: do justice to the afflicted and needy. <DIV>
+          <NOTE type="x-studynote">Defend: Heb. Judge</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">Deliver the poor and needy: deliver <STYLE css="font-style:italic">them</STYLE> from the hand of the wicked.</VERS>
+      <VERS vnumber="5">They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course. <DIV>
+          <NOTE type="x-studynote">out…: Heb. moved</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">I have said, Ye <STYLE css="font-style:italic">are</STYLE> gods; and all of you <STYLE css="font-style:italic">are</STYLE> children of the most High.</VERS>
+      <VERS vnumber="7">But ye shall die like men, and fall like one of the princes.</VERS>
+      <VERS vnumber="8">Arise, O God, judge the earth: for thou shalt inherit all nations.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

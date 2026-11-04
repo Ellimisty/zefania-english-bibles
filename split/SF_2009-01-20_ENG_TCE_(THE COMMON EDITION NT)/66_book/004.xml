@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="The Common Edition: New Testament" type="x-bible">
+  <BIBLEBOOK bnumber="66">
+    <CHAPTER cnumber="4">
+      <VERS vnumber="1">After this I looked, and behold, a door standing open in heaven. And the voice, which I had first heard speaking to me like a trumpet said, »Come up here, and I will show you what must take place after this.«</VERS>
+      <VERS vnumber="2">At once I was in the Spirit; and behold, a throne was standing in heaven, with one sitting on the throne.</VERS>
+      <VERS vnumber="3">And he who sat there was like jasper and carnelian in appearance, and round the throne was a rainbow that looked like an emerald.</VERS>
+      <VERS vnumber="4">Round the throne were twenty-four thrones, and seated on the thrones were twenty-four elders, clothed in white garments, and golden crowns on their heads.</VERS>
+      <VERS vnumber="5">From the throne come flashes of lightning, and voices and peals of thunder. And before the throne were seven lamps of fire, which are the seven spirits of God;</VERS>
+      <VERS vnumber="6">and before the throne there was as it were a sea of glass, like crystal. <STYLE css="display:block;text-indent:5mm">And in the center, around the throne, are four living creatures, full of eyes in front and behind.</STYLE>
+      </VERS>
+      <VERS vnumber="7">The first living creature was like a lion, the second creature like an ox, the third creature had a face like that of a man, and the fourth creature was like a flying eagle.</VERS>
+      <VERS vnumber="8">And the four living creatures, each of them with six wings, are full of eyes all around and within, and day and night they never cease to sing, <STYLE css="display:block;text-indent:5mm">»Holy, holy, holy,</STYLE>
+        <STYLE css="display:block;text-indent:5mm">is the Lord God Almighty,</STYLE>
+        <STYLE css="display:block;text-indent:10mm">who was and is and is to come.«</STYLE>
+      </VERS>
+      <VERS vnumber="9">And whenever the living creatures give glory and honor and thanks to him who sits on the throne, who lives for ever and ever,</VERS>
+      <VERS vnumber="10">the twenty-four elders fall down before him who sits on the throne and worship him who lives for ever and ever; they cast their crowns before the throne, saying,</VERS>
+      <VERS vnumber="11">
+        <STYLE css="display:block;text-indent:5mm">»You are worthy, our Lord and our God,</STYLE>
+        <STYLE css="display:block;text-indent:10mm">to receive glory and honor and power,</STYLE>
+        <STYLE css="display:block;text-indent:5mm">for you created all things,</STYLE>
+        <STYLE css="display:block;text-indent:10mm">and by your will they existed and were created.«</STYLE>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="30">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm [and] <gr str="7892">Song </gr>[at] the <gr str="2598">dedication </gr>of the <gr str="1004">house </gr>of <gr str="1732">David</gr>.</STYLE> I will <gr str="7311">extol </gr>thee, O <gr str="3068">LORD</gr>; for thou hast lifted me <gr str="1802">up</gr>, and hast not made my <gr str="341">foes </gr>to <gr str="8055">rejoice </gr>over me.</VERS>
+      <VERS vnumber="2">O <gr str="3068">LORD </gr>my <gr str="430">God</gr>, I <gr str="7768">cried </gr>to thee, and thou hast <gr str="7495">healed </gr>me.</VERS>
+      <VERS vnumber="3">O <gr str="3068">LORD</gr>, thou hast brought <gr str="5927">up </gr>my <gr str="5315">soul </gr>from the <gr str="7585">grave</gr>: thou hast kept me <gr str="2421">alive</gr>, that I should not go <gr str="3381">down </gr>to the <gr str="953">pit</gr>.</VERS>
+      <VERS vnumber="4">
+        <gr str="2167">Sing </gr>to the <gr str="3068">LORD</gr>, O ye <gr str="2623">saints </gr>of his, and give <gr str="3034">thanks </gr>at the <gr str="2143">remembrance </gr>of his <gr str="6944">holiness</gr>. <DIV>
+          <NOTE type="x-studynote">at…: or, to the memorial</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="5">For his <gr str="639">anger </gr>
+        <STYLE css="font-style:italic">endureth but</STYLE> a <gr str="7281">moment</gr>; in his <gr str="7522">favour </gr>
+        <STYLE css="font-style:italic">is </STYLE>
+        <gr str="2416">life</gr>: <gr str="1065">weeping </gr>may <gr str="3885">endure </gr>for a <gr str="6153">night</gr>, but <gr str="7440">joy </gr>
+        <STYLE css="font-style:italic">cometh</STYLE> in the <gr str="1242">morning</gr>. <DIV>
+          <NOTE type="x-studynote">his anger…: Heb. there is but a moment in his anger</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">for a night: Heb. in the evening</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">joy: Heb. singing</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">And in my <gr str="7959">prosperity </gr>I <gr str="559">said</gr>, I shall <gr str="5769">never </gr>be <gr str="4131">moved</gr>.</VERS>
+      <VERS vnumber="7">
+        <gr str="3068">LORD</gr>, by thy <gr str="7522">favour </gr>thou hast made my <gr str="2042">mountain </gr>to <gr str="5975">stand </gr>
+        <gr str="5797">strong</gr>: thou didst <gr str="5641">hide </gr>thy <gr str="6440">face</gr>, <STYLE css="font-style:italic">and</STYLE> I was <gr str="926">troubled</gr>. <DIV>
+          <NOTE type="x-studynote">made…: Heb. settled strength for my mountain</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">I <gr str="7121">cried </gr>to thee, O <gr str="3068">LORD</gr>; and to the <gr str="3068">LORD </gr>I made <gr str="2603">supplication</gr>.</VERS>
+      <VERS vnumber="9">What <gr str="1215">profit </gr>
+        <STYLE css="font-style:italic">is there</STYLE> in my <gr str="1818">blood</gr>, when I go <gr str="3381">down </gr>to the <gr str="7845">pit</gr>? Shall the <gr str="6083">dust </gr>
+        <gr str="3034">praise </gr>thee? shall it <gr str="5046">declare </gr>thy <gr str="571">truth</gr>?</VERS>
+      <VERS vnumber="10">
+        <gr str="8085">Hear</gr>, O <gr str="3068">LORD</gr>, and have <gr str="2603">mercy </gr>upon me: <gr str="3068">LORD</gr>, be thou my <gr str="5826">helper</gr>.</VERS>
+      <VERS vnumber="11">Thou hast <gr str="2015">turned </gr>for me my <gr str="4553">mourning </gr>into <gr str="4234">dancing</gr>: thou hast put <gr str="6605">off </gr>my <gr str="8242">sackcloth</gr>, and <gr str="247">girded </gr>me with <gr str="8057">gladness</gr>;</VERS>
+      <VERS vnumber="12">To the end that <STYLE css="font-style:italic">my </STYLE>
+        <gr str="3519">glory </gr>may sing <gr str="2167">praise </gr>to thee, and not be <gr str="1826">silent</gr>. O <gr str="3068">LORD </gr>my <gr str="430">God</gr>, I will give <gr str="3034">thanks </gr>to thee for <gr str="5769">ever</gr>. <DIV>
+          <NOTE type="x-studynote">my glory: that is, my tongue, or, my soul</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

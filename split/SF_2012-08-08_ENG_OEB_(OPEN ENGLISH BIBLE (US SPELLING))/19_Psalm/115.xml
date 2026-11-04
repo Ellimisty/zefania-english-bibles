@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="115">
+      <VERS vnumber="1">Not to us, <STYLE id="cl:divineName">Lord</STYLE>, not to us,but to your name give glory,for your kindness’ and faithfulness’ sake.Why should the heathen say,“Where is now their God?”</VERS>
+      <VERS vnumber="3">Our God he is in heaven;whatever he wishes, he does.</VERS>
+      <VERS vnumber="4">Their idols are silver and gold,made by human hands.</VERS>
+      <VERS vnumber="5">They have mouths, but cannot speak;they have eyes, but cannot see.</VERS>
+      <VERS vnumber="6">They have ears, but cannot hear;they have noses, but cannot smell.</VERS>
+      <VERS vnumber="7">They have hands, but cannot feel;they have feet, but cannot walk:no sound comes from their throats.</VERS>
+      <VERS vnumber="8">Their makers become like them,so do all who trust in them. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="9">O Israel, trust in the <STYLE id="cl:divineName">Lord</STYLE>:he is their help and their shield.</VERS>
+      <VERS vnumber="10">House of Aaron, trust in the <STYLE id="cl:divineName">Lord</STYLE>:he is their help and their shield.</VERS>
+      <VERS vnumber="11">You who fear the <STYLE id="cl:divineName">Lord</STYLE>, trust in the <STYLE id="cl:divineName">Lord</STYLE>he is their help and their shield. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="12">The <STYLE id="cl:divineName">Lord</STYLE>, mindful of us, will bless us:he will bless the house of Israel,he will bless the house of Aaron.</VERS>
+      <VERS vnumber="13">He will bless those who fear the <STYLE id="cl:divineName">Lord</STYLE>,the small and the great together. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="14">May the <STYLE id="cl:divineName">Lord</STYLE> add to your numbersto you and to your children.</VERS>
+      <VERS vnumber="15">Blessed be you of the <STYLE id="cl:divineName">Lord</STYLE>,creator of heaven and earth. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="16">The heavens are the heavens of the <STYLE id="cl:divineName">Lord</STYLE>,but the earth has he given to people.</VERS>
+      <VERS vnumber="17">The dead cannot praise the <STYLE id="cl:divineName">Lord</STYLE>,nor those who go down into silence.</VERS>
+      <VERS vnumber="18">But we will bless the <STYLE id="cl:divineName">Lord</STYLE>from now and for evermore.Hallelujah.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

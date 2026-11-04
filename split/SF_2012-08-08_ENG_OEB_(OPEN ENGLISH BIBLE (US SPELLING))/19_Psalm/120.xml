@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="120">
+      <VERS vnumber="1">In distress I cried to the <STYLE id="cl:divineName">Lord</STYLE>,and he answered me.</VERS>
+      <VERS vnumber="2">“Deliver me, <STYLE id="cl:divineName">Lord</STYLE>,from the lip that is falseand the tongue that is crafty.” <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">What shall he give to you,you tongue that is crafty?What yet shall he give to you?</VERS>
+      <VERS vnumber="4">Arrows of warrior, sharpened,with glowing broom coals together. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">Woe is me that I sojourn in Meshech,that I live by the tents of Kedar.</VERS>
+      <VERS vnumber="6">Already too long have I dweltamong those who hate peace.</VERS>
+      <VERS vnumber="7">I am for peace:but when I speak of it,they are for war.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

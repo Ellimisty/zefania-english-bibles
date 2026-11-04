@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Douay Rheims" type="x-bible">
+  <BIBLEBOOK bnumber="67" bname="Judith" bsname="Jdt">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">And these are the words of the book, which Baruch the son of Nerias, the son of Maasias, the son of Sedecias, the son of Sedei, the son of Helcias, wrote in Babylonia.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

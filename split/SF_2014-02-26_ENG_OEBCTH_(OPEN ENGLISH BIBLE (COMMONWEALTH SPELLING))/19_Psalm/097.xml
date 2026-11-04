@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="97">
+      <VERS vnumber="1">The <STYLE id="cl:divineName">Lord</STYLE> is king, let the earth rejoice:let her many isles be glad.</VERS>
+      <VERS vnumber="2">Clouds and darkness are round about him,justice and right are the base of his throne.</VERS>
+      <VERS vnumber="3">Fire goes before him,and blazes around his steps,</VERS>
+      <VERS vnumber="4">his lightnings illumine the world:the earth quakes at the sight.</VERS>
+      <VERS vnumber="5">Mountains melt like waxbefore the <STYLE id="cl:divineName">Lord</STYLE> of all the earth.</VERS>
+      <VERS vnumber="6">The heavens proclaim his justice,all nations behold his glory. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">Shamed are all image-worshippers,who make a boast of their idols.All the gods bow before him.</VERS>
+      <VERS vnumber="8">Zion is glad at the tidings,the towns of Judah rejoicebecause of your judgments, <STYLE id="cl:divineName">Lord</STYLE>.</VERS>
+      <VERS vnumber="9">For you are most high over all the earth,greatly exalted above all gods. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="10">The <STYLE id="cl:divineName">Lord</STYLE> loves those who hate evil,he guards the lives of the faithful:from the hand of the wicked he saves them.</VERS>
+      <VERS vnumber="11">Light arises for the righteous,and joy for the upright in heart.</VERS>
+      <VERS vnumber="12">Rejoice in the <STYLE id="cl:divineName">Lord</STYLE>, you righteous:give thanks to his holy name.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

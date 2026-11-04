@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="New Heart English Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="32">
+      <VERS vnumber="1">By David. A contemplative psalm.Blessed is he whose disobedience is forgiven,whose sin is covered.</VERS>
+      <VERS vnumber="2">Blessed is the man to whom the <STYLE id="cl:divineName">Lord</STYLE> doesn't impute iniquity,in whose spirit there is no deceit.</VERS>
+      <VERS vnumber="3">When I kept silence, my bones wasted away through my groaning all day long.</VERS>
+      <VERS vnumber="4">For day and night your hand was heavy on me.My strength was sapped in the heat of summer.Selah.</VERS>
+      <VERS vnumber="5">I acknowledged my sin to you.I did not hide my iniquity.I said, I will confess my transgressions to the <STYLE id="cl:divineName">Lord</STYLE>,and you forgave the iniquity of my sin.Selah.</VERS>
+      <VERS vnumber="6">For this, let everyone who is godly pray to you in a time when you may be found.Surely when the great waters overflow, they shall not reach to him.</VERS>
+      <VERS vnumber="7">You are my hiding place.You will preserve me from trouble.You will surround me with songs of deliverance.Selah.</VERS>
+      <VERS vnumber="8">I will instruct you and teach you in the way which you shall go.I will counsel you with my eye on you.</VERS>
+      <VERS vnumber="9">Do not be like the horse, or like the mule, which have no understanding,who are controlled by bit and bridle, or else they will not come near to you.</VERS>
+      <VERS vnumber="10">Many sorrows come to the wicked,but loving kindness shall surround him who trusts in the <STYLE id="cl:divineName">Lord</STYLE>.</VERS>
+      <VERS vnumber="11">Be glad in the <STYLE id="cl:divineName">Lord</STYLE>, and rejoice, you righteous!Shout for joy, all you who are upright in heart!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

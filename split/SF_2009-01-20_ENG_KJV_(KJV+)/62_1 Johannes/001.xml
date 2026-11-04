@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="62" bname="1 Johannes" bsname="1Jo">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1"> That <gr str="3739">which </gr>
+        <gr str="2258">was </gr>
+        <gr str="575">from </gr>the <gr str="746">beginning</gr>, <gr str="3739">which </gr>we have <gr str="191">heard</gr>, <gr str="3739">which </gr>we have <gr str="3708">seen </gr>with <gr str="2257">our </gr>
+        <gr str="3788">eyes</gr>, <gr str="3739">which </gr>we have looked <gr str="2300">upon</gr>, <gr str="2532">and </gr>
+        <gr str="2257">our </gr>
+        <gr str="5495">hands </gr>have <gr str="5584">handled</gr>, <gr str="4012">of </gr>
+        <gr str="3588">the </gr>
+        <gr str="3056">Word </gr>of <gr str="2222">life</gr>; </VERS>
+      <VERS vnumber="2"> (<gr str="2532">For </gr>
+        <gr str="3588">the </gr>
+        <gr str="2222">life </gr>was <gr str="5319">manifested</gr>, <gr str="2532">and </gr>we have <gr str="3708">seen </gr>
+        <STYLE css="color:#808080;font-style:italic"> it, </STYLE>
+        <gr str="2532">and </gr>bear <gr str="3140">witness</gr>, <gr str="2532">and </gr>
+        <gr str="518">show </gr>unto <gr str="5213">you </gr>that <gr str="166">eternal </gr>
+        <gr str="2222">life</gr>, <gr str="3748">which </gr>
+        <gr str="2258">was </gr>
+        <gr str="4314">with </gr>
+        <gr str="3588">the </gr>
+        <gr str="3962">Father</gr>, <gr str="2532">and </gr>was <gr str="5319">manifested </gr>unto <gr str="2254">us</gr>;) </VERS>
+      <VERS vnumber="3"> That <gr str="3739">which </gr>we have <gr str="3708">seen </gr>
+        <gr str="2532">and </gr>
+        <gr str="191">heard </gr>
+        <gr str="518">declare </gr>we unto <gr str="5213">you</gr>, <gr str="2443">that </gr>
+        <gr str="5210">ye </gr>
+        <gr str="2532">also </gr>may <gr str="2192">have </gr>
+        <gr str="2842">fellowship </gr>
+        <gr str="3326">with </gr>
+        <gr str="2257">us</gr>: <gr str="2532">and </gr>
+        <gr str="1161">truly </gr>
+        <gr str="2251">our </gr>
+        <gr str="2842">fellowship </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3326">with </gr>
+        <gr str="3588">the </gr>
+        <gr str="3962">Father</gr>, <gr str="2532">and </gr>
+        <gr str="3326">with </gr>
+        <gr str="848">his </gr>
+        <gr str="5207">Son </gr>
+        <gr str="2424">Jesus </gr>
+        <gr str="5547">Christ</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="2532">And </gr>these <gr str="5023">things </gr>
+        <gr str="1125">write </gr>we unto <gr str="5213">you</gr>, <gr str="2443">that </gr>
+        <gr str="5216">your </gr>
+        <gr str="5479">joy </gr>may <gr str="5600">be </gr>
+        <gr str="4137">full</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="3778">This </gr>
+        <gr str="2532">then </gr>
+        <gr str="2076">is </gr>
+        <gr str="3588">the </gr>
+        <gr str="1860">message </gr>
+        <gr str="3739">which </gr>we have <gr str="191">heard </gr>
+        <gr str="575">of </gr>
+        <gr str="846">him</gr>, <gr str="2532">and </gr>
+        <gr str="312">declare </gr>unto <gr str="5213">you</gr>, <gr str="3754">that </gr>
+        <gr str="2316">God </gr>
+        <gr str="2076">is </gr>
+        <gr str="5457">light</gr>, <gr str="2532">and </gr>
+        <gr str="1722">in </gr>
+        <gr str="846">him </gr>
+        <gr str="2076">is </gr>
+        <gr str="3756">no </gr>
+        <gr str="4653">darkness </gr>at <gr str="3762">all</gr>. </VERS>
+      <VERS vnumber="6">
+        <gr str="1437">If </gr>we <gr str="2036">say </gr>
+        <gr str="3754">that </gr>we <gr str="2192">have </gr>
+        <gr str="2842">fellowship </gr>
+        <gr str="3326">with </gr>
+        <gr str="846">him</gr>, <gr str="2532">and </gr>
+        <gr str="4043">walk </gr>
+        <gr str="1722">in </gr>
+        <gr str="4655">darkness</gr>, we <gr str="5574">lie</gr>, <gr str="2532">and </gr>
+        <gr str="4160">do </gr>
+        <gr str="3756">not </gr>
+        <gr str="3588">the </gr>
+        <gr str="225">truth</gr>: </VERS>
+      <VERS vnumber="7">
+        <gr str="1161">But </gr>
+        <gr str="1437">if </gr>we <gr str="4043">walk </gr>
+        <gr str="1722">in </gr>
+        <gr str="3588">the </gr>
+        <gr str="5457">light</gr>, <gr str="5613">as </gr>
+        <gr str="846">he </gr>
+        <gr str="2076">is </gr>
+        <gr str="1722">in </gr>
+        <gr str="3588">the </gr>
+        <gr str="5457">light</gr>, we <gr str="2192">have </gr>
+        <gr str="2842">fellowship </gr>one with <gr str="240 3326">another</gr>, <gr str="2532">and </gr>
+        <gr str="3588">the </gr>
+        <gr str="129">blood </gr>of <gr str="2424">Jesus </gr>
+        <gr str="5547">Christ </gr>
+        <gr str="846">his </gr>
+        <gr str="5207">Son </gr>
+        <gr str="2511">cleanseth </gr>
+        <gr str="2248">us </gr>
+        <gr str="575">from </gr>
+        <gr str="3956">all </gr>
+        <gr str="266">sin</gr>. </VERS>
+      <VERS vnumber="8">
+        <gr str="1437">If </gr>we <gr str="2036">say </gr>
+        <gr str="3754">that </gr>we <gr str="2192">have </gr>
+        <gr str="3756">no </gr>
+        <gr str="266">sin</gr>, we <gr str="4105">deceive </gr>
+        <gr str="1438">ourselves</gr>, <gr str="2532">and </gr>
+        <gr str="3588">the </gr>
+        <gr str="225">truth </gr>
+        <gr str="2076">is </gr>
+        <gr str="3756">not </gr>
+        <gr str="1722">in </gr>
+        <gr str="2254">us</gr>. </VERS>
+      <VERS vnumber="9">
+        <gr str="1437">If </gr>we <gr str="3670">confess </gr>
+        <gr str="2257">our </gr>
+        <gr str="266">sins</gr>, he <gr str="2076">is </gr>
+        <gr str="4103">faithful </gr>
+        <gr str="2532">and </gr>
+        <gr str="1342">just </gr>
+        <gr str="2443">to </gr>
+        <gr str="863">forgive </gr>
+        <gr str="2254">us </gr>
+        <STYLE css="color:#808080;font-style:italic"> our </STYLE>
+        <gr str="266">sins</gr>, <gr str="2532">and </gr>to <gr str="2511">cleanse </gr>
+        <gr str="2248">us </gr>
+        <gr str="575">from </gr>
+        <gr str="3956">all </gr>
+        <gr str="93">unrighteousness</gr>. </VERS>
+      <VERS vnumber="10">
+        <gr str="1437">If </gr>we <gr str="2036">say </gr>
+        <gr str="3754">that </gr>we have <gr str="3756">not </gr>
+        <gr str="264">sinned</gr>, we <gr str="4160">make </gr>
+        <gr str="846">him </gr>a <gr str="5583">liar</gr>, <gr str="2532">and </gr>
+        <gr str="848">his </gr>
+        <gr str="3056">word </gr>
+        <gr str="2076">is </gr>
+        <gr str="3756">not </gr>
+        <gr str="1722">in </gr>
+        <gr str="2254">us</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

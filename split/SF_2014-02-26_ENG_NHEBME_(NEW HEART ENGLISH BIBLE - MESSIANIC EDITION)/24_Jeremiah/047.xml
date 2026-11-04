@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible - Messianic Edition" type="x-bible">
+  <BIBLEBOOK bnumber="24" bname="Jeremiah" bsname="Jer">
+    <CHAPTER cnumber="47">
+      <VERS vnumber="1">The word of the <STYLE id="cl:divineName">Lord</STYLE> that came to Jeremiah the prophet concerning the Philistines, before that Pharaoh struck Gaza.</VERS>
+      <VERS vnumber="2">"Thus says the <STYLE id="cl:divineName">Lord</STYLE>: 'Behold, waters rise up out of the north, and shall become an overflowing stream, and shall overflow the land and all that is therein, the city and those who dwell therein; and the men shall cry, and all the inhabitants of the land shall wail.</VERS>
+      <VERS vnumber="3">At the noise of the stamping of the hoofs of his strong ones, at the rushing of his chariots, at the rumbling of his wheels, the fathers do not look back to their children for feebleness of hands;</VERS>
+      <VERS vnumber="4">because of the day that comes to destroy all the Philistines, to cut off from Tyre and Sidon every helper who remains: for the <STYLE id="cl:divineName">Lord</STYLE> will destroy the Philistines, the remnant of the isle of Caphtor.</VERS>
+      <VERS vnumber="5">Baldness has come on Gaza; Ashkelon is brought to nothing, the remnant of their valley: how long will you cut yourself?</VERS>
+      <VERS vnumber="6">You sword of the <STYLE id="cl:divineName">Lord</STYLE>, "how long will it be before you be quiet? Put up yourself into your scabbard; rest, and be still."</VERS>
+      <VERS vnumber="7">How can you be quiet, since the <STYLE id="cl:divineName">Lord</STYLE> has given you a command? Against Ashkelon, and against the seashore, there has he appointed it.'"</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

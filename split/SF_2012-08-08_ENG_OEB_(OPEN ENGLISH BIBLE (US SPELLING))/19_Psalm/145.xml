@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="145">
+      <VERS vnumber="1">I will exalt you, my God, O king:I will bless your name for ever and ever.</VERS>
+      <VERS vnumber="2">I will bless you every day:I will praise your name for ever and ever. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">Great is the <STYLE id="cl:divineName">Lord</STYLE> and worthy all praise,his greatness is unsearchable.</VERS>
+      <VERS vnumber="4">One age to another shall praise your deeds,declaring the mighty things you have done. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">Of your glorious majesty they shall tell,and I will muse of your many wonders.</VERS>
+      <VERS vnumber="6">Of the might of your terrible acts they shall speak,and the tale of your great deeds I will tell. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">The fame of your abundant goodnessand righteousness they shall pour forth in song.</VERS>
+      <VERS vnumber="8">The <STYLE id="cl:divineName">Lord</STYLE> is full of grace and pity,patient and rich in loving-kindness. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="9">The <STYLE id="cl:divineName">Lord</STYLE> is good to all the world,and his pity is over all things that he made.</VERS>
+      <VERS vnumber="10">All your works give you thanks, O <STYLE id="cl:divineName">Lord</STYLE>,and you are blessed of those who love you. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="11">They shall speak of your glorious kingdom,and of your might shall they discourse,</VERS>
+      <VERS vnumber="12">making known to people his mighty acts,and the glorious majesty of his kingdom. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="13">Yours is a kingdom that lives through all ages:through all generations extends your dominion.The <STYLE id="cl:divineName">Lord</STYLE> is faithful in all that he promises,gracious is he in all that he does. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="14">The <STYLE id="cl:divineName">Lord</STYLE> upholds all who fall;he lifts up all who are bowed down.</VERS>
+      <VERS vnumber="15">The eyes of all look in hope to you,and you give them their food in due season. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="16">You yourself open your hand,and fill with your favour all things that live.</VERS>
+      <VERS vnumber="17">The <STYLE id="cl:divineName">Lord</STYLE> is righteous in all his ways,gracious is he in all that he does. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="18">The <STYLE id="cl:divineName">Lord</STYLE> is near to all who call him,to all who call upon him in truth.</VERS>
+      <VERS vnumber="19">He will fulfil the desires of those who fear him;he will hear their cry for help and save them. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="20">The <STYLE id="cl:divineName">Lord</STYLE> is the keeper of all who love him,but all the wicked will he destroy.</VERS>
+      <VERS vnumber="21">My mouth will utter the praise of the <STYLE id="cl:divineName">Lord</STYLE>,and all life will bless his holy namefor ever and ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="110">
+      <CAPTION vref="1">A Psalm of David.</CAPTION>
+      <VERS vnumber="1">Jehovah said unto my Lord, Sit at My right hand, until I place Your enemies as Your footstool.</VERS>
+      <VERS vnumber="2">Jehovah shall send the staff of Your strength out of Zion. Rule in the midst of Your enemies.</VERS>
+      <VERS vnumber="3">Your people shall be volunteers in the day of Your power; in the splendor of holiness, from the womb of the dawn, You have the dew of Your youth.</VERS>
+      <VERS vnumber="4">Jehovah has sworn and will not regret it: You are a priest forever according to the order of Melchizedek.</VERS>
+      <VERS vnumber="5">The Lord at Your right hand shall shatter kings in the day of His wrath.</VERS>
+      <VERS vnumber="6">He shall judge among the nations, He shall fill them with dead bodies; He shall greatly shatter the heads over the earth.</VERS>
+      <VERS vnumber="7">He shall drink of the brook by the wayside; therefore He shall lift up the head.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="63">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of David, when he was in the wilderness of Judah.</STYLE>
+        <DIV>
+          <NOTE type="x-studynote">(63:2)</NOTE>
+        </DIV> O God, thou art my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry land, and it is faint without water.</VERS>
+      <VERS vnumber="2">
+        <DIV>
+          <NOTE type="x-studynote">(63:3)</NOTE>
+        </DIV> As I have beheld thee in the sanctuary, seeing thy strength and thy glory;</VERS>
+      <VERS vnumber="3">
+        <DIV>
+          <NOTE type="x-studynote">(63:4)</NOTE>
+        </DIV> Because thy kindness is better than life, my lips shall praise thee:</VERS>
+      <VERS vnumber="4">
+        <DIV>
+          <NOTE type="x-studynote">(63:5)</NOTE>
+        </DIV> Thus will I bless thee while I live; in thy name will I lift up my hands.</VERS>
+      <VERS vnumber="5">
+        <DIV>
+          <NOTE type="x-studynote">(63:6)</NOTE>
+        </DIV> As with fat and marrow will my soul be satisfied; and with tuneful lips shall my mouth praise thee.</VERS>
+      <VERS vnumber="6">
+        <DIV>
+          <NOTE type="x-studynote">(63:7)</NOTE>
+        </DIV> When I remember thee upon my couch, I meditate on thee in the nightwatches.</VERS>
+      <VERS vnumber="7">
+        <DIV>
+          <NOTE type="x-studynote">(63:8)</NOTE>
+        </DIV> Because thou hast been a help unto me; and in the shadow of thy wings will I sing rejoicingly.</VERS>
+      <VERS vnumber="8">
+        <DIV>
+          <NOTE type="x-studynote">(63:9)</NOTE>
+        </DIV> My soul cleaveth unto following thee: me thy right hand upholdeth.</VERS>
+      <VERS vnumber="9">
+        <DIV>
+          <NOTE type="x-studynote">(63:10)</NOTE>
+        </DIV> But those that seek my soul, to destroy it, shall go down into the lowest deeps of the earth.</VERS>
+      <VERS vnumber="10">
+        <DIV>
+          <NOTE type="x-studynote">(63:11)</NOTE>
+        </DIV> They shall be delivered up to the power of the sword: they shall become a prey for jackals.</VERS>
+      <VERS vnumber="11">
+        <DIV>
+          <NOTE type="x-studynote">(63:12)</NOTE>
+        </DIV> But the king shall rejoice in God: every one that sweareth by him shall glorify himself; for the mouth of those that speak falsehood shall be stopped.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

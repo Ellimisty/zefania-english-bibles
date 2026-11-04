@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Douay Rheims" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="124">
+      <VERS vnumber="1">To thee have I lifted up my eyes, who dwellest in heaven.</VERS>
+      <VERS vnumber="2">Behold as the eyes of the servants are on the hands of their masters, As the eyes of the handmaid are on the hands of her mistress: so are our eyes unto the Lord our God, until he have mercy on us.</VERS>
+      <VERS vnumber="3">Have mercy on us, O Lord, have mercy on us: for we are greatly filled with contempt.</VERS>
+      <VERS vnumber="4">For our soul is greatly filled: we are a reproach to the rich, and contempt to the proud.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

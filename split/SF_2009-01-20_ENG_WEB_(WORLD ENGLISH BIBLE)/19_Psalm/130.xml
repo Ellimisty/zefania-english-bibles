@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="World English Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="130">
+      <VERS vnumber="1">Out of the depths I have cried to you, Yahweh.</VERS>
+      <VERS vnumber="2">Lord, hear my voice.    Let your ears be attentive to the voice of my petitions.</VERS>
+      <VERS vnumber="3">If you, Yah, kept a record of sins,    Lord, who could stand?</VERS>
+      <VERS vnumber="4">But there is forgiveness with you,    Therefore you are feared.</VERS>
+      <VERS vnumber="5">I wait for Yahweh.    My soul waits.    I hope in his word.</VERS>
+      <VERS vnumber="6">My soul longs for the Lord more than watchmen long for the       morning;    More than watchmen for the morning.</VERS>
+      <VERS vnumber="7">Israel, hope in Yahweh,    For with Yahweh there is lovingkindness.    With him is abundant redemption.</VERS>
+      <VERS vnumber="8">He will redeem Israel from all their sins.      Psalm 131  A Song of Ascents. By David.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

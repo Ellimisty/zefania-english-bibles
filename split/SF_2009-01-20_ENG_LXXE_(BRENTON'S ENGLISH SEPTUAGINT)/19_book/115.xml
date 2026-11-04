@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="115">
+      <VERS vnumber="1">Not to us, O Lord, not to us, but to thy name give glory, because of thy mercy and thy truth;</VERS>
+      <VERS vnumber="2">lest at any time the nations should say, Where is their God?</VERS>
+      <VERS vnumber="3">But our God has done in heaven and on earth, whatsoever he has pleased.</VERS>
+      <VERS vnumber="4">The idols of the nations are silver and gold, the works of men’s hands.</VERS>
+      <VERS vnumber="5">They have a mouth, but they <DIV>
+          <NOTE type="x-studynote">Gr. will not</NOTE>
+        </DIV> cannot speak; they have eyes, but they cannot see:</VERS>
+      <VERS vnumber="6">they have ears, but they cannot hear; they have noses, but they cannot smell;</VERS>
+      <VERS vnumber="7">they have hands, but they cannot handle; they have feet, but they cannot walk: they cannot speak through their throat.</VERS>
+      <VERS vnumber="8">Let those that make them become like to them, and all who trust in them.</VERS>
+      <VERS vnumber="9">The house of Israel trusts in the Lord: he is their helper and defender.</VERS>
+      <VERS vnumber="10">The house of Aaron trusts in the Lord: he is their helper and defender.</VERS>
+      <VERS vnumber="11">They that fear the Lord trust in the Lord: he is their helper and defender.</VERS>
+      <VERS vnumber="12">The Lord has remembered us, and blessed us: he has blessed the house of Israel, he has blessed the house of Aaron.</VERS>
+      <VERS vnumber="13">He has blessed them that fear the Lord, both small and great.</VERS>
+      <VERS vnumber="14">The Lord <DIV>
+          <NOTE type="x-studynote">Or, increase you</NOTE>
+        </DIV> add blessings to you and to your children.</VERS>
+      <VERS vnumber="15">Blessed are ye of the Lord, who made the heaven and the earth.</VERS>
+      <VERS vnumber="16">The heaven of <DIV>
+          <NOTE type="x-studynote">Gr. sing</NOTE>
+        </DIV> heavens belongs to the Lord: but he has given the earth to the sons of men.</VERS>
+      <VERS vnumber="17">The dead shall not praise thee, O Lord, nor any that go down to Hades.</VERS>
+      <VERS vnumber="18">But we, the living, will bless the Lord, from henceforth and for ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="24">
+      <VERS vnumber="1"> A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>. The <gr str="776">earth </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="3068">LORD </gr>'s, and the <gr str="4393">fullness </gr>thereof; the <gr str="8398">world</gr>, and they that <gr str="3427">dwell </gr>therein. </VERS>
+      <VERS vnumber="2">
+        <gr str="3588">For </gr>
+        <gr str="1931">he </gr>hath <gr str="3245">founded </gr>it <gr str="5921">upon </gr>the <gr str="3220">seas</gr>, and <gr str="3559">established </gr>it <gr str="5921">upon </gr>the <gr str="5104">floods</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="4310">Who </gr>shall <gr str="5927">ascend </gr>into the <gr str="2022">hill </gr>of the <gr str="3068">LORD</gr>? or <gr str="4310">who </gr>shall <gr str="6965">stand </gr>in his <gr str="6944">holy </gr>
+        <gr str="4725">place</gr>? </VERS>
+      <VERS vnumber="4"> He that hath <gr str="5355">clean </gr>
+        <gr str="3709">hands</gr>, and a <gr str="1249">pure </gr>
+        <gr str="3824">heart</gr>; <gr str="834">who </gr>hath <gr str="3808">not </gr>lifted <gr str="5375">up </gr>his <gr str="5315">soul </gr>unto <gr str="7723">vanity</gr>, <gr str="3808">nor </gr>
+        <gr str="7650">sworn </gr>
+        <gr str="4820">deceitfully</gr>. </VERS>
+      <VERS vnumber="5"> He shall <gr str="5375">receive </gr>the <gr str="1293">blessing </gr>
+        <gr str="4480 854">from </gr>the <gr str="3068">LORD</gr>, and <gr str="6666">righteousness </gr>from the <gr str="4480 430">God </gr>of his <gr str="3468">salvation</gr>. </VERS>
+      <VERS vnumber="6">
+        <gr str="2088">This </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="1755">generation </gr>of them that <gr str="1875">seek </gr>him, that <gr str="1245">seek </gr>thy <gr str="6440">face</gr>, O <gr str="3290">Jacob</gr>. <gr str="5542">Selah</gr>. </VERS>
+      <VERS vnumber="7"> Lift <gr str="5375">up </gr>your <gr str="7218">heads</gr>, O ye <gr str="8179">gates</gr>; and be ye lift <gr str="5375">up</gr>, ye <gr str="5769">everlasting </gr>
+        <gr str="6607">doors</gr>; and the <gr str="4428">King </gr>of <gr str="3519">glory </gr>shall come <gr str="935">in</gr>. </VERS>
+      <VERS vnumber="8">
+        <gr str="4310">Who </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2088">this </gr>
+        <gr str="4428">King </gr>of <gr str="3519">glory</gr>? The <gr str="3068">LORD </gr>
+        <gr str="5808">strong </gr>and <gr str="1368">mighty</gr>, the <gr str="3068">LORD </gr>
+        <gr str="1368">mighty </gr>in <gr str="4421">battle</gr>. </VERS>
+      <VERS vnumber="9"> Lift <gr str="5375">up </gr>your <gr str="7218">heads</gr>, O ye <gr str="8179">gates</gr>; even lift <STYLE css="color:#808080;font-style:italic"> them </STYLE>
+        <gr str="5375">up</gr>, ye <gr str="5769">everlasting </gr>
+        <gr str="6607">doors</gr>; and the <gr str="4428">King </gr>of <gr str="3519">glory </gr>shall come <gr str="935">in</gr>. </VERS>
+      <VERS vnumber="10">
+        <gr str="4310">Who </gr>
+        <gr str="1931">is </gr>
+        <gr str="2088">this </gr>
+        <gr str="4428">King </gr>of <gr str="3519">glory</gr>? The <gr str="3068">LORD </gr>of <gr str="6635">hosts</gr>, <gr str="1931">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="4428">King </gr>of <gr str="3519">glory</gr>. <gr str="5542">Selah</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

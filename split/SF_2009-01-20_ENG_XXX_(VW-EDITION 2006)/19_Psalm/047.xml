@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="47">
+      <CAPTION vref="1">To the Chief Musician. A Psalm for the sons of Korah.</CAPTION>
+      <VERS vnumber="1">Clap your hands, all you peoples! Shout unto God with the voice of triumph!</VERS>
+      <VERS vnumber="2">For Jehovah Most High is awesome, a great King over all the earth.</VERS>
+      <VERS vnumber="3">He shall put to flight the peoples under us, and nations under our feet.</VERS>
+      <VERS vnumber="4">He will choose our inheritance for us, the majesty of Jacob whom He has loved. Selah.</VERS>
+      <VERS vnumber="5">God has gone up with a shout, Jehovah with the sound of a shofar.</VERS>
+      <VERS vnumber="6">Sing praises unto God, sing praises! Sing praises unto our King, sing praises!</VERS>
+      <VERS vnumber="7">For God is King of all the earth; sing praises with understanding.</VERS>
+      <VERS vnumber="8">God reigns over the nations, God sits upon the throne of His holiness.</VERS>
+      <VERS vnumber="9">The nobles of the peoples are gathered together, the people of the God of Abraham; for the shields of the earth belong to God; He is greatly exalted.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

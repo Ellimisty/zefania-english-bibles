@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="95">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">The praise of a Song by David.</STYLE> - Come, let us exult <DIV>
+          <NOTE type="x-studynote">Gr. unto</NOTE>
+        </DIV> in the Lord; let us make a joyful noise to God our Saviour.</VERS>
+      <VERS vnumber="2">Let us come before his presence with thanksgiving, and make a joyful noise to him with psalms.</VERS>
+      <VERS vnumber="3">For the Lord is a great God, and a great king over all gods: <DIV>
+          <NOTE type="x-studynote">Heb. and Alex. omit this clause; See Ps 94:14</NOTE>
+        </DIV> for the Lord will not cast off his people.</VERS>
+      <VERS vnumber="4">For the ends of the earth are in his hands; and the heights of the mountains are his.</VERS>
+      <VERS vnumber="5">For the sea is his, and he made it: and his hands formed the dry land.</VERS>
+      <VERS vnumber="6">Come, let us worship and fall down before him; and weep before the Lord that made us.</VERS>
+      <VERS vnumber="7">For he is our God; and we are the people of his pasture, and the sheep of his hand.</VERS>
+      <VERS vnumber="8">
+        <DIV>
+          <NOTE type="x-studynote">Heb 3:7-12.</NOTE>
+        </DIV> To-day, if ye will hear his voice, harden not your hearts, as in the provocation, according to the day of <DIV>
+          <NOTE type="x-studynote">Note, peirasmou is the reading of several editions</NOTE>
+        </DIV> irritation in the wilderness:</VERS>
+      <VERS vnumber="9">where your fathers tempted me, proved me, and saw my works.</VERS>
+      <VERS vnumber="10">Forty years was I grieved with this generation, and said, They do always err in their heart, and they have not known my ways.</VERS>
+      <VERS vnumber="11">So I sware in my wrath, They shall not enter into my rest.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

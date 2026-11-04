@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Rotherham Version" type="x-bible">
+  <BIBLEBOOK bname="Psalm" bnumber="19" bsname="Ps">
+    <CHAPTER cnumber="100">
+      <VERS vnumber="1">Make a joyful noise to Yahweh, all the earth:</VERS>
+      <VERS vnumber="2">Serve Yahweh with rejoicing, Enter before him, with shouts of triumph.</VERS>
+      <VERS vnumber="3">Know that, Yahweh, he, is God,He, made us, and not, we ourselves, His people, and the flock of his pasture.</VERS>
+      <VERS vnumber="4">Enter ye his gates, with thanksgiving, his courts, with praise, Give ye thanks to him, bless ye his Name;</VERS>
+      <VERS vnumber="5">For good is Yahweh, Age-abiding is his lovingkindness, And, unto generation after generation, his faithfulness.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="16">
+      <VERS vnumber="1">
+        <gr str="4387">Michtam </gr>of <gr str="1732">David</gr>. <gr str="8104">Preserve </gr>me, O <gr str="410">God</gr>: <gr str="3588">for </gr>in thee do I put my <gr str="2620">trust</gr>. </VERS>
+      <VERS vnumber="2">
+        <STYLE css="color:#808080;font-style:italic"> O </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> my </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> soul </STYLE>, thou hast <gr str="559">said </gr>unto the <gr str="3068">LORD</gr>, <gr str="859">Thou </gr>
+        <STYLE css="color:#808080;font-style:italic"> art </STYLE> my <gr str="136">Lord</gr>: my <gr str="2896">goodness </gr>
+        <STYLE css="color:#808080;font-style:italic"> extendeth </STYLE>
+        <gr str="1077">not </gr>
+        <gr str="5921">to </gr>thee; </VERS>
+      <VERS vnumber="3">
+        <STYLE css="color:#808080;font-style:italic"> But </STYLE> to the <gr str="6918">saints </gr>
+        <gr str="834">that </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> in the <gr str="776">earth</gr>, and <STYLE css="color:#808080;font-style:italic"> to </STYLE> the <gr str="117">excellent</gr>, in whom <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3605">all </gr>my <gr str="2656">delight</gr>. </VERS>
+      <VERS vnumber="4"> Their <gr str="6094">sorrows </gr>shall be <gr str="7235">multiplied </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <gr str="4116">hasten </gr>
+        <STYLE css="color:#808080;font-style:italic"> after </STYLE>
+        <gr str="312">another </gr>
+        <STYLE css="color:#808080;font-style:italic"> god </STYLE>: their drink <gr str="5262">offerings </gr>of <gr str="4480 1818">blood </gr>will I <gr str="1077">not </gr>
+        <gr str="5258">offer</gr>, <gr str="1077">nor </gr>take <gr str="5375">up </gr>
+        <gr str="*853" />their <gr str="8034">names </gr>
+        <gr str="5921">into </gr>my <gr str="8193">lips</gr>. </VERS>
+      <VERS vnumber="5"> The <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="4521">portion </gr>of mine <gr str="2506">inheritance </gr>and of my <gr str="3563">cup</gr>: <gr str="859">thou </gr>
+        <gr str="8551">maintainest </gr>my <gr str="1486">lot</gr>. </VERS>
+      <VERS vnumber="6"> The <gr str="2256">lines </gr>are <gr str="5307">fallen </gr>unto me in <gr str="5273">pleasant </gr>
+        <STYLE css="color:#808080;font-style:italic"> places </STYLE>; <gr str="637">yea</gr>, I <gr str="5921">have </gr>a <gr str="8231">goodly </gr>
+        <gr str="5159">heritage</gr>. </VERS>
+      <VERS vnumber="7"> I will <gr str="1288">bless </gr>
+        <gr str="*853" />the <gr str="3068">LORD</gr>, <gr str="834">who </gr>hath given me <gr str="3289">counsel</gr>: my <gr str="3629">reins </gr>
+        <gr str="637">also </gr>
+        <gr str="3256">instruct </gr>me in the night <gr str="3915">seasons</gr>. </VERS>
+      <VERS vnumber="8"> I have <gr str="7737">set </gr>the <gr str="3068">LORD </gr>
+        <gr str="8548">always </gr>
+        <gr str="5048">before </gr>me: <gr str="3588">because </gr>
+        <STYLE css="color:#808080;font-style:italic"> he </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> at my right <gr str="4480 3225">hand</gr>, I shall <gr str="1077">not </gr>be <gr str="4131">moved</gr>. </VERS>
+      <VERS vnumber="9">
+        <gr str="3651">Therefore </gr>my <gr str="3820">heart </gr>is <gr str="8055">glad</gr>, and my <gr str="3519">glory </gr>
+        <gr str="1523">rejoiceth</gr>: my <gr str="1320">flesh </gr>
+        <gr str="637">also </gr>shall <gr str="7931">rest </gr>in <gr str="983">hope</gr>. </VERS>
+      <VERS vnumber="10">
+        <gr str="3588">For </gr>thou wilt <gr str="3808">not </gr>
+        <gr str="5800">leave </gr>my <gr str="5315">soul </gr>in <gr str="7585">hell</gr>; <gr str="3808">neither </gr>wilt thou <gr str="5414">suffer </gr>thine Holy <gr str="2623">One </gr>to <gr str="7200">see </gr>
+        <gr str="7845">corruption</gr>. </VERS>
+      <VERS vnumber="11"> Thou wilt <gr str="3045">show </gr>me the <gr str="734">path </gr>of <gr str="2416">life</gr>: <gr str="854">in </gr>thy <gr str="6440">presence </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="7648">fullness </gr>of <gr str="8057">joy</gr>; at thy right <gr str="3225">hand </gr>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="5273">pleasures </gr>
+        <gr str="5331">forevermore</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

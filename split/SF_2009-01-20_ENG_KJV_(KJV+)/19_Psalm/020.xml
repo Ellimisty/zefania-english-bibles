@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="20">
+      <VERS vnumber="1"> To the chief <gr str="5329">Musician</gr>, A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>. The <gr str="3068">LORD </gr>
+        <gr str="6030">hear </gr>thee in the <gr str="3117">day </gr>of <gr str="6869">trouble</gr>; the <gr str="8034">name </gr>of the <gr str="430">God </gr>of <gr str="3290">Jacob </gr>
+        <gr str="7682">defend </gr>thee; </VERS>
+      <VERS vnumber="2">
+        <gr str="7971">Send </gr>thee <gr str="5828">help </gr>from the <gr str="4480 6944">sanctuary</gr>, and <gr str="5582">strengthen </gr>thee out of <gr str="4480 6726">Zion</gr>; </VERS>
+      <VERS vnumber="3">
+        <gr str="2142">Remember </gr>
+        <gr str="3605">all </gr>thy <gr str="4503">offerings</gr>, and <gr str="1878">accept </gr>thy burnt <gr str="5930">sacrifice</gr>; <gr str="5542">Selah</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="5414">Grant </gr>thee according to thine own <gr str="3824">heart</gr>, and <gr str="4390">fulfill </gr>
+        <gr str="3605">all </gr>thy <gr str="6098">counsel</gr>. </VERS>
+      <VERS vnumber="5"> We will <gr str="7442">rejoice </gr>in thy <gr str="3444">salvation</gr>, and in the <gr str="8034">name </gr>of our <gr str="430">God </gr>we will set up <STYLE css="color:#808080;font-style:italic"> our </STYLE>
+        <gr str="1713">banners</gr>: the <gr str="3068">LORD </gr>
+        <gr str="4390">fulfill </gr>
+        <gr str="3605">all </gr>thy <gr str="4862">petitions</gr>. </VERS>
+      <VERS vnumber="6">
+        <gr str="6258">Now </gr>
+        <gr str="3045">know </gr>I <gr str="3588">that </gr>the <gr str="3068">LORD </gr>
+        <gr str="3467">saveth </gr>his <gr str="4899">anointed</gr>; he will <gr str="6030">hear </gr>him from his <gr str="6944">holy </gr>
+        <gr str="4480 8064">heaven </gr>with the <gr str="3468">saving </gr>
+        <gr str="1369">strength </gr>of his right <gr str="3225">hand</gr>. </VERS>
+      <VERS vnumber="7">
+        <gr str="428">Some </gr>
+        <STYLE css="color:#808080;font-style:italic"> trust </STYLE> in <gr str="7393">chariots</gr>, and <gr str="428">some </gr>in <gr str="5483">horses</gr>: but <gr str="587">we </gr>will <gr str="2142">remember </gr>the <gr str="8034">name </gr>of the <gr str="3068">LORD </gr>our <gr str="430">God</gr>. </VERS>
+      <VERS vnumber="8">
+        <gr str="1992">They </gr>are brought <gr str="3766">down </gr>and <gr str="5307">fallen</gr>: but <gr str="587">we </gr>are <gr str="6965">risen</gr>, and stand <gr str="5749">upright</gr>. </VERS>
+      <VERS vnumber="9">
+        <gr str="3467">Save</gr>, <gr str="3068">LORD</gr>: let the <gr str="4428">king </gr>
+        <gr str="6030">hear </gr>us <gr str="3117">when </gr>we <gr str="7121">call</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

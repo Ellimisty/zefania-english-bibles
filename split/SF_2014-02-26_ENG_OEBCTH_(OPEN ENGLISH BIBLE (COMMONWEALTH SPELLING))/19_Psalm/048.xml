@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="48">
+      <VERS vnumber="1">Great is the <STYLE id="cl:divineName">Lord</STYLE> and worthy all praisein the city of our God.His holy mountain,</VERS>
+      <VERS vnumber="2">that rises so fair,  is the joy of all the world.Like the mount of the gods is Mount Zion,the city of the great king. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">Once God made himself knownas the defence of her palaces.</VERS>
+      <VERS vnumber="4">For see! A concert of kingspassed over the frontier together.</VERS>
+      <VERS vnumber="5">But one glance, and they were astounded;they hastened away in dismay.</VERS>
+      <VERS vnumber="6">Trembling took hold of them there,like the pains of a woman in labour.</VERS>
+      <VERS vnumber="7">They were shattered, as east wind shattersthe giant ships in pieces.</VERS>
+      <VERS vnumber="8">What we heard, we now have seenin the city of the <STYLE id="cl:divineName">Lord</STYLE> of hosts,the city of our God.God will uphold her forever.  (Selah)  <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="9">We think, O God, of your love,in the midst of your temple.</VERS>
+      <VERS vnumber="10">Your fame, O God, like your name, shall extendto the ends of the earth.Victory fills your hand.</VERS>
+      <VERS vnumber="11">Let mount Zion be glad;let the daughters of Judah rejoicebecause of your judgments.</VERS>
+      <VERS vnumber="12">Walk about Zion, go round her;count her towers.</VERS>
+      <VERS vnumber="13">Set your mind on her ramparts,consider her palaces;that you tell to the next generation</VERS>
+      <VERS vnumber="14">That such is God,our God he it is who shall guide usfor ever and ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

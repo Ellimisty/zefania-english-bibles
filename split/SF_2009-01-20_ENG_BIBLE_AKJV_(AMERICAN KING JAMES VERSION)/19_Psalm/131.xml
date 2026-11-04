@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="American King James Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="131">
+      <VERS vnumber="1">Lord, my heart is not haughty, nor my eyes lofty: neither do I exercise myself in great matters, or in things too high for me.</VERS>
+      <VERS vnumber="2">Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul is even as a weaned child.</VERS>
+      <VERS vnumber="3">Let Israel hope in the LORD from now on and for ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

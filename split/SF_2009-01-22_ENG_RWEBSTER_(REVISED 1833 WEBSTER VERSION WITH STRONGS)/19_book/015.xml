@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="15">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of <gr str="1732">David</gr>. </STYLE>
+        <gr str="3068">LORD</gr>, who shall <gr str="1481">abide </gr>in thy <gr str="168">tabernacle</gr>? who shall <gr str="7931">dwell </gr>in thy <gr str="6944">holy </gr>
+        <gr str="2022">hill</gr>? <DIV>
+          <NOTE type="x-studynote">abide: Heb. sojourn</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">He that <gr str="1980">walketh </gr>
+        <gr str="8549">uprightly</gr>, and <gr str="6466">worketh </gr>
+        <gr str="6664">righteousness</gr>, and <gr str="1696">speaketh </gr>the <gr str="571">truth </gr>in his <gr str="3824">heart</gr>.</VERS>
+      <VERS vnumber="3">
+        <STYLE css="font-style:italic">He that </STYLE>
+        <gr str="7270">backbiteth </gr>not with his <gr str="3956">tongue</gr>, nor <gr str="6213">doeth </gr>
+        <gr str="7451">evil </gr>to his <gr str="7453">neighbour</gr>, nor taketh <gr str="5375">up </gr>a <gr str="2781">reproach </gr>against his <gr str="7138">neighbour</gr>. <DIV>
+          <NOTE type="x-studynote">taketh…: or, receiveth, or, endureth</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">In whose <gr str="5869">eyes </gr>a vile <gr str="3988">person </gr>is <gr str="959">despised</gr>; but he <gr str="3513">honoureth </gr>them that <gr str="3373">fear </gr>the <gr str="3068">LORD</gr>. <STYLE css="font-style:italic">He that </STYLE>
+        <gr str="7650">sweareth </gr>to <STYLE css="font-style:italic">his own </STYLE>
+        <gr str="7489">hurt</gr>, and <gr str="4171">changeth </gr>not.</VERS>
+      <VERS vnumber="5">
+        <STYLE css="font-style:italic">He that</STYLE> putteth not <gr str="5414">out </gr>his <gr str="3701">money </gr>to <gr str="5392">interest</gr>, nor <gr str="3947">taketh </gr>
+        <gr str="7810">reward </gr>against the <gr str="5355">innocent</gr>. He that <gr str="6213">doeth </gr>these <STYLE css="font-style:italic">things</STYLE> shall <gr str="5769">never </gr>be <gr str="4131">moved</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

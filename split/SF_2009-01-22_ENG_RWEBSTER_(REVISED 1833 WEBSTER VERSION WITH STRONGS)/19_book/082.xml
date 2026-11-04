@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="82">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of <gr str="623">Asaph</gr>. </STYLE>
+        <gr str="430">God </gr>
+        <gr str="5324">standeth </gr>in the <gr str="5712">congregation </gr>of the <gr str="410">mighty</gr>; he <gr str="8199">judgeth </gr>
+        <gr str="7130">among </gr>the <gr str="430">gods</gr>. <DIV>
+          <NOTE type="x-studynote">of Asaph: or, for Asaph</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">How long will ye <gr str="8199">judge </gr>
+        <gr str="5766">unjustly</gr>, and <gr str="5375">accept </gr>the <gr str="6440">persons </gr>of the <gr str="7563">wicked</gr>? <gr str="5542">Selah</gr>.</VERS>
+      <VERS vnumber="3">
+        <gr str="8199">Defend </gr>the <gr str="1800">poor </gr>and <gr str="3490">fatherless</gr>: do <gr str="6663">justice </gr>to the <gr str="6041">afflicted </gr>and <gr str="7326">needy</gr>. <DIV>
+          <NOTE type="x-studynote">Defend: Heb. Judge</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">
+        <gr str="6403">Deliver </gr>the <gr str="1800">poor </gr>and <gr str="34">needy</gr>: <gr str="5337">deliver </gr>
+        <STYLE css="font-style:italic">them</STYLE> from the <gr str="3027">hand </gr>of the <gr str="7563">wicked</gr>.</VERS>
+      <VERS vnumber="5">They <gr str="3045">know </gr>not, neither will they <gr str="995">understand</gr>; they <gr str="1980">walk </gr>on in <gr str="2825">darkness</gr>: all the <gr str="4144">foundations </gr>of the <gr str="776">earth </gr>are out of <gr str="4131">course</gr>. <DIV>
+          <NOTE type="x-studynote">out…: Heb. moved</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">I have <gr str="559">said</gr>, Ye <STYLE css="font-style:italic">are </STYLE>
+        <gr str="430">gods</gr>; and all of you <STYLE css="font-style:italic">are </STYLE>
+        <gr str="1121">children </gr>of the most <gr str="5945">High</gr>.</VERS>
+      <VERS vnumber="7">
+        <gr str="403">But </gr>ye shall <gr str="4191">die </gr>like <gr str="120">men</gr>, and <gr str="5307">fall </gr>like <gr str="259">one </gr>of the <gr str="8269">princes</gr>.</VERS>
+      <VERS vnumber="8">
+        <gr str="6965">Arise</gr>, O <gr str="430">God</gr>, <gr str="8199">judge </gr>the <gr str="776">earth</gr>: for thou shalt <gr str="5157">inherit </gr>all <gr str="1471">nations</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

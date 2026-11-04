@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="95">
+      <VERS vnumber="1">Come! Let us ring out our joy to the <STYLE id="cl:divineName">Lord</STYLE>,let us merrily shout to our rock of salvation.</VERS>
+      <VERS vnumber="2">Before his face let us come with thanks,with songs of praise let us shout to him. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">For the <STYLE id="cl:divineName">Lord</STYLE> is a great God,king above all gods.</VERS>
+      <VERS vnumber="4">In his hand are the depths of the earth,the heights of the mountains are his.</VERS>
+      <VERS vnumber="5">The sea is his, for he made it:the dry land was formed by his hands. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="6">Come! Let us worship and bowon our knees to the <STYLE id="cl:divineName">Lord</STYLE> our creator.</VERS>
+      <VERS vnumber="7">For he is our God; and weare the people he tends, the sheep in his care. <BR art="x-nl" /> If only you would heed his voice today:</VERS>
+      <VERS vnumber="8">“Do not harden your hearts as at Meribah,or at Massah, that day in the desert,</VERS>
+      <VERS vnumber="9">when your ancestors tempted and tried me,though they had seen my deeds. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="10">For forty years I was filled with loathingfor that generation, so I said:‘A people with wandering hearts are they,and ignorant of my ways.’</VERS>
+      <VERS vnumber="11">So I solemnly swore to them in my anger,that never would they enter my place of rest.”</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

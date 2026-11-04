@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="40" bname="Matthew" bsname="Mat">
+    <CHAPTER cnumber="23">
+      <VERS vnumber="1">Then Jesus speaking to the crowds and to his disciples, said:</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

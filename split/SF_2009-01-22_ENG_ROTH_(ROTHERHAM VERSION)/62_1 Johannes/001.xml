@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Rotherham Version" type="x-bible">
+  <BIBLEBOOK bname="1 Johannes" bnumber="62" bsname="1Jo">
+    <CHAPTER cnumber="1">
+      <CAPTION vref="1">There hath befallen them the thing</CAPTION>
+      <VERS vnumber="1">That which was from the beginning, which we have heard, which we have seen with our eyes, which we for ourselves gazed upon, and our hands did handle, concerning the Word of Life,</VERS>
+      <VERS vnumber="2">And, the Life, was made manifest, and we have seen, and are bearing witness, and announcing unto you, the Age-abiding Life, which, indeed, was with the Father, and was made manifest unto us;</VERS>
+      <VERS vnumber="3">That which we have seen and heard, are we announcing, even unto you, in order that, ye too, may have fellowship with us, and, our own fellowship also, may be with the Father, and with his Son Jesus Christ.</VERS>
+      <VERS vnumber="4">And, these things, are we writing, in order that, our joy, may be made full.</VERS>
+      <VERS vnumber="5">And this is the message which we have heard from him, and are reporting unto you,that, God, is, light, and in him is, no darkness at all.</VERS>
+      <VERS vnumber="6">If we sayWe have, fellowship, with him! and, in darkness, are walking, we are dealing falsely, and not doing the truth;</VERS>
+      <VERS vnumber="7">Whereas, if, in the light, we are walking, as, he, is in the light, we have, fellowship one with another, and, the blood of Jesus his Son, is cleansing us from all sin.</VERS>
+      <VERS vnumber="8">If we saySin, have we none! we are deceiving, ourselves, and, the truth, is not in us.</VERS>
+      <VERS vnumber="9">If we are confessing our sins, faithful, is he and, righteousthat he should forgive us our sins, and cleanse us from all unrighteousness.</VERS>
+      <VERS vnumber="10">If we sayWe have not sinned! false, are we making, him, and, his word, is not in us.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

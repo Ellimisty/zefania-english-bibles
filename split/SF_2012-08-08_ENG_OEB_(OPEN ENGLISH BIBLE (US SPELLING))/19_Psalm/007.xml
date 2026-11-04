@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="7">
+      <VERS vnumber="1">
+        <STYLE id="cl:divineName">Lord</STYLE> my God, I take refuge in you.Deliver me, save me from all who pursue me;</VERS>
+      <VERS vnumber="2">or like lions they will tear me to pieces,and rend me, past hope of rescue. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">
+        <STYLE id="cl:divineName">Lord</STYLE>, my God, if my life has been suchif my hands have been stained with guilt,</VERS>
+      <VERS vnumber="4">if friends I paid back with evil,if I plundered my foes without cause,</VERS>
+      <VERS vnumber="5">may the enemy chase and find me,trample my life to the ground,my honour leave in the dirt!  (Selah)  <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="6">Arise, <STYLE id="cl:divineName">Lord</STYLE>, in anger,against my foes rise in fury.Awake for my help:let justice be done.</VERS>
+      <VERS vnumber="7">Gather the nations about you,and sit on your lofty throne,</VERS>
+      <VERS vnumber="8">as the <STYLE id="cl:divineName">Lord</STYLE>, the judge of the peoples.Judge me, <STYLE id="cl:divineName">Lord</STYLE>, in my innocenceand according to my integrity. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="9">Put an end to the wrong of the wicked,protect the righteous.Searcher of hearts and minds,righteous God.</VERS>
+      <VERS vnumber="10">God is my shield:he saves the upright in heart. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="11">God is a just judge,constant in righteous anger.</VERS>
+      <VERS vnumber="12">He will sharpen his sword without fail,his bow is bent and ready,</VERS>
+      <VERS vnumber="13">his deadly weapons are ready,his arrows he makes of flame. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="14">The enemy who conceives evil;pregnant with mischief,giving birth to lies,</VERS>
+      <VERS vnumber="15">a pit they have made and dug;but into the hole that they made they will fall.</VERS>
+      <VERS vnumber="16">On their own heads their mischief comes back;on their own skulls their violence comes down.</VERS>
+      <VERS vnumber="17">I will give thanks to the <STYLE id="cl:divineName">Lord</STYLE> for his justice,and sing to the name of the <STYLE id="cl:divineName">Lord</STYLE> Most High.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

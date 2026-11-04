@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="143">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">[A Psalm] of David.</STYLE> Hear my prayer, O LORD, give ear to my supplications: in thy faithfulness answer me, <STYLE css="font-style:italic">and</STYLE> in thy righteousness.</VERS>
+      <VERS vnumber="2">And enter not into judgment with thy servant: for in thy sight shall no man living be justified.</VERS>
+      <VERS vnumber="3">For the enemy hath persecuted my soul; he hath smitten my life down to the ground; he hath made me to dwell in darkness, as those that have been long dead.</VERS>
+      <VERS vnumber="4">Therefore is my spirit overwhelmed within me; my heart within me is desolate.</VERS>
+      <VERS vnumber="5">I remember the days of old; I meditate on all thy works; I muse on the work of thy hands.</VERS>
+      <VERS vnumber="6">I stretch forth my hands to thee: my soul <STYLE css="font-style:italic">thirsteth</STYLE> after thee, as a thirsty land. Selah.</VERS>
+      <VERS vnumber="7">Hear me speedily, O LORD: my spirit faileth: hide not thy face from me, lest I be like them that go down into the pit. <DIV>
+          <NOTE type="x-studynote">lest…: or, for I am become like, etc</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">Cause me to hear thy lovingkindness in the morning; for in thee do I trust: cause me to know the way in which I should walk; for I lift up my soul to thee.</VERS>
+      <VERS vnumber="9">Deliver me, O LORD, from my enemies: I flee to thee to hide me. <DIV>
+          <NOTE type="x-studynote">flee…: Heb. hide me with thee</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="10">Teach me to do thy will; for thou <STYLE css="font-style:italic">art</STYLE> my God: thy spirit <STYLE css="font-style:italic">is</STYLE> good; lead me into the land of uprightness.</VERS>
+      <VERS vnumber="11">Revive me, O LORD, for thy name’s sake: for thy righteousness’ sake bring my soul out of trouble.</VERS>
+      <VERS vnumber="12">And of thy mercy cut off my enemies, and destroy all them that afflict my soul: for I <STYLE css="font-style:italic">am</STYLE> thy servant.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

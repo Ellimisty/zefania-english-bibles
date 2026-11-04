@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="1" bname="1 Mose" bsname="1Mo">
+    <CHAPTER cnumber="42">
+      <VERS vnumber="1"> Now when <gr str="3290">Jacob </gr>
+        <gr str="7200">saw </gr>
+        <gr str="3588">that </gr>there <gr str="3426">was </gr>
+        <gr str="7668">corn </gr>in <gr str="4714">Egypt</gr>, <gr str="3290">Jacob </gr>
+        <gr str="559">said </gr>unto his <gr str="1121">sons</gr>, <gr str="4100">Why </gr>do ye look one upon <gr str="7200">another</gr>? </VERS>
+      <VERS vnumber="2"> And he <gr str="559">said</gr>, <gr str="2009">Behold</gr>, I have <gr str="8085">heard </gr>
+        <gr str="3588">that </gr>there <gr str="3426">is </gr>
+        <gr str="7668">corn </gr>in <gr str="4714">Egypt</gr>: get you <gr str="3381">down </gr>
+        <gr str="8033">thither</gr>, and <gr str="7666">buy </gr>for us from <gr str="4480 8033">thence</gr>; that we may <gr str="2421">live</gr>, and <gr str="3808">not </gr>
+        <gr str="4191">die</gr>. </VERS>
+      <VERS vnumber="3"> And <gr str="3130">Joseph </gr>'s <gr str="6235">ten </gr>
+        <gr str="251">brethren </gr>went <gr str="3381">down </gr>to <gr str="7666">buy </gr>
+        <gr str="1250">corn </gr>in <gr str="4480 4714">Egypt</gr>. </VERS>
+      <VERS vnumber="4"> But <gr str="1144">Benjamin</gr>, <gr str="3130">Joseph </gr>'s <gr str="251">brother</gr>, <gr str="3290">Jacob </gr>
+        <gr str="7971">sent </gr>
+        <gr str="3808">not </gr>
+        <gr str="854">with </gr>his <gr str="251">brethren</gr>; <gr str="3588">for </gr>he <gr str="559">said</gr>, Lest <gr str="6435">peradventure </gr>
+        <gr str="611">mischief </gr>
+        <gr str="7122">befall </gr>him. </VERS>
+      <VERS vnumber="5"> And the <gr str="1121">sons </gr>of <gr str="3478">Israel </gr>
+        <gr str="935">came </gr>to <gr str="7666">buy </gr>
+        <STYLE css="color:#808080;font-style:italic"> corn </STYLE>
+        <gr str="8432">among </gr>those that <gr str="935">came</gr>: <gr str="3588">for </gr>the <gr str="7458">famine </gr>
+        <gr str="1961">was </gr>in the <gr str="776">land </gr>of <gr str="3667">Canaan</gr>. </VERS>
+      <VERS vnumber="6"> And <gr str="3130">Joseph </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE> the <gr str="7989">governor </gr>
+        <gr str="5921">over </gr>the <gr str="776">land</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="1931">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE> that <gr str="7666">sold </gr>to <gr str="3605">all </gr>the <gr str="5971">people </gr>of the <gr str="776">land</gr>: and <gr str="3130">Joseph </gr>'s <gr str="251">brethren </gr>
+        <gr str="935">came</gr>, and bowed down <gr str="7812">themselves </gr>before him <STYLE css="color:#808080;font-style:italic"> with </STYLE> their <gr str="639">faces </gr>to the <gr str="776">earth</gr>. </VERS>
+      <VERS vnumber="7"> And <gr str="3130">Joseph </gr>
+        <gr str="7200">saw </gr>
+        <gr str="*853" />his <gr str="251">brethren</gr>, and he <gr str="5234">knew </gr>them, but made himself <gr str="5234">strange </gr>
+        <gr str="413">unto </gr>them, and <gr str="1696">spoke </gr>
+        <gr str="7186">roughly </gr>
+        <gr str="854">unto </gr>them; and he <gr str="559">said </gr>
+        <gr str="413">unto </gr>them, <gr str="4480 370">Whence </gr>
+        <gr str="935">come </gr>ye? And they <gr str="559">said</gr>, From the <gr str="4480 776">land </gr>of <gr str="3667">Canaan </gr>to <gr str="7666">buy </gr>
+        <gr str="400">food</gr>. </VERS>
+      <VERS vnumber="8"> And <gr str="3130">Joseph </gr>
+        <gr str="5234">knew </gr>
+        <gr str="*853" />his <gr str="251">brethren</gr>, but <gr str="1992">they </gr>
+        <gr str="5234">knew </gr>
+        <gr str="3808">not </gr>him. </VERS>
+      <VERS vnumber="9"> And <gr str="3130">Joseph </gr>
+        <gr str="2142">remembered </gr>
+        <gr str="*853" />the <gr str="2472">dreams </gr>
+        <gr str="834">which </gr>he <gr str="2492">dreamed </gr>of them, and <gr str="559">said </gr>
+        <gr str="413">unto </gr>them, <gr str="859">Ye </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="7270">spies</gr>; to <gr str="7200">see </gr>
+        <gr str="*853" />the <gr str="6172">nakedness </gr>of the <gr str="776">land </gr>ye are <gr str="935">come</gr>. </VERS>
+      <VERS vnumber="10"> And they <gr str="559">said </gr>
+        <gr str="413">unto </gr>him, <gr str="3808">Nay</gr>, my <gr str="113">lord</gr>, but to <gr str="7666">buy </gr>
+        <gr str="400">food </gr>are thy <gr str="5650">servants </gr>
+        <gr str="935">come</gr>. </VERS>
+      <VERS vnumber="11">
+        <gr str="5168">We </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="3605">all </gr>
+        <gr str="259">one </gr>
+        <gr str="376">man </gr>'s <gr str="1121">sons</gr>; <gr str="587">we </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="3651">true </gr>
+        <STYLE css="color:#808080;font-style:italic"> men </STYLE>, thy <gr str="5650">servants </gr>
+        <gr str="1961">are </gr>
+        <gr str="3808">no </gr>
+        <gr str="7270">spies</gr>. </VERS>
+      <VERS vnumber="12"> And he <gr str="559">said </gr>
+        <gr str="413">unto </gr>them, <gr str="3808">Nay</gr>, <gr str="3588">but </gr>to <gr str="7200">see </gr>the <gr str="6172">nakedness </gr>of the <gr str="776">land </gr>ye are <gr str="935">come</gr>. </VERS>
+      <VERS vnumber="13"> And they <gr str="559">said</gr>, Thy <gr str="5650">servants </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="8147 6240">twelve </gr>
+        <gr str="251">brethren</gr>, the <gr str="1121">sons </gr>of <gr str="259">one </gr>
+        <gr str="376">man </gr>in the <gr str="776">land </gr>of <gr str="3667">Canaan</gr>; and, <gr str="2009">behold</gr>, the <gr str="6996">youngest </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> this <gr str="3117">day </gr>
+        <gr str="854">with </gr>our <gr str="1">father</gr>, and <gr str="259">one </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="369">not</gr>. </VERS>
+      <VERS vnumber="14"> And <gr str="3130">Joseph </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>them, <gr str="1931">That </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <gr str="834">that </gr>I <gr str="1696">spoke </gr>
+        <gr str="413">unto </gr>you, <gr str="559">saying</gr>, <gr str="859">Ye </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="7270">spies</gr>: </VERS>
+      <VERS vnumber="15">
+        <gr str="2063">Hereby </gr>ye shall be <gr str="974">proved</gr>: By the <gr str="2416">life </gr>of <gr str="6547">Pharaoh </gr>ye shall not go <gr str="3318">forth </gr>
+        <gr str="4480 2088">hence</gr>, <gr str="3588 518">except </gr>your <gr str="6996">youngest </gr>
+        <gr str="251">brother </gr>
+        <gr str="935">come </gr>
+        <gr str="2008">hither</gr>. </VERS>
+      <VERS vnumber="16">
+        <gr str="7971">Send </gr>
+        <gr str="259">one </gr>
+        <gr str="4480">of </gr>you, and let him <gr str="3947">fetch </gr>
+        <gr str="*853" />your <gr str="251">brother</gr>, and <gr str="859">ye </gr>shall be kept in <gr str="631">prison</gr>, that your <gr str="1697">words </gr>may be <gr str="974">proved</gr>, whether <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> any </STYLE>
+        <gr str="571">truth </gr>
+        <gr str="854">in </gr>you: or <gr str="518 3808">else </gr>by the <gr str="2416">life </gr>of <gr str="6547">Pharaoh </gr>
+        <gr str="3588">surely </gr>
+        <gr str="859">ye </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="7270">spies</gr>. </VERS>
+      <VERS vnumber="17"> And he put them all <gr str="622 *853">together </gr>
+        <gr str="413">into </gr>
+        <gr str="4929">ward </gr>
+        <gr str="7969">three </gr>
+        <gr str="3117">days</gr>. </VERS>
+      <VERS vnumber="18"> And <gr str="3130">Joseph </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>them the <gr str="7992">third </gr>
+        <gr str="3117">day</gr>, <gr str="2063">This </gr>
+        <gr str="6213">do</gr>, and <gr str="2421">live</gr>; <STYLE css="color:#808080;font-style:italic"> for </STYLE>
+        <gr str="589">I </gr>
+        <gr str="3373">fear </gr>
+        <gr str="*853" />
+        <gr str="430">God</gr>: </VERS>
+      <VERS vnumber="19">
+        <gr str="518">If </gr>
+        <gr str="859">ye </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="3651">true </gr>
+        <STYLE css="color:#808080;font-style:italic"> men </STYLE>, let <gr str="259">one </gr>of your <gr str="251">brethren </gr>be <gr str="631">bound </gr>in the <gr str="1004">house </gr>of your <gr str="4929">prison</gr>: <gr str="1980">go </gr>
+        <gr str="859">ye</gr>, <gr str="935">carry </gr>
+        <gr str="7668">corn </gr>for the <gr str="7459">famine </gr>of your <gr str="1004">houses</gr>: </VERS>
+      <VERS vnumber="20"> But <gr str="935">bring </gr>your <gr str="6996">youngest </gr>
+        <gr str="251">brother </gr>
+        <gr str="413">unto </gr>me; so shall your <gr str="1697">words </gr>be <gr str="539">verified</gr>, and ye shall <gr str="3808">not </gr>
+        <gr str="4191">die</gr>. And they <gr str="6213">did </gr>
+        <gr str="3651">so</gr>. </VERS>
+      <VERS vnumber="21"> And they <gr str="559">said </gr>
+        <gr str="376">one </gr>
+        <gr str="413">to </gr>
+        <gr str="251">another</gr>, <gr str="587">We </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="61">verily </gr>
+        <gr str="818">guilty </gr>
+        <gr str="5921">concerning </gr>our <gr str="251">brother</gr>, in <gr str="834">that </gr>we <gr str="7200">saw </gr>the <gr str="6869">anguish </gr>of his <gr str="5315">soul</gr>, when he <gr str="2603 413">besought </gr>us, and we would <gr str="3808">not </gr>
+        <gr str="8085">hear</gr>; <gr str="5921 3651">therefore </gr>is <gr str="2063">this </gr>
+        <gr str="6869">distress </gr>
+        <gr str="935">come </gr>
+        <gr str="413">upon </gr>us. </VERS>
+      <VERS vnumber="22"> And <gr str="7205">Reuben </gr>
+        <gr str="6030">answered </gr>them, <gr str="559">saying</gr>, <gr str="559">Spoke </gr>I <gr str="3808">not </gr>
+        <gr str="413">unto </gr>you, <gr str="559">saying</gr>, Do <gr str="408">not </gr>
+        <gr str="2398">sin </gr>against the <gr str="3206">child</gr>; and ye would <gr str="3808">not </gr>
+        <gr str="8085">hear</gr>? therefore, <gr str="2009">behold</gr>, <gr str="1571">also </gr>his <gr str="1818">blood </gr>is <gr str="1875">required</gr>. </VERS>
+      <VERS vnumber="23"> And <gr str="1992">they </gr>
+        <gr str="3045">knew </gr>
+        <gr str="3808">not </gr>
+        <gr str="3588">that </gr>
+        <gr str="3130">Joseph </gr>
+        <gr str="8085">understood </gr>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE>; <gr str="3588">for </gr>he spoke <gr str="996">unto </gr>them by an <gr str="3887">interpreter</gr>. </VERS>
+      <VERS vnumber="24"> And he turned himself <gr str="5437">about </gr>
+        <gr str="4480 5921">from </gr>them, and <gr str="1058">wept</gr>; and <gr str="7725">returned </gr>
+        <gr str="413">to </gr>them again, and <gr str="1696">communed </gr>
+        <gr str="413">with </gr>them, and <gr str="3947">took </gr>
+        <gr str="4480 854">from </gr>them <gr str="*853" />
+        <gr str="8095">Simeon</gr>, and <gr str="631">bound </gr>him before their <gr str="5869">eyes</gr>. </VERS>
+      <VERS vnumber="25"> Then <gr str="3130">Joseph </gr>
+        <gr str="6680">commanded </gr>to <gr str="4390">fill </gr>
+        <gr str="*853" />their <gr str="3627">sacks </gr>with <gr str="1250">corn</gr>, and to <gr str="7725">restore </gr>every <gr str="376">man </gr>'s <gr str="3701">money </gr>
+        <gr str="413">into </gr>his <gr str="8242">sack</gr>, and to <gr str="5414">give </gr>them <gr str="6720">provision </gr>for the <gr str="1870">way</gr>: and <gr str="3651">thus </gr>
+        <gr str="6213">did </gr>he unto them. </VERS>
+      <VERS vnumber="26"> And they <gr str="5375 5921">laded </gr>their <gr str="2543">asses </gr>with <gr str="*853" />the <gr str="7668">corn</gr>, and <gr str="1980">departed </gr>
+        <gr str="4480 8033">thence</gr>. </VERS>
+      <VERS vnumber="27"> And as <gr str="259">one </gr>of them <gr str="6605">opened </gr>
+        <gr str="*853" />his <gr str="8242">sack </gr>to <gr str="5414">give </gr>his <gr str="2543">ass </gr>
+        <gr str="4554">provender </gr>in the <gr str="4411">inn</gr>, he <gr str="7200">espied </gr>
+        <gr str="*853" />his <gr str="3701">money</gr>; for, <gr str="2009">behold</gr>, <gr str="1931">it </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE> in his <gr str="572">sack </gr>'s <gr str="6310">mouth</gr>. </VERS>
+      <VERS vnumber="28"> And he <gr str="559">said </gr>
+        <gr str="413">unto </gr>his <gr str="251">brethren</gr>, My <gr str="3701">money </gr>is <gr str="7725">restored</gr>; and, <gr str="2009">lo</gr>, <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="1571">even </gr>in my <gr str="572">sack</gr>: and their <gr str="3820">heart </gr>
+        <gr str="3318">failed </gr>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE>, and they were <gr str="2729">afraid</gr>, <gr str="559">saying </gr>
+        <gr str="376">one </gr>
+        <gr str="413">to </gr>
+        <gr str="251">another</gr>, <gr str="4100">What </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2063">this </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <gr str="430">God </gr>hath <gr str="6213">done </gr>unto us? </VERS>
+      <VERS vnumber="29"> And they <gr str="935">came </gr>
+        <gr str="413">unto </gr>
+        <gr str="3290">Jacob </gr>their <gr str="1">father </gr>unto the <gr str="776">land </gr>of <gr str="3667">Canaan</gr>, and <gr str="5046">told </gr>him <gr str="*853" />
+        <gr str="3605">all </gr>that <gr str="7136">befell </gr>unto them; <gr str="559">saying</gr>, </VERS>
+      <VERS vnumber="30"> The <gr str="376">man</gr>, <STYLE css="color:#808080;font-style:italic"> who </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="113">lord </gr>of the <gr str="776">land</gr>, <gr str="1696">spoke </gr>
+        <gr str="7186">roughly </gr>
+        <gr str="854">to </gr>us, and <gr str="5414">took </gr>us for <gr str="7270">spies </gr>of <gr str="*853" />the <gr str="776">country</gr>. </VERS>
+      <VERS vnumber="31"> And we <gr str="559">said </gr>
+        <gr str="413">unto </gr>him, <gr str="587">We </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="3651">true </gr>
+        <STYLE css="color:#808080;font-style:italic"> men </STYLE>; we <gr str="1961">are </gr>
+        <gr str="3808">no </gr>
+        <gr str="7270">spies</gr>: </VERS>
+      <VERS vnumber="32">
+        <gr str="587">We </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="8147 6240">twelve </gr>
+        <gr str="251">brethren</gr>, <gr str="1121">sons </gr>of our <gr str="1">father</gr>; <gr str="259">one </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="369">not</gr>, and the <gr str="6996">youngest </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> this <gr str="3117">day </gr>
+        <gr str="854">with </gr>our <gr str="1">father </gr>in the <gr str="776">land </gr>of <gr str="3667">Canaan</gr>. </VERS>
+      <VERS vnumber="33"> And the <gr str="376">man</gr>, the <gr str="113">lord </gr>of the <gr str="776">country</gr>, <gr str="559">said </gr>
+        <gr str="413">unto </gr>us, <gr str="2063">Hereby </gr>shall I <gr str="3045">know </gr>
+        <gr str="3588">that </gr>
+        <gr str="859">ye </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="3651">true </gr>
+        <STYLE css="color:#808080;font-style:italic"> men </STYLE>; <gr str="5117">leave </gr>
+        <gr str="259">one </gr>of your <gr str="251">brethren </gr>
+        <STYLE css="color:#808080;font-style:italic"> here </STYLE>
+        <gr str="854">with </gr>me, and <gr str="3947">take </gr>
+        <STYLE css="color:#808080;font-style:italic"> food </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> for </STYLE> the <gr str="7459">famine </gr>of your <gr str="1004">households</gr>, and be <gr str="1980">gone</gr>: </VERS>
+      <VERS vnumber="34"> And <gr str="935">bring </gr>
+        <gr str="*853" />your <gr str="6996">youngest </gr>
+        <gr str="251">brother </gr>
+        <gr str="413">unto </gr>me: then shall I <gr str="3045">know </gr>
+        <gr str="3588">that </gr>
+        <gr str="859">ye </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="3808">no </gr>
+        <gr str="7270">spies</gr>, <gr str="3588">but </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <gr str="859">ye </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="3651">true </gr>
+        <STYLE css="color:#808080;font-style:italic"> men: </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> so </STYLE> will I <gr str="5414">deliver </gr>you <gr str="*853" />your <gr str="251">brother</gr>, and ye shall <gr str="5503">traffic </gr>in the <gr str="776">land</gr>. </VERS>
+      <VERS vnumber="35"> And it came to <gr str="1961">pass </gr>as <gr str="1992">they </gr>
+        <gr str="7324">emptied </gr>their <gr str="8242">sacks</gr>, that, <gr str="2009">behold</gr>, every <gr str="376">man </gr>'s <gr str="6872">bundle </gr>of <gr str="3701">money </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE> in his <gr str="8242">sack</gr>: and when <STYLE css="color:#808080;font-style:italic"> both </STYLE>
+        <gr str="1992">they </gr>and their <gr str="1">father </gr>
+        <gr str="7200">saw </gr>
+        <gr str="*853" />the <gr str="6872">bundles </gr>of <gr str="3701">money</gr>, they were <gr str="3372">afraid</gr>. </VERS>
+      <VERS vnumber="36"> And <gr str="3290">Jacob </gr>their <gr str="1">father </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>them, Me have ye <gr str="7921">bereaved </gr>
+        <STYLE css="color:#808080;font-style:italic"> of </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> my </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> children </STYLE>: <gr str="3130">Joseph </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="369">not</gr>, and <gr str="8095">Simeon </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="369">not</gr>, and ye will <gr str="3947">take </gr>
+        <gr str="1144">Benjamin </gr>
+        <STYLE css="color:#808080;font-style:italic"> away </STYLE>: <gr str="3605">all </gr>these things <gr str="1961">are </gr>
+        <gr str="5921">against </gr>me. </VERS>
+      <VERS vnumber="37"> And <gr str="7205">Reuben </gr>
+        <gr str="559">spoke </gr>
+        <gr str="413">unto </gr>his <gr str="1">father</gr>, <gr str="559">saying</gr>, <gr str="4191">Slay </gr>
+        <gr str="*853" />my <gr str="8147">two </gr>
+        <gr str="1121">sons</gr>, <gr str="518">if </gr>I <gr str="935">bring </gr>him <gr str="3808">not </gr>
+        <gr str="413">to </gr>thee: <gr str="5414">deliver </gr>him <gr str="5921">into </gr>my <gr str="3027">hand</gr>, and <gr str="589">I </gr>will <gr str="7725">bring </gr>him <gr str="413">to </gr>thee again. </VERS>
+      <VERS vnumber="38"> And he <gr str="559">said</gr>, My <gr str="1121">son </gr>shall <gr str="3808">not </gr>go <gr str="3381">down </gr>
+        <gr str="5973">with </gr>you; <gr str="3588">for </gr>his <gr str="251">brother </gr>is <gr str="4191">dead</gr>, and <gr str="1931">he </gr>is <gr str="7604">left </gr>
+        <gr str="905">alone</gr>: if <gr str="611">mischief </gr>
+        <gr str="7122">befall </gr>him by the <gr str="1870">way </gr>in the <gr str="834">which </gr>ye <gr str="1980">go</gr>, then shall ye bring <gr str="3381">down </gr>
+        <gr str="*853" />my gray <gr str="7872">hairs </gr>with <gr str="3015">sorrow </gr>to the <gr str="7585">grave</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

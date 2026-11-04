@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="125">
+      <VERS vnumber="1">Those who trust in the <STYLE id="cl:divineName">Lord</STYLE>are like Mount Zion,that cannot be moved,but abides forever.Round Jerusalem are the mountains,and the <STYLE id="cl:divineName">Lord</STYLE> is round his peoplefrom now and for evermore. <BR art="x-nl" /> For he will not sufferthe sceptre of wrongto rest on the landallotted to the righteous;else the righteous might put forththeir own hand to evil. <BR art="x-nl" /> Do good, O <STYLE id="cl:divineName">Lord</STYLE>,to the good,and to the true-hearted. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">But those who swerveinto crooked wayswill the <STYLE id="cl:divineName">Lord</STYLE> lead awaywith the workers of evil. <BR art="x-nl" /> Peace be upon Israel.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="3">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">O Jehovah, look how my enemies have increased! Many are attacking me.</VERS>
+      <VERS vnumber="2">Many are saying about me: »Even with God on his side, he will not have victory <STYLE css="font-style:italic">deliverance</STYLE>
+        <STYLE css="font-style:italic">salvation</STYLE>.«</VERS>
+      <VERS vnumber="3">You, O Jehovah, are a protective shield over me. You are my glory. You hold my head high.</VERS>
+      <VERS vnumber="4">I call aloud to Jehovah. He answers me from his holy mountain.</VERS>
+      <VERS vnumber="5">I lie down and sleep. I wake up again because Jehovah continues to sustain me.</VERS>
+      <VERS vnumber="6">I am not afraid of the tens of thousands who have taken positions against me on all sides.</VERS>
+      <VERS vnumber="7">Arise, O Jehovah! Save me, O my God! You have slapped all my enemies in the face. You have broken the teeth of wicked people.</VERS>
+      <VERS vnumber="8">Salvation belongs to Jehovah! You bless your people.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

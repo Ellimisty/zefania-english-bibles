@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="61">
+      <VERS vnumber="1">Hear my cry, O God,be attentive to my prayer.</VERS>
+      <VERS vnumber="2">From the ends of the earth I callunto you, when my heart is faint:lead me to the rockthat is high above me.</VERS>
+      <VERS vnumber="3">For you are a refuge to me,a strong tower in face of the foe. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="4">O to be guest in your tent forever,hiding beneath your sheltering wings!  (Selah)</VERS>
+      <VERS vnumber="5">For you, O God, do hear my vows,and grant the desires of those who fear you.</VERS>
+      <VERS vnumber="6">Add many days to the life of the king;may his years endure throughout all generations.</VERS>
+      <VERS vnumber="7">In the presence of God be he throned forever;may kindness and faithfulness watch over him.</VERS>
+      <VERS vnumber="8">And I will sing praise to your name forever,paying my vows day after day.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

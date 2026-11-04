@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible - Jehovah Edition" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="120">
+      <VERS vnumber="1">A Song of Ascents.   In my distress, I cried to <STYLE id="cl:divineName">Jehovah</STYLE>.He answered me.</VERS>
+      <VERS vnumber="2">Deliver my soul, <STYLE id="cl:divineName">Jehovah</STYLE>, from lying lips,from a deceitful tongue.</VERS>
+      <VERS vnumber="3">What will be given to you, and what will be done more to you,you deceitful tongue?</VERS>
+      <VERS vnumber="4">Sharp arrows of the mighty,with coals of juniper.</VERS>
+      <VERS vnumber="5">Woe is me, that I live in Meshech,that I dwell among the tents of Kedar!</VERS>
+      <VERS vnumber="6">My soul has had her dwelling too longwith him who hates peace.</VERS>
+      <VERS vnumber="7">I am for peace,but when I speak, they are for war.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

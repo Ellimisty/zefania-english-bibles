@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="54">
+      <VERS vnumber="1"> To the chief <gr str="5329">Musician </gr>on <gr str="5058">Neginoth</gr>, <gr str="4905">Maschil</gr>, <STYLE css="color:#808080;font-style:italic"> A </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> Psalm </STYLE> of <gr str="1732">David</gr>, when the <gr str="2130">Ziphims </gr>
+        <gr str="935">came </gr>and <gr str="559">said </gr>to <gr str="7586">Saul</gr>, Doth <gr str="3808">not </gr>
+        <gr str="1732">David </gr>hide <gr str="5641">himself </gr>
+        <gr str="5973">with </gr>us? <gr str="3467">Save </gr>me, O <gr str="430">God</gr>, by thy <gr str="8034">name</gr>, and <gr str="1777">judge </gr>me by thy <gr str="1369">strength</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="8085">Hear </gr>my <gr str="8605">prayer</gr>, O <gr str="430">God</gr>; give <gr str="238">ear </gr>to the <gr str="561">words </gr>of my <gr str="6310">mouth</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="3588">For </gr>
+        <gr str="2114">strangers </gr>are risen <gr str="6965">up </gr>
+        <gr str="5921">against </gr>me, and <gr str="6184">oppressors </gr>seek <gr str="1245">after </gr>my <gr str="5315">soul</gr>: they have <gr str="3808">not </gr>
+        <gr str="7760">set </gr>
+        <gr str="430">God </gr>
+        <gr str="5048">before </gr>them. <gr str="5542">Selah</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="2009">Behold</gr>, <gr str="430">God </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> mine <gr str="5826">helper</gr>: the <gr str="136">Lord </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> with them that <gr str="5564">uphold </gr>my <gr str="5315">soul</gr>. </VERS>
+      <VERS vnumber="5"> He shall <gr str="7725">reward </gr>
+        <gr str="7451">evil </gr>unto mine <gr str="8324">enemies</gr>: cut them <gr str="6789">off </gr>in thy <gr str="571">truth</gr>. </VERS>
+      <VERS vnumber="6"> I will <gr str="5071">freely </gr>
+        <gr str="2076">sacrifice </gr>unto thee: I will <gr str="3034">praise </gr>thy <gr str="8034">name</gr>, O <gr str="3068">LORD</gr>; <gr str="3588">for </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2896">good</gr>. </VERS>
+      <VERS vnumber="7">
+        <gr str="3588">For </gr>he hath <gr str="5337">delivered </gr>me out of <gr str="4480 3605">all </gr>
+        <gr str="6869">trouble</gr>: and mine <gr str="5869">eye </gr>hath <gr str="7200">seen </gr>
+        <STYLE css="color:#808080;font-style:italic"> his </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> desire </STYLE> upon mine <gr str="341">enemies</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="70">
+      <CAPTION vref="1">To the chief Musician. A Psalm of David, to bring to remembrance.</CAPTION>
+      <VERS vnumber="1">Make haste, O God, to rescue me; make haste to help me, O Jehovah.</VERS>
+      <VERS vnumber="2">Let them be ashamed and abashed, those who seek after my soul; let them be turned backward and dishonored, those who desire my hurt.</VERS>
+      <VERS vnumber="3">Let them be turned back as a consequence of their shame, those who say, Aha, aha!</VERS>
+      <VERS vnumber="4">Let all those who seek You rejoice and be glad in You; and let those who love Your salvation say continually, Let God be magnified.</VERS>
+      <VERS vnumber="5">But I am lowly and needy; make haste to me, O God! You are my help and my deliverer; O Jehovah, do not delay!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

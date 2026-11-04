@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="American King James Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="122">
+      <VERS vnumber="1">I was glad when they said to me, Let us go into the house of the LORD.</VERS>
+      <VERS vnumber="2">Our feet shall stand within your gates, O Jerusalem.</VERS>
+      <VERS vnumber="3">Jerusalem is built as a city that is compact together:</VERS>
+      <VERS vnumber="4">Where the tribes go up, the tribes of the LORD, to the testimony of Israel, to give thanks to the name of the LORD.</VERS>
+      <VERS vnumber="5">For there are set thrones of judgment, the thrones of the house of David.</VERS>
+      <VERS vnumber="6">Pray for the peace of Jerusalem: they shall prosper that love you.</VERS>
+      <VERS vnumber="7">Peace be within your walls, and prosperity within your palaces.</VERS>
+      <VERS vnumber="8">For my brothers and companions'sakes, I will now say, Peace be within you.</VERS>
+      <VERS vnumber="9">Because of the house of the LORD our God I will seek your good.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="38">
+      <VERS vnumber="1"> A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>, to bring to <gr str="2142">remembrance</gr>. O <gr str="3068">LORD</gr>, <gr str="3198">rebuke </gr>me <gr str="408">not </gr>in thy <gr str="7110">wrath</gr>: neither <gr str="3256">chasten </gr>me in thy hot <gr str="2534">displeasure</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="3588">For </gr>thine <gr str="2671">arrows </gr>stick <gr str="5181">fast </gr>in me, and thy <gr str="3027">hand </gr>presseth me <gr str="5181 5921">sore</gr>. </VERS>
+      <VERS vnumber="3">
+        <STYLE css="color:#808080;font-style:italic"> There </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="369">no </gr>
+        <gr str="4974">soundness </gr>in my <gr str="1320">flesh </gr>
+        <gr str="4480 6440">because </gr>of thine <gr str="2195">anger</gr>; <gr str="369">neither </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> any </STYLE>
+        <gr str="7965">rest </gr>in my <gr str="6106">bones </gr>
+        <gr str="4480 6440">because </gr>of my <gr str="2403">sin</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="3588">For </gr>mine <gr str="5771">iniquities </gr>are gone <gr str="5674">over </gr>mine <gr str="7218">head</gr>: as a <gr str="3515">heavy </gr>
+        <gr str="4853">burden </gr>they are too <gr str="3513">heavy </gr>
+        <gr str="4480">for </gr>me. </VERS>
+      <VERS vnumber="5"> My <gr str="2250">wounds </gr>
+        <gr str="887">stink </gr>
+        <STYLE css="color:#808080;font-style:italic"> and </STYLE> are <gr str="4743">corrupt </gr>
+        <gr str="4480 6440">because </gr>of my <gr str="200">foolishness</gr>. </VERS>
+      <VERS vnumber="6"> I am <gr str="5753">troubled</gr>; I am bowed <gr str="7817">down </gr>
+        <gr str="5704 3966">greatly</gr>; I <gr str="1980">go </gr>
+        <gr str="6937">mourning </gr>
+        <gr str="3605">all </gr>the <gr str="3117">day </gr>long. </VERS>
+      <VERS vnumber="7">
+        <gr str="3588">For </gr>my <gr str="3689">loins </gr>are <gr str="4390">filled </gr>with a <gr str="7033">loathsome </gr>
+        <STYLE css="color:#808080;font-style:italic"> disease </STYLE>: and <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="369">no </gr>
+        <gr str="4974">soundness </gr>in my <gr str="1320">flesh</gr>. </VERS>
+      <VERS vnumber="8"> I am <gr str="6313">feeble </gr>and <gr str="5704 3966">sore </gr>
+        <gr str="1794">broken</gr>: I have <gr str="7580">roared </gr>by reason of the <gr str="4480 5100">disquietness </gr>of my <gr str="3820">heart</gr>. </VERS>
+      <VERS vnumber="9">
+        <gr str="136">Lord</gr>, <gr str="3605">all </gr>my <gr str="8378">desire </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="5048">before </gr>thee; and my <gr str="585">groaning </gr>is <gr str="3808">not </gr>
+        <gr str="5641">hid </gr>
+        <gr str="4480">from </gr>thee. </VERS>
+      <VERS vnumber="10"> My <gr str="3820">heart </gr>
+        <gr str="5503">panteth</gr>, my <gr str="3581">strength </gr>
+        <gr str="5800">faileth </gr>me: as for the <gr str="216">light </gr>of mine <gr str="5869">eyes</gr>, <gr str="1992">it </gr>
+        <gr str="1571">also </gr>is <gr str="369">gone </gr>
+        <gr str="854">from </gr>me. </VERS>
+      <VERS vnumber="11"> My <gr str="157">lovers </gr>and my <gr str="7453">friends </gr>stand <gr str="5975">aloof </gr>from my <gr str="4480 5048 5061">sore</gr>; and my <gr str="7138">kinsmen </gr>
+        <gr str="5975">stand </gr>afar <gr str="4480 7350">off</gr>. </VERS>
+      <VERS vnumber="12"> They also that seek <gr str="1245">after </gr>my <gr str="5315">life </gr>lay <gr str="5367">snares </gr>
+        <STYLE css="color:#808080;font-style:italic"> for </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> me </STYLE>: and they that <gr str="1875">seek </gr>my <gr str="7451">hurt </gr>
+        <gr str="1696">speak </gr>mischievous <gr str="1942">things</gr>, and <gr str="1897">imagine </gr>
+        <gr str="4820">deceits </gr>
+        <gr str="3605">all </gr>the <gr str="3117">day </gr>long. </VERS>
+      <VERS vnumber="13"> But <gr str="589">I</gr>, as a <gr str="2795">deaf </gr>
+        <STYLE css="color:#808080;font-style:italic"> man </STYLE>, <gr str="8085">heard </gr>
+        <gr str="3808">not</gr>; and <STYLE css="color:#808080;font-style:italic"> I </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE> as a dumb <gr str="483">man </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <gr str="6605">openeth </gr>
+        <gr str="3808">not </gr>his <gr str="6310">mouth</gr>. </VERS>
+      <VERS vnumber="14"> Thus I <gr str="1961">was </gr>as a <gr str="376">man </gr>
+        <gr str="834">that </gr>
+        <gr str="8085">heareth </gr>
+        <gr str="3808">not</gr>, and in whose <gr str="6310">mouth </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="369">no </gr>
+        <gr str="8433">reproofs</gr>. </VERS>
+      <VERS vnumber="15">
+        <gr str="3588">For </gr>in thee, O <gr str="3068">LORD</gr>, do I <gr str="3176">hope</gr>: <gr str="859">thou </gr>wilt <gr str="6030">hear</gr>, O <gr str="136">Lord </gr>my <gr str="430">God</gr>. </VERS>
+      <VERS vnumber="16">
+        <gr str="3588">For </gr>I <gr str="559">said</gr>, <STYLE css="color:#808080;font-style:italic"> Hear </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> me </STYLE>, <gr str="6435">lest </gr>
+        <STYLE css="color:#808080;font-style:italic"> otherwise </STYLE> they should <gr str="8055">rejoice </gr>over me: when my <gr str="7272">foot </gr>
+        <gr str="4131">slippeth</gr>, they <gr str="1431">magnify </gr>
+        <STYLE css="color:#808080;font-style:italic"> themselves </STYLE>
+        <gr str="5921">against </gr>me. </VERS>
+      <VERS vnumber="17">
+        <gr str="3588">For </gr>
+        <gr str="589">I </gr>
+        <STYLE css="color:#808080;font-style:italic"> am </STYLE>
+        <gr str="3559">ready </gr>to <gr str="6761">halt</gr>, and my <gr str="4341">sorrow </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="8548">continually </gr>
+        <gr str="5048">before </gr>me. </VERS>
+      <VERS vnumber="18">
+        <gr str="3588">For </gr>I will <gr str="5046">declare </gr>mine <gr str="5771">iniquity</gr>; I will be <gr str="1672">sorry </gr>for my <gr str="4480 2403">sin</gr>. </VERS>
+      <VERS vnumber="19"> But mine <gr str="341">enemies </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="2416">lively</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> they are <gr str="6105">strong</gr>: and they that <gr str="8130">hate </gr>me <gr str="8267">wrongfully </gr>are <gr str="7231">multiplied</gr>. </VERS>
+      <VERS vnumber="20"> They also that <gr str="7999">render </gr>
+        <gr str="7451">evil </gr>
+        <gr str="8478">for </gr>
+        <gr str="2896">good </gr>are mine <gr str="7853">adversaries</gr>; <gr str="8478">because </gr>I <gr str="7291">follow </gr>
+        <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> thing </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <gr str="2896">good </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>. </VERS>
+      <VERS vnumber="21">
+        <gr str="5800">Forsake </gr>me <gr str="408">not</gr>, O <gr str="3068">LORD</gr>: O my <gr str="430">God</gr>, be <gr str="408">not </gr>
+        <gr str="7368">far </gr>
+        <gr str="4480">from </gr>me. </VERS>
+      <VERS vnumber="22"> Make <gr str="2363">haste </gr>to <gr str="5833">help </gr>me, O <gr str="136">Lord </gr>my <gr str="8668">salvation</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

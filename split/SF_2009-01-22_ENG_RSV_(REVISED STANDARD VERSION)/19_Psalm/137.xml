@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="137">
+      <VERS vnumber="1">By the waters of Babylon, there we sat down and wept, when we remembered Zion.</VERS>
+      <VERS vnumber="2">On the willows there we hung up our lyres.</VERS>
+      <VERS vnumber="3">For there our captors required of us songs, and our tormentors, mirth, saying, "Sing us one of the songs of Zion!"</VERS>
+      <VERS vnumber="4">How shall we sing the LORD's song in a foreign land?</VERS>
+      <VERS vnumber="5">If I forget you, O Jerusalem, let my right hand wither!</VERS>
+      <VERS vnumber="6">Let my tongue cleave to the roof of my mouth, if I do not remember you, if I do not set Jerusalem above my highest joy!</VERS>
+      <VERS vnumber="7">Remember, O LORD, against the E'domites the day of Jerusalem, how they said, "Rase it, rase it! Down to its foundations!"</VERS>
+      <VERS vnumber="8">O daughter of Babylon, you devastator! Happy shall he be who requites you with what you have done to us!</VERS>
+      <VERS vnumber="9">Happy shall he be who takes your little ones and dashes them against the rock!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

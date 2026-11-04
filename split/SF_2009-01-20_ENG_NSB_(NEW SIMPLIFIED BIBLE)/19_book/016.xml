@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="16">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">Preserve and protect me, O God, because I take refuge in you.</VERS>
+      <VERS vnumber="2">I said to Jehovah: »You are Jehovah my God. Without you, I have nothing good.</VERS>
+      <VERS vnumber="3">»The holy ones on earth are the noble ones who fill me with joy.«</VERS>
+      <VERS vnumber="4">Those who quickly pursue other gods multiply their sorrows. I will not pour out their sacrificial offerings of blood or use my lips to speak their names.</VERS>
+      <VERS vnumber="5">Jehovah is the portion of my inheritance and my cup. You determine my position in life.</VERS>
+      <VERS vnumber="6">Your boundary lines mark out pleasant places for me. Indeed, my inheritance is beautiful to me.</VERS>
+      <VERS vnumber="7">I will praise Jehovah for he advises me. My conscience <STYLE css="font-style:italic">inner self</STYLE> instructs me at night.</VERS>
+      <VERS vnumber="8">I always keep Jehovah in front of me. When he is at my right hand <STYLE css="font-style:italic">assisting me</STYLE>, I cannot be moved.</VERS>
+      <VERS vnumber="9">That is why my heart is glad and I rejoice. My body rests securely.</VERS>
+      <VERS vnumber="10">You do not abandon me to the grave or allow your holy one to decay.</VERS>
+      <VERS vnumber="11">You make the path of life known to me. Complete joy is in your presence. It is pleasant to be at your right hand forever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

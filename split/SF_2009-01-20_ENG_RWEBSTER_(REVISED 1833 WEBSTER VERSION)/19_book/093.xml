@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="93">
+      <VERS vnumber="1">The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, <STYLE css="font-style:italic">with which</STYLE> he hath girded himself: the world also is established, that it cannot be moved.</VERS>
+      <VERS vnumber="2">Thy throne <STYLE css="font-style:italic">is</STYLE> established of old: thou <STYLE css="font-style:italic">art</STYLE> from everlasting. <DIV>
+          <NOTE type="x-studynote">of old: Heb. from then</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift their waves.</VERS>
+      <VERS vnumber="4">The LORD on high <STYLE css="font-style:italic">is</STYLE> mightier than the noise of many waters, <STYLE css="font-style:italic">yea, than</STYLE> the mighty waves of the sea.</VERS>
+      <VERS vnumber="5">Thy testimonies are very sure: holiness becometh thy house, O LORD, for ever. <DIV>
+          <NOTE type="x-studynote">for ever: Heb. to length of days</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

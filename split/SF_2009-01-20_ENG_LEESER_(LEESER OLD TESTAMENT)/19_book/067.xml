@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="67">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief musician on Neginoth, a psalm or song.</STYLE>
+        <DIV>
+          <NOTE type="x-studynote">(67:2)</NOTE>
+        </DIV> May God be gracious unto us, and bless us; may he cause his face to shine upon us. Selah.</VERS>
+      <VERS vnumber="2">
+        <DIV>
+          <NOTE type="x-studynote">(67:3)</NOTE>
+        </DIV> That upon earth men may know thy way, among all nations thy salvation.</VERS>
+      <VERS vnumber="3">
+        <DIV>
+          <NOTE type="x-studynote">(67:4)</NOTE>
+        </DIV> The people will thank thee, O God; the people, all of them together, will thank thee.</VERS>
+      <VERS vnumber="4">
+        <DIV>
+          <NOTE type="x-studynote">(67:5)</NOTE>
+        </DIV> Nations will rejoice and sing for joy: when thou judgest the people righteously, and guidest the nations upon earth. Selah.</VERS>
+      <VERS vnumber="5">
+        <DIV>
+          <NOTE type="x-studynote">(67:6)</NOTE>
+        </DIV> The people will thank thee, O God; the people, all of them together, will thank thee.</VERS>
+      <VERS vnumber="6">
+        <DIV>
+          <NOTE type="x-studynote">(67:7)</NOTE>
+        </DIV> The earth yieldeth her products: <STYLE css="font-style:italic">yea,</STYLE> God, our own God, bless us.</VERS>
+      <VERS vnumber="7">
+        <DIV>
+          <NOTE type="x-studynote">(67:8)</NOTE>
+        </DIV> God will bless us: and all the ends of the earth shall fear him.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

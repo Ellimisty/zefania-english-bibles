@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="137">
+      <VERS vnumber="1">
+        <gr str="5921">By </gr>the <gr str="5104">rivers </gr>of <gr str="894">Babylon</gr>, <gr str="8033">there </gr>we sat <gr str="3427">down</gr>, <gr str="1571">yea</gr>, we <gr str="1058">wept</gr>, when we <gr str="2142">remembered </gr>
+        <gr str="*853" />
+        <gr str="6726">Zion</gr>. </VERS>
+      <VERS vnumber="2"> We <gr str="8518">hanged </gr>our <gr str="3658">harps </gr>
+        <gr str="5921">upon </gr>the <gr str="6155">willows </gr>in the <gr str="8432">midst </gr>thereof. </VERS>
+      <VERS vnumber="3">
+        <gr str="3588">For </gr>
+        <gr str="8033">there </gr>they that carried us away <gr str="7617">captive </gr>
+        <gr str="7592">required </gr>of us a <gr str="1697 7892">song</gr>; and they that <gr str="8437">wasted </gr>us <STYLE css="color:#808080;font-style:italic"> required </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> of </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> us </STYLE>
+        <gr str="8057">mirth</gr>, <STYLE css="color:#808080;font-style:italic"> saying </STYLE>, <gr str="7891">Sing </gr>us <STYLE css="color:#808080;font-style:italic"> one </STYLE> of the <gr str="4480 7892">songs </gr>of <gr str="6726">Zion</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="349">How </gr>shall we <gr str="7891">sing </gr>
+        <gr str="*853" />the <gr str="3068">LORD </gr>'s <gr str="7892">song </gr>
+        <gr str="5921">in </gr>a <gr str="5236">strange </gr>
+        <gr str="127">land</gr>? </VERS>
+      <VERS vnumber="5">
+        <gr str="518">If </gr>I <gr str="7911">forget </gr>thee, O <gr str="3389">Jerusalem</gr>, let my right <gr str="3225">hand </gr>
+        <gr str="7911">forget </gr>
+        <STYLE css="color:#808080;font-style:italic"> her </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> cunning </STYLE>. </VERS>
+      <VERS vnumber="6">
+        <gr str="518">If </gr>I do <gr str="3808">not </gr>
+        <gr str="2142">remember </gr>thee, let my <gr str="3956">tongue </gr>
+        <gr str="1692">cleave </gr>to the roof of my <gr str="2441">mouth</gr>; <gr str="518">if </gr>I <gr str="5927">prefer </gr>
+        <gr str="3808">not </gr>
+        <gr str="*853" />
+        <gr str="3389">Jerusalem </gr>
+        <gr str="5921">above </gr>my <gr str="7218">chief </gr>
+        <gr str="8057">joy</gr>. </VERS>
+      <VERS vnumber="7">
+        <gr str="2142">Remember</gr>, O <gr str="3068">LORD</gr>, the <gr str="1121">children </gr>of <gr str="123">Edom </gr>
+        <gr str="*853" />in the <gr str="3117">day </gr>of <gr str="3389">Jerusalem</gr>; who <gr str="559">said</gr>, <gr str="6168">Raze </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>, <gr str="6168">raze </gr>
+        <STYLE css="color:#808080;font-style:italic"> it, </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> even </STYLE>
+        <gr str="5704">to </gr>the <gr str="3247">foundation </gr>thereof. </VERS>
+      <VERS vnumber="8"> O <gr str="1323">daughter </gr>of <gr str="894">Babylon</gr>, who art to be <gr str="7703">destroyed</gr>; <gr str="835">happy </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> he </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>, that <gr str="7945 7999">rewardeth </gr>thee <gr str="854 1576">as </gr>thou hast <gr str="7945 1580">served </gr>us. </VERS>
+      <VERS vnumber="9">
+        <gr str="835">Happy </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> he </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>, that <gr str="7945 270">taketh </gr>and <gr str="5310">dasheth </gr>
+        <gr str="*853" />thy little <gr str="5768">ones </gr>
+        <gr str="413">against </gr>the <gr str="5553">stones</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

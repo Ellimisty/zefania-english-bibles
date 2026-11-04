@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="136">
+      <VERS vnumber="1">A Psalm of David: to Jeremiah. Above the rivers of Babylon, there we sat and wept, while we remembered Zion.</VERS>
+      <VERS vnumber="2">By the willow trees, in their midst, we hung up our instruments.</VERS>
+      <VERS vnumber="3">For, in that place, those who led us into captivity questioned us about the words of the songs. And those who carried us away said: “Sing us a hymn from the songs of Zion.”</VERS>
+      <VERS vnumber="4">How can we sing a song of the Lord in a foreign land?</VERS>
+      <VERS vnumber="5">If I ever forget you, Jerusalem, let my right hand be forgotten.</VERS>
+      <VERS vnumber="6">May my tongue adhere to my jaws, if I do not remember you, if I do not set Jerusalem first, as the beginning of my joy.</VERS>
+      <VERS vnumber="7">O Lord, call to mind the sons of Edom, in the day of Jerusalem, who say: “Despoil it, despoil it, even to its foundation.”</VERS>
+      <VERS vnumber="8">O daughter of Babylon, have pity. Blessed is he who will repay you with your payment, which you have paid to us.</VERS>
+      <VERS vnumber="9">Blessed is he who will take hold of your little ones and dash them against the rock.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

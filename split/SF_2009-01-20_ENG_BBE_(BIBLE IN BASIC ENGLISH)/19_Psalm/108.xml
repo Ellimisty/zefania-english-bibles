@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="108">
+      <VERS vnumber="1"> A Song. A Psalm. Of David. </VERS>
+      <VERS vnumber="2">\108:1\O God, my heart is fixed; I will make songs and melody, even with my glory.</VERS>
+      <VERS vnumber="3">\108:2\Give out your sounds, O corded instruments: the dawn will be awaking with my song.</VERS>
+      <VERS vnumber="4">\108:3\I will give you praise, O Lord, among the peoples; I will make melody to you among the nations.</VERS>
+      <VERS vnumber="5">\108:4\For your mercy is higher than the heavens: and your unchanging faith than the clouds.</VERS>
+      <VERS vnumber="6">\108:5\Be lifted up, O God, higher than the heavens; let your glory be over all the earth.</VERS>
+      <VERS vnumber="7">\108:6\Let your right hand be stretched out for salvation, and give me an answer, so that your loved ones may be safe from danger.</VERS>
+      <VERS vnumber="8">\108:7\This is the word of the holy God: I will be glad; I will make Shechem a heritage, measuring out the valley of Succoth.</VERS>
+      <VERS vnumber="9">\108:8\Gilead is mine; Manasseh is mine; Ephraim is the strength of my head; Judah is my law-giver;</VERS>
+      <VERS vnumber="10">\108:9\Moab is my washpot; on Edom is the resting-place of my shoe; over Philistia will I send out a glad cry.</VERS>
+      <VERS vnumber="11">\108:10\Who will take me into the strong town? who will be my guide into Edom?</VERS>
+      <VERS vnumber="12">\108:11\Have you not sent us away from you, O God? and you go not out with our armies.</VERS>
+      <VERS vnumber="13">\108:12\Give us help in our trouble; for there is no help in man.</VERS>
+      <VERS vnumber="14">\108:13\With God we will do great things; for by him will our haters be crushed underfoot.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

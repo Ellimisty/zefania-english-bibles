@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="32" bname="Jona" bsname="Jon">
+    <CHAPTER cnumber="2">
+      <VERS vnumber="1"> Then <gr str="3124">Jonah </gr>
+        <gr str="6419">prayed </gr>
+        <gr str="413">unto </gr>the <gr str="3068">LORD </gr>his <gr str="430">God </gr>out of the <gr str="1710">fish </gr>'s <gr str="4480 4578">belly</gr>, </VERS>
+      <VERS vnumber="2"> And <gr str="559">said</gr>, I <gr str="7121">cried </gr>by reason of mine <gr str="4480 6869">affliction </gr>
+        <gr str="413">unto </gr>the <gr str="3068">LORD</gr>, and he <gr str="6030">heard </gr>me; out of the <gr str="4480 990">belly </gr>of <gr str="7585">hell </gr>
+        <gr str="7768">cried </gr>I, <STYLE css="color:#808080;font-style:italic"> and </STYLE> thou <gr str="8085">heardest </gr>my <gr str="6963">voice</gr>. </VERS>
+      <VERS vnumber="3"> For thou hadst <gr str="7993">cast </gr>me into the <gr str="4688">deep</gr>, in the <gr str="3824">midst </gr>of the <gr str="3220">seas</gr>; and the <gr str="5104">floods </gr>compassed me <gr str="5437">about</gr>: <gr str="3605">all </gr>thy <gr str="4867">billows </gr>and thy <gr str="1530">waves </gr>
+        <gr str="5674">passed </gr>
+        <gr str="5921">over </gr>me. </VERS>
+      <VERS vnumber="4"> Then <gr str="589">I </gr>
+        <gr str="559">said</gr>, I am cast <gr str="1644">out </gr>
+        <gr str="4480 5048">of </gr>thy <gr str="5869">sight</gr>; <gr str="389">yet </gr>I will <gr str="5027">look </gr>
+        <gr str="3254">again </gr>
+        <gr str="413">toward </gr>thy <gr str="6944">holy </gr>
+        <gr str="1964">temple</gr>. </VERS>
+      <VERS vnumber="5"> The <gr str="4325">waters </gr>compassed me <gr str="661">about</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE>
+        <gr str="5704">to </gr>the <gr str="5315">soul</gr>: the <gr str="8415">depth </gr>closed me round <gr str="5437">about</gr>, the <gr str="5488">weeds </gr>were <gr str="2280">wrapped </gr>about my <gr str="7218">head</gr>. </VERS>
+      <VERS vnumber="6"> I went <gr str="3381">down </gr>to the <gr str="7095">bottoms </gr>of the <gr str="2022">mountains</gr>; the <gr str="776">earth </gr>with her <gr str="1280">bars </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="1157">about </gr>me <gr str="5769">forever</gr>: yet hast thou brought <gr str="5927">up </gr>my <gr str="2416">life </gr>from <gr str="4480 7845">corruption</gr>, O <gr str="3068">LORD </gr>my <gr str="430">God</gr>. </VERS>
+      <VERS vnumber="7"> When my <gr str="5315">soul </gr>
+        <gr str="5848">fainted </gr>
+        <gr str="5921">within </gr>me I <gr str="2142">remembered </gr>
+        <gr str="*853" />the <gr str="3068">LORD</gr>: and my <gr str="8605">prayer </gr>came <gr str="935">in </gr>
+        <gr str="413">unto </gr>thee, <gr str="413">into </gr>thine <gr str="6944">holy </gr>
+        <gr str="1964">temple</gr>. </VERS>
+      <VERS vnumber="8"> They that <gr str="8104">observe </gr>
+        <gr str="7723">lying </gr>
+        <gr str="1892">vanities </gr>
+        <gr str="5800">forsake </gr>their own <gr str="2617">mercy</gr>. </VERS>
+      <VERS vnumber="9"> But <gr str="589">I </gr>will <gr str="2076">sacrifice </gr>unto thee with the <gr str="6963">voice </gr>of <gr str="8426">thanksgiving</gr>; I will <gr str="7999">pay </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <gr str="834">that </gr>I have <gr str="5087">vowed</gr>. <gr str="3444">Salvation </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> of the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="10"> And the <gr str="3068">LORD </gr>
+        <gr str="559">spoke </gr>unto the <gr str="1709">fish</gr>, and it vomited <gr str="6958">out </gr>
+        <gr str="*853" />
+        <gr str="3124">Jonah </gr>
+        <gr str="413">upon </gr>the <gr str="3004">dry </gr>
+        <STYLE css="color:#808080;font-style:italic"> land </STYLE>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

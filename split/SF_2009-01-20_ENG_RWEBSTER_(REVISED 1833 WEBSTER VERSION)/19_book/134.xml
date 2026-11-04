@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="134">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Song of degrees.</STYLE> Behold, bless ye the LORD, all <STYLE css="font-style:italic">ye</STYLE> servants of the LORD, who by night stand in the house of the LORD.</VERS>
+      <VERS vnumber="2">Lift up your hands <STYLE css="font-style:italic">in</STYLE> the sanctuary, and bless the LORD. <DIV>
+          <NOTE type="x-studynote">the sanctuary: or, holiness</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">The LORD that made heaven and earth bless thee out of Zion.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

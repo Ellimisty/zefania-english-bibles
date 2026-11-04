@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="100">
+      <VERS vnumber="1">Make a joyful noise <STYLE css="font-style:italic">sound</STYLE>
+        <STYLE css="font-style:italic">shout</STYLE> to Jehovah, all you lands!</VERS>
+      <VERS vnumber="2">Serve Jehovah with gladness and come before his presence with a joyful song.</VERS>
+      <VERS vnumber="3">Know that Jehovah is God. He has made us, and not we ourselves. We are his people, and the sheep of his pasture.</VERS>
+      <VERS vnumber="4">Enter into his gates with thanksgiving, into his courtyard with praise: thank him and bless his name.</VERS>
+      <VERS vnumber="5">For Jehovah is good. His loving kindness is everlasting and his truth endures to all generations.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

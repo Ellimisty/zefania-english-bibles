@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="30" bname="Amos" bsname="Am">
+    <CHAPTER cnumber="9">
+      <VERS vnumber="1"> I <gr str="7200">saw </gr>
+        <gr str="*853" />the <gr str="136">Lord </gr>
+        <gr str="5324">standing </gr>
+        <gr str="5921">upon </gr>the <gr str="4196">altar</gr>: and he <gr str="559">said</gr>, <gr str="5221">Smite </gr>the <gr str="3730">lintel </gr>of the door, that the <gr str="5592">posts </gr>may <gr str="7493">shake</gr>: and <gr str="1214">cut </gr>them in the <gr str="7218">head</gr>, <gr str="3605">all </gr>of them; and I will <gr str="2026">slay </gr>the <gr str="319">last </gr>of them with the <gr str="2719">sword</gr>: he that <gr str="5127">fleeth </gr>of them shall <gr str="3808">not </gr>flee <gr str="5127">away</gr>, and he that <gr str="6412">escapeth </gr>of them shall <gr str="3808">not </gr>be <gr str="4422">delivered</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="518">Though </gr>they <gr str="2864">dig </gr>into <gr str="7585">hell</gr>, <gr str="4480 8033">thence </gr>shall mine <gr str="3027">hand </gr>
+        <gr str="3947">take </gr>them; <gr str="518">though </gr>they climb <gr str="5927">up </gr>to <gr str="8064">heaven</gr>, <gr str="4480 8033">thence </gr>will I bring them <gr str="3381">down</gr>: </VERS>
+      <VERS vnumber="3"> And <gr str="518">though </gr>they hide <gr str="2244">themselves </gr>in the <gr str="7218">top </gr>of <gr str="3760">Carmel</gr>, I will <gr str="2664">search </gr>and <gr str="3947">take </gr>them out <gr str="4480 8033">thence</gr>; and <gr str="518">though </gr>they be <gr str="5641">hid </gr>
+        <gr str="4480 5048">from </gr>my <gr str="5869">sight </gr>in the <gr str="7172">bottom </gr>of the <gr str="3220">sea</gr>, <gr str="4480 8033">thence </gr>will I <gr str="6680">command </gr>
+        <gr str="*853" />the <gr str="5175">serpent</gr>, and he shall <gr str="5391">bite </gr>them: </VERS>
+      <VERS vnumber="4"> And <gr str="518">though </gr>they <gr str="1980">go </gr>into <gr str="7628">captivity </gr>
+        <gr str="6440">before </gr>their <gr str="341">enemies</gr>, <gr str="4480 8033">thence </gr>will I <gr str="6680">command </gr>
+        <gr str="*853" />the <gr str="2719">sword</gr>, and it shall <gr str="2026">slay </gr>them: and I will <gr str="7760">set </gr>mine <gr str="5869">eyes </gr>
+        <gr str="5921">upon </gr>them for <gr str="7451">evil</gr>, and <gr str="3808">not </gr>for <gr str="2896">good</gr>. </VERS>
+      <VERS vnumber="5"> And the <gr str="136">Lord </gr>
+        <gr str="3069">GOD </gr>of <gr str="6635">hosts </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> he that <gr str="5060">toucheth </gr>the <gr str="776">land</gr>, and it shall <gr str="4127">melt</gr>, and <gr str="3605">all </gr>that <gr str="3427">dwell </gr>therein shall <gr str="56">mourn</gr>: and it shall rise <gr str="5927">up </gr>
+        <gr str="3605">wholly </gr>like a <gr str="2975">flood</gr>; and shall be <gr str="8257">drowned</gr>, as <STYLE css="color:#808080;font-style:italic"> by </STYLE> the <gr str="2975">flood </gr>of <gr str="4714">Egypt</gr>. </VERS>
+      <VERS vnumber="6">
+        <STYLE css="color:#808080;font-style:italic"> It </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> he that <gr str="1129">buildeth </gr>his <gr str="4609">stories </gr>in the <gr str="8064">heaven</gr>, and hath <gr str="3245">founded </gr>his <gr str="92">troop </gr>
+        <gr str="5921">in </gr>the <gr str="776">earth</gr>; he that <gr str="7121">calleth </gr>for the <gr str="4325">waters </gr>of the <gr str="3220">sea</gr>, and poureth them <gr str="8210">out </gr>
+        <gr str="5921">upon </gr>the <gr str="6440">face </gr>of the <gr str="776">earth</gr>: The <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> his <gr str="8034">name</gr>. </VERS>
+      <VERS vnumber="7">
+        <STYLE css="color:#808080;font-style:italic"> Are </STYLE>
+        <gr str="859">ye </gr>
+        <gr str="3808">not </gr>as <gr str="1121">children </gr>of the <gr str="3569">Ethiopians </gr>unto me, O <gr str="1121">children </gr>of <gr str="3478">Israel</gr>? <gr str="5002">saith </gr>the <gr str="3068">LORD</gr>. Have <gr str="3808">not </gr>I brought <gr str="5927">up </gr>
+        <gr str="*853" />
+        <gr str="3478">Israel </gr>out of the <gr str="4480 776">land </gr>of <gr str="4714">Egypt</gr>? and the <gr str="6430">Philistines </gr>from <gr str="4480 3731">Caphtor</gr>, and the <gr str="758">Syrians </gr>from <gr str="4480 7024">Kir</gr>? </VERS>
+      <VERS vnumber="8">
+        <gr str="2009">Behold</gr>, the <gr str="5869">eyes </gr>of the <gr str="136">Lord </gr>
+        <gr str="3069">GOD </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> upon the <gr str="2400">sinful </gr>
+        <gr str="4467">kingdom</gr>, and I will <gr str="8045">destroy </gr>it from <gr str="4480 5921">off </gr>the <gr str="6440">face </gr>of the <gr str="127">earth</gr>; <gr str="657">saving </gr>
+        <gr str="3588">that </gr>I will <gr str="3808">not </gr>utterly <gr str="8045 8045">destroy </gr>
+        <gr str="*853" />the <gr str="1004">house </gr>of <gr str="3290">Jacob</gr>, <gr str="5002">saith </gr>the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="9">
+        <gr str="3588">For</gr>, <gr str="2009">lo</gr>, <gr str="595">I </gr>will <gr str="6680">command</gr>, and I will <gr str="5128">sift </gr>
+        <gr str="*853" />the <gr str="1004">house </gr>of <gr str="3478">Israel </gr>among <gr str="3605">all </gr>
+        <gr str="1471">nations</gr>, like <gr str="834">as </gr>
+        <STYLE css="color:#808080;font-style:italic"> corn </STYLE> is <gr str="5128">sifted </gr>in a <gr str="3531">sieve</gr>, yet shall <gr str="3808">not </gr>the least <gr str="6872">grain </gr>
+        <gr str="5307">fall </gr>upon the <gr str="776">earth</gr>. </VERS>
+      <VERS vnumber="10">
+        <gr str="3605">All </gr>the <gr str="2400">sinners </gr>of my <gr str="5971">people </gr>shall <gr str="4191">die </gr>by the <gr str="2719">sword</gr>, which <gr str="559">say</gr>, The <gr str="7451">evil </gr>shall <gr str="3808">not </gr>
+        <gr str="5066">overtake </gr>nor <gr str="6923 1157">prevent </gr>us. </VERS>
+      <VERS vnumber="11"> In <gr str="1931">that </gr>
+        <gr str="3117">day </gr>will I raise <gr str="6965">up </gr>
+        <gr str="*853" />the <gr str="5521">tabernacle </gr>of <gr str="1732">David </gr>that is <gr str="5307">fallen</gr>, and close <gr str="1443">up </gr>
+        <gr str="*853" />the <gr str="6556">breaches </gr>thereof; and I will raise <gr str="6965">up </gr>his <gr str="2034">ruins</gr>, and I will <gr str="1129">build </gr>it as in the <gr str="3117">days </gr>of <gr str="5769">old</gr>: </VERS>
+      <VERS vnumber="12">
+        <gr str="4616">That </gr>they may <gr str="3423">possess </gr>
+        <gr str="*853" />the <gr str="7611">remnant </gr>of <gr str="123">Edom</gr>, and of <gr str="3605">all </gr>the <gr str="1471">heathen</gr>, <gr str="834">which </gr>are called <gr str="7121 5921">by </gr>my <gr str="8034">name</gr>, <gr str="5002">saith </gr>the <gr str="3068">LORD </gr>that <gr str="6213">doeth </gr>
+        <gr str="2063">this</gr>. </VERS>
+      <VERS vnumber="13">
+        <gr str="2009">Behold</gr>, the <gr str="3117">days </gr>
+        <gr str="935">come</gr>, <gr str="5002">saith </gr>the <gr str="3068">LORD</gr>, that the <gr str="2790">plowman </gr>shall <gr str="5066">overtake </gr>the <gr str="7114">reaper</gr>, and the <gr str="1869">treader </gr>of <gr str="6025">grapes </gr>him that <gr str="4900">soweth </gr>
+        <gr str="2233">seed</gr>; and the <gr str="2022">mountains </gr>shall <gr str="5197">drop </gr>sweet <gr str="6071">wine</gr>, and <gr str="3605">all </gr>the <gr str="1389">hills </gr>shall <gr str="4127">melt</gr>. </VERS>
+      <VERS vnumber="14"> And I will bring <gr str="7725">again </gr>
+        <gr str="*853" />the <gr str="7622">captivity </gr>of my <gr str="5971">people </gr>of <gr str="3478">Israel</gr>, and they shall <gr str="1129">build </gr>the <gr str="8074">waste </gr>
+        <gr str="5892">cities</gr>, and <gr str="3427">inhabit </gr>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE>; and they shall <gr str="5193">plant </gr>
+        <gr str="3754">vineyards</gr>, and <gr str="8354">drink </gr>
+        <gr str="*853" />the <gr str="3196">wine </gr>thereof; they shall also <gr str="6213">make </gr>
+        <gr str="1593">gardens</gr>, and <gr str="398">eat </gr>
+        <gr str="*853" />the <gr str="6529">fruit </gr>of them. </VERS>
+      <VERS vnumber="15"> And I will <gr str="5193">plant </gr>them <gr str="5921">upon </gr>their <gr str="127">land</gr>, and they shall <gr str="3808">no </gr>
+        <gr str="5750">more </gr>be pulled <gr str="5428">up </gr>out <gr str="4480 5921">of </gr>their <gr str="127">land </gr>
+        <gr str="834">which </gr>I have <gr str="5414">given </gr>them, <gr str="559">saith </gr>the <gr str="3068">LORD </gr>thy <gr str="430">God</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

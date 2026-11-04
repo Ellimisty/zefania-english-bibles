@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="World English Bible - Messianic Edition" type="x-bible">
+  <BIBLEBOOK bnumber="40" bname="Matthew" bsname="Mat">
+    <CHAPTER cnumber="7">
+      <VERS vnumber="5">
+        
+      </VERS>
+      <VERS vnumber="6">
+        
+      </VERS>
+      <VERS vnumber="12">
+        
+      </VERS>
+      <VERS vnumber="14">
+        
+      </VERS>
+      <VERS vnumber="23">
+        
+      </VERS>
+      <VERS vnumber="27">
+        
+      </VERS>
+      <VERS vnumber="28">When Yeshua had finished saying these things, the multitudes were astonished at his teaching,</VERS>
+      <VERS vnumber="29">for he taught them with authority, and not like the scribes.  </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

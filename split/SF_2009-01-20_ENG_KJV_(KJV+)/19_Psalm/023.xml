@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="23">
+      <VERS vnumber="1"> A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>. The <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> my <gr str="7462">shepherd</gr>; I shall <gr str="3808">not </gr>
+        <gr str="2637">want</gr>. </VERS>
+      <VERS vnumber="2"> He maketh me to lie <gr str="7257">down </gr>in <gr str="1877">green </gr>
+        <gr str="4999">pastures</gr>: he <gr str="5095">leadeth </gr>me <gr str="5921">beside </gr>the <gr str="4496">still </gr>
+        <gr str="4325">waters</gr>. </VERS>
+      <VERS vnumber="3"> He <gr str="7725">restoreth </gr>my <gr str="5315">soul</gr>: he <gr str="5148">leadeth </gr>me in the <gr str="4570">paths </gr>of <gr str="6664">righteousness </gr>for his name's <gr str="4616 8034">sake</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="1571">Yea</gr>, <gr str="3588">though </gr>I <gr str="1980">walk </gr>through the <gr str="1516">valley </gr>of the shadow of <gr str="6757">death</gr>, I will <gr str="3372">fear </gr>
+        <gr str="3808">no </gr>
+        <gr str="7451">evil</gr>: <gr str="3588">for </gr>
+        <gr str="859">thou </gr>
+        <STYLE css="color:#808080;font-style:italic"> art </STYLE>
+        <gr str="5978">with </gr>me; thy <gr str="7626">rod </gr>and thy <gr str="4938">staff </gr>
+        <gr str="1992">they </gr>
+        <gr str="5162">comfort </gr>me. </VERS>
+      <VERS vnumber="5"> Thou <gr str="6186">preparest </gr>a <gr str="7979">table </gr>
+        <gr str="6440">before </gr>me in the <gr str="5048">presence </gr>of mine <gr str="6887">enemies</gr>: thou <gr str="1878">anointest </gr>my <gr str="7218">head </gr>with <gr str="8081">oil</gr>; my <gr str="3563">cup </gr>runneth <gr str="7310">over</gr>. </VERS>
+      <VERS vnumber="6">
+        <gr str="389">Surely </gr>
+        <gr str="2896">goodness </gr>and <gr str="2617">mercy </gr>shall <gr str="7291">follow </gr>me <gr str="3605">all </gr>the <gr str="3117">days </gr>of my <gr str="2416">life</gr>: and I will <gr str="3427">dwell </gr>in the <gr str="1004">house </gr>of the <gr str="3068">LORD </gr>
+        <gr str="753 3117">forever</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

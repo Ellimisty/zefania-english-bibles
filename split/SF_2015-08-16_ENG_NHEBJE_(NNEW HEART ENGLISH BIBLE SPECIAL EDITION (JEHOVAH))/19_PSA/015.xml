@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible JE" type="x-bible">
+  <BIBLEBOOK bnumber="19" bsname="PSA">
+    <CHAPTER cnumber="15">
+      <VERS vnumber="1" />
+      <VERS vnumber="2">He who walks blamelessly does what is right, and speaks truth in his heart;</VERS>
+      <VERS vnumber="3">He who doesn't slander with his tongue, nor does evil to his friend, nor casts slurs against his fellow man;</VERS>
+      <VERS vnumber="4">In whose eyes a vile man is despised, but who honors those who fear Jehovah; he who keeps an oath even when it hurts, and doesn't change;</VERS>
+      <VERS vnumber="5">he who doesn't lend out his money for usury, nor take a bribe against the innocent. He who does these things shall never be shaken.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

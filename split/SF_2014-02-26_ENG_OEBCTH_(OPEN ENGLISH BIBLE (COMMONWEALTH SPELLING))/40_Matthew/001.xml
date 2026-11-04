@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="40" bname="Matthew" bsname="Mat">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">A genealogy of Jesus Christ, a descendant of David and Abraham.</VERS>
+      <VERS vnumber="2">Abraham was the father of Isaac, Isaac of Jacob, Jacob of Judah and his brothers,</VERS>
+      <VERS vnumber="3">Judah of Perez and Zerah, whose mother was Tamar, Perez of Hezron, Hezron of Ram,</VERS>
+      <VERS vnumber="4">Ram of Amminadab, Amminadab of Nashon, Nashon of Salmon,</VERS>
+      <VERS vnumber="5">Salmon of Boaz, whose mother was Rahab, Boaz of Obed, whose mother was Ruth, Obed of Jesse,</VERS>
+      <VERS vnumber="6">Jesse of David the King. David was the father of Solomon, whose mother was Uriah’s widow,</VERS>
+      <VERS vnumber="7">Solomon of Rehoboam, Rehoboam of Abijah, Abijah of Asa,</VERS>
+      <VERS vnumber="8">Asa of Jehoshaphat, Jehoshaphat of Jehoram, Jehoram of Uzziah,</VERS>
+      <VERS vnumber="9">Uzziah of Jotham, Jotham of Ahaz, Ahaz of Hezekiah,</VERS>
+      <VERS vnumber="10">Hezekiah of Manasseh, Manasseh of Ammon, Ammon of Josiah,</VERS>
+      <VERS vnumber="11">Josiah of Jeconiah and his brothers, at the time of the Exile to Babylon.</VERS>
+      <VERS vnumber="12">After the Exile to Babylon — Jeconiah was the father of Shealtiel, Shealtiel of Zerubbabel,</VERS>
+      <VERS vnumber="13">Zerubbabel of Abiud, Abiud of Eliakim, Eliakim of Azor,</VERS>
+      <VERS vnumber="14">Azor of Zadok, Zadok of Achim, Achim of Eliud,</VERS>
+      <VERS vnumber="15">Eliud of Eleazar, Eleazar of Matthan, Matthan of Jacob,</VERS>
+      <VERS vnumber="16">Jacob of Joseph, the husband of Mary, who was the mother of Jesus, who is called ‘Christ’.</VERS>
+      <VERS vnumber="17">So the whole number of generations from Abraham to David is fourteen; from David to the Exile to Babylon fourteen; and from the Exile to Babylon to the Christ fourteen.</VERS>
+      <VERS vnumber="18">This is how Jesus Christ was born:  His mother Mary was engaged to Joseph, but, before the marriage took place, she found herself to be pregnant by the power of the Holy Spirit.</VERS>
+      <VERS vnumber="19">Her husband, Joseph, was a religious man and, since he did not want to disgrace her publicly, he resolved to put an end to their engagement privately.</VERS>
+      <VERS vnumber="20">He had been thinking this over, when an angel of the Lord appeared to him in a dream.  “Joseph, son of David,” the angel said, “do not be afraid to take Mary for your wife, for her child has been conceived by the power of the Holy Spirit.</VERS>
+      <VERS vnumber="21">She will give birth to a son; name him Jesus, for he will save his people from their sins.”  </VERS>
+      <VERS vnumber="22">All this happened in fulfilment of these words of the Lord in the prophet, where he says —</VERS>
+      <VERS vnumber="23">‘The virgin will conceive and will give birth to a son, and they will give him the name Immanuel’  — a word which means ‘God is with us.’</VERS>
+      <VERS vnumber="24">When Joseph woke up, he did as the angel of the Lord had directed him.</VERS>
+      <VERS vnumber="25">He made Mary his wife, but they did not sleep together until after the birth of her son; and to this son he gave the name Jesus.  </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

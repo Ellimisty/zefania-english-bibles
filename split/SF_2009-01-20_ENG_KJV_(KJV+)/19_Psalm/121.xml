@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="121">
+      <VERS vnumber="1"> A <gr str="7892">Song </gr>of <gr str="4609">degrees</gr>. I will lift <gr str="5375">up </gr>mine <gr str="5869">eyes </gr>
+        <gr str="413">unto </gr>the <gr str="2022">hills</gr>, from <gr str="4480 370">whence </gr>
+        <gr str="935">cometh </gr>my <gr str="5828">help</gr>. </VERS>
+      <VERS vnumber="2"> My <gr str="5828">help </gr>
+        <STYLE css="color:#808080;font-style:italic"> cometh </STYLE>
+        <gr str="4480 5973">from </gr>the <gr str="3068">LORD</gr>, which <gr str="6213">made </gr>
+        <gr str="8064">heaven </gr>and <gr str="776">earth</gr>. </VERS>
+      <VERS vnumber="3"> He will <gr str="408">not </gr>
+        <gr str="5414">suffer </gr>thy <gr str="7272">foot </gr>to be <gr str="4132">moved</gr>: he that <gr str="8104">keepeth </gr>thee will <gr str="408">not </gr>
+        <gr str="5123">slumber</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="2009">Behold</gr>, he that <gr str="8104">keepeth </gr>
+        <gr str="3478">Israel </gr>shall <gr str="3808">neither </gr>
+        <gr str="5123">slumber </gr>
+        <gr str="3808">nor </gr>
+        <gr str="3462">sleep</gr>. </VERS>
+      <VERS vnumber="5"> The <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> thy <gr str="8104">keeper</gr>: the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> thy <gr str="6738">shade </gr>
+        <gr str="5921">upon </gr>thy <gr str="3225">right </gr>
+        <gr str="3027">hand</gr>. </VERS>
+      <VERS vnumber="6"> The <gr str="8121">sun </gr>shall <gr str="3808">not </gr>
+        <gr str="5221">smite </gr>thee by <gr str="3119">day</gr>, nor the <gr str="3394">moon </gr>by <gr str="3915">night</gr>. </VERS>
+      <VERS vnumber="7"> The <gr str="3068">LORD </gr>shall <gr str="8104">preserve </gr>thee from <gr str="4480 3605">all </gr>
+        <gr str="7451">evil</gr>: he shall <gr str="8104">preserve </gr>
+        <gr str="*853" />thy <gr str="5315">soul</gr>. </VERS>
+      <VERS vnumber="8"> The <gr str="3068">LORD </gr>shall <gr str="8104">preserve </gr>thy going <gr str="3318">out </gr>and thy coming <gr str="935">in </gr>from this time <gr str="4480 6258">forth</gr>, and even <gr str="5704 5769">forevermore</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

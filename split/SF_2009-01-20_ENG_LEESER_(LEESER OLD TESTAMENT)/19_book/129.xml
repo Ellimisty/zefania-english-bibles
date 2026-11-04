@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="129">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A song of the degrees.</STYLE> Many a time have they assailed me from my youth, so should Israel say;</VERS>
+      <VERS vnumber="2">Many a time have they assailed me from my youth: yet have they not prevailed against me.</VERS>
+      <VERS vnumber="3">Upon my back have ploughmen ploughed; they have drawn long their furrows:</VERS>
+      <VERS vnumber="4">
+        <STYLE css="font-style:italic">Yet</STYLE> the Lord is righteous; he hath cut asunder the cords of the wicked.</VERS>
+      <VERS vnumber="5">May all be put to shame and turned backward that hate Zion;</VERS>
+      <VERS vnumber="6">May they become like the grass of the roofs, which withereth before it is pulled up;</VERS>
+      <VERS vnumber="7">Wherewith the mower filleth not his hand; nor his arm he that bindeth sheaves.</VERS>
+      <VERS vnumber="8">Nor do they who pass by say, The blessing of the Lord be with you: we bless you in the name of the Lord.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

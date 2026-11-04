@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible - Jehovah Edition" type="x-bible">
+  <BIBLEBOOK bnumber="18" bname="Job" bsname="Job">
+    <CHAPTER cnumber="25">
+      <VERS vnumber="1">Then Bildad the Shuhite answered,</VERS>
+      <VERS vnumber="2">"Dominion and fear are with him.He makes peace in his high places.</VERS>
+      <VERS vnumber="3">Can his armies be counted?On whom does his light not arise?</VERS>
+      <VERS vnumber="4">How then can man be just with God?Or how can he who is born of a woman be clean?</VERS>
+      <VERS vnumber="5">Behold, even the moon has no brightness,and the stars are not pure in his sight;</VERS>
+      <VERS vnumber="6">How much less man, who is a worm,the son of man, who is a worm!"</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="40" bname="Matthew" bsname="Mat">
+    <CHAPTER cnumber="5">
+      <VERS vnumber="1">On seeing the crowds of people, Jesus went up the hill; and, when he had taken his seat, his disciples came up to him;</VERS>
+      <VERS vnumber="2">and he began to teach them, saying</VERS>
+      <VERS vnumber="16" />
+      <VERS vnumber="20" />
+      <VERS vnumber="26" />
+      <VERS vnumber="30" />
+      <VERS vnumber="37" />
+      <VERS vnumber="42" />
+      <VERS vnumber="48" />
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

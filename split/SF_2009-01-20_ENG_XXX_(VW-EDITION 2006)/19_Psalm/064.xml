@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="64">
+      <CAPTION vref="1">To the Chief Musician. A Psalm of David.</CAPTION>
+      <VERS vnumber="1">Hear my voice, O God, in my meditation; preserve my life from fear of the enemy.</VERS>
+      <VERS vnumber="2">Hide me from the counsel of the wicked, from the insurrection of the workers of iniquity,</VERS>
+      <VERS vnumber="3">who sharpen their tongue like a sword. They have bent their bows to shoot their arrows; even bitter words,</VERS>
+      <VERS vnumber="4">so that they may shoot at the perfect one from a hiding place; suddenly they shoot at him and do not fear.</VERS>
+      <VERS vnumber="5">They encourage themselves in an evil plan; they talk of laying snares secretly; they say, Who shall see them?</VERS>
+      <VERS vnumber="6">They devise injustice; they have finished searching out a plot. Yea, the inward part of man and the heart are unfathomable.</VERS>
+      <VERS vnumber="7">But God shall shoot at them with an arrow; suddenly they shall be wounded.</VERS>
+      <VERS vnumber="8">So they shall stumble over their own tongues; everyone who sees them shall flee away.</VERS>
+      <VERS vnumber="9">And all men shall fear, and shall declare the work of God; for they shall prudently comprehend His works.</VERS>
+      <VERS vnumber="10">The righteous shall be glad in Jehovah, and shall trust in Him; and all the upright in heart shall glory.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

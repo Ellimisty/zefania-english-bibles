@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="67">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For the end, a Psalm of David among the Hymns.</STYLE> - God be merciful to us, and bless us; and cause his face to shine upon us. Pause.</VERS>
+      <VERS vnumber="2">That men may know thy way on the earth, thy salvation among all nations.</VERS>
+      <VERS vnumber="3">Let the nations, O God, give thanks to thee; let all the nations give thanks to thee.</VERS>
+      <VERS vnumber="4">Let the nations rejoice and exult, for thou shalt judge the peoples in equity, and shalt guide the nations on the earth. Pause.</VERS>
+      <VERS vnumber="5">Let the peoples, O God, give thanks to thee; let all the peoples give thanks to thee.</VERS>
+      <VERS vnumber="6">The earth has yielded her fruit; let God, our God bless us.</VERS>
+      <VERS vnumber="7">Let God bless us; and let all the ends of the earth fear him.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

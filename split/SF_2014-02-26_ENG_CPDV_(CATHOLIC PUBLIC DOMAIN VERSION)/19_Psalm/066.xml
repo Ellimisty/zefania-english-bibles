@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="66">
+      <VERS vnumber="1">Unto the end. With hymns, a Canticle Psalm of David.</VERS>
+      <VERS vnumber="2">May God have mercy on us and bless us. May he shine his countenance upon us, and may he have mercy on us.</VERS>
+      <VERS vnumber="3">So may we know your way upon the earth, your salvation among all nations.</VERS>
+      <VERS vnumber="4">Let the peoples confess to you, O God. Let all the peoples confess to you.</VERS>
+      <VERS vnumber="5">May the nations rejoice and exult. For you judge the peoples with equity, and you direct the nations on earth.</VERS>
+      <VERS vnumber="6">Let the peoples confess to you, O God. Let all the peoples confess to you.</VERS>
+      <VERS vnumber="7">The earth has provided her fruit. May God, our God, bless us.</VERS>
+      <VERS vnumber="8">May God bless us, and may all the ends of the earth fear him.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,405 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="9" bname="1 Samuel" bsname="1Sam">
+    <CHAPTER cnumber="17">
+      <VERS vnumber="1"> Now the <gr str="6430">Philistines </gr>gathered <gr str="622">together </gr>
+        <gr str="*853" />their <gr str="4264">armies </gr>to <gr str="4421">battle</gr>, and were gathered <gr str="622">together </gr>at <gr str="7755">Shochoh</gr>, <gr str="834">which </gr>
+        <STYLE css="color:#808080;font-style:italic"> belongeth </STYLE> to <gr str="3063">Judah</gr>, and <gr str="2583">pitched </gr>
+        <gr str="996">between </gr>
+        <gr str="7755">Shochoh </gr>and <gr str="5825">Azekah</gr>, in <gr str="658">Ephes </gr>-dammim. </VERS>
+      <VERS vnumber="2"> And <gr str="7586">Saul </gr>and the <gr str="376">men </gr>of <gr str="3478">Israel </gr>were gathered <gr str="622">together</gr>, and <gr str="2583">pitched </gr>by the <gr str="6010">valley </gr>of <gr str="425">Elah</gr>, and set the <gr str="4421">battle </gr>in <gr str="6186">array </gr>
+        <gr str="7125">against </gr>the <gr str="6430">Philistines</gr>. </VERS>
+      <VERS vnumber="3"> And the <gr str="6430">Philistines </gr>
+        <gr str="5975">stood </gr>
+        <gr str="413">on </gr>a <gr str="2022">mountain </gr>on the one <gr str="4480 2088">side</gr>, and <gr str="3478">Israel </gr>
+        <gr str="5975">stood </gr>
+        <gr str="413">on </gr>a <gr str="2022">mountain </gr>on the other <gr str="4480 2088">side</gr>: and <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE> a <gr str="1516">valley </gr>
+        <gr str="996">between </gr>them. </VERS>
+      <VERS vnumber="4"> And there went <gr str="3318">out </gr>a <gr str="376 1143">champion </gr>out of the <gr str="4480 4264">camp </gr>of the <gr str="6430">Philistines</gr>, <gr str="8034">named </gr>
+        <gr str="1555">Goliath</gr>, of <gr str="4480 1661">Gath</gr>, whose <gr str="1363">height </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="8337">six </gr>
+        <gr str="520">cubits </gr>and a <gr str="2239">span</gr>. </VERS>
+      <VERS vnumber="5"> And <STYLE css="color:#808080;font-style:italic"> he </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> had </STYLE> a <gr str="3553">helmet </gr>of <gr str="5178">brass </gr>
+        <gr str="5921">upon </gr>his <gr str="7218">head</gr>, and <gr str="1931">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="3847">armed </gr>with a <gr str="8302">coat </gr>of <gr str="7193">mail</gr>; and the <gr str="4948">weight </gr>of the <gr str="8302">coat </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="2568">five </gr>
+        <gr str="505">thousand </gr>
+        <gr str="8255">shekels </gr>of <gr str="5178">brass</gr>. </VERS>
+      <VERS vnumber="6"> And <STYLE css="color:#808080;font-style:italic"> he </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> had </STYLE>
+        <gr str="4697">greaves </gr>of <gr str="5178">brass </gr>
+        <gr str="5921">upon </gr>his <gr str="7272">legs</gr>, and a <gr str="3591">target </gr>of <gr str="5178">brass </gr>
+        <gr str="996">between </gr>his <gr str="3802">shoulders</gr>. </VERS>
+      <VERS vnumber="7"> And the <gr str="2671">staff </gr>of his <gr str="2595">spear </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE> like a <gr str="707">weaver </gr>'s <gr str="4500">beam</gr>; and his <gr str="2595">spear </gr>'s <gr str="3852">head </gr>
+        <STYLE css="color:#808080;font-style:italic"> weighed </STYLE>
+        <gr str="8337">six </gr>
+        <gr str="3967">hundred </gr>
+        <gr str="8255">shekels </gr>of <gr str="1270">iron</gr>: and one <gr str="5375">bearing </gr>a <gr str="6793">shield </gr>
+        <gr str="1980">went </gr>
+        <gr str="6440">before </gr>him. </VERS>
+      <VERS vnumber="8"> And he <gr str="5975">stood </gr>and <gr str="7121">cried </gr>
+        <gr str="413">unto </gr>the <gr str="4634">armies </gr>of <gr str="3478">Israel</gr>, and <gr str="559">said </gr>unto them, <gr str="4100">Why </gr>are ye come <gr str="3318">out </gr>to set <STYLE css="color:#808080;font-style:italic"> your </STYLE>
+        <gr str="4421">battle </gr>in <gr str="6186">array</gr>? <STYLE css="color:#808080;font-style:italic"> am </STYLE>
+        <gr str="3808">not </gr>
+        <gr str="595">I </gr>a <gr str="6430">Philistine</gr>, and <gr str="859">ye </gr>
+        <gr str="5650">servants </gr>to <gr str="7586">Saul</gr>? <gr str="1262">choose </gr>you a <gr str="376">man </gr>for you, and let him come <gr str="3381">down </gr>
+        <gr str="413">to </gr>me. </VERS>
+      <VERS vnumber="9">
+        <gr str="518">If </gr>he be <gr str="3201">able </gr>to <gr str="3898">fight </gr>
+        <gr str="854">with </gr>me, and to <gr str="5221">kill </gr>me, then will we <gr str="1961">be </gr>your <gr str="5650">servants</gr>: but <gr str="518">if </gr>
+        <gr str="589">I </gr>
+        <gr str="3201">prevail </gr>against him, and <gr str="5221">kill </gr>him, then shall ye <gr str="1961">be </gr>our <gr str="5650">servants</gr>, and <gr str="5647">serve </gr>us. </VERS>
+      <VERS vnumber="10"> And the <gr str="6430">Philistine </gr>
+        <gr str="559">said</gr>, <gr str="589">I </gr>
+        <gr str="2778">defy </gr>
+        <gr str="*853" />the <gr str="4634">armies </gr>of <gr str="3478">Israel </gr>
+        <gr str="2088">this </gr>
+        <gr str="3117">day</gr>; <gr str="5414">give </gr>me a <gr str="376">man</gr>, that we may <gr str="3898">fight </gr>
+        <gr str="3162">together</gr>. </VERS>
+      <VERS vnumber="11"> When <gr str="7586">Saul </gr>and <gr str="3605">all </gr>
+        <gr str="3478">Israel </gr>
+        <gr str="8085">heard </gr>
+        <gr str="*853" />
+        <gr str="428">those </gr>
+        <gr str="1697">words </gr>of the <gr str="6430">Philistine</gr>, they were <gr str="2865">dismayed</gr>, and <gr str="3966">greatly </gr>
+        <gr str="3372">afraid</gr>. </VERS>
+      <VERS vnumber="12"> Now <gr str="1732">David </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE> the <gr str="1121">son </gr>of <gr str="2088">that </gr>
+        <gr str="376 673">Ephrathite </gr>of <gr str="4480 1035">Bethlehem </gr>-judah, whose <gr str="8034">name </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="3448">Jesse</gr>; and he had <gr str="8083">eight </gr>
+        <gr str="1121">sons</gr>: and the <gr str="376">man </gr>
+        <gr str="935">went </gr>among <gr str="376">men </gr>
+        <STYLE css="color:#808080;font-style:italic"> for </STYLE> an <gr str="2204">old </gr>man in the <gr str="3117">days </gr>of <gr str="7586">Saul</gr>. </VERS>
+      <VERS vnumber="13"> And the <gr str="7969">three </gr>
+        <gr str="1419">eldest </gr>
+        <gr str="1121">sons </gr>of <gr str="3448">Jesse </gr>
+        <gr str="1980">went </gr>
+        <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="1980 310">followed </gr>
+        <gr str="7586">Saul </gr>to the <gr str="4421">battle</gr>: and the <gr str="8034">names </gr>of his <gr str="7969">three </gr>
+        <gr str="1121">sons </gr>
+        <gr str="834">that </gr>
+        <gr str="1980">went </gr>to the <gr str="4421">battle </gr>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE>
+        <gr str="446">Eliab </gr>the <gr str="1060">firstborn</gr>, and <gr str="4932">next </gr>unto him <gr str="41">Abinadab</gr>, and the <gr str="7992">third </gr>
+        <gr str="8048">Shammah</gr>. </VERS>
+      <VERS vnumber="14"> And <gr str="1732">David </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE> the <gr str="6996">youngest</gr>: and the <gr str="7969">three </gr>
+        <gr str="1419">eldest </gr>
+        <gr str="1980 310">followed </gr>
+        <gr str="7586">Saul</gr>. </VERS>
+      <VERS vnumber="15"> But <gr str="1732">David </gr>
+        <gr str="1980">went </gr>and <gr str="7725">returned </gr>
+        <gr str="4480 5921">from </gr>
+        <gr str="7586">Saul </gr>to <gr str="7462">feed </gr>
+        <gr str="*853" />his <gr str="1">father </gr>'s <gr str="6629">sheep </gr>at <gr str="1035">Bethlehem</gr>. </VERS>
+      <VERS vnumber="16"> And the <gr str="6430">Philistine </gr>drew <gr str="5066">near </gr>
+        <gr str="7925">morning </gr>and <gr str="6150">evening</gr>, and presented <gr str="3320">himself </gr>
+        <gr str="705">forty </gr>
+        <gr str="3117">days</gr>. </VERS>
+      <VERS vnumber="17"> And <gr str="3448">Jesse </gr>
+        <gr str="559">said </gr>unto <gr str="1732">David </gr>his <gr str="1121">son</gr>, <gr str="3947">Take </gr>
+        <gr str="4994">now </gr>for thy <gr str="251">brethren </gr>an <gr str="374">ephah </gr>of <gr str="2088">this </gr>
+        <gr str="7039">parched </gr>
+        <STYLE css="color:#808080;font-style:italic"> corn </STYLE>, and <gr str="2088">these </gr>
+        <gr str="6235">ten </gr>
+        <gr str="3899">loaves</gr>, and <gr str="7323">run </gr>to the <gr str="4264">camp </gr>to thy <gr str="251">brethren</gr>; </VERS>
+      <VERS vnumber="18"> And <gr str="935">carry </gr>
+        <gr str="428">these </gr>
+        <gr str="6235">ten </gr>
+        <gr str="2757 2461">cheeses </gr>unto the <gr str="8269">captain </gr>of <STYLE css="color:#808080;font-style:italic"> their </STYLE>
+        <gr str="505">thousand</gr>, and look <gr str="6485">how </gr>thy <gr str="251">brethren </gr>
+        <gr str="7965">fare</gr>, and <gr str="3947">take </gr>their <gr str="6161">pledge</gr>. </VERS>
+      <VERS vnumber="19"> Now <gr str="7586">Saul</gr>, and <gr str="1992">they</gr>, and <gr str="3605">all </gr>the <gr str="376">men </gr>of <gr str="3478">Israel</gr>, <STYLE css="color:#808080;font-style:italic"> were </STYLE> in the <gr str="6010">valley </gr>of <gr str="425">Elah</gr>, <gr str="3898">fighting </gr>
+        <gr str="5973">with </gr>the <gr str="6430">Philistines</gr>. </VERS>
+      <VERS vnumber="20"> And <gr str="1732">David </gr>rose up <gr str="7925">early </gr>in the <gr str="1242">morning</gr>, and <gr str="5203">left </gr>
+        <gr str="*853" />the <gr str="6629">sheep </gr>
+        <gr str="5921">with </gr>a <gr str="8104">keeper</gr>, and <gr str="5375">took</gr>, and <gr str="1980">went</gr>, <gr str="834">as </gr>
+        <gr str="3448">Jesse </gr>had <gr str="6680">commanded </gr>him; and he <gr str="935">came </gr>to the <gr str="4570">trench</gr>, as the <gr str="2428">host </gr>was going <gr str="3318">forth </gr>
+        <gr str="413">to </gr>the <gr str="4634">fight</gr>, and <gr str="7321">shouted </gr>for the <gr str="4421">battle</gr>. </VERS>
+      <VERS vnumber="21"> For <gr str="3478">Israel </gr>and the <gr str="6430">Philistines </gr>had put the battle in <gr str="6186">array</gr>, <gr str="4634">army </gr>
+        <gr str="7125">against </gr>
+        <gr str="4634">army</gr>. </VERS>
+      <VERS vnumber="22"> And <gr str="1732">David </gr>
+        <gr str="5203">left </gr>
+        <gr str="*853" />his <gr str="3627">carriage </gr>
+        <gr str="5921">in </gr>the <gr str="3027">hand </gr>of the <gr str="8104">keeper </gr>of the <gr str="3627">carriage</gr>, and <gr str="7323">ran </gr>into the <gr str="4634">army</gr>, and <gr str="935">came </gr>and <gr str="7592 7965">saluted </gr>his <gr str="251">brethren</gr>. </VERS>
+      <VERS vnumber="23"> And as <gr str="1931">he </gr>
+        <gr str="1696">talked </gr>
+        <gr str="5973">with </gr>them, <gr str="2009">behold</gr>, there came <gr str="5927">up </gr>the <gr str="376 1143">champion</gr>, the <gr str="6430">Philistine </gr>of <gr str="4480 1661">Gath</gr>, <gr str="1555">Goliath </gr>by <gr str="8034">name</gr>, out of the <gr str="4480 4630">armies </gr>of the <gr str="6430">Philistines</gr>, and <gr str="1696">spoke </gr>according to the <gr str="428">same </gr>
+        <gr str="1697">words</gr>: and <gr str="1732">David </gr>
+        <gr str="8085">heard </gr>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE>. </VERS>
+      <VERS vnumber="24"> And <gr str="3605">all </gr>the <gr str="376">men </gr>of <gr str="3478">Israel</gr>, when they <gr str="7200">saw </gr>
+        <gr str="*853" />the <gr str="376">man</gr>, <gr str="5127">fled </gr>
+        <gr str="4480 6440">from </gr>him, and were <gr str="3966">sore </gr>
+        <gr str="3372">afraid</gr>. </VERS>
+      <VERS vnumber="25"> And the <gr str="376">men </gr>of <gr str="3478">Israel </gr>
+        <gr str="559">said</gr>, Have ye <gr str="7200">seen </gr>
+        <gr str="2088">this </gr>
+        <gr str="376">man </gr>that is come <gr str="5927">up</gr>? <gr str="3588">surely </gr>to <gr str="2778">defy </gr>
+        <gr str="*853" />
+        <gr str="3478">Israel </gr>is he come <gr str="5927">up</gr>: and it shall <gr str="1961">be</gr>, <STYLE css="color:#808080;font-style:italic"> that </STYLE> the <gr str="376">man </gr>
+        <gr str="834">who </gr>
+        <gr str="5221">killeth </gr>him, the <gr str="4428">king </gr>will <gr str="6238">enrich </gr>him with <gr str="1419">great </gr>
+        <gr str="6239">riches</gr>, and will <gr str="5414">give </gr>him his <gr str="1323">daughter</gr>, and <gr str="6213">make </gr>his <gr str="1">father </gr>'s <gr str="1004">house </gr>
+        <gr str="2670">free </gr>in <gr str="3478">Israel</gr>. </VERS>
+      <VERS vnumber="26"> And <gr str="1732">David </gr>
+        <gr str="559">spoke </gr>
+        <gr str="413">to </gr>the <gr str="376">men </gr>that <gr str="5975">stood </gr>
+        <gr str="5973">by </gr>him, <gr str="559">saying</gr>, <gr str="4100">What </gr>shall be <gr str="6213">done </gr>to the <gr str="376">man </gr>
+        <gr str="834">that </gr>
+        <gr str="5221">killeth </gr>
+        <gr str="*853" />
+        <gr str="1975">this </gr>
+        <gr str="6430">Philistine</gr>, and taketh <gr str="5493">away </gr>the <gr str="2781">reproach </gr>
+        <gr str="4480 5921">from </gr>
+        <gr str="3478">Israel</gr>? <gr str="3588">for </gr>
+        <gr str="4310">who </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2088">this </gr>
+        <gr str="6189">uncircumcised </gr>
+        <gr str="6430">Philistine</gr>, <gr str="3588">that </gr>he should <gr str="2778">defy </gr>the <gr str="4634">armies </gr>of the <gr str="2416">living </gr>
+        <gr str="430">God</gr>? </VERS>
+      <VERS vnumber="27"> And the <gr str="5971">people </gr>
+        <gr str="559">answered </gr>him after <gr str="2088">this </gr>
+        <gr str="1697">manner</gr>, <gr str="559">saying</gr>, <gr str="3541">So </gr>shall it be <gr str="6213">done </gr>to the <gr str="376">man </gr>
+        <gr str="834">that </gr>
+        <gr str="5221">killeth </gr>him. </VERS>
+      <VERS vnumber="28"> And <gr str="446">Eliab </gr>his <gr str="1419">eldest </gr>
+        <gr str="251">brother </gr>
+        <gr str="8085">heard </gr>when he <gr str="1696">spoke </gr>
+        <gr str="413">unto </gr>the <gr str="376">men</gr>; and <gr str="446">Eliab </gr>'s <gr str="639">anger </gr>was <gr str="2734">kindled </gr>against <gr str="1732">David</gr>, and he <gr str="559">said</gr>, <gr str="4100">Why </gr>camest thou <gr str="3381">down </gr>hither? and <gr str="5921">with </gr>
+        <gr str="4310">whom </gr>hast thou <gr str="5203">left </gr>
+        <gr str="2007">those </gr>
+        <gr str="4592">few </gr>
+        <gr str="6629">sheep </gr>in the <gr str="4057">wilderness</gr>? <gr str="589">I </gr>
+        <gr str="3045">know </gr>
+        <gr str="*853" />thy <gr str="2087">pride</gr>, and the <gr str="7455">naughtiness </gr>of thine <gr str="3824">heart</gr>; <gr str="3588">for </gr>thou art come <gr str="3381">down </gr>
+        <gr str="4616">that </gr>thou mightest <gr str="7200">see </gr>the <gr str="4421">battle</gr>. </VERS>
+      <VERS vnumber="29"> And <gr str="1732">David </gr>
+        <gr str="559">said</gr>, <gr str="4100">What </gr>have I <gr str="6258">now </gr>
+        <gr str="6213">done</gr>? <STYLE css="color:#808080;font-style:italic"> Is </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <gr str="3808">not </gr>a <gr str="1697">cause</gr>? </VERS>
+      <VERS vnumber="30"> And he <gr str="5437">turned </gr>
+        <gr str="4480 681">from </gr>him toward <gr str="413 4136 312">another</gr>, and <gr str="559">spoke </gr>after the <gr str="2088">same </gr>
+        <gr str="1697">manner</gr>: and the <gr str="5971">people </gr>
+        <gr str="1697">answered </gr>him <gr str="7725">again </gr>after the <gr str="7223">former </gr>
+        <gr str="1697">manner</gr>. </VERS>
+      <VERS vnumber="31"> And when the <gr str="1697">words </gr>were <gr str="8085">heard </gr>
+        <gr str="834">which </gr>
+        <gr str="1732">David </gr>
+        <gr str="1696">spoke</gr>, they <gr str="5046">rehearsed </gr>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE>
+        <gr str="6440">before </gr>
+        <gr str="7586">Saul</gr>: and he <gr str="3947">sent </gr>for him. </VERS>
+      <VERS vnumber="32"> And <gr str="1732">David </gr>
+        <gr str="559">said </gr>
+        <gr str="413">to </gr>
+        <gr str="7586">Saul</gr>, Let <gr str="408">no </gr>
+        <gr str="120">man </gr>'s <gr str="3820">heart </gr>
+        <gr str="5307">fail </gr>
+        <gr str="5921">because </gr>of him; thy <gr str="5650">servant </gr>will <gr str="1980">go </gr>and <gr str="3898">fight </gr>
+        <gr str="5973">with </gr>
+        <gr str="2088">this </gr>
+        <gr str="6430">Philistine</gr>. </VERS>
+      <VERS vnumber="33"> And <gr str="7586">Saul </gr>
+        <gr str="559">said </gr>
+        <gr str="413">to </gr>
+        <gr str="1732">David</gr>, Thou art <gr str="3808">not </gr>
+        <gr str="3201">able </gr>to <gr str="1980">go </gr>
+        <gr str="413">against </gr>
+        <gr str="2088">this </gr>
+        <gr str="6430">Philistine </gr>to <gr str="3898">fight </gr>
+        <gr str="5973">with </gr>him: <gr str="3588">for </gr>
+        <gr str="859">thou </gr>
+        <STYLE css="color:#808080;font-style:italic"> art </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> but </STYLE> a <gr str="5288">youth</gr>, and <gr str="1931">he </gr>a <gr str="376">man </gr>of <gr str="4421">war </gr>from his <gr str="4480 5271">youth</gr>. </VERS>
+      <VERS vnumber="34"> And <gr str="1732">David </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>
+        <gr str="7586">Saul</gr>, Thy <gr str="5650">servant </gr>
+        <gr str="1961 7462">kept </gr>his <gr str="1">father </gr>'s <gr str="6629">sheep</gr>, and there <gr str="935">came </gr>a <gr str="738">lion</gr>, and a <gr str="1677">bear</gr>, and <gr str="5375">took </gr>a <gr str="7716">lamb </gr>out of the <gr str="4480 5739">flock</gr>: </VERS>
+      <VERS vnumber="35"> And I went <gr str="3318">out </gr>
+        <gr str="310">after </gr>him, and <gr str="5221">smote </gr>him, and <gr str="5337">delivered </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE> out of his <gr str="4480 6310">mouth</gr>: and when he <gr str="6965">arose </gr>
+        <gr str="5921">against </gr>me, I <gr str="2388">caught </gr>
+        <STYLE css="color:#808080;font-style:italic"> him </STYLE> by his <gr str="2206">beard</gr>, and <gr str="5221">smote </gr>him, and <gr str="4191">slew </gr>him. </VERS>
+      <VERS vnumber="36"> Thy <gr str="5650">servant </gr>
+        <gr str="5221">slew </gr>
+        <gr str="1571">both </gr>
+        <gr str="*853" />the <gr str="738">lion </gr>
+        <gr str="1571">and </gr>the <gr str="1677">bear</gr>: and <gr str="2088">this </gr>
+        <gr str="6189">uncircumcised </gr>
+        <gr str="6430">Philistine </gr>shall <gr str="1961">be </gr>as <gr str="259">one </gr>
+        <gr str="4480">of </gr>them, <gr str="3588">seeing </gr>he hath <gr str="2778">defied </gr>the <gr str="4634">armies </gr>of the <gr str="2416">living </gr>
+        <gr str="430">God</gr>. </VERS>
+      <VERS vnumber="37">
+        <gr str="1732">David </gr>
+        <gr str="559">said </gr>moreover, The <gr str="3068">LORD </gr>
+        <gr str="834">that </gr>
+        <gr str="5337">delivered </gr>me out of the <gr str="4480 3027">paw </gr>of the <gr str="738">lion</gr>, and out of the <gr str="4480 3027">paw </gr>of the <gr str="1677">bear</gr>, <gr str="1931">he </gr>will <gr str="5337">deliver </gr>me out of the <gr str="4480 3027">hand </gr>of <gr str="2088">this </gr>
+        <gr str="6430">Philistine</gr>. And <gr str="7586">Saul </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>
+        <gr str="1732">David</gr>, <gr str="1980">Go</gr>, and the <gr str="3068">LORD </gr>
+        <gr str="1961">be </gr>
+        <gr str="5973">with </gr>thee. </VERS>
+      <VERS vnumber="38"> And <gr str="7586">Saul </gr>
+        <gr str="3847">armed </gr>
+        <gr str="*853" />
+        <gr str="1732">David </gr>with his <gr str="4055">armor</gr>, and he <gr str="5414">put </gr>a <gr str="6959">helmet </gr>of <gr str="5178">brass </gr>
+        <gr str="5921">upon </gr>his <gr str="7218">head</gr>; also he <gr str="3847">armed </gr>him with a coat of <gr str="8302">mail</gr>. </VERS>
+      <VERS vnumber="39"> And <gr str="1732">David </gr>
+        <gr str="2296">girded </gr>
+        <gr str="*853" />his <gr str="2719">sword </gr>
+        <gr str="4480 5921">upon </gr>his <gr str="4055">armor</gr>, and he <gr str="2974">attempted </gr>to <gr str="1980">go</gr>; <gr str="3588">for </gr>he had <gr str="3808">not </gr>
+        <gr str="5254">proved </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>. And <gr str="1732">David </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>
+        <gr str="7586">Saul</gr>, I <gr str="3201 3808">cannot </gr>
+        <gr str="1980">go </gr>with <gr str="428">these</gr>; <gr str="3588">for </gr>I have <gr str="3808">not </gr>
+        <gr str="5254">proved </gr>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE>. And <gr str="1732">David </gr>
+        <gr str="5493">put </gr>them <gr str="4480 5921">off </gr>him. </VERS>
+      <VERS vnumber="40"> And he <gr str="3947">took </gr>his <gr str="4731">staff </gr>in his <gr str="3027">hand</gr>, and <gr str="977">chose </gr>him <gr str="2568">five </gr>
+        <gr str="2512">smooth </gr>
+        <gr str="68">stones </gr>out <gr str="4480">of </gr>the <gr str="5158">brook</gr>, and <gr str="7760">put </gr>them in a <gr str="7462">shepherd </gr>'s <gr str="3627">bag </gr>
+        <gr str="834">which </gr>he had, even in a <gr str="3219">scrip</gr>; and his <gr str="7050">sling </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE> in his <gr str="3027">hand</gr>: and he drew <gr str="5066">near </gr>
+        <gr str="413">to </gr>the <gr str="6430">Philistine</gr>. </VERS>
+      <VERS vnumber="41"> And the <gr str="6430">Philistine </gr>
+        <gr str="1980">came </gr>
+        <gr str="1980">on </gr>and drew <gr str="7131">near </gr>
+        <gr str="413">unto </gr>
+        <gr str="1732">David</gr>; and the <gr str="376">man </gr>that <gr str="5375">bore </gr>the <gr str="6793">shield </gr>
+        <STYLE css="color:#808080;font-style:italic"> went </STYLE>
+        <gr str="6440">before </gr>him. </VERS>
+      <VERS vnumber="42"> And when the <gr str="6430">Philistine </gr>looked <gr str="5027">about</gr>, and <gr str="7200">saw </gr>
+        <gr str="*853" />
+        <gr str="1732">David</gr>, he <gr str="959">disdained </gr>him: <gr str="3588">for </gr>he <gr str="1961">was </gr>
+        <STYLE css="color:#808080;font-style:italic"> but </STYLE> a <gr str="5288">youth</gr>, and <gr str="132">ruddy</gr>, and <gr str="5973">of </gr>a <gr str="3303">fair </gr>
+        <gr str="4758">countenance</gr>. </VERS>
+      <VERS vnumber="43"> And the <gr str="6430">Philistine </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>
+        <gr str="1732">David</gr>, <STYLE css="color:#808080;font-style:italic"> Am </STYLE>
+        <gr str="595">I </gr>a <gr str="3611">dog</gr>, <gr str="3588">that </gr>
+        <gr str="859">thou </gr>
+        <gr str="935">comest </gr>
+        <gr str="413">to </gr>me with <gr str="4731">staves</gr>? And the <gr str="6430">Philistine </gr>
+        <gr str="7043">cursed </gr>
+        <gr str="*853" />
+        <gr str="1732">David </gr>by his <gr str="430">gods</gr>. </VERS>
+      <VERS vnumber="44"> And the <gr str="6430">Philistine </gr>
+        <gr str="559">said </gr>
+        <gr str="413">to </gr>
+        <gr str="1732">David</gr>, <gr str="1980">Come </gr>
+        <gr str="413">to </gr>me, and I will <gr str="5414">give </gr>
+        <gr str="*853" />thy <gr str="1320">flesh </gr>unto the <gr str="5775">fowls </gr>of the <gr str="8064">air</gr>, and to the <gr str="929">beasts </gr>of the <gr str="7704">field</gr>. </VERS>
+      <VERS vnumber="45"> Then <gr str="559">said </gr>
+        <gr str="1732">David </gr>
+        <gr str="413">to </gr>the <gr str="6430">Philistine</gr>, <gr str="859">Thou </gr>
+        <gr str="935">comest </gr>
+        <gr str="413">to </gr>me with a <gr str="2719">sword</gr>, and with a <gr str="2595">spear</gr>, and with a <gr str="3591">shield</gr>: but <gr str="595">I </gr>
+        <gr str="935">come </gr>
+        <gr str="413">to </gr>thee in the <gr str="8034">name </gr>of the <gr str="3068">LORD </gr>of <gr str="6635">hosts</gr>, the <gr str="430">God </gr>of the <gr str="4634">armies </gr>of <gr str="3478">Israel</gr>, <gr str="834">whom </gr>thou hast <gr str="2778">defied</gr>. </VERS>
+      <VERS vnumber="46">
+        <gr str="2088">This </gr>
+        <gr str="3117">day </gr>will the <gr str="3068">LORD </gr>
+        <gr str="5462">deliver </gr>thee into mine <gr str="3027">hand</gr>; and I will <gr str="5221">smite </gr>thee, and <gr str="5493">take </gr>
+        <gr str="*853" />thine <gr str="7218">head </gr>
+        <gr str="4480 5921">from </gr>thee; and I will <gr str="5414">give </gr>the <gr str="6297">carcasses </gr>of the <gr str="4264">host </gr>of the <gr str="6430">Philistines </gr>
+        <gr str="2088">this </gr>
+        <gr str="3117">day </gr>unto the <gr str="5775">fowls </gr>of the <gr str="8064">air</gr>, and to the wild <gr str="2416">beasts </gr>of the <gr str="776">earth</gr>; that <gr str="3605">all </gr>the <gr str="776">earth </gr>may <gr str="3045">know </gr>
+        <gr str="3588">that </gr>there <gr str="3426">is </gr>a <gr str="430">God </gr>in <gr str="3478">Israel</gr>. </VERS>
+      <VERS vnumber="47"> And <gr str="3605">all </gr>
+        <gr str="2088">this </gr>
+        <gr str="6951">assembly </gr>shall <gr str="3045">know </gr>
+        <gr str="3588">that </gr>the <gr str="3068">LORD </gr>
+        <gr str="3467">saveth </gr>
+        <gr str="3808">not </gr>with <gr str="2719">sword </gr>and <gr str="2595">spear</gr>: <gr str="3588">for </gr>the <gr str="4421">battle </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="3068">LORD </gr>'s, and he will <gr str="5414">give </gr>you into our <gr str="3027">hands</gr>. </VERS>
+      <VERS vnumber="48"> And it came to <gr str="1961">pass</gr>, <gr str="3588">when </gr>the <gr str="6430">Philistine </gr>
+        <gr str="6965">arose</gr>, and <gr str="1980">came </gr>and drew <gr str="7126">nigh </gr>to <gr str="7125">meet </gr>
+        <gr str="1732">David</gr>, that <gr str="1732">David </gr>
+        <gr str="4116">hasted</gr>, and <gr str="7323">ran </gr>toward the <gr str="4634">army </gr>to <gr str="7125">meet </gr>the <gr str="6430">Philistine</gr>. </VERS>
+      <VERS vnumber="49"> And <gr str="1732">David </gr>
+        <gr str="7971">put </gr>
+        <gr str="*853" />his <gr str="3027">hand </gr>
+        <gr str="413">in </gr>his <gr str="3627">bag</gr>, and <gr str="3947">took </gr>
+        <gr str="4480 8033">thence </gr>a <gr str="68">stone</gr>, and <gr str="7049">slung </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>, and <gr str="5221">smote </gr>
+        <gr str="*853" />the <gr str="6430">Philistine </gr>
+        <gr str="413">in </gr>his <gr str="4696">forehead</gr>, that the <gr str="68">stone </gr>
+        <gr str="2883">sunk </gr>into his <gr str="4696">forehead</gr>; and he <gr str="5307">fell </gr>
+        <gr str="5921">upon </gr>his <gr str="6440">face </gr>to the <gr str="776">earth</gr>. </VERS>
+      <VERS vnumber="50"> So <gr str="1732">David </gr>
+        <gr str="2388">prevailed </gr>
+        <gr str="4480">over </gr>the <gr str="6430">Philistine </gr>with a <gr str="7050">sling </gr>and with a <gr str="68">stone</gr>, and <gr str="5221">smote </gr>
+        <gr str="*853" />the <gr str="6430">Philistine</gr>, and <gr str="4191">slew </gr>him; but <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="369">no </gr>
+        <gr str="2719">sword </gr>in the <gr str="3027">hand </gr>of <gr str="1732">David</gr>. </VERS>
+      <VERS vnumber="51"> Therefore <gr str="1732">David </gr>
+        <gr str="7323">ran</gr>, and <gr str="5975">stood </gr>
+        <gr str="413">upon </gr>the <gr str="6430">Philistine</gr>, and <gr str="3947">took </gr>
+        <gr str="*853" />his <gr str="2719">sword</gr>, and <gr str="8025">drew </gr>it out of the <gr str="4480 8593">sheath </gr>thereof, and <gr str="4191">slew </gr>him, and cut <gr str="3772">off </gr>
+        <gr str="*853" />his <gr str="7218">head </gr>therewith. And when the <gr str="6430">Philistines </gr>
+        <gr str="7200">saw </gr>their <gr str="1368">champion </gr>was <gr str="4191">dead</gr>, they <gr str="5127">fled</gr>. </VERS>
+      <VERS vnumber="52"> And the <gr str="376">men </gr>of <gr str="3478">Israel </gr>and of <gr str="3063">Judah </gr>
+        <gr str="6965">arose</gr>, and <gr str="7321">shouted</gr>, and <gr str="7291">pursued </gr>
+        <gr str="*853" />the <gr str="6430">Philistines</gr>, <gr str="5704">until </gr>thou <gr str="935">come </gr>to the <gr str="1516">valley</gr>, and <gr str="5704">to </gr>the <gr str="8179">gates </gr>of <gr str="6138">Ekron</gr>. And the <gr str="2491">wounded </gr>of the <gr str="6430">Philistines </gr>fell <gr str="5307">down </gr>by the <gr str="1870">way </gr>to <gr str="8189">Shaaraim</gr>, even <gr str="5704">unto </gr>
+        <gr str="1661">Gath</gr>, and <gr str="5704">unto </gr>
+        <gr str="6138">Ekron</gr>. </VERS>
+      <VERS vnumber="53"> And the <gr str="1121">children </gr>of <gr str="3478">Israel </gr>
+        <gr str="7725">returned </gr>from <gr str="4480 1814">chasing </gr>
+        <gr str="310">after </gr>the <gr str="6430">Philistines</gr>, and they <gr str="8155">spoiled </gr>
+        <gr str="*853" />their <gr str="4264">tents</gr>. </VERS>
+      <VERS vnumber="54"> And <gr str="1732">David </gr>
+        <gr str="3947">took </gr>
+        <gr str="*853" />the <gr str="7218">head </gr>of the <gr str="6430">Philistine</gr>, and <gr str="935">brought </gr>it to <gr str="3389">Jerusalem</gr>; but he <gr str="7760">put </gr>his <gr str="3627">armor </gr>in his <gr str="168">tent</gr>. </VERS>
+      <VERS vnumber="55"> And when <gr str="7586">Saul </gr>
+        <gr str="7200">saw </gr>
+        <gr str="*853" />
+        <gr str="1732">David </gr>go <gr str="3318">forth </gr>
+        <gr str="7125">against </gr>the <gr str="6430">Philistine</gr>, he <gr str="559">said </gr>
+        <gr str="413">unto </gr>
+        <gr str="74">Abner</gr>, the <gr str="8269">captain </gr>of the <gr str="6635">host</gr>, <gr str="74">Abner</gr>, <gr str="4310">whose </gr>
+        <gr str="1121">son </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2088">this </gr>
+        <gr str="5288">youth</gr>? And <gr str="74">Abner </gr>
+        <gr str="559">said</gr>, <STYLE css="color:#808080;font-style:italic"> As </STYLE> thy <gr str="5315">soul </gr>
+        <gr str="2416">liveth</gr>, O <gr str="4428">king</gr>, I <gr str="518">cannot </gr>
+        <gr str="3045">tell</gr>. </VERS>
+      <VERS vnumber="56"> And the <gr str="4428">king </gr>
+        <gr str="559">said</gr>, <gr str="7592">Inquire </gr>
+        <gr str="859">thou </gr>
+        <gr str="4310">whose </gr>
+        <gr str="1121">son </gr>the <gr str="5958">stripling </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>. </VERS>
+      <VERS vnumber="57"> And as <gr str="1732">David </gr>
+        <gr str="7725">returned </gr>from the <gr str="4480 5221">slaughter </gr>of <gr str="*853" />the <gr str="6430">Philistine</gr>, <gr str="74">Abner </gr>
+        <gr str="3947">took </gr>him, and <gr str="935">brought </gr>him <gr str="6440">before </gr>
+        <gr str="7586">Saul </gr>with the <gr str="7218">head </gr>of the <gr str="6430">Philistine </gr>in his <gr str="3027">hand</gr>. </VERS>
+      <VERS vnumber="58"> And <gr str="7586">Saul </gr>
+        <gr str="559">said </gr>
+        <gr str="413">to </gr>him, <gr str="4310">Whose </gr>
+        <gr str="1121">son </gr>
+        <STYLE css="color:#808080;font-style:italic"> art </STYLE>
+        <gr str="859">thou</gr>, <STYLE css="color:#808080;font-style:italic"> thou </STYLE> young <gr str="5288">man</gr>? And <gr str="1732">David </gr>
+        <gr str="559">answered</gr>, I <STYLE css="color:#808080;font-style:italic"> am </STYLE> the <gr str="1121">son </gr>of thy <gr str="5650">servant </gr>
+        <gr str="3448">Jesse </gr>the <gr str="1022">Bethlehemite</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

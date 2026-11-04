@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="World English Bible - Messianic Edition" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="29">
+      <VERS vnumber="1">Ascribe to the LORD, you sons of the mighty,ascribe to the LORD glory and strength.</VERS>
+      <VERS vnumber="2">Ascribe to the LORD the glory due to his name.Worship the LORD in holy array.</VERS>
+      <VERS vnumber="3">The LORD’s voice is on the waters.The God of glory thunders, even the LORD on many waters.</VERS>
+      <VERS vnumber="4">The LORD’s voice is powerful.The LORD’s voice is full of majesty.</VERS>
+      <VERS vnumber="5">The voice of the LORD breaks the cedars.Yes, the LORD breaks in pieces the cedars of Lebanon.</VERS>
+      <VERS vnumber="6">He makes them also to skip like a calf;Lebanon and Sirion like a young, wild ox.</VERS>
+      <VERS vnumber="7">The LORD’s voice strikes with flashes of lightning.</VERS>
+      <VERS vnumber="8">The LORD’s voice shakes the wilderness.The LORD shakes the wilderness of Kadesh.</VERS>
+      <VERS vnumber="9">The LORD’s voice makes the deer calve,and strips the forests bare.In his temple everything says, “Glory!”</VERS>
+      <VERS vnumber="10">The LORD sat enthroned at the Flood.Yes, the LORD sits as King forever.</VERS>
+      <VERS vnumber="11">The LORD will give strength to his people.The LORD will bless his people with peace.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="30">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm [and] Song [at] the dedication of the house of David.</STYLE> I will extol thee, O LORD; for thou hast lifted me up, and hast not made my foes to rejoice over me.</VERS>
+      <VERS vnumber="2">O LORD my God, I cried to thee, and thou hast healed me.</VERS>
+      <VERS vnumber="3">O LORD, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit.</VERS>
+      <VERS vnumber="4">Sing to the LORD, O ye saints of his, and give thanks at the remembrance of his holiness. <DIV>
+          <NOTE type="x-studynote">at…: or, to the memorial</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="5">For his anger <STYLE css="font-style:italic">endureth but</STYLE> a moment; in his favour <STYLE css="font-style:italic">is</STYLE> life: weeping may endure for a night, but joy <STYLE css="font-style:italic">cometh</STYLE> in the morning. <DIV>
+          <NOTE type="x-studynote">his anger…: Heb. there is but a moment in his anger</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">for a night: Heb. in the evening</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">joy: Heb. singing</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">And in my prosperity I said, I shall never be moved.</VERS>
+      <VERS vnumber="7">LORD, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, <STYLE css="font-style:italic">and</STYLE> I was troubled. <DIV>
+          <NOTE type="x-studynote">made…: Heb. settled strength for my mountain</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">I cried to thee, O LORD; and to the LORD I made supplication.</VERS>
+      <VERS vnumber="9">What profit <STYLE css="font-style:italic">is there</STYLE> in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?</VERS>
+      <VERS vnumber="10">Hear, O LORD, and have mercy upon me: LORD, be thou my helper.</VERS>
+      <VERS vnumber="11">Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness;</VERS>
+      <VERS vnumber="12">To the end that <STYLE css="font-style:italic">my</STYLE> glory may sing praise to thee, and not be silent. O LORD my God, I will give thanks to thee for ever. <DIV>
+          <NOTE type="x-studynote">my glory: that is, my tongue, or, my soul</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

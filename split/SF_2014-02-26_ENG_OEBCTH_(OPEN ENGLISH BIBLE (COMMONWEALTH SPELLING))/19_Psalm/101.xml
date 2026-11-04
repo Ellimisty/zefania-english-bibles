@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="101">
+      <VERS vnumber="1">If kindness and justice I sing,making melody to you, <STYLE id="cl:divineName">Lord</STYLE>.</VERS>
+      <VERS vnumber="2">I would look to the way that is blameless,and make it my own. <BR art="x-nl" /> Within my own house I would walkwith an innocent heart.</VERS>
+      <VERS vnumber="3">I would never direct my eyesto a thing that is base. <BR art="x-nl" /> The impulse to stray I abhorit shall not cling to me.</VERS>
+      <VERS vnumber="4">Far from me be perverseness of heart,or kinship with evil. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">Whoso slanders their neighbour in secret,I bring them to silence:haughty looks and proud heartsI will not abide. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="6">I will favour the true in the land,they shall live in my court.Those who walk in a way that is blamelessshall be my attendant. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">No one shall live in my housewho practises guile.No one that speaks a lieshall abide in my presence. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="8">Morn by morn I will wholly wipe outall the bad in the land,and cut off from the <STYLE id="cl:divineName">Lord</STYLE>’s own cityall workers of evil.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

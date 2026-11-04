@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="World English Bible" type="x-bible">
+  <BIBLEBOOK bnumber="55" bname="2 Timothy" bsname="2Tim">
+    <CHAPTER cnumber="3">
+      <VERS vnumber="1">But know this, that in the last days, grievous times will come.</VERS>
+      <VERS vnumber="2">For men will be lovers of self, lovers of money, boastful, arrogant, blasphemers, disobedient to parents, unthankful, unholy,</VERS>
+      <VERS vnumber="3">without natural affection, unforgiving, slanderers, without self-control, fierce, no lovers of good,</VERS>
+      <VERS vnumber="4">traitors, headstrong, conceited, lovers of pleasure rather than lovers of God;</VERS>
+      <VERS vnumber="5">holding a form of godliness, but having denied the power thereof. Turn away from these, also.</VERS>
+      <VERS vnumber="6">For of these are those who creep into houses, and take captive gullible women loaded down with sins, led away by various lusts,</VERS>
+      <VERS vnumber="7">always learning, and never able to come to the knowledge of the truth.</VERS>
+      <VERS vnumber="8">Even as Jannes and Jambres opposed Moses, so do these also oppose the truth; men corrupted in mind, reprobate concerning the faith.</VERS>
+      <VERS vnumber="9">But they will proceed no further. For their folly will be evident to all men, as theirs also came to be.</VERS>
+      <VERS vnumber="10">But you did follow my teaching, conduct, purpose, faith, patience, love, steadfastness,</VERS>
+      <VERS vnumber="11">persecutions, and sufferings; those things that happened to me at Antioch, at Iconium, at Lystra; those persecutions that I endured. Out of them all the Lord delivered me.</VERS>
+      <VERS vnumber="12">Yes, and all who desire to live godly in Christ Jesus will suffer persecution.</VERS>
+      <VERS vnumber="13">But evil men and impostors will grow worse and worse, deceiving and being deceived.</VERS>
+      <VERS vnumber="14">But you remain in the things which you have learned and have been assured of, knowing from whom you have learned them.</VERS>
+      <VERS vnumber="15">From infancy, you have known the sacred writings which are able to make you wise to salvation through faith, which is in Christ Jesus.</VERS>
+      <VERS vnumber="16">Every scripture inspired by God is also profitable for teaching, for reproof, for correction, for instruction which is in righteousness,</VERS>
+      <VERS vnumber="17">that the man of God may be complete, furnished completely to every good work.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

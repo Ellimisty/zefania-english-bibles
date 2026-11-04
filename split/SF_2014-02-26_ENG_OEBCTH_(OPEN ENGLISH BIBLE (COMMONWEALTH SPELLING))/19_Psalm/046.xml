@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="46">
+      <VERS vnumber="1">God is our refuge and strength,a very present help in trouble.</VERS>
+      <VERS vnumber="2">So we have no fear, though earth should change,and the hills totter into the heart of the ocean.</VERS>
+      <VERS vnumber="3">Let its waters roar and foam,let the mountains shake with the swelling thereof.On our side is the <STYLE id="cl:divineName">Lord</STYLE> of hosts,our sure defence is the God of Jacob.  (Selah)  <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="4">A river there is, whose streams make gladGod’s city, the home the Most High has hallowed.</VERS>
+      <VERS vnumber="5">God is within her: she cannot be shaken.God helps her at the turn of the morning.</VERS>
+      <VERS vnumber="6">Nations roared, kingdoms tottered:he uttered his voice, earth melted away.</VERS>
+      <VERS vnumber="7">On our side is the <STYLE id="cl:divineName">Lord</STYLE> of hosts,our sure defence is the God of Jacob. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="8">Come and see what the <STYLE id="cl:divineName">Lord</STYLE> has done,working appallingly in the earth.</VERS>
+      <VERS vnumber="9">He stills wars to the ends of the earth-breaking the bow, snapping the spear,burning the chariots in the fire.</VERS>
+      <VERS vnumber="10">“Refrain; and know surely that I am God,high over the nations, high over the world.”</VERS>
+      <VERS vnumber="11">On our side is the <STYLE id="cl:divineName">Lord</STYLE> of Hosts,our sure defence is the God of Jacob.  (Selah)</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

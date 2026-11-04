@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James 2000" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="103">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic;font-weight:bold">A Psalm of David.</STYLE> Bless the LORD, O my soul: and all that is within me, bless his holy name.</VERS>
+      <VERS vnumber="2">Bless the LORD, O my soul, and forget not all his benefits:</VERS>
+      <VERS vnumber="3">Who forgives all your iniquities; who heals all your diseases;</VERS>
+      <VERS vnumber="4">Who redeems your life from destruction; who crowns you with lovingkindness and tender mercies;</VERS>
+      <VERS vnumber="5">Who satisfies your mouth with good things; so that your youth is renewed like the eagle's.</VERS>
+      <VERS vnumber="6">The LORD executes righteousness and justice for all that are oppressed.</VERS>
+      <VERS vnumber="7">He made known his ways unto Moses, his acts unto the children of Israel.</VERS>
+      <VERS vnumber="8">The LORD is merciful and gracious, slow to anger, and abundant in mercy.</VERS>
+      <VERS vnumber="9">He will not always chide: neither will he keep his anger forever.</VERS>
+      <VERS vnumber="10">He has not dealt with us according to our sins; nor rewarded us according to our iniquities.</VERS>
+      <VERS vnumber="11">For as the heaven is high above the earth, so great is his mercy toward them that fear him.</VERS>
+      <VERS vnumber="12">As far as the east is from the west, so far has he removed our transgressions from us.</VERS>
+      <VERS vnumber="13">Like as a father pities his children, so the LORD pities them that fear him.</VERS>
+      <VERS vnumber="14">For he knows our frame; he remembers that we are dust.</VERS>
+      <VERS vnumber="15">As for man, his days are as grass: as a flower of the field, so he flourishes.</VERS>
+      <VERS vnumber="16">For the wind passes over it, and it is gone; and the place there shall know it no more.</VERS>
+      <VERS vnumber="17">But the mercy of the LORD is from everlasting to everlasting upon them that fear him, and his righteousness unto children's children;</VERS>
+      <VERS vnumber="18">To such as keep his covenant, and to those that remember his commandments to do them.</VERS>
+      <VERS vnumber="19">The LORD has prepared his throne in the heavens; and his kingdom rules over all.</VERS>
+      <VERS vnumber="20">Bless the LORD, you his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word.</VERS>
+      <VERS vnumber="21">Bless you the LORD, all you his hosts; you ministers of his, that do his pleasure.</VERS>
+      <VERS vnumber="22">Bless the LORD, all his works in all places of his dominion: bless the LORD, O my soul.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

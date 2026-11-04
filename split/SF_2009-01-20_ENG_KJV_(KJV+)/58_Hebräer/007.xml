@@ -1,0 +1,290 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="58" bname="Hebräer" bsname="Heb">
+    <CHAPTER cnumber="7">
+      <VERS vnumber="1">
+        <gr str="1063">For </gr>
+        <gr str="3778">this </gr>
+        <gr str="3198">Melchizedek</gr>, <gr str="935">king </gr>of <gr str="4532">Salem</gr>, <gr str="2409">priest </gr>of <gr str="3588">the </gr>most <gr str="5310">high </gr>
+        <gr str="2316">God</gr>, who <gr str="4876">met </gr>
+        <gr str="11">Abraham </gr>
+        <gr str="5290">returning </gr>
+        <gr str="575">from </gr>
+        <gr str="3588">the </gr>
+        <gr str="2871">slaughter </gr>of <gr str="3588">the </gr>
+        <gr str="935">kings</gr>, <gr str="2532">and </gr>
+        <gr str="2127">blessed </gr>
+        <gr str="846">him</gr>; </VERS>
+      <VERS vnumber="2"> To <gr str="3739">whom </gr>
+        <gr str="2532">also </gr>
+        <gr str="11">Abraham </gr>
+        <gr str="3307">gave </gr>a tenth <gr str="1181">part </gr>
+        <gr str="575">of </gr>
+        <gr str="3956">all</gr>; <gr str="4412 3303">first </gr>being by <gr str="2059">interpretation </gr>
+        <gr str="935">King </gr>of <gr str="1343">righteousness</gr>, <gr str="1161">and </gr>after <gr str="1899">that </gr>
+        <gr str="2532">also </gr>
+        <gr str="935">King </gr>of <gr str="4532">Salem</gr>, which <gr str="3603">is</gr>, <gr str="935">King </gr>of <gr str="1515">peace</gr>; </VERS>
+      <VERS vnumber="3"> Without <gr str="540">father</gr>, without <gr str="282">mother</gr>, without <gr str="35">descent</gr>, <gr str="2192">having </gr>
+        <gr str="3383">neither </gr>
+        <gr str="746">beginning </gr>of <gr str="2250">days</gr>, <gr str="3383">nor </gr>
+        <gr str="5056">end </gr>of <gr str="2222">life</gr>; <gr str="1161">but </gr>made like <gr str="871">unto </gr>
+        <gr str="3588">the </gr>
+        <gr str="5207">Son </gr>of <gr str="2316">God</gr>; <gr str="3306">abideth </gr>a <gr str="2409">priest </gr>
+        <gr str="1519 1336">continually</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="1161">Now </gr>
+        <gr str="2334">consider </gr>how <gr str="4080">great </gr>this <gr str="3778">man </gr>
+        <STYLE css="color:#808080;font-style:italic"> was, </STYLE> unto <gr str="3739">whom </gr>
+        <gr str="2532">even </gr>
+        <gr str="3588">the </gr>
+        <gr str="3966">patriarch </gr>
+        <gr str="11">Abraham </gr>
+        <gr str="1325">gave </gr>the <gr str="1181">tenth </gr>
+        <gr str="1537">of </gr>
+        <gr str="3588">the </gr>
+        <gr str="205">spoils</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="2532">And </gr>
+        <gr str="3303">verily </gr>
+        <gr str="3588">they </gr>that are <gr str="1537">of </gr>
+        <gr str="3588">the </gr>
+        <gr str="5207">sons </gr>of <gr str="3017">Levi</gr>, who <gr str="2983">receive </gr>
+        <gr str="3588">the </gr>office of the <gr str="2405">priesthood</gr>, <gr str="2192">have </gr>a <gr str="1785">commandment </gr>to take <gr str="586">tithes </gr>of <gr str="3588">the </gr>
+        <gr str="2992">people </gr>
+        <gr str="2596">according </gr>to <gr str="3588">the </gr>
+        <gr str="3551">law</gr>, that <gr str="5123">is</gr>, of <gr str="848">their </gr>
+        <gr str="80">brethren</gr>, <gr str="2539">though </gr>they <gr str="1831">come </gr>out <gr str="1537">of </gr>
+        <gr str="3588">the </gr>
+        <gr str="3751">loins </gr>of <gr str="11">Abraham</gr>: </VERS>
+      <VERS vnumber="6">
+        <gr str="1161">But </gr>he whose descent is not <gr str="1075 3361">counted </gr>
+        <gr str="1537">from </gr>
+        <gr str="846">them </gr>received <gr str="1183">tithes </gr>of <gr str="11">Abraham</gr>, <gr str="2532">and </gr>
+        <gr str="2127">blessed </gr>him that <gr str="2192">had </gr>
+        <gr str="3588">the </gr>
+        <gr str="1860">promises</gr>. </VERS>
+      <VERS vnumber="7">
+        <gr str="1161">And </gr>
+        <gr str="5565">without </gr>
+        <gr str="3956">all </gr>
+        <gr str="485">contradiction </gr>
+        <gr str="3588">the </gr>
+        <gr str="1640">less </gr>is <gr str="2127">blessed </gr>
+        <gr str="5259">of </gr>
+        <gr str="3588">the </gr>
+        <gr str="2909">better</gr>. </VERS>
+      <VERS vnumber="8">
+        <gr str="2532">And </gr>
+        <gr str="5602 3303">here </gr>
+        <gr str="444">men </gr>that <gr str="599">die </gr>
+        <gr str="2983">receive </gr>
+        <gr str="1181">tithes</gr>; <gr str="1161">but </gr>
+        <gr str="1563">there </gr>he <STYLE css="color:#808080;font-style:italic"> receiveth </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> them, </STYLE> of whom it is <gr str="3140">witnessed </gr>
+        <gr str="3754">that </gr>he <gr str="2198">liveth</gr>. </VERS>
+      <VERS vnumber="9">
+        <gr str="2532">And </gr>as I may so <gr str="5613 2031 2036">say</gr>, <gr str="3017">Levi </gr>
+        <gr str="2532">also</gr>, who <gr str="2983">receiveth </gr>
+        <gr str="1181">tithes</gr>, paid <gr str="1183">tithes </gr>
+        <gr str="1223">in </gr>
+        <gr str="11">Abraham</gr>. </VERS>
+      <VERS vnumber="10">
+        <gr str="1063">For </gr>he <gr str="2258">was </gr>
+        <gr str="2089">yet </gr>
+        <gr str="1722">in </gr>
+        <gr str="3588">the </gr>
+        <gr str="3751">loins </gr>of his <gr str="3962">father</gr>, <gr str="3753">when </gr>
+        <gr str="3198">Melchizedek </gr>
+        <gr str="4876">met </gr>
+        <gr str="846">him</gr>. </VERS>
+      <VERS vnumber="11">
+        <gr str="1487">If <gr str="*3303" />
+        </gr>
+        <gr str="3767">therefore </gr>
+        <gr str="5050">perfection </gr>
+        <gr str="2258">were </gr>
+        <gr str="1223">by </gr>
+        <gr str="3588">the </gr>
+        <gr str="3020">Levitical </gr>
+        <gr str="2420">priesthood</gr>, (<gr str="1063">for </gr>
+        <gr str="1909">under </gr>
+        <gr str="846">it </gr>
+        <gr str="3588">the </gr>
+        <gr str="2992">people </gr>received the <gr str="3549">law</gr>,) <gr str="5101">what </gr>
+        <gr str="2089">further </gr>
+        <gr str="5532">need </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE> that <gr str="2087">another </gr>
+        <gr str="2409">priest </gr>should <gr str="450">rise </gr>
+        <gr str="2596">after </gr>
+        <gr str="3588">the </gr>
+        <gr str="5010">order </gr>of <gr str="3198">Melchizedek</gr>, <gr str="2532">and </gr>
+        <gr str="3756">not </gr>be <gr str="3004">called </gr>
+        <gr str="2596">after </gr>
+        <gr str="3588">the </gr>
+        <gr str="5010">order </gr>of <gr str="2">Aaron</gr>? </VERS>
+      <VERS vnumber="12">
+        <gr str="1063">For </gr>
+        <gr str="3588">the </gr>
+        <gr str="2420">priesthood </gr>being <gr str="3346">changed</gr>, there is <gr str="1096">made </gr>
+        <gr str="1537">of </gr>
+        <gr str="318">necessity </gr>a <gr str="3331">change </gr>
+        <gr str="2532">also </gr>of the <gr str="3551">law</gr>. </VERS>
+      <VERS vnumber="13">
+        <gr str="1063">For </gr>he <gr str="1909">of </gr>
+        <gr str="3739">whom </gr>these <gr str="5023">things </gr>are <gr str="3004">spoken </gr>
+        <gr str="3348">pertaineth </gr>to <gr str="2087">another </gr>
+        <gr str="5443">tribe</gr>, <gr str="575">of </gr>
+        <gr str="3739">which </gr>no <gr str="3762">man </gr>gave <gr str="4337">attendance </gr>at <gr str="3588">the </gr>
+        <gr str="2379">altar</gr>. </VERS>
+      <VERS vnumber="14">
+        <gr str="1063">For </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="4271">evident </gr>
+        <gr str="3754">that </gr>
+        <gr str="2257">our </gr>
+        <gr str="2962">Lord </gr>
+        <gr str="393">sprang </gr>out <gr str="1537">of </gr>
+        <gr str="2455">Judah</gr>; <gr str="1519">of </gr>
+        <gr str="3739">which </gr>
+        <gr str="5443">tribe </gr>
+        <gr str="3475">Moses </gr>
+        <gr str="2980">spake </gr>
+        <gr str="3762">nothing </gr>
+        <gr str="4012">concerning </gr>
+        <gr str="2420">priesthood</gr>. </VERS>
+      <VERS vnumber="15">
+        <gr str="2532">And </gr>it <gr str="2076">is </gr>
+        <gr str="2089">yet </gr>far <gr str="4054">more </gr>
+        <gr str="2612">evident</gr>: for <gr str="1487">that </gr>
+        <gr str="2596">after </gr>
+        <gr str="3588">the </gr>
+        <gr str="3665">similitude </gr>of <gr str="3198">Melchizedek </gr>there <gr str="450">ariseth </gr>
+        <gr str="2087">another </gr>
+        <gr str="2409">priest</gr>, </VERS>
+      <VERS vnumber="16">
+        <gr str="3739">Who </gr>is <gr str="1096">made</gr>, <gr str="3756">not </gr>
+        <gr str="2596">after </gr>the <gr str="3551">law </gr>of a <gr str="4559">carnal </gr>
+        <gr str="1785">commandment</gr>, <gr str="235">but </gr>
+        <gr str="2596">after </gr>the <gr str="1411">power </gr>of an <gr str="179">endless </gr>
+        <gr str="2222">life</gr>. </VERS>
+      <VERS vnumber="17">
+        <gr str="1063">For </gr>he <gr str="3140">testifieth</gr>, <gr str="4771">Thou </gr>
+        <STYLE css="color:#808080;font-style:italic"> art </STYLE> a <gr str="2409">priest </gr>
+        <gr str="1519 165">forever </gr>
+        <gr str="2596">after </gr>
+        <gr str="3588">the </gr>
+        <gr str="5010">order </gr>of <gr str="3198">Melchizedek</gr>. </VERS>
+      <VERS vnumber="18">
+        <gr str="1063">For </gr>there <gr str="1096">is </gr>
+        <gr str="3303">verily </gr>a <gr str="115">disannulling </gr>of the <gr str="1785">commandment </gr>going <gr str="4254">before </gr>
+        <gr str="1223">for </gr>
+        <gr str="3588">the </gr>
+        <gr str="772">weakness </gr>
+        <gr str="2532">and </gr>
+        <gr str="512">unprofitableness </gr>
+        <gr str="846">thereof</gr>. </VERS>
+      <VERS vnumber="19">
+        <gr str="1063">For </gr>
+        <gr str="3588">the </gr>
+        <gr str="3551">law </gr>made nothing <gr str="5048 3762">perfect</gr>, <gr str="1161">but </gr>the bringing <gr str="1898">in </gr>of a <gr str="2909">better </gr>
+        <gr str="1680">hope </gr>
+        <STYLE css="color:#808080;font-style:italic"> did; </STYLE>
+        <gr str="1223">by </gr>the <gr str="3739">which </gr>we draw <gr str="1448">nigh </gr>unto <gr str="2316">God</gr>. </VERS>
+      <VERS vnumber="20">
+        <gr str="2532">And </gr>inasmuch <gr str="2596 3745">as </gr>
+        <gr str="3756">not </gr>
+        <gr str="5565">without </gr>an <gr str="3728">oath </gr>
+        <STYLE css="color:#808080;font-style:italic"> he </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> made </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> priest </STYLE>: </VERS>
+      <VERS vnumber="21"> (<gr str="1063">For </gr>those <gr str="2409">priests <gr str="*3303" />
+        </gr>
+        <gr str="1526">were </gr>
+        <gr str="1096">made </gr>
+        <gr str="5565">without </gr>an <gr str="3728">oath</gr>; <gr str="1161">but </gr>
+        <gr str="3588">this </gr>
+        <gr str="3326">with </gr>an <gr str="3728">oath </gr>
+        <gr str="1223">by </gr>him that <gr str="3004">said </gr>
+        <gr str="4314">unto </gr>
+        <gr str="846">him</gr>, The <gr str="2962">Lord </gr>
+        <gr str="3660">swore </gr>
+        <gr str="2532">and </gr>will <gr str="3756">not </gr>
+        <gr str="3338">repent</gr>, <gr str="4771">Thou </gr>
+        <STYLE css="color:#808080;font-style:italic"> art </STYLE> a <gr str="2409">priest </gr>
+        <gr str="1519 165">forever </gr>
+        <gr str="2596">after </gr>
+        <gr str="3588">the </gr>
+        <gr str="5010">order </gr>of <gr str="3198">Melchizedek</gr>:) </VERS>
+      <VERS vnumber="22">
+        <gr str="2596">By </gr>so <gr str="5118">much </gr>was <gr str="2424">Jesus </gr>
+        <gr str="1096">made </gr>a <gr str="1450">surety </gr>of a <gr str="2909">better </gr>
+        <gr str="1242">testament</gr>. </VERS>
+      <VERS vnumber="23">
+        <gr str="2532">And </gr>
+        <gr str="3588">they </gr>
+        <gr str="3303">truly </gr>
+        <gr str="1526">were </gr>
+        <gr str="4119">many </gr>
+        <gr str="2409">priests</gr>, because they were not <gr str="2967">suffered </gr>to <gr str="3887">continue </gr>by reason of <gr str="2288">death</gr>: </VERS>
+      <VERS vnumber="24">
+        <gr str="1161">But </gr>
+        <gr str="3588">this </gr>
+        <STYLE css="color:#808080;font-style:italic"> man, </STYLE> because <gr str="846">he </gr>
+        <gr str="3306">continueth </gr>
+        <gr str="1519 165">ever</gr>, <gr str="2192">hath </gr>an <gr str="531">unchangeable </gr>
+        <gr str="2420">priesthood</gr>. </VERS>
+      <VERS vnumber="25">
+        <gr str="3606">Wherefore </gr>he is <gr str="1410">able </gr>
+        <gr str="2532">also </gr>to <gr str="4982">save </gr>them <gr str="1519">to </gr>
+        <gr str="3588">the </gr>
+        <gr str="3838">uttermost </gr>that <gr str="4334">come </gr>unto <gr str="2316">God </gr>
+        <gr str="1223">by </gr>
+        <gr str="846">him</gr>, seeing he <gr str="3842">ever </gr>
+        <gr str="2198">liveth </gr>to make <gr str="1793">intercession </gr>
+        <gr str="5228">for </gr>
+        <gr str="846">them</gr>. </VERS>
+      <VERS vnumber="26">
+        <gr str="1063">For </gr>
+        <gr str="5108">such </gr>a high <gr str="749">priest </gr>
+        <gr str="4241">became </gr>
+        <gr str="2254">us</gr>, <STYLE css="color:#808080;font-style:italic"> who </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3741">holy</gr>, <gr str="172">harmless</gr>, <gr str="283">undefiled</gr>, <gr str="5563">separate </gr>
+        <gr str="575">from </gr>
+        <gr str="268">sinners</gr>, <gr str="2532">and </gr>
+        <gr str="1096">made </gr>
+        <gr str="5308">higher </gr>than <gr str="3588">the </gr>
+        <gr str="3772">heavens</gr>; </VERS>
+      <VERS vnumber="27">
+        <gr str="3739">Who </gr>
+        <gr str="2192 318">needeth </gr>
+        <gr str="3756">not </gr>
+        <gr str="2596 2250">daily</gr>, <gr str="5618">as </gr>those high <gr str="749">priests</gr>, to offer <gr str="399">up </gr>
+        <gr str="2378">sacrifice</gr>, <gr str="4386">first </gr>
+        <gr str="5228">for </gr>his <gr str="2398">own </gr>
+        <gr str="266">sins</gr>, and <gr str="1899">then </gr>
+        <gr str="*3588">for </gr>
+        <gr str="3588">the </gr>
+        <gr str="2992">people </gr>'s: <gr str="1063">for </gr>
+        <gr str="5124">this </gr>he <gr str="4160">did </gr>
+        <gr str="2178">once</gr>, when he offered <gr str="399">up </gr>
+        <gr str="1438">himself</gr>. </VERS>
+      <VERS vnumber="28">
+        <gr str="1063">For </gr>
+        <gr str="3588">the </gr>
+        <gr str="3551">law </gr>
+        <gr str="2525">maketh </gr>
+        <gr str="444">men </gr>high <gr str="749">priests </gr>which <gr str="2192">have </gr>
+        <gr str="769">infirmity</gr>; <gr str="1161">but </gr>
+        <gr str="3588">the </gr>
+        <gr str="3056">word </gr>of <gr str="3588">the </gr>
+        <gr str="3728">oath</gr>, <gr str="3588">which </gr>was <gr str="3326">since </gr>
+        <gr str="3588">the </gr>
+        <gr str="3551">law</gr>, <STYLE css="color:#808080;font-style:italic"> maketh </STYLE> the <gr str="5207">Son</gr>, who is <gr str="5048">consecrated </gr>
+        <gr str="1519 165">forevermore</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

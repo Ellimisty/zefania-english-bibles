@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="John Wycliffe Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="127">
+      <VERS vnumber="1">
+The title of the hundrid and seuene and twentithe salm. The song of greces. Blessid ben alle men, that dreden the Lord; that gon in hise weies.
+</VERS>
+      <VERS vnumber="2">
+For thou schalt ete the trauels of thin hondis; thou art blessid, and it schal be wel to thee.
+</VERS>
+      <VERS vnumber="3">
+Thi wijf as a plenteous vyne; in the sidis of thin hous. Thi sones as the newe sprenges of olyue trees; in the cumpas of thi bord.
+</VERS>
+      <VERS vnumber="4">
+Lo! so a man schal be blessid; that dredith the Lord.
+</VERS>
+      <VERS vnumber="5">
+The Lord blesse thee fro Syon; and se thou the goodis of Jerusalem in alle the daies of thi lijf.
+</VERS>
+      <VERS vnumber="6">
+And se thou the sones of thi sones; se thou pees on Israel.
+</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

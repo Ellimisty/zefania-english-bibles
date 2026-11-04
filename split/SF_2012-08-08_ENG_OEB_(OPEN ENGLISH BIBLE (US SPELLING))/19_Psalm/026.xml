@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="26">
+      <VERS vnumber="1">Defend me, O <STYLE id="cl:divineName">Lord</STYLE>, for my walk has been blameless;in the <STYLE id="cl:divineName">Lord</STYLE> have I trusted unswervingly:</VERS>
+      <VERS vnumber="2">Examine me, <STYLE id="cl:divineName">Lord</STYLE>, and test me;test my heart and my mind.</VERS>
+      <VERS vnumber="3">For your love is before my eyes,and your faithfulness governs my way. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="4">I never sat down with the worthless,nor companied with dissemblers.</VERS>
+      <VERS vnumber="5">I hate the assembly of knaves,I would never sit down with the wicked;</VERS>
+      <VERS vnumber="6">but, with hands washed in innocence,I would march round your altar, O <STYLE id="cl:divineName">Lord</STYLE>,</VERS>
+      <VERS vnumber="7">singing loud songs of thanks,and telling of all your wonders.</VERS>
+      <VERS vnumber="8">O <STYLE id="cl:divineName">Lord</STYLE>, I love your house,the place where your glory lives. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="9">Do not gather me up with sinners;slay me not with people of blood,</VERS>
+      <VERS vnumber="10">whose hands are stained with villainy,and whose right hand is filled with bribes.</VERS>
+      <VERS vnumber="11">But my walk is blameless!O redeem me, be gracious to me.</VERS>
+      <VERS vnumber="12">My foot stands on even ground,in the choirs I will bless the <STYLE id="cl:divineName">Lord</STYLE>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

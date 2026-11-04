@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Modern KJV 1963" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="110">
+      <VERS vnumber="1">A Psalm of David. The LORD said to my Lord, Sit at My right hand until I place Your enemies as Your footstool.</VERS>
+      <VERS vnumber="2">The LORD shall send the rod of Your strength out of Zion; rule in the midst of Your enemies.</VERS>
+      <VERS vnumber="3">Your people [shall be] willing in the day of Your power, in holy adornment from the womb of the morning: You [have] the dew of Your youth.</VERS>
+      <VERS vnumber="4">The LORD has sworn, and will not repent, You [are] a priest forever after the order of Melchizedek.</VERS>
+      <VERS vnumber="5">The Lord at Your right hand shall strike through kings in the day of His wrath.</VERS>
+      <VERS vnumber="6">He shall judge among the nations, He shall fill them with dead bodies; He shall shatter heads over much of the earth.</VERS>
+      <VERS vnumber="7">He shall drink of the brook in the way; therefore He shall lift up the head.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

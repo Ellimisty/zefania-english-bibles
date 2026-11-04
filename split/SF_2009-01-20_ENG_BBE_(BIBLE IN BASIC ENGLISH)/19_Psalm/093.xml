@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="93">
+      <VERS vnumber="1">The Lord is King; he is clothed with glory; the Lord is clothed with strength; power is the cord of his robe; the world is fixed, so that it may not be moved.</VERS>
+      <VERS vnumber="2">The seat of your power has been from the past; you are eternal.</VERS>
+      <VERS vnumber="3">The rivers send up, O Lord, the rivers send up their voices; they send them up with a loud cry.</VERS>
+      <VERS vnumber="4">The Lord in heaven is stronger than the noise of great waters, yes, he is stronger than the great waves of the sea.</VERS>
+      <VERS vnumber="5">Your witness is most certain; it is right for your house to be holy, O Lord, for ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

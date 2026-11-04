@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="70">
+      <VERS vnumber="1"> To the chief music-maker. Of David. To keep in memory. </VERS>
+      <VERS vnumber="2">\70:1\Let your salvation come quickly, O God; come quickly to my help, O Lord.</VERS>
+      <VERS vnumber="3">\70:2\Let those who go after my soul have shame and trouble; let those who have evil designs against me be turned back and made foolish.</VERS>
+      <VERS vnumber="4">\70:3\Let those who say Aha, aha! be turned back as a reward of their shame.</VERS>
+      <VERS vnumber="5">\70:4\Let all those who are looking for you be glad and have joy in you; let the lovers of your salvation ever say, May God be great.</VERS>
+      <VERS vnumber="6">\70:5\But I am poor and in need; come to me quickly, O God; you are my help and my saviour; let there be no waiting, O Lord.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

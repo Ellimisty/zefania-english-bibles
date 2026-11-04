@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James Version with Apokryphen" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="126">
+      <CAPTION vref="1">A Song of degrees.</CAPTION>
+      <VERS vnumber="1">When the LORD turned again the captivity of Zion, we were like them that dream.</VERS>
+      <VERS vnumber="2">Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The LORD hath done great things for them.</VERS>
+      <VERS vnumber="3">The LORD hath done great things for us; whereof we are glad.</VERS>
+      <VERS vnumber="4">Turn again our captivity, O LORD, as the streams in the south.</VERS>
+      <VERS vnumber="5">They that sow in tears shall reap in joy.</VERS>
+      <VERS vnumber="6">He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

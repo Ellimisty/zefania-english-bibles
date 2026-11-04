@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="King James Version PCE" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="29">
+      <VERS vnumber="1">A Psalm of David.  Give unto the <STYLE id="cl:divineName">Lord</STYLE>, O ye mighty, give unto the <STYLE id="cl:divineName">Lord</STYLE> glory and strength.</VERS>
+      <VERS vnumber="2">Give unto the <STYLE id="cl:divineName">Lord</STYLE> the glory due unto his name; worship the <STYLE id="cl:divineName">Lord</STYLE> in the beauty of holiness.</VERS>
+      <VERS vnumber="3">The voice of the <STYLE id="cl:divineName">Lord</STYLE> is  upon the waters: the God of glory thundereth: the <STYLE id="cl:divineName">Lord</STYLE> is  upon many waters.</VERS>
+      <VERS vnumber="4">The voice of the <STYLE id="cl:divineName">Lord</STYLE> is  powerful; the voice of the <STYLE id="cl:divineName">Lord</STYLE> is  full of majesty.</VERS>
+      <VERS vnumber="5">The voice of the <STYLE id="cl:divineName">Lord</STYLE> breaketh the cedars; yea, the <STYLE id="cl:divineName">Lord</STYLE> breaketh the cedars of Lebanon.</VERS>
+      <VERS vnumber="6">He maketh them also to skip like a calf; Lebanon and Sirion like a young unicorn.</VERS>
+      <VERS vnumber="7">The voice of the <STYLE id="cl:divineName">Lord</STYLE> divideth the flames of fire.</VERS>
+      <VERS vnumber="8">The voice of the <STYLE id="cl:divineName">Lord</STYLE> shaketh the wilderness; the <STYLE id="cl:divineName">Lord</STYLE> shaketh the wilderness of Kadesh.</VERS>
+      <VERS vnumber="9">The voice of the <STYLE id="cl:divineName">Lord</STYLE> maketh the hinds to calve, and discovereth the forests: and in his temple doth every one speak of  his  glory.</VERS>
+      <VERS vnumber="10">The <STYLE id="cl:divineName">Lord</STYLE> sitteth upon the flood; yea, the <STYLE id="cl:divineName">Lord</STYLE> sitteth King for ever.</VERS>
+      <VERS vnumber="11">The <STYLE id="cl:divineName">Lord</STYLE> will give strength unto his people; the <STYLE id="cl:divineName">Lord</STYLE> will bless his people with peace.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

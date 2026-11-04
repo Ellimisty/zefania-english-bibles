@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="23">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of David.</STYLE> The LORD <STYLE css="font-style:italic">is</STYLE> my shepherd; I shall not want.</VERS>
+      <VERS vnumber="2">He maketh me to lie down in green pastures: he leadeth me beside the still waters. <DIV>
+          <NOTE type="x-studynote">green…: Heb. pastures of tender grass</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">still…: Heb. waters of quietness</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.</VERS>
+      <VERS vnumber="4">Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou <STYLE css="font-style:italic">art</STYLE> with me; thy rod and thy staff they comfort me.</VERS>
+      <VERS vnumber="5">Thou preparest a table before me in the presence of my enemies: thou anointest my head with oil; my cup runneth over. <DIV>
+          <NOTE type="x-studynote">anointest: Heb. makest fat</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever. <DIV>
+          <NOTE type="x-studynote">for ever: Heb. to length of days</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

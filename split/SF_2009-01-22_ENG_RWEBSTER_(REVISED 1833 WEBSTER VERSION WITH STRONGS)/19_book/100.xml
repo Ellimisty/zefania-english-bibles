@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="100">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of <gr str="8426">praise</gr>.</STYLE> Make a joyful <gr str="7321">noise </gr>to the <gr str="3068">LORD</gr>, all ye <gr str="776">lands</gr>. <DIV>
+          <NOTE type="x-studynote">praise: or, thanksgiving</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">all…: Heb. all the earth</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">
+        <gr str="5647">Serve </gr>the <gr str="3068">LORD </gr>with <gr str="8057">gladness</gr>: <gr str="935">come </gr>before his <gr str="6440">presence </gr>with <gr str="7445">singing</gr>.</VERS>
+      <VERS vnumber="3">
+        <gr str="3045">Know </gr>ye that the <gr str="3068">LORD </gr>he <STYLE css="font-style:italic">is </STYLE>
+        <gr str="430">God</gr>: <STYLE css="font-style:italic">it is</STYLE> he <STYLE css="font-style:italic">that</STYLE> hath <gr str="6213">made </gr>us, and not we ourselves; <STYLE css="font-style:italic">we are</STYLE> his <gr str="5971">people</gr>, and the <gr str="6629">sheep </gr>of his <gr str="4830">pasture</gr>. <DIV>
+          <NOTE type="x-studynote">and not…: or, and his we are</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">
+        <gr str="935">Enter </gr>into his <gr str="8179">gates </gr>with <gr str="8426">thanksgiving</gr>, <STYLE css="font-style:italic">and</STYLE> into his <gr str="2691">courts </gr>with <gr str="8416">praise</gr>: be <gr str="3034">thankful </gr>to him, <STYLE css="font-style:italic">and </STYLE>
+        <gr str="1288">bless </gr>his <gr str="8034">name</gr>.</VERS>
+      <VERS vnumber="5">For the <gr str="3068">LORD </gr>
+        <STYLE css="font-style:italic">is </STYLE>
+        <gr str="2896">good</gr>; his <gr str="2617">mercy </gr>
+        <STYLE css="font-style:italic">is </STYLE>
+        <gr str="5769">everlasting</gr>; and his <gr str="530">truth </gr>
+        <STYLE css="font-style:italic">endureth</STYLE> to <gr str="1755">all </gr>
+        <gr str="1755">generations</gr>. <DIV>
+          <NOTE type="x-studynote">to all…: Heb. to generation and generation</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

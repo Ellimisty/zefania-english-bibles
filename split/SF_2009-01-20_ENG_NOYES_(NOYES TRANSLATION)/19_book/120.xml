@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="120">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of steps.</STYLE> In my distress I called upon the LORD, And he answered me.</VERS>
+      <VERS vnumber="2">O LORD! deliver me from lying lips, From the deceitful tongue!</VERS>
+      <VERS vnumber="3">What profit to thee, Or what advantage to thee, is the false tongue?</VERS>
+      <VERS vnumber="4">It is like the sharp arrows of the mighty man; Like coals of the juniper.</VERS>
+      <VERS vnumber="5">Alas for me, that I sojourn in Mesech, That I dwell in the tents of Kedar!</VERS>
+      <VERS vnumber="6">Too long have I dwelt With them that hate peace!</VERS>
+      <VERS vnumber="7">I am for peace; yet, when I speak for it, They are for war.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

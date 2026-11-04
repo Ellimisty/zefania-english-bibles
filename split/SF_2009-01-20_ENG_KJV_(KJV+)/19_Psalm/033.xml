@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="33">
+      <VERS vnumber="1">
+        <gr str="7442">Rejoice </gr>in the <gr str="3068">LORD</gr>, O ye <gr str="6662">righteous</gr>: <STYLE css="color:#808080;font-style:italic"> for </STYLE>
+        <gr str="8416">praise </gr>is <gr str="5000">comely </gr>for the <gr str="3477">upright</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="3034">Praise </gr>the <gr str="3068">LORD </gr>with <gr str="3658">harp</gr>: <gr str="2167">sing </gr>unto him with the <gr str="5035">psaltery </gr>
+        <STYLE css="color:#808080;font-style:italic"> and </STYLE> an instrument of ten <gr str="6218">strings</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="7891">Sing </gr>unto him a <gr str="2319">new </gr>
+        <gr str="7892">song</gr>; <gr str="5059">play </gr>
+        <gr str="3190">skilfully </gr>with a loud <gr str="8643">noise</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="3588">For </gr>the <gr str="1697">word </gr>of the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3477">right</gr>; and <gr str="3605">all </gr>his <gr str="4639">works </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> done </STYLE> in <gr str="530">truth</gr>. </VERS>
+      <VERS vnumber="5"> He <gr str="157">loveth </gr>
+        <gr str="6666">righteousness </gr>and <gr str="4941">judgment</gr>: the <gr str="776">earth </gr>is <gr str="4390">full </gr>of the <gr str="2617">goodness </gr>of the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="6"> By the <gr str="1697">word </gr>of the <gr str="3068">LORD </gr>were the <gr str="8064">heavens </gr>
+        <gr str="6213">made</gr>; and <gr str="3605">all </gr>the <gr str="6635">host </gr>of them by the <gr str="7307">breath </gr>of his <gr str="6310">mouth</gr>. </VERS>
+      <VERS vnumber="7"> He <gr str="3664">gathereth </gr>the <gr str="4325">waters </gr>of the <gr str="3220">sea </gr>together as a <gr str="5067">heap</gr>: he layeth <gr str="5414">up </gr>the <gr str="8415">depth </gr>in <gr str="214">storehouses</gr>. </VERS>
+      <VERS vnumber="8"> Let <gr str="3605">all </gr>the <gr str="776">earth </gr>
+        <gr str="3372">fear </gr>the <gr str="4480 3068">LORD</gr>: let <gr str="3605">all </gr>the <gr str="3427">inhabitants </gr>of the <gr str="8398">world </gr>stand in <gr str="1481">awe </gr>
+        <gr str="4480">of </gr>him. </VERS>
+      <VERS vnumber="9">
+        <gr str="3588">For </gr>
+        <gr str="1931">he </gr>
+        <gr str="559">spoke</gr>, and it <gr str="1961">was </gr>
+        <STYLE css="color:#808080;font-style:italic"> done </STYLE>; <gr str="1931">he </gr>
+        <gr str="6680">commanded</gr>, and it stood <gr str="5975">fast</gr>. </VERS>
+      <VERS vnumber="10"> The <gr str="3068">LORD </gr>bringeth the <gr str="6098">counsel </gr>of the <gr str="1471">heathen </gr>to <gr str="6331">naught</gr>: he maketh the <gr str="4284">devices </gr>of the <gr str="5971">people </gr>of none <gr str="5106">effect</gr>. </VERS>
+      <VERS vnumber="11"> The <gr str="6098">counsel </gr>of the <gr str="3068">LORD </gr>
+        <gr str="5975">standeth </gr>
+        <gr str="5769">forever</gr>, the <gr str="4284">thoughts </gr>of his <gr str="3820">heart </gr>to <gr str="1755">all </gr>
+        <gr str="1755">generations</gr>. </VERS>
+      <VERS vnumber="12">
+        <gr str="835">Blessed </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="1471">nation </gr>
+        <gr str="834">whose </gr>
+        <gr str="430">God </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="3068">LORD</gr>; <STYLE css="color:#808080;font-style:italic"> and </STYLE> the <gr str="5971">people </gr>
+        <STYLE css="color:#808080;font-style:italic"> whom </STYLE> he hath <gr str="977">chosen </gr>for his own <gr str="5159">inheritance</gr>. </VERS>
+      <VERS vnumber="13"> The <gr str="3068">LORD </gr>
+        <gr str="5027">looketh </gr>from <gr str="4480 8064">heaven</gr>; he <gr str="7200">beholdeth </gr>
+        <gr str="*853" />
+        <gr str="3605">all </gr>the <gr str="1121">sons </gr>of <gr str="120">men</gr>. </VERS>
+      <VERS vnumber="14"> From the <gr str="4480 4349">place </gr>of his <gr str="3427">habitation </gr>he <gr str="7688">looketh </gr>
+        <gr str="413">upon </gr>
+        <gr str="3605">all </gr>the <gr str="3427">inhabitants </gr>of the <gr str="776">earth</gr>. </VERS>
+      <VERS vnumber="15"> He <gr str="3335">fashioneth </gr>their <gr str="3820">hearts </gr>
+        <gr str="3162">alike</gr>; he <gr str="995 413">considereth </gr>
+        <gr str="3605">all </gr>their <gr str="4639">works</gr>. </VERS>
+      <VERS vnumber="16"> There is <gr str="369">no </gr>
+        <gr str="4428">king </gr>
+        <gr str="3467">saved </gr>by the <gr str="7230">multitude </gr>of a <gr str="2428">host</gr>: a mighty <gr str="1368">man </gr>is <gr str="3808">not </gr>
+        <gr str="5337">delivered </gr>by <gr str="7230">much </gr>
+        <gr str="3581">strength</gr>. </VERS>
+      <VERS vnumber="17"> A <gr str="5483">horse </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a vain <gr str="8267">thing </gr>for <gr str="8668">safety</gr>: <gr str="3808">neither </gr>shall he <gr str="4422">deliver </gr>
+        <STYLE css="color:#808080;font-style:italic"> any </STYLE> by his <gr str="7230">great </gr>
+        <gr str="2428">strength</gr>. </VERS>
+      <VERS vnumber="18">
+        <gr str="2009">Behold</gr>, the <gr str="5869">eye </gr>of the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="413">upon </gr>them that <gr str="3373">fear </gr>him, upon them that <gr str="3176">hope </gr>in his <gr str="2617">mercy</gr>; </VERS>
+      <VERS vnumber="19"> To <gr str="5337">deliver </gr>their <gr str="5315">soul </gr>from <gr str="4480 4194">death</gr>, and to keep them <gr str="2421">alive </gr>in <gr str="7458">famine</gr>. </VERS>
+      <VERS vnumber="20"> Our <gr str="5315">soul </gr>
+        <gr str="2442">waiteth </gr>for the <gr str="3068">LORD</gr>: <gr str="1931">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> our <gr str="5828">help </gr>and our <gr str="4043">shield</gr>. </VERS>
+      <VERS vnumber="21">
+        <gr str="3588">For </gr>our <gr str="3820">heart </gr>shall <gr str="8055">rejoice </gr>in him, <gr str="3588">because </gr>we have <gr str="982">trusted </gr>in his <gr str="6944">holy </gr>
+        <gr str="8034">name</gr>. </VERS>
+      <VERS vnumber="22"> Let thy <gr str="2617">mercy</gr>, O <gr str="3068">LORD</gr>, <gr str="1961">be </gr>
+        <gr str="5921">upon </gr>us, according <gr str="834">as </gr>we <gr str="3176">hope </gr>in thee. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

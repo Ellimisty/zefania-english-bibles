@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="23" bname="Jesaja" bsname="Jes">
+    <CHAPTER cnumber="4">
+      <VERS vnumber="1"> And in <gr str="1931">that </gr>
+        <gr str="3117">day </gr>
+        <gr str="7651">seven </gr>
+        <gr str="802">women </gr>shall take <gr str="2388">hold </gr>of <gr str="259">one </gr>
+        <gr str="376">man</gr>, <gr str="559">saying</gr>, We will <gr str="398">eat </gr>our own <gr str="3899">bread</gr>, and <gr str="3847">wear </gr>our own <gr str="8071">apparel</gr>: <gr str="7535">only </gr>let us be <gr str="7121">called </gr>by thy <gr str="8034">name</gr>, to <gr str="622">take </gr>away our <gr str="2781">reproach</gr>. </VERS>
+      <VERS vnumber="2"> In <gr str="1931">that </gr>
+        <gr str="3117">day </gr>shall the <gr str="6780">branch </gr>of the <gr str="3068">LORD </gr>
+        <gr str="1961">be </gr>
+        <gr str="6643">beautiful </gr>and <gr str="3519">glorious</gr>, and the <gr str="6529">fruit </gr>of the <gr str="776">earth </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="1347">excellent </gr>and <gr str="8597">comely </gr>for them that are <gr str="6413">escaped </gr>of <gr str="3478">Israel</gr>. </VERS>
+      <VERS vnumber="3"> And it shall come to <gr str="1961">pass</gr>, <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> he </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="7604">left </gr>in <gr str="6726">Zion</gr>, and <STYLE css="color:#808080;font-style:italic"> he </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <gr str="3498">remaineth </gr>in <gr str="3389">Jerusalem</gr>, shall be <gr str="559">called </gr>
+        <gr str="6918">holy</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE> every <gr str="3605">one </gr>that is <gr str="3789">written </gr>among the <gr str="2416">living </gr>in <gr str="3389">Jerusalem</gr>: </VERS>
+      <VERS vnumber="4">
+        <gr str="518">When </gr>the <gr str="136">Lord </gr>shall have washed <gr str="7364">away </gr>
+        <gr str="*853" />the <gr str="6675">filth </gr>of the <gr str="1323">daughters </gr>of <gr str="6726">Zion</gr>, and shall have <gr str="1740">purged </gr>the <gr str="1818">blood </gr>of <gr str="3389">Jerusalem </gr>from the <gr str="4480 7130">midst </gr>thereof by the <gr str="7307">spirit </gr>of <gr str="4941">judgment</gr>, and by the <gr str="7307">spirit </gr>of <gr str="1197">burning</gr>. </VERS>
+      <VERS vnumber="5"> And the <gr str="3068">LORD </gr>will <gr str="1254">create </gr>
+        <gr str="5921">upon </gr>
+        <gr str="3605">every </gr>dwelling <gr str="4349">place </gr>of <gr str="2022">mount </gr>
+        <gr str="6726">Zion</gr>, and <gr str="5921">upon </gr>her <gr str="4744">assemblies</gr>, a <gr str="6051">cloud </gr>and <gr str="6227">smoke </gr>by <gr str="3119">day</gr>, and the <gr str="5051">shining </gr>of a <gr str="3852">flaming </gr>
+        <gr str="784">fire </gr>by <gr str="3915">night</gr>: <gr str="3588">for </gr>
+        <gr str="5921">upon </gr>
+        <gr str="3605">all </gr>the <gr str="3519">glory </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> a <gr str="2646">defense</gr>. </VERS>
+      <VERS vnumber="6"> And there shall <gr str="1961">be </gr>a <gr str="5521">tabernacle </gr>for a <gr str="6738">shadow </gr>in the <gr str="3119">daytime </gr>from the <gr str="4480 2721">heat</gr>, and for a place of <gr str="4268">refuge</gr>, and for a <gr str="4563">covert </gr>from <gr str="4480 2230">storm </gr>and from <gr str="4480 4306">rain</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

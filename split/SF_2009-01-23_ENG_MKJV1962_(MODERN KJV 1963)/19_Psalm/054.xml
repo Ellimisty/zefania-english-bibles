@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Modern KJV 1963" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="54">
+      <VERS vnumber="1">To the Chief Musician. On stringed instruments. A contemplation. A Psalm of David, when the Ziphites came and said to Saul, Does not David hide himself among us? Save me, O God, by Your name, and judge me by Your strength.</VERS>
+      <VERS vnumber="2">Hear my prayer, O God; give ear to the words of my mouth.</VERS>
+      <VERS vnumber="3">For strangers have risen up against me, and cruel men seek after my soul; they have not set God before them. Selah.</VERS>
+      <VERS vnumber="4">Behold, God [is] my helper; the LORD [is] with those who uphold my soul.</VERS>
+      <VERS vnumber="5">He shall reward evil to my enemies; cut them off in Your truth.</VERS>
+      <VERS vnumber="6">I will freely sacrifice to You; I will praise Your name, O LORD, for [it is] good.</VERS>
+      <VERS vnumber="7">For He has delivered me out of all trouble; and my eye has seen [its desire] on my enemies.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="108">
+      <CAPTION vref="1">A Song or Psalm of David.</CAPTION>
+      <VERS vnumber="1">O God, my heart is steadfast; I will sing and make music, even with my glory.</VERS>
+      <VERS vnumber="2">Awake, lute and harp! I will awake at dawn.</VERS>
+      <VERS vnumber="3">I will give thanks unto You, O Jehovah, among the peoples, and I will make music unto You among the nations.</VERS>
+      <VERS vnumber="4">For Your mercy is great above the heavens, and Your truth unto the clouds.</VERS>
+      <VERS vnumber="5">Be exalted, O God, above the heavens, and Your glory above all the earth,</VERS>
+      <VERS vnumber="6">that Your beloved may be delivered. Save with Your right hand, and answer me.</VERS>
+      <VERS vnumber="7">God has spoken in His holiness: I will rejoice; I will divide Shechem and measure out the Valley of Succoth.</VERS>
+      <VERS vnumber="8">Gilead is Mine; Manasseh is Mine; Ephraim also is the protection for My head; Judah is My lawgiver;</VERS>
+      <VERS vnumber="9">Moab is My washpot; over Edom I will cast My shoe; over Philistia I will triumph.</VERS>
+      <VERS vnumber="10">Who will bring me into the strong city? Who will lead me into Edom?</VERS>
+      <VERS vnumber="11">Is it not You, O God, who cast us off? And will You not, O God, go out with our armies?</VERS>
+      <VERS vnumber="12">Give us help from adversity, for the help of man is vain.</VERS>
+      <VERS vnumber="13">Through God we shall deal with might, for it is He who shall trample our enemies.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="58" bname="Hebräer" bsname="Heb">
+    <CHAPTER cnumber="5">
+      <VERS vnumber="1">
+        <gr str="1063">For </gr>
+        <gr str="3956">every </gr>high <gr str="749">priest </gr>
+        <gr str="2983">taken </gr>from <gr str="1537">among </gr>
+        <gr str="444">men </gr>is <gr str="2525">ordained </gr>
+        <gr str="5228">for </gr>
+        <gr str="444">men </gr>in <gr str="3588">things </gr>
+        <STYLE css="color:#808080;font-style:italic"> pertaining </STYLE>
+        <gr str="4314">to </gr>
+        <gr str="2316">God</gr>, <gr str="2443">that </gr>he may <gr str="4374">offer </gr>
+        <gr str="5037">both </gr>
+        <gr str="1435">gifts </gr>
+        <gr str="2532">and </gr>
+        <gr str="2378">sacrifices </gr>
+        <gr str="5228">for </gr>
+        <gr str="266">sins</gr>: </VERS>
+      <VERS vnumber="2"> Who <gr str="1410">can </gr>have <gr str="3356">compassion </gr>on <gr str="3588">the </gr>
+        <gr str="50">ignorant</gr>, <gr str="2532">and </gr>on them that are out of the <gr str="4105">way</gr>; for <gr str="1893">that </gr>
+        <gr str="846">he </gr>himself <gr str="2532">also </gr>is compassed <gr str="4029">with </gr>
+        <gr str="769">infirmity</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="2532">And </gr>by reason <gr str="1223 5026">hereof </gr>he <gr str="3784">ought</gr>, <gr str="2531">as </gr>
+        <gr str="4012">for </gr>
+        <gr str="3588">the </gr>
+        <gr str="2992">people</gr>, <gr str="3779">so </gr>
+        <gr str="2532">also </gr>
+        <gr str="4012">for </gr>
+        <gr str="1438">himself</gr>, to <gr str="4374">offer </gr>
+        <gr str="5228">for </gr>
+        <gr str="266">sins</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="2532">And </gr>no <gr str="5100 3756">man </gr>
+        <gr str="2983">taketh </gr>this <gr str="5092">honor </gr>unto <gr str="1438">himself</gr>, <gr str="235">but </gr>he that is <gr str="2564">called </gr>
+        <gr str="5259">of </gr>
+        <gr str="2316">God</gr>, <gr str="2509">as </gr>
+        <STYLE css="color:#808080;font-style:italic">
+          <gr str="*2532">was </gr>
+        </STYLE>
+        <gr str="2">Aaron</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="3779">So </gr>
+        <gr str="2532">also </gr>
+        <gr str="5547">Christ </gr>
+        <gr str="1392">glorified </gr>
+        <gr str="3756">not </gr>
+        <gr str="1438">himself </gr>to be <gr str="1096">made </gr>a high <gr str="749">priest</gr>; <gr str="235">but </gr>he that <gr str="2980">said </gr>
+        <gr str="4314">unto </gr>
+        <gr str="846">him</gr>, <gr str="4771">Thou </gr>
+        <gr str="1488">art </gr>
+        <gr str="3450">my </gr>
+        <gr str="5207">Son</gr>, <gr str="4594">today </gr>have <gr str="1473">I </gr>
+        <gr str="1080">begotten </gr>
+        <gr str="4571">thee</gr>. </VERS>
+      <VERS vnumber="6">
+        <gr str="2531">As </gr>he <gr str="3004">saith </gr>
+        <gr str="2532">also </gr>
+        <gr str="1722">in </gr>
+        <gr str="2087">another </gr>
+        <STYLE css="color:#808080;font-style:italic"> place, </STYLE>
+        <gr str="4771">Thou </gr>
+        <STYLE css="color:#808080;font-style:italic"> art </STYLE> a <gr str="2409">priest </gr>
+        <gr str="1519 165">forever </gr>
+        <gr str="2596">after </gr>
+        <gr str="3588">the </gr>
+        <gr str="5010">order </gr>of <gr str="3198">Melchizedek</gr>. </VERS>
+      <VERS vnumber="7">
+        <gr str="3739">Who </gr>
+        <gr str="1722">in </gr>
+        <gr str="3588">the </gr>
+        <gr str="2250">days </gr>of <gr str="848">his </gr>
+        <gr str="4561">flesh</gr>, when he had offered <gr str="4374">up <gr str="*5037" />
+        </gr>
+        <gr str="1162">prayers </gr>
+        <gr str="2532">and </gr>
+        <gr str="2428">supplications </gr>
+        <gr str="3326">with </gr>
+        <gr str="2478">strong </gr>
+        <gr str="2906">crying </gr>
+        <gr str="2532">and </gr>
+        <gr str="1144">tears </gr>
+        <gr str="4314">unto </gr>him that was <gr str="1410">able </gr>to <gr str="4982">save </gr>
+        <gr str="846">him </gr>
+        <gr str="1537">from </gr>
+        <gr str="2288">death</gr>, <gr str="2532">and </gr>was <gr str="1522">heard </gr>in that he <gr str="575 2124">feared</gr>; </VERS>
+      <VERS vnumber="8">
+        <gr str="2539">Though </gr>he <gr str="5607">were </gr>a <gr str="5207">Son</gr>, yet <gr str="3129">learned </gr>he <gr str="5218">obedience </gr>
+        <gr str="575">by </gr>the things <gr str="3739">which </gr>he <gr str="3958">suffered</gr>; </VERS>
+      <VERS vnumber="9">
+        <gr str="2532">And </gr>being made <gr str="5048">perfect</gr>, he <gr str="1096">became </gr>the <gr str="159">author </gr>of <gr str="166">eternal </gr>
+        <gr str="4991">salvation </gr>unto <gr str="3956">all </gr>them that <gr str="5219">obey </gr>
+        <gr str="846">him</gr>; </VERS>
+      <VERS vnumber="10">
+        <gr str="4316">Called </gr>
+        <gr str="5259">of </gr>
+        <gr str="2316">God </gr>a high <gr str="749">priest </gr>
+        <gr str="2596">after </gr>
+        <gr str="3588">the </gr>
+        <gr str="5010">order </gr>of <gr str="3198">Melchizedek</gr>. </VERS>
+      <VERS vnumber="11">
+        <gr str="4012">Of </gr>
+        <gr str="3739">whom </gr>
+        <gr str="2254">we </gr>have many things to <gr str="4183 3056">say</gr>, <gr str="2532">and </gr>
+        <gr str="1421">hard </gr>to be <gr str="3004">uttered</gr>, <gr str="1893">seeing </gr>ye <gr str="1096">are </gr>
+        <gr str="3576">dull </gr>of <gr str="189">hearing</gr>. </VERS>
+      <VERS vnumber="12">
+        <gr str="1063">For </gr>
+        <gr str="2532">when </gr>
+        <gr str="1223">for </gr>
+        <gr str="3588">the </gr>
+        <gr str="5550">time </gr>ye <gr str="3784">ought </gr>to <gr str="1511">be </gr>
+        <gr str="1320">teachers</gr>, ye <gr str="2192">have </gr>
+        <gr str="5532">need </gr>that one <gr str="1321">teach </gr>
+        <gr str="5209">you </gr>
+        <gr str="3825">again </gr>
+        <gr str="5101">which </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="3588">the </gr>
+        <gr str="746">first </gr>
+        <gr str="4747">principles </gr>of <gr str="3588">the </gr>
+        <gr str="3051">oracles </gr>of <gr str="2316">God</gr>; <gr str="2532">and </gr>are <gr str="1096">become </gr>such as <gr str="2192">have </gr>
+        <gr str="5532">need </gr>of <gr str="1051">milk</gr>, <gr str="2532">and </gr>
+        <gr str="3756">not </gr>of strong <gr str="4731 5160">meat</gr>. </VERS>
+      <VERS vnumber="13">
+        <gr str="1063">For </gr>every <gr str="3956">one </gr>that <gr str="3348">useth </gr>
+        <gr str="1051">milk </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="552">unskillfull </gr>in the <gr str="3056">word </gr>of <gr str="1343">righteousness</gr>: <gr str="1063">for </gr>he <gr str="2076">is </gr>a <gr str="3516">babe</gr>. </VERS>
+      <VERS vnumber="14">
+        <gr str="1161">But </gr>strong <gr str="4731 5160">meat </gr>
+        <gr str="2076">belongeth </gr>to them that are of full <gr str="5046">age</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE> those who by reason <gr str="1223">of </gr>
+        <gr str="1838">use </gr>
+        <gr str="2192">have </gr>their <gr str="145">senses </gr>
+        <gr str="1128">exercised </gr>
+        <gr str="4314">to </gr>
+        <gr str="1253">discern </gr>
+        <gr str="5037">both </gr>
+        <gr str="2570">good </gr>
+        <gr str="2532">and </gr>
+        <gr str="2556">evil</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

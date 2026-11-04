@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="123">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A song of the degrees.</STYLE> Unto thee do I lift up my eyes, O thou that dwellest in the heavens.</VERS>
+      <VERS vnumber="2">Behold, as the eyes of servants are directed unto the hand of their masters, as the eyes of a maiden unto the hand of her mistress: thus are our eyes directed unto the Lord our God, until he be gracious unto us.</VERS>
+      <VERS vnumber="3">Be gracious unto us, O Lord! be gracious unto us; for we are overburdened with contempt.</VERS>
+      <VERS vnumber="4">Our soul is overburdened with the scorn of those who are at ease, with the contempt of the proud oppressors.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

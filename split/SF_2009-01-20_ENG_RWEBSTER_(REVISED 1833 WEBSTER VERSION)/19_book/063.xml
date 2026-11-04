@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="63">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of David, when he was in the wilderness of Judah.</STYLE> O God, thou <STYLE css="font-style:italic">art</STYLE> my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is; <DIV>
+          <NOTE type="x-studynote">thirsty: Heb. weary</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">where…: without water</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">To see thy power and thy glory, so <STYLE css="font-style:italic">as</STYLE> I have seen thee in the sanctuary.</VERS>
+      <VERS vnumber="3">Because thy lovingkindness <STYLE css="font-style:italic">is</STYLE> better than life, my lips shall praise thee.</VERS>
+      <VERS vnumber="4">Thus will I bless thee while I live: I will lift up my hands in thy name.</VERS>
+      <VERS vnumber="5">My soul shall be satisfied as <STYLE css="font-style:italic">with</STYLE> marrow and fatness; and my mouth shall praise <STYLE css="font-style:italic">thee</STYLE> with joyful lips: <DIV>
+          <NOTE type="x-studynote">marrow: Heb. fatness</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">When I remember thee upon my bed, <STYLE css="font-style:italic">and</STYLE> meditate on thee in the <STYLE css="font-style:italic">night</STYLE> watches.</VERS>
+      <VERS vnumber="7">Because thou hast been my help, therefore in the shadow of thy wings will I rejoice.</VERS>
+      <VERS vnumber="8">My soul followeth hard after thee: thy right hand upholdeth me.</VERS>
+      <VERS vnumber="9">But those <STYLE css="font-style:italic">that</STYLE> seek my soul, to destroy <STYLE css="font-style:italic">it</STYLE>, shall go into the lower parts of the earth.</VERS>
+      <VERS vnumber="10">They shall fall by the sword: they shall be a portion for foxes. <DIV>
+          <NOTE type="x-studynote">They shall fall…: Heb. They shall make him run out like water by the hands of</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="11">But the king shall rejoice in God; every one that sweareth by him shall glory: but the mouth of them that speak lies shall be stopped.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

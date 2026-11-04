@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="54">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">Save me, O God, by your name, and judge me by your strength.</VERS>
+      <VERS vnumber="2">Hear my prayer, O God; give ear to the words of my mouth.</VERS>
+      <VERS vnumber="3">For strangers have risen up against me. And oppressors seek after my life. They have not kept God in their presence.</VERS>
+      <VERS vnumber="4">Behold, God is my helper: Jehovah is with those who preserve my life.</VERS>
+      <VERS vnumber="5">He will repay my enemies for their evil: consume <STYLE css="font-style:italic">destroy</STYLE> them in your truth.</VERS>
+      <VERS vnumber="6">I will freely sacrifice to you. O Jehovah, I will praise your name for it is good.</VERS>
+      <VERS vnumber="7">For he has delivered me out of all trouble: and my eye has seen his defeat of my enemies.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

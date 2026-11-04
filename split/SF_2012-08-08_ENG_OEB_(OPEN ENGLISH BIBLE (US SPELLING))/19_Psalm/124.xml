@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="124">
+      <VERS vnumber="1">“Had it not been the <STYLE id="cl:divineName">Lord</STYLE> who was for us”let Israel say</VERS>
+      <VERS vnumber="2">“Had it not been the <STYLE id="cl:divineName">Lord</STYLE> who was for uswhen enemies rose against us,</VERS>
+      <VERS vnumber="3">then alive they’d have swallowed us up,when their anger was kindled against us.</VERS>
+      <VERS vnumber="4">Then the waters would’ve swept us away,and the torrent passed over us clean:</VERS>
+      <VERS vnumber="5">then most sure would’ve passed over us cleanthe wild seething waters.” <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="6">Blest be the <STYLE id="cl:divineName">Lord</STYLE> who has given us notto be torn by their teeth.</VERS>
+      <VERS vnumber="7">We are like a bird just escapedfrom the snare of the fowler. <BR art="x-nl" /> The snare is broken,and we are escaped.</VERS>
+      <VERS vnumber="8">Our help is the name of the <STYLE id="cl:divineName">Lord</STYLE>,the Creator of heaven and earth.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

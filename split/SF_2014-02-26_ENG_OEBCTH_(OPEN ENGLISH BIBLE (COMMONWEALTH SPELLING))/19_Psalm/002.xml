@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="2">
+      <VERS vnumber="1">Why this turmoil of nations,this futile plotting of peoples,</VERS>
+      <VERS vnumber="2">with kings of the earth conspiring,and rulers consulting together,against the <STYLE id="cl:divineName">Lord</STYLE> and against his anointed,</VERS>
+      <VERS vnumber="3">to snap their bondsand fling their cords away? <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="4">He whose throne is in heaven laughs,the <STYLE id="cl:divineName">Lord</STYLE> mocks them.</VERS>
+      <VERS vnumber="5">Then he speaks to them in his wrath,and in his hot anger confounds them.</VERS>
+      <VERS vnumber="6">“This my king is installed by me,on Zion my holy mountain.” <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">I will tell of the <STYLE id="cl:divineName">Lord</STYLE>’s decree.He said to me: “You are my son,this day I became your father.</VERS>
+      <VERS vnumber="8">Only ask, and I make you the heir of the nations,and lord of the world to its utmost bounds.</VERS>
+      <VERS vnumber="9">You will break them with sceptre of iron,shatter them like pottery.” <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="10">So now, you kings, be wise:be warned, you rulers of earth.</VERS>
+      <VERS vnumber="11">Serve the <STYLE id="cl:divineName">Lord</STYLE> in awe,kiss his feet with trembling,</VERS>
+      <VERS vnumber="12">lest, angry, he hurl you to ruin;for soon will his fury blaze.Happy all who take refuge in him.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

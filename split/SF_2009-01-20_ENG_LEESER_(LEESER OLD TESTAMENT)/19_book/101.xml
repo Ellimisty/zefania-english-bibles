@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="101">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">By David, a psalm.</STYLE> Of kindness and justice will I sing: unto thee, O Lord, will I sing praises.</VERS>
+      <VERS vnumber="2">I will carefully regard the way of the perfect: oh when will thou come unto me? I will walk in the integrity of my heart in the midst of my house.</VERS>
+      <VERS vnumber="3">I will not set before my eyes a godless thing; to commit a departure <STYLE css="font-style:italic">from righteousness</STYLE> do I hate; it shall not cleave to me.</VERS>
+      <VERS vnumber="4">A perverse heart shall depart from me: evil will I not know.</VERS>
+      <VERS vnumber="5">Whoso slandereth in secret his neighbor, him will I destroy: whoso hath proud eyes and a haughty heart, him will I not suffer.</VERS>
+      <VERS vnumber="6">My eyes shall be upon the faithful of the land, that they may abide with me: he that walketh in the way of the perfect, he it is that shall serve me.</VERS>
+      <VERS vnumber="7">He that practiseth deceit shall not dwell within my house: he that speaketh falsehoods shall not succeed before my eyes.</VERS>
+      <VERS vnumber="8">Every morning will I destroy all the wicked of the land, cutting off from the city of the Lord all the wrongdoers.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

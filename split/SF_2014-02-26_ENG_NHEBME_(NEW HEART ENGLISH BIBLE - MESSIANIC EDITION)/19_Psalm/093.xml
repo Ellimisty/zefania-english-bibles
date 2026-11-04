@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible - Messianic Edition" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="93">
+      <VERS vnumber="1">The <STYLE id="cl:divineName">Lord</STYLE> reigns!He is clothed with majesty!The <STYLE id="cl:divineName">Lord</STYLE> is armed with strength.The world also is established.It can't be moved.</VERS>
+      <VERS vnumber="2">Your throne is established from long ago.You are from everlasting.</VERS>
+      <VERS vnumber="3">The floods have lifted up, <STYLE id="cl:divineName">Lord</STYLE>,the floods have lifted up their voice.The floods lift up their waves.</VERS>
+      <VERS vnumber="4">Above the voices of many waters,the mighty breakers of the sea,The <STYLE id="cl:divineName">Lord</STYLE> on high is mighty.</VERS>
+      <VERS vnumber="5">Your statutes stand firm.Holiness adorns your house,<STYLE id="cl:divineName">Lord</STYLE>, forevermore.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="13">
+      <VERS vnumber="1"> To the chief <gr str="5329">Musician</gr>, A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>. How <gr str="5704 575">long </gr>wilt thou <gr str="7911">forget </gr>me, O <gr str="3068">LORD</gr>? <gr str="5331">forever</gr>? how <gr str="5704 575">long </gr>wilt thou <gr str="5641">hide </gr>
+        <gr str="*853" />thy <gr str="6440">face </gr>
+        <gr str="4480">from </gr>me? </VERS>
+      <VERS vnumber="2"> How <gr str="5704 575">long </gr>shall I <gr str="7896">take </gr>
+        <gr str="6098">counsel </gr>in my <gr str="5315">soul</gr>, <STYLE css="color:#808080;font-style:italic"> having </STYLE>
+        <gr str="3015">sorrow </gr>in my <gr str="3824">heart </gr>
+        <gr str="3119">daily</gr>? how <gr str="5704 575">long </gr>shall mine <gr str="341">enemy </gr>be <gr str="7311">exalted </gr>
+        <gr str="5921">over </gr>me? </VERS>
+      <VERS vnumber="3">
+        <gr str="5027">Consider </gr>
+        <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="6030">hear </gr>me, O <gr str="3068">LORD </gr>my <gr str="430">God</gr>: <gr str="215">lighten </gr>mine <gr str="5869">eyes</gr>, <gr str="6435">lest </gr>I <gr str="3462">sleep </gr>the <STYLE css="color:#808080;font-style:italic"> sleep </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> of </STYLE>
+        <gr str="4194">death</gr>; </VERS>
+      <VERS vnumber="4">
+        <gr str="6435">Lest </gr>mine <gr str="341">enemy </gr>
+        <gr str="559">say</gr>, I have prevailed <gr str="3201">against </gr>him; <STYLE css="color:#808080;font-style:italic"> and </STYLE> those that <gr str="6862">trouble </gr>me <gr str="1523">rejoice </gr>
+        <gr str="3588">when </gr>I am <gr str="4131">moved</gr>. </VERS>
+      <VERS vnumber="5"> But <gr str="589">I </gr>have <gr str="982">trusted </gr>in thy <gr str="2617">mercy</gr>; my <gr str="3820">heart </gr>shall <gr str="1523">rejoice </gr>in thy <gr str="3444">salvation</gr>. </VERS>
+      <VERS vnumber="6"> I will <gr str="7891">sing </gr>unto the <gr str="3068">LORD</gr>, <gr str="3588">because </gr>he hath dealt <gr str="1580">bountifully </gr>
+        <gr str="5921">with </gr>me. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

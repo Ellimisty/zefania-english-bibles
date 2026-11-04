@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="YLT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="121">
+      <VERS vnumber="1">A Song of the Ascents. I lift up mine eyes unto the hills,  Whence doth my help come?</VERS>
+      <VERS vnumber="2">My help [is] from Jehovah, maker of heaven and earth,</VERS>
+      <VERS vnumber="3">He suffereth not thy foot to be moved, Thy preserver  slumbereth not.</VERS>
+      <VERS vnumber="4">Lo, He slumbereth not, nor sleepeth, He who is preserving  Israel.</VERS>
+      <VERS vnumber="5">Jehovah [is] thy preserver, Jehovah [is] thy shade on thy  right hand,</VERS>
+      <VERS vnumber="6">By day the sun doth not smite thee, Nor the moon by night.</VERS>
+      <VERS vnumber="7">Jehovah preserveth thee from all evil, He doth preserve  thy soul.</VERS>
+      <VERS vnumber="8">Jehovah preserveth thy going out and thy coming in, From  henceforth even unto the age!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

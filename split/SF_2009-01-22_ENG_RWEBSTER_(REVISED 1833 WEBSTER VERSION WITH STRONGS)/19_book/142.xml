@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="142">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">
+          <gr str="4905">Maschil </gr>of <gr str="1732">David</gr>; A <gr str="8605">Prayer </gr>when he was in the <gr str="4631">cave</gr>.</STYLE> I <gr str="2199">cried </gr>to the <gr str="3068">LORD </gr>with my <gr str="6963">voice</gr>; with my <gr str="6963">voice </gr>to the <gr str="3068">LORD </gr>I made my <gr str="2603">supplication</gr>. <DIV>
+          <NOTE type="x-studynote">Maschil…: or, A Psalm of David, giving instruction</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">I poured <gr str="8210">out </gr>my <gr str="7879">complaint </gr>
+        <gr str="6440">before </gr>him; I <gr str="5046">showed </gr>
+        <gr str="6440">before </gr>him my <gr str="6869">trouble</gr>.</VERS>
+      <VERS vnumber="3">When my <gr str="7307">spirit </gr>was <gr str="5848">overwhelmed </gr>within me, then thou <gr str="3045">knewest </gr>my <gr str="5410">path</gr>. In the <gr str="734">way </gr>in <gr str="2098">which </gr>I <gr str="1980">walked </gr>have they secretly <gr str="2934">laid </gr>a <gr str="6341">snare </gr>for me.</VERS>
+      <VERS vnumber="4">I <gr str="5027">looked </gr>on <STYLE css="font-style:italic">my</STYLE> right <gr str="3225">hand</gr>, and <gr str="7200">beheld</gr>, but <STYLE css="font-style:italic">there was</STYLE> no man that would <gr str="5234">know </gr>me: <gr str="4498">refuge </gr>
+        <gr str="6">failed </gr>me; no man <gr str="1875">cared </gr>for my <gr str="5315">soul</gr>. <DIV>
+          <NOTE type="x-studynote">I looked…: or, Look on the right hand, and see</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">failed…: Heb. perished from me</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">cared…: Heb. sought after</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="5">I <gr str="2199">cried </gr>to thee, O <gr str="3068">LORD</gr>: I <gr str="559">said</gr>, Thou <STYLE css="font-style:italic">art</STYLE> my <gr str="4268">refuge </gr>
+        <STYLE css="font-style:italic">and</STYLE> my <gr str="2506">portion </gr>in the <gr str="776">land </gr>of the <gr str="2416">living</gr>.</VERS>
+      <VERS vnumber="6">
+        <gr str="7181">Attend </gr>to my <gr str="7440">cry</gr>; for I am <gr str="1809">brought </gr>
+        <gr str="3966">very </gr>
+        <gr str="1809">low</gr>: <gr str="5337">deliver </gr>me from my <gr str="7291">persecutors</gr>; for they are <gr str="553">stronger </gr>than I.</VERS>
+      <VERS vnumber="7">
+        <gr str="3318">Bring </gr>my <gr str="5315">soul </gr>out of <gr str="4525">prison</gr>, that I may <gr str="3034">praise </gr>thy <gr str="8034">name</gr>: the <gr str="6662">righteous </gr>shall surround <gr str="3803">me</gr>; for thou shalt deal <gr str="1580">bountifully </gr>with me.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

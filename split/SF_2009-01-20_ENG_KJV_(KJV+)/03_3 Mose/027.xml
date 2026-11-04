@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="3" bname="3 Mose" bsname="3Mo">
+    <CHAPTER cnumber="27">
+      <VERS vnumber="1"> And the <gr str="3068">LORD </gr>
+        <gr str="1696">spoke </gr>
+        <gr str="413">unto </gr>
+        <gr str="4872">Moses</gr>, <gr str="559">saying</gr>, </VERS>
+      <VERS vnumber="2">
+        <gr str="1696">Speak </gr>
+        <gr str="413">unto </gr>the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>, and <gr str="559">say </gr>
+        <gr str="413">unto </gr>them, <gr str="3588">When </gr>a <gr str="376">man </gr>shall make a <gr str="6381">singular </gr>
+        <gr str="5088">vow</gr>, the <gr str="5315">persons </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> for the <gr str="3068">LORD </gr>by thy <gr str="6187">estimation</gr>. </VERS>
+      <VERS vnumber="3"> And thy <gr str="6187">estimation </gr>shall <gr str="1961">be </gr>of the <gr str="2145">male </gr>from twenty years <gr str="4480 1121 6242 8141">old </gr>even <gr str="5704">unto </gr>
+        <gr str="8346">sixty </gr>
+        <gr str="8141">years </gr>
+        <gr str="1121">old</gr>, even thy <gr str="6187">estimation </gr>shall <gr str="1961">be </gr>
+        <gr str="2572">fifty </gr>
+        <gr str="8255">shekels </gr>of <gr str="3701">silver</gr>, after the <gr str="8255">shekel </gr>of the <gr str="6944">sanctuary</gr>. </VERS>
+      <VERS vnumber="4"> And <gr str="518">if </gr>
+        <gr str="1931">it </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> a <gr str="5347">female</gr>, then thy <gr str="6187">estimation </gr>shall <gr str="1961">be </gr>
+        <gr str="7970">thirty </gr>
+        <gr str="8255">shekels</gr>. </VERS>
+      <VERS vnumber="5"> And <gr str="518">if </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> from five years <gr str="4480 1121 2568 8141">old </gr>even <gr str="5704">unto </gr>
+        <gr str="6242">twenty </gr>
+        <gr str="8141">years </gr>
+        <gr str="1121">old</gr>, then thy <gr str="6187">estimation </gr>shall <gr str="1961">be </gr>of the <gr str="2145">male </gr>
+        <gr str="6242">twenty </gr>
+        <gr str="8255">shekels</gr>, and for the <gr str="5347">female </gr>
+        <gr str="6235">ten </gr>
+        <gr str="8255">shekels</gr>. </VERS>
+      <VERS vnumber="6"> And <gr str="518">if </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> from a month <gr str="4480 1121 2320">old </gr>even <gr str="5704">unto </gr>
+        <gr str="2568">five </gr>
+        <gr str="8141">years </gr>
+        <gr str="1121">old</gr>, then thy <gr str="6187">estimation </gr>shall <gr str="1961">be </gr>of the <gr str="2145">male </gr>
+        <gr str="2568">five </gr>
+        <gr str="8255">shekels </gr>of <gr str="3701">silver</gr>, and for the <gr str="5347">female </gr>thy <gr str="6187">estimation </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="7969">three </gr>
+        <gr str="8255">shekels </gr>of <gr str="3701">silver</gr>. </VERS>
+      <VERS vnumber="7"> And <gr str="518">if </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> from sixty years <gr str="4480 1121 8346 8141">old </gr>and <gr str="4605">above</gr>; <gr str="518">if </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> a <gr str="2145">male</gr>, then thy <gr str="6187">estimation </gr>shall <gr str="1961">be </gr>
+        <gr str="2568 6240">fifteen </gr>
+        <gr str="8255">shekels</gr>, and for the <gr str="5347">female </gr>
+        <gr str="6235">ten </gr>
+        <gr str="8255">shekels</gr>. </VERS>
+      <VERS vnumber="8"> But <gr str="518">if </gr>
+        <gr str="1931">he </gr>be <gr str="4134">poorer </gr>than thy <gr str="4480 6187">estimation</gr>, then he shall present <gr str="5975">himself </gr>
+        <gr str="6440">before </gr>the <gr str="3548">priest</gr>, and the <gr str="3548">priest </gr>shall <gr str="6186">value </gr>him; according <gr str="5921 6310 834">to </gr>his <gr str="5381 3027">ability </gr>that <gr str="5087">vowed </gr>shall the <gr str="3548">priest </gr>
+        <gr str="6186">value </gr>him. </VERS>
+      <VERS vnumber="9"> And <gr str="518">if </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> a <gr str="929">beast</gr>, <gr str="834 4480">whereof </gr>men <gr str="7126">bring </gr>an <gr str="7133">offering </gr>unto the <gr str="3068">LORD</gr>, <gr str="3605">all </gr>
+        <gr str="834">that </gr>
+        <STYLE css="color:#808080;font-style:italic"> any </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> man </STYLE>
+        <gr str="5414">giveth </gr>
+        <gr str="4480">of </gr>such unto the <gr str="3068">LORD </gr>shall <gr str="1961">be </gr>
+        <gr str="6944">holy</gr>. </VERS>
+      <VERS vnumber="10"> He shall <gr str="3808">not </gr>
+        <gr str="2498">alter </gr>it, <gr str="3808">nor </gr>
+        <gr str="4171">change </gr>it, a <gr str="2896">good </gr>for a <gr str="7451">bad</gr>, <gr str="176">or </gr>a <gr str="7451">bad </gr>for a <gr str="2896">good</gr>: and <gr str="518">if </gr>he shall at all <gr str="4171 4171">change </gr>
+        <gr str="929">beast </gr>for <gr str="929">beast</gr>, then <gr str="1931">it </gr>and the <gr str="8545">exchange </gr>thereof shall <gr str="1961">be </gr>
+        <gr str="6944">holy</gr>. </VERS>
+      <VERS vnumber="11"> And <gr str="518">if </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="3605">any </gr>
+        <gr str="2931">unclean </gr>
+        <gr str="929">beast</gr>, of <gr str="834 4480">which </gr>they do <gr str="3808">not </gr>
+        <gr str="7126">offer </gr>a <gr str="7133">sacrifice </gr>unto the <gr str="3068">LORD</gr>, then he shall <gr str="5975">present </gr>
+        <gr str="*853" />the <gr str="929">beast </gr>
+        <gr str="6440">before </gr>the <gr str="3548">priest</gr>: </VERS>
+      <VERS vnumber="12"> And the <gr str="3548">priest </gr>shall <gr str="6186">value </gr>it, <gr str="996">whether </gr>it be <gr str="2896">good </gr>or <gr str="7451">bad</gr>: as thou <gr str="6187">valuest </gr>it, <STYLE css="color:#808080;font-style:italic"> who </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> art </STYLE> the <gr str="3548">priest</gr>, <gr str="3651">so </gr>shall it <gr str="1961">be</gr>. </VERS>
+      <VERS vnumber="13"> But <gr str="518">if </gr>he will at all <gr str="1350 1350">redeem </gr>it, then he shall <gr str="3254">add </gr>a <gr str="2549">fifth </gr>
+        <STYLE css="color:#808080;font-style:italic"> part </STYLE> thereof <gr str="5921">unto </gr>thy <gr str="6187">estimation</gr>. </VERS>
+      <VERS vnumber="14"> And <gr str="3588">when </gr>a <gr str="376">man </gr>shall <gr str="6942">sanctify </gr>
+        <gr str="*853" />his <gr str="1004">house </gr>
+        <STYLE css="color:#808080;font-style:italic"> to </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="6944">holy </gr>unto the <gr str="3068">LORD</gr>, then the <gr str="3548">priest </gr>shall <gr str="6186">estimate </gr>it, <gr str="996">whether </gr>it be <gr str="2896">good </gr>or <gr str="7451">bad</gr>: <gr str="834">as </gr>the <gr str="3548">priest </gr>shall <gr str="6186">estimate </gr>it, <gr str="3651">so </gr>shall it <gr str="6965">stand</gr>. </VERS>
+      <VERS vnumber="15"> And <gr str="518">if </gr>he that <gr str="6942">sanctified </gr>it will <gr str="1350">redeem </gr>
+        <gr str="*853" />his <gr str="1004">house</gr>, then he shall <gr str="3254">add </gr>the <gr str="2549">fifth </gr>
+        <STYLE css="color:#808080;font-style:italic"> part </STYLE> of the <gr str="3701">money </gr>of thy <gr str="6187">estimation </gr>
+        <gr str="5921">unto </gr>it, and it shall <gr str="1961">be </gr>his. </VERS>
+      <VERS vnumber="16"> And <gr str="518">if </gr>a <gr str="376">man </gr>shall <gr str="6942">sanctify </gr>unto the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> some </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> part </STYLE> of a <gr str="4480 7704">field </gr>of his <gr str="272">possession</gr>, then thy <gr str="6187">estimation </gr>shall <gr str="1961">be </gr>according <gr str="6310">to </gr>the <gr str="2233">seed </gr>thereof: a <gr str="2563">homer </gr>of <gr str="8184">barley </gr>
+        <gr str="2233">seed </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> valued </STYLE> at <gr str="2572">fifty </gr>
+        <gr str="8255">shekels </gr>of <gr str="3701">silver</gr>. </VERS>
+      <VERS vnumber="17">
+        <gr str="518">If </gr>he <gr str="6942">sanctify </gr>his <gr str="7704">field </gr>from the <gr str="4480 8141">year </gr>of <gr str="3104">jubilee</gr>, according to thy <gr str="6187">estimation </gr>it shall <gr str="6965">stand</gr>. </VERS>
+      <VERS vnumber="18"> But <gr str="518">if </gr>he <gr str="6942">sanctify </gr>his <gr str="7704">field </gr>
+        <gr str="310">after </gr>the <gr str="3104">jubilee</gr>, then the <gr str="3548">priest </gr>shall <gr str="2803">reckon </gr>unto him <gr str="*853" />the <gr str="3701">money </gr>according <gr str="5921 6310">to </gr>the <gr str="8141">years </gr>that <gr str="3498">remain</gr>, even <gr str="5704">unto </gr>the <gr str="8141">year </gr>of the <gr str="3104">jubilee</gr>, and it shall be <gr str="1639">abated </gr>from thy <gr str="4480 6187">estimation</gr>. </VERS>
+      <VERS vnumber="19"> And <gr str="518">if </gr>he that <gr str="6942">sanctified </gr>
+        <gr str="*853" />the <gr str="7704">field </gr>will in any wise <gr str="1350 1350">redeem </gr>it, then he shall <gr str="3254">add </gr>the <gr str="2549">fifth </gr>
+        <STYLE css="color:#808080;font-style:italic"> part </STYLE> of the <gr str="3701">money </gr>of thy <gr str="6187">estimation </gr>
+        <gr str="5921">unto </gr>it, and it shall be <gr str="6965">assured </gr>to him. </VERS>
+      <VERS vnumber="20"> And <gr str="518">if </gr>he will <gr str="3808">not </gr>
+        <gr str="1350">redeem </gr>
+        <gr str="*853" />the <gr str="7704">field</gr>, or <gr str="518">if </gr>he have <gr str="4376">sold </gr>
+        <gr str="*853" />the <gr str="7704">field </gr>to <gr str="312">another </gr>
+        <gr str="376">man</gr>, it shall <gr str="3808">not </gr>be <gr str="1350">redeemed </gr>any <gr str="5750">more</gr>. </VERS>
+      <VERS vnumber="21"> But the <gr str="7704">field</gr>, when it goeth <gr str="3318">out </gr>in the <gr str="3104">jubilee</gr>, shall <gr str="1961">be </gr>
+        <gr str="6944">holy </gr>unto the <gr str="3068">LORD</gr>, as a <gr str="7704">field </gr>
+        <gr str="2764">devoted</gr>; the <gr str="272">possession </gr>thereof shall <gr str="1961">be </gr>the <gr str="3548">priest </gr>'s. </VERS>
+      <VERS vnumber="22"> And <gr str="518">if </gr>
+        <STYLE css="color:#808080;font-style:italic"> a </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> man </STYLE>
+        <gr str="6942">sanctify </gr>unto the <gr str="3068">LORD </gr>
+        <gr str="*853" />a <gr str="7704">field </gr>which he hath <gr str="4736">bought</gr>, <gr str="834">which </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3808">not </gr>of the <gr str="4480 7704">fields </gr>of his <gr str="272">possession</gr>; </VERS>
+      <VERS vnumber="23"> Then the <gr str="3548">priest </gr>shall <gr str="2803">reckon </gr>unto him <gr str="*853" />the <gr str="4373">worth </gr>of thy <gr str="6187">estimation</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE>
+        <gr str="5704">unto </gr>the <gr str="8141">year </gr>of the <gr str="3104">jubilee</gr>: and he shall <gr str="5414">give </gr>
+        <gr str="*853" />thine <gr str="6187">estimation </gr>in <gr str="1931">that </gr>
+        <gr str="3117">day</gr>, <STYLE css="color:#808080;font-style:italic"> as </STYLE> a holy <gr str="6944">thing </gr>unto the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="24"> In the <gr str="8141">year </gr>of the <gr str="3104">jubilee </gr>the <gr str="7704">field </gr>shall <gr str="7725">return </gr>unto <gr str="834">him </gr>of <gr str="4480 854">whom </gr>it was <gr str="7069">bought</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE> to him to <gr str="834">whom </gr>the <gr str="272">possession </gr>of the <gr str="776">land </gr>
+        <STYLE css="color:#808080;font-style:italic"> did </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> belong </STYLE>. </VERS>
+      <VERS vnumber="25"> And <gr str="3605">all </gr>thy <gr str="6187">estimations </gr>shall <gr str="1961">be </gr>according to the <gr str="8255">shekel </gr>of the <gr str="6944">sanctuary</gr>: <gr str="6242">twenty </gr>
+        <gr str="1626">gerahs </gr>shall <gr str="1961">be </gr>the <gr str="8255">shekel</gr>. </VERS>
+      <VERS vnumber="26">
+        <gr str="389">Only </gr>the <gr str="1060">firstling </gr>of the <gr str="929">beasts</gr>, <gr str="834">which </gr>should be the <gr str="3068">LORD </gr>'s <gr str="1069">firstling</gr>, <gr str="3808">no </gr>
+        <gr str="376">man </gr>shall <gr str="6942">sanctify </gr>it; <gr str="518">whether </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="7794">ox</gr>, <gr str="518">or </gr>
+        <gr str="7716">sheep</gr>: <gr str="1931">it </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="3068">LORD </gr>'s. </VERS>
+      <VERS vnumber="27"> And <gr str="518">if </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> of an <gr str="2931">unclean </gr>
+        <gr str="929">beast</gr>, then he shall <gr str="6299">redeem </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE> according to thine <gr str="6187">estimation</gr>, and shall <gr str="3254">add </gr>a <gr str="2549">fifth </gr>
+        <STYLE css="color:#808080;font-style:italic"> part </STYLE> of it <gr str="5921">thereto</gr>: or <gr str="518">if </gr>it be <gr str="3808">not </gr>
+        <gr str="1350">redeemed</gr>, then it shall be <gr str="4376">sold </gr>according to thy <gr str="6187">estimation</gr>. </VERS>
+      <VERS vnumber="28">
+        <gr str="389">Notwithstanding </gr>
+        <gr str="3808 3605">no </gr>devoted <gr str="2764">thing</gr>, <gr str="834">that </gr>a <gr str="376">man </gr>shall <gr str="2763">devote </gr>unto the <gr str="3068">LORD </gr>of <gr str="4480 3605">all </gr>
+        <gr str="834">that </gr>he hath, <STYLE css="color:#808080;font-style:italic"> both </STYLE> of <gr str="4480 120">man </gr>and <gr str="929">beast</gr>, and of the <gr str="4480 7704">field </gr>of his <gr str="272">possession</gr>, shall be <gr str="4376">sold </gr>or <gr str="1350">redeemed</gr>: <gr str="3605">every </gr>devoted <gr str="2764">thing </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> most <gr str="6944 6944">holy </gr>unto the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="29">
+        <gr str="3808 3605">None </gr>
+        <gr str="2764">devoted</gr>, <gr str="834">which </gr>shall be <gr str="2763">devoted </gr>
+        <gr str="4480">of </gr>
+        <gr str="120">men</gr>, shall be <gr str="6299">redeemed</gr>; <STYLE css="color:#808080;font-style:italic"> but </STYLE> shall surely be put to <gr str="4191 4191">death</gr>. </VERS>
+      <VERS vnumber="30"> And <gr str="3605">all </gr>the <gr str="4643">tithe </gr>of the <gr str="776">land</gr>, <STYLE css="color:#808080;font-style:italic"> whether </STYLE> of the <gr str="4480 2233">seed </gr>of the <gr str="776">land</gr>, <STYLE css="color:#808080;font-style:italic"> or </STYLE> of the <gr str="4480 6529">fruit </gr>of the <gr str="6086">tree</gr>, <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="3068">LORD </gr>'s: <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="6944">holy </gr>unto the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="31"> And <gr str="518">if </gr>a <gr str="376">man </gr>will at all <gr str="1350 1350">redeem </gr>
+        <STYLE css="color:#808080;font-style:italic"> aught </STYLE> of his <gr str="4480 4643">tithes</gr>, he shall <gr str="3254">add </gr>
+        <gr str="5921">thereto </gr>the <gr str="2549">fifth </gr>
+        <STYLE css="color:#808080;font-style:italic"> part </STYLE> thereof. </VERS>
+      <VERS vnumber="32"> And <gr str="3605">concerning </gr>the <gr str="4643">tithe </gr>of the <gr str="1241">herd</gr>, or of the <gr str="6629">flock</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE> of <gr str="3605 834">whatsoever </gr>
+        <gr str="5674">passeth </gr>
+        <gr str="8478">under </gr>the <gr str="7626">rod</gr>, the <gr str="6224">tenth </gr>shall <gr str="1961">be </gr>
+        <gr str="6944">holy </gr>unto the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="33"> He shall <gr str="3808">not </gr>
+        <gr str="1239">search </gr>
+        <gr str="996">whether </gr>it be <gr str="2896">good </gr>or <gr str="7451">bad</gr>, <gr str="3808">neither </gr>shall he <gr str="4171">change </gr>it: and <gr str="518">if </gr>he change it at <gr str="4171 4171">all</gr>, then both <gr str="1931">it </gr>and the <gr str="8545">change </gr>thereof shall <gr str="1961">be </gr>
+        <gr str="6944">holy</gr>; it shall <gr str="3808">not </gr>be <gr str="1350">redeemed</gr>. </VERS>
+      <VERS vnumber="34">
+        <gr str="428">These </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> the <gr str="4687">commandments</gr>, <gr str="834">which </gr>the <gr str="3068">LORD </gr>
+        <gr str="6680">commanded </gr>
+        <gr str="*853" />
+        <gr str="4872">Moses </gr>
+        <gr str="413">for </gr>the <gr str="1121">children </gr>of <gr str="3478">Israel </gr>in <gr str="2022">mount </gr>
+        <gr str="5514">Sinai</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

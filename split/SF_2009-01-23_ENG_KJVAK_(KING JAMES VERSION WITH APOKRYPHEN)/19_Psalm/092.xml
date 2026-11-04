@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James Version with Apokryphen" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="92">
+      <CAPTION vref="1">A Psalm or Song for the sabbath day.</CAPTION>
+      <VERS vnumber="1">It is a good thing to give thanks unto the LORD, and to sing praises unto thy name, O most High:</VERS>
+      <VERS vnumber="2">To shew forth thy lovingkindness in the morning, and thy faithfulness every night,</VERS>
+      <VERS vnumber="3">Upon an instrument of ten strings, and upon the psaltery; upon the harp with a solemn sound.</VERS>
+      <VERS vnumber="4">For thou, LORD, hast made me glad through thy work: I will triumph in the works of thy hands.</VERS>
+      <VERS vnumber="5">O LORD, how great are thy works! and thy thoughts are very deep.</VERS>
+      <VERS vnumber="6">A brutish man knoweth not; neither doth a fool understand this.</VERS>
+      <VERS vnumber="7">When the wicked spring as the grass, and when all the workers of iniquity do flourish; it is that they shall be destroyed for ever:</VERS>
+      <VERS vnumber="8">But thou, LORD, art most high for evermore.</VERS>
+      <VERS vnumber="9">For, lo, thine enemies, O LORD, for, lo, thine enemies shall perish; all the workers of iniquity shall be scattered.</VERS>
+      <VERS vnumber="10">But my horn shalt thou exalt like the horn of an unicorn: I shall be anointed with fresh oil.</VERS>
+      <VERS vnumber="11">Mine eye also shall see my desire on mine enemies, and mine ears shall hear my desire of the wicked that rise up against me.</VERS>
+      <VERS vnumber="12">The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon.</VERS>
+      <VERS vnumber="13">Those that be planted in the house of the LORD shall flourish in the courts of our God.</VERS>
+      <VERS vnumber="14">They shall still bring forth fruit in old age; they shall be fat and flourishing;</VERS>
+      <VERS vnumber="15">To shew that the LORD is upright: he is my rock, and there is no unrighteousness in him.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="World English Bible - Messianic Edition" type="x-bible">
+  <BIBLEBOOK bnumber="43" bname="John" bsname="Joh">
+    <CHAPTER cnumber="15">
+      <VERS vnumber="7">
+        
+      </VERS>
+      <VERS vnumber="11">
+        
+      </VERS>
+      <VERS vnumber="16">
+        
+      </VERS>
+      <VERS vnumber="25">
+        
+      </VERS>
+      <VERS vnumber="27">
+        
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

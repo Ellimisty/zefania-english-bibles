@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="143">
+      <VERS vnumber="1">Listen, O <STYLE id="cl:divineName">Lord</STYLE>, to my prayer;give ear to my plea.In your faithfulness give me answer,and in your righteousness.With your servant O enter you not into judgment,for in your sight can no one alive be justified. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">For the enemy persecutes me,crushing my life to the ground,making me live in the darkness,as those who have long been dead.</VERS>
+      <VERS vnumber="4">My spirit is faint within me,my heart is bewildered within me. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">I remember the days of old,and brood over all you have done,musing on all that your hands have wrought.</VERS>
+      <VERS vnumber="6">I spread out my hands to you:I thirst for you,like parched earth.  (Selah)  <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">Answer me soon, <STYLE id="cl:divineName">Lord</STYLE>,because my spirit is spent.Hide not your face from me,else become I like those who go down to the pit.</VERS>
+      <VERS vnumber="8">Let me learn of your love in the morning,for my trust is in you.Teach me the way I should go:for my heart longs for you. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="9">Save me, O <STYLE id="cl:divineName">Lord</STYLE>, from my foes:for to you I have fled for refuge.</VERS>
+      <VERS vnumber="10">Teach me to do your will,for you yourself are my God.Guide me by your good spirit,O <STYLE id="cl:divineName">Lord</STYLE>, on a way that is smooth. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="11">Be true to your name <STYLE id="cl:divineName">Lord</STYLE>, spare me,bring me out of distress in your faithfulness.</VERS>
+      <VERS vnumber="12">In your kindness extinguish my enemies,and all those who vex me destroy;for I am your servant.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

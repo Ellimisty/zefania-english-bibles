@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.3" biblename="New Heart English Bible ME" type="x-bible">
+  <BIBLEBOOK bnumber="19" bsname="PSA">
+    <CHAPTER cnumber="128">
+      <VERS vnumber="1" />
+      <VERS vnumber="2">For you will eat the labor of your hands; you will be blessed, and it will be well with you.</VERS>
+      <VERS vnumber="3">Your wife will be as a fruitful vine, in the innermost parts of your house; your children like olive plants, around your table.</VERS>
+      <VERS vnumber="4">Behold, thus is the man blessed who fears the LORD.</VERS>
+      <VERS vnumber="5">May the LORD bless you out of Zion, and may you see the good of Jerusalem all the days of your life.</VERS>
+      <VERS vnumber="6">Yes, may you see your children's children. Peace be upon Israel.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

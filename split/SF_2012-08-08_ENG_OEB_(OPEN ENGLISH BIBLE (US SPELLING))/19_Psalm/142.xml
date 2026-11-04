@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="142">
+      <VERS vnumber="1">Loudly I cry to the <STYLE id="cl:divineName">Lord</STYLE>:to the <STYLE id="cl:divineName">Lord</STYLE> plead loudly for mercy,I pour my complaint before him,I tell my troubles to him. <BR art="x-nl" /> When my spirit is faint within me,my path is known to you.In the way I am wont to walk in,they have hidden a trap for me. <BR art="x-nl" /> I look to the right and the left;but not a friend have I.No place of refuge is left me,not a man to care for me. <BR art="x-nl" /> So I cry to you, O <STYLE id="cl:divineName">Lord</STYLE>:I say, “My refuge are you,all I have in the land of the living.” <BR art="x-nl" /> Attend to my piercing cry,for very weak am I.Save me from those who pursue me,for they are too strong for me. <BR art="x-nl" /> Free me from prison,that I may give thanks to your name,for the righteous are patiently waitingtill you show your bounty to me.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

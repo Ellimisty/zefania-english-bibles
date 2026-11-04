@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="128">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A song of the degrees.</STYLE> Happy is every one that feareth the Lord, that walketh in his ways.</VERS>
+      <VERS vnumber="2">When thou eatest the labor of thy hands: <STYLE css="font-style:italic">then</STYLE> wilt thou be happy, and it shall be well with thee.</VERS>
+      <VERS vnumber="3">Thy wife is <STYLE css="font-style:italic">then</STYLE> as a fruitful vine in the recesses of thy house: thy children, like oliveplants round about thy table.</VERS>
+      <VERS vnumber="4">Behold, truly thus shall be blessed the man that feareth the Lord.</VERS>
+      <VERS vnumber="5">May the Lord bless thee out of Zion: and see thou the happiness of Jerusalem all the days of thy life.</VERS>
+      <VERS vnumber="6">And see thou thy childrens children: may there be peace upon Israel.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="97">
+      <VERS vnumber="1">A Psalm of David himself.  Sing to the Lord a new song, for he has performed wonders.His right hand has accomplished salvation for him, with his holy arm.</VERS>
+      <VERS vnumber="2">The Lord has made known his salvation.He has revealed his justice in the sight of the nations.</VERS>
+      <VERS vnumber="3">He has remembered his mercy and his truth toward the house of Israel.All the ends of the earth have seen the salvation of our God.</VERS>
+      <VERS vnumber="4">Sing joyfully to God, all the earth.Sing and exult, and sing psalms.</VERS>
+      <VERS vnumber="5">Sing psalms to the Lord with stringed instruments,with strings and the voice of a psalmist,</VERS>
+      <VERS vnumber="6">with subtle wind instruments and the voice of woodwinds.Make a joyful noise before the Lord our king.</VERS>
+      <VERS vnumber="7">Let the sea be moved and all its fullness,the whole world and all who dwell in it.</VERS>
+      <VERS vnumber="8">The rivers will clap their hands, the mountains will exult together,</VERS>
+      <VERS vnumber="9">before the presence of the Lord.For he comes to judge the earth.He will judge the whole world with justice, and the peoples with fairness.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

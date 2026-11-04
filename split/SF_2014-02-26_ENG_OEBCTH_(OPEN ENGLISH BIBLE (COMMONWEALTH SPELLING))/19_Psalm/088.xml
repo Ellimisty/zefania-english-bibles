@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="88">
+      <VERS vnumber="1">O <STYLE id="cl:divineName">Lord</STYLE> my God,I cry for help in the day-time,in the night my cry is before you;</VERS>
+      <VERS vnumber="2">let my prayer come into your presence,incline your ear to my cry. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">For I am sated with sorrow,my life draws near to Sheol.</VERS>
+      <VERS vnumber="4">I am counted with those who go down to the pit;without strength am I. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">My home is among the dead,like the slain that lie in the grave,whom you remember no morecut off as they are from your hand. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="6">In the deepest pit you have put me,in shadows deep and dark.</VERS>
+      <VERS vnumber="7">Your wrath lies heavy upon me,waves of your anger roll over me.  (Selah)  <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="8">You have put my friends far from me,you have made them shun me.I am shut in, and cannot escape,</VERS>
+      <VERS vnumber="9">my eyes are wasted with sorrow.I call on you, <STYLE id="cl:divineName">Lord</STYLE>, every day,spreading my hands out to you. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="10">For the dead can you work wonders?Can the shades rise again to praise you?  (Selah)</VERS>
+      <VERS vnumber="11">Can your kindness be told in the grave,your faithfulness in the tomb?</VERS>
+      <VERS vnumber="12">Can your wonders be known in the darkness,or your help in the land of forgetfulness? <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="13">I cry for help to you,in the morning my prayer comes before you.</VERS>
+      <VERS vnumber="14">Why, O <STYLE id="cl:divineName">Lord</STYLE>, do you spurn me,and hide your face from me?</VERS>
+      <VERS vnumber="15">From my youth I am wretched and dying,I am numbed by the terrors I bear. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="16">The fires of your wrath have passed over me,your terrors destroy me,</VERS>
+      <VERS vnumber="17">surging around me forever,hemming me in altogether.</VERS>
+      <VERS vnumber="18">Those who love me you put far from me;the dark is my only friend.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

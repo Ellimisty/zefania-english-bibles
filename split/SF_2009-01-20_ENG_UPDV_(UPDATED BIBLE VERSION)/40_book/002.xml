@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Updated Bible Version" type="x-bible">
+  <BIBLEBOOK bnumber="40">
+    <CHAPTER cnumber="2">
+      <VERS vnumber="1">Now it came to pass in the days of Herod, King of Judea, in the highpriesthood of Caiaphas, there came a certain man named John baptizing a baptism of repentance</VERS>
+      <VERS vnumber="2">who was known as being from the kindred of Aaron the priest, son of Zacharias and Elizabeth.</VERS>
+      <VERS vnumber="3">And John had a garment of camel's hair, and a leather belt about his loins; and his food was locusts and wild honey.</VERS>
+      <VERS vnumber="4">Then Jerusalem, and all Judea, and all the region around the Jordan went out to him;</VERS>
+      <VERS vnumber="5">and they were baptized by him in the river Jordan, confessing their sins.</VERS>
+      <VERS vnumber="6">And he said, I indeed baptize you<DIV>
+          <NOTE type="x-emphasize">{+}</NOTE>
+        </DIV> in water to repentance: but he who comes after me is mightier than I, whose sandals I am not worthy to bear: he will baptize you<DIV>
+          <NOTE type="x-emphasize">{+}</NOTE>
+        </DIV> in the Holy Spirit and [in] fire:</VERS>
+      <VERS vnumber="7">whose fan is in his hand, and he will thoroughly cleanse his threshing-floor; and he will gather his wheat into the garner, but the chaff he will burn up with unquenchable fire.</VERS>
+      <VERS vnumber="8">Then Jesus comes from Galilee to the Jordan to John, to be baptized of him.</VERS>
+      <VERS vnumber="9">And Jesus when he was baptized, went up immediately from the water: and look, the heavens were opened to him, and he saw the Spirit of God descending as a dove, and coming upon him;</VERS>
+      <VERS vnumber="10">and look, a voice out of the heavens, saying, This is my beloved Son, in whom I am well pleased.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

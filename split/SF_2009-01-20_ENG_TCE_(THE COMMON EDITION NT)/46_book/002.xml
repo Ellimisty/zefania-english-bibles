@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="The Common Edition: New Testament" type="x-bible">
+  <BIBLEBOOK bnumber="46">
+    <CHAPTER cnumber="2">
+      <VERS vnumber="1">When I came to you, brethren, I did not come with superiority of speech or of wisdom, proclaiming to you the testimony of God.</VERS>
+      <VERS vnumber="2">For I resolved to know nothing among you except Jesus Christ, and him crucified.</VERS>
+      <VERS vnumber="3">I was with you in weakness and in fear and in much trembling,</VERS>
+      <VERS vnumber="4">and my message and my preaching were not in persuasive words of wisdom, but in demonstration of the Spirit and of power,</VERS>
+      <VERS vnumber="5">so that your faith might not rest on the wisdom of men, but on the power of God.</VERS>
+      <VERS vnumber="6">Yet we do speak a wisdom among the mature, a wisdom, however, not of this age nor of the rulers of this age, who are passing away.</VERS>
+      <VERS vnumber="7">But we speak of God's secret wisdom, a wisdom that has been hidden and which God destined for our glory before the ages.</VERS>
+      <VERS vnumber="8">None of the rulers of this age understood it; for if they had, they would not have crucified the Lord of glory.</VERS>
+      <VERS vnumber="9">But, as it is written, <STYLE css="display:block;text-indent:5mm">»No eye has seen, nor ear heard,</STYLE>
+        <STYLE css="display:block;text-indent:10mm">nor the heart of man conceived</STYLE>
+        <STYLE css="display:block;text-indent:5mm">what God has prepared for those who love him,«</STYLE>
+      </VERS>
+      <VERS vnumber="10">God has revealed them to us through the Spirit. For the Spirit searches all things, even the depths of God.</VERS>
+      <VERS vnumber="11">For who among men knows the thoughts of a man except the man's spirit which is in him? Even so no one knows the thoughts of God except the Spirit of God.</VERS>
+      <VERS vnumber="12">Now we have received not the spirit of the world, but the Spirit who is from God, that we may understand the things freely given to us by God.</VERS>
+      <VERS vnumber="13">This is what we speak, not in words taught us by human wisdom but in words taught by the Spirit, expressing spiritual truths in spiritual words.</VERS>
+      <VERS vnumber="14">But the natural man does not accept the things of the Spirit of God, for they are foolishness to him; and he cannot understand them, because they are spiritually discerned.</VERS>
+      <VERS vnumber="15">But the spiritual man judges all things, yet he himself is rightly judged by no one.</VERS>
+      <VERS vnumber="16">
+        <STYLE css="display:block;text-indent:5mm">»For who has known the mind of the Lord</STYLE>
+        <STYLE css="display:block;text-indent:10mm">that he may instruct him?«</STYLE> But we have the mind of Christ.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

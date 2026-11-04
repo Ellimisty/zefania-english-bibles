@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="127">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A song of the degrees for Solomon.</STYLE> Unless the Lord do build the house, in vain labor they that build on it: unless the Lord guard the city, in vain is the watchman wakeful.</VERS>
+      <VERS vnumber="2">It is in vain for you to be early in rising, to be late in sitting up, eating the bread of painful toils; <STYLE css="font-style:italic">for</STYLE> so doth he give unto his beloved during sleep.</VERS>
+      <VERS vnumber="3">Lo, children are an inheritance from the Lord: a reward is the fruit of the body.</VERS>
+      <VERS vnumber="4">Like arrows in the hand of a mighty man, so are the children of youth.</VERS>
+      <VERS vnumber="5">Happy is the man that hath his quiver filled with them: they shall not be put to shame, when they do speak with the enemies in the gate.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

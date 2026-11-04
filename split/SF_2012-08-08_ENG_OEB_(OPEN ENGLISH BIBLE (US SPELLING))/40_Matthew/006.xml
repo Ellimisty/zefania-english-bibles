@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="40" bname="Matthew" bsname="Mat">
+    <CHAPTER cnumber="6">
+      <VERS vnumber="9">You, therefore, should pray like this —     ‘Our Father, who is in heaven,    may your name be held holy,</VERS>
+      <VERS vnumber="15">
+        crosswire  amateurish codings
+      </VERS>
+      <VERS vnumber="18">
+        crosswire  amateurish codings
+      </VERS>
+      <VERS vnumber="24">
+        crosswire  amateurish codings
+      </VERS>
+      <VERS vnumber="34">
+        crosswire  amateurish codings
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

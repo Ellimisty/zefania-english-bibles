@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="127">
+      <VERS vnumber="1">Unless the <STYLE id="cl:divineName">Lord</STYLE> builds the house,those who build it labour in vain.Unless the <STYLE id="cl:divineName">Lord</STYLE> guards the city,the watchman wakes in vain. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="2">In vain you rise early,and finish so late,and so eat sorrow’s bread;for he cares for his loved onesin their sleep. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">Children are a gift of the <STYLE id="cl:divineName">Lord</STYLE>,the fruit of the womb, a reward.</VERS>
+      <VERS vnumber="4">Like arrows, by warriors wielded,are the children of youth. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">Happy the man who has filledhis quiver full of them.He shall not be ashamed when he speakswith enemies in the gate.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

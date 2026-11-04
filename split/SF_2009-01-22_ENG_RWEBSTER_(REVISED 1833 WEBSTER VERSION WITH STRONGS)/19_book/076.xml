@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="76">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief <gr str="5329">Musician </gr>on <gr str="5058">Neginoth</gr>, A <gr str="4210">Psalm </gr>[or] <gr str="7892">Song </gr>of <gr str="623">Asaph</gr>.</STYLE> In <gr str="3063">Judah </gr>
+        <STYLE css="font-style:italic">is </STYLE>
+        <gr str="430">God </gr>
+        <gr str="3045">known</gr>: his <gr str="8034">name </gr>
+        <STYLE css="font-style:italic">is </STYLE>
+        <gr str="1419">great </gr>in <gr str="3478">Israel</gr>. <DIV>
+          <NOTE type="x-studynote">chief…: or, overseer</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">of: or, for</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">In <gr str="8004">Salem </gr>also is his <gr str="5520">tabernacle</gr>, and his dwelling <gr str="4585">place </gr>in <gr str="6726">Zion</gr>.</VERS>
+      <VERS vnumber="3">There he <gr str="7665">broke </gr>the <gr str="7565">arrows </gr>of the <gr str="7198">bow</gr>, the <gr str="4043">shield</gr>, and the <gr str="2719">sword</gr>, and the <gr str="4421">battle</gr>. <gr str="5542">Selah</gr>.</VERS>
+      <VERS vnumber="4">Thou <STYLE css="font-style:italic">art</STYLE> more <gr str="215">glorious </gr>
+        <STYLE css="font-style:italic">and </STYLE>
+        <gr str="117">excellent </gr>than the <gr str="2042">mountains </gr>of <gr str="2964">prey</gr>.</VERS>
+      <VERS vnumber="5">The stout <gr str="47 3820">hearted </gr>are <gr str="7997">spoiled</gr>, they have <gr str="5123">slept </gr>their <gr str="8142">sleep</gr>: and none of the <gr str="582">men </gr>of <gr str="2428">might </gr>have <gr str="4672">found </gr>their <gr str="3027">hands</gr>.</VERS>
+      <VERS vnumber="6">At thy <gr str="1606">rebuke</gr>, O <gr str="430">God </gr>of <gr str="3290">Jacob</gr>, both the <gr str="7393">chariot </gr>and <gr str="5483">horse </gr>are cast into a dead <gr str="7290">sleep</gr>.</VERS>
+      <VERS vnumber="7">Thou, <STYLE css="font-style:italic">even</STYLE> thou, <STYLE css="font-style:italic">art</STYLE> to be <gr str="3372">feared</gr>: and who may <gr str="5975">stand </gr>in thy <gr str="6440">sight </gr>
+        <gr str="227">when </gr>once thou art <gr str="639">angry</gr>?</VERS>
+      <VERS vnumber="8">Thou didst cause <gr str="1779">judgment </gr>to be <gr str="8085">heard </gr>from <gr str="8064">heaven</gr>; the <gr str="776">earth </gr>
+        <gr str="3372">feared</gr>, and was <gr str="8252">still</gr>,</VERS>
+      <VERS vnumber="9">When <gr str="430">God </gr>
+        <gr str="6965">arose </gr>to <gr str="4941">judgment</gr>, to <gr str="3467">save </gr>all the <gr str="6035">meek </gr>of the <gr str="776">earth</gr>. <gr str="5542">Selah</gr>.</VERS>
+      <VERS vnumber="10">Surely the <gr str="2534">wrath </gr>of <gr str="120">man </gr>shall <gr str="3034">praise </gr>thee: the <gr str="7611">remainder </gr>of <gr str="2534">wrath </gr>shalt thou <gr str="2296">restrain</gr>.</VERS>
+      <VERS vnumber="11">
+        <gr str="5087">Vow</gr>, and <gr str="7999">pay </gr>to the <gr str="3068">LORD </gr>your <gr str="430">God</gr>: let all that are <gr str="5439">about </gr>him <gr str="2986">bring </gr>
+        <gr str="7862">presents </gr>to him that ought to be <gr str="4172">feared</gr>. <DIV>
+          <NOTE type="x-studynote">unto him…: Heb. to fear</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="12">He shall cut <gr str="1219">off </gr>the <gr str="7307">spirit </gr>of <gr str="5057">princes</gr>: <STYLE css="font-style:italic">he is </STYLE>
+        <gr str="3372">terrible </gr>to the <gr str="4428">kings </gr>of the <gr str="776">earth</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="133">
+      <VERS vnumber="1"> A <gr str="7892">Song </gr>of <gr str="4609">degrees </gr>of <gr str="1732">David</gr>. <gr str="2009">Behold</gr>, <gr str="4100">how </gr>
+        <gr str="2896">good </gr>and <gr str="4100">how </gr>
+        <gr str="5273">pleasant </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> for <gr str="251">brethren </gr>to <gr str="3427">dwell </gr>together in <gr str="1571 3162">unity</gr>! </VERS>
+      <VERS vnumber="2">
+        <STYLE css="color:#808080;font-style:italic"> It </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> like the <gr str="2896">precious </gr>
+        <gr str="8081">ointment </gr>
+        <gr str="5921">upon </gr>the <gr str="7218">head</gr>, that ran <gr str="3381">down </gr>
+        <gr str="5921">upon </gr>the <gr str="2206">beard</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE>
+        <gr str="175">Aaron </gr>'s <gr str="2206">beard</gr>: that went <gr str="7945 3381">down </gr>
+        <gr str="5921">to </gr>the <gr str="6310">skirts </gr>of his <gr str="4060">garments</gr>; </VERS>
+      <VERS vnumber="3"> As the <gr str="2919">dew </gr>of <gr str="2768">Hermon</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> as </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> dew </STYLE> that <gr str="7945 3381">descended </gr>
+        <gr str="5921">upon </gr>the <gr str="2042">mountains </gr>of <gr str="6726">Zion</gr>: <gr str="3588">for </gr>
+        <gr str="8033">there </gr>the <gr str="3068">LORD </gr>
+        <gr str="6680">commanded </gr>
+        <gr str="*853" />the <gr str="1293">blessing</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE>
+        <gr str="2416">life </gr>
+        <gr str="5704 5769">forevermore</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

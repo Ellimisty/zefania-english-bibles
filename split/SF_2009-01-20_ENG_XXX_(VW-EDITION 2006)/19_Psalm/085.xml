@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="85">
+      <CAPTION vref="1">To the chief Musician. A Psalm for the sons of Korah.</CAPTION>
+      <VERS vnumber="1">Lord, You have been gracious to Your land; You have brought back the captivity of Jacob.</VERS>
+      <VERS vnumber="2">You have forgiven the iniquity of Your people; You have covered all their sin. Selah</VERS>
+      <VERS vnumber="3">You have withdrawn all Your wrath; You have drawn back from Your burning anger.</VERS>
+      <VERS vnumber="4">Restore us, O God of our salvation, and make a break in Your anger toward us.</VERS>
+      <VERS vnumber="5">Will You be angry with us forever? Will You draw out Your anger from generation to generation?</VERS>
+      <VERS vnumber="6">Will You not revive us again, that Your people may rejoice in You?</VERS>
+      <VERS vnumber="7">Show us Your mercy, Jehovah, and grant us Your salvation.</VERS>
+      <VERS vnumber="8">I will hear what Jehovah the Mighty God will speak, for He will speak peace to His people and to His saints; but let them not turn back to folly.</VERS>
+      <VERS vnumber="9">Surely His salvation is near to those who fear Him, that glory may dwell in our land.</VERS>
+      <VERS vnumber="10">Mercy and truth have met together; righteousness and peace have kissed.</VERS>
+      <VERS vnumber="11">Truth shall spring out of the earth, and righteousness shall look down from Heaven.</VERS>
+      <VERS vnumber="12">Yea, Jehovah will give good; and our land shall yield its increase.</VERS>
+      <VERS vnumber="13">Righteousness shall go before Him, and shall set us in the way of His steps.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

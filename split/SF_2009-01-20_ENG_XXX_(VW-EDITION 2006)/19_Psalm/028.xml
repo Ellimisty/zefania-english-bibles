@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="28">
+      <CAPTION vref="1">A Psalm of David.</CAPTION>
+      <VERS vnumber="1">I will cry unto You, O Jehovah my Rock: Do not be silent to me, lest, if You be deaf to me, I become like those who go down into the pit.</VERS>
+      <VERS vnumber="2">Hear the voice of my supplications when I cry out to You, when I lift up my hands toward Your Holy of Holies.</VERS>
+      <VERS vnumber="3">Draw me not away with the wicked, and with the workers of iniquity, who speak peace to their neighbors, yet evil is in their hearts.</VERS>
+      <VERS vnumber="4">Give them according to their deeds, and according to the wickedness of their practices; give them according to the work of their hands; give back to them what they deserve.</VERS>
+      <VERS vnumber="5">Because they do not consider the works of Jehovah nor the works of His hands, He shall destroy them and not build them up.</VERS>
+      <VERS vnumber="6">Blessed is Jehovah, because He has heard the voice of my supplications.</VERS>
+      <VERS vnumber="7">Jehovah is my strength and my shield; my heart has trusted in Him, and I have been helped; therefore my heart greatly rejoices, and with my song I will praise Him.</VERS>
+      <VERS vnumber="8">Jehovah is their strength, and He is the saving refuge of His anointed.</VERS>
+      <VERS vnumber="9">Save Your people, and bless Your inheritance; shepherd them also, and bear them up forever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

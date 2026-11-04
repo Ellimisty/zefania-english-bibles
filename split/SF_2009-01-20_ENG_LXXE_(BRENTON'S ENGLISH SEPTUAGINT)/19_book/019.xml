@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="19">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For the end, a Psalm of David.</STYLE> - The heavens declare the glory of God; and the firmament proclaims the work of his hands.</VERS>
+      <VERS vnumber="2">Day to day <DIV>
+          <NOTE type="x-studynote">Gr. eructat</NOTE>
+        </DIV> utters speech, and night to night proclaims knowledge.</VERS>
+      <VERS vnumber="3">There are no speeches or words, <DIV>
+          <NOTE type="x-studynote">Gr. of which</NOTE>
+        </DIV> in which their voices are not heard.</VERS>
+      <VERS vnumber="4">
+        <DIV>
+          <NOTE type="x-studynote">Ro 10:18</NOTE>
+        </DIV> Their voice is gone out into all the earth, and their words to the ends of the world.</VERS>
+      <VERS vnumber="5">In the sun he has set his tabernacle; and he comes forth as a bridegroom out of his chamber: he will exult as a giant to run his course.</VERS>
+      <VERS vnumber="6">His going forth is from the extremity of heaven, and his <DIV>
+          <NOTE type="x-studynote">Gr. meeting</NOTE>
+        </DIV> circuit to the other end of heaven: and no one shall be hidden from his heat.</VERS>
+      <VERS vnumber="7">The law of the Lord is <DIV>
+          <NOTE type="x-studynote">Gr. spotless</NOTE>
+        </DIV> perfect, converting souls: the testimony of the Lord is faithful, instructing babes.</VERS>
+      <VERS vnumber="8">The ordinances of the Lord are right, rejoicing the heart: the commandment of the Lord is bright, enlightening the eyes.</VERS>
+      <VERS vnumber="9">The fear of the Lord is pure, enduring for ever and ever: the judgements of the Lord are true, and justified altogether.</VERS>
+      <VERS vnumber="10">To be desired more than gold, and much precious stone: sweeter also than honey and the honey-comb.</VERS>
+      <VERS vnumber="11">For thy servant keeps to them: in the keeping of them there is great reward.</VERS>
+      <VERS vnumber="12">Who will understand his transgressions? purge thou me from my secret sins.</VERS>
+      <VERS vnumber="13">And spare thy servant the attack of strangers: if they do not gain the dominion over me, then shall I be blameless, and I shall be clear from great sin.</VERS>
+      <VERS vnumber="14">So shall the sayings of my mouth, and the meditation of my heart, be pleasing continually before thee, O Lord my helper, and my redeemer.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

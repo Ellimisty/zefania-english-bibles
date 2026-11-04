@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="40" bname="Matthew" bsname="Mat">
+    <CHAPTER cnumber="10">
+      <VERS vnumber="1">Calling his twelve Disciples to him, Jesus gave them authority over foul spirits, so that they could drive them out, as well as the power of curing every kind of disease and every kind of sickness.</VERS>
+      <VERS vnumber="2">The names of the twelve apostles are these: First Simon, also known as Peter, and his brother Andrew; James the son of Zebedee, and his brother John;</VERS>
+      <VERS vnumber="3">Philip and Bartholomew; Thomas and Matthew the tax-gather; James the son of Alphaeus, and Thaddaeus;</VERS>
+      <VERS vnumber="4">Simon the Zealot, and Judas Iscariot — the apostle who betrayed him.</VERS>
+      <VERS vnumber="5">These twelve Jesus sent out as his messengers, after giving them these instructions —</VERS>
+      <VERS vnumber="15" />
+      <VERS vnumber="33" />
+      <VERS vnumber="39" />
+      <VERS vnumber="42" />
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

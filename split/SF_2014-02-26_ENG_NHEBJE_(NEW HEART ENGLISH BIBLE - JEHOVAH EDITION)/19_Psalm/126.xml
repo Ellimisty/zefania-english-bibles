@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible - Jehovah Edition" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="126">
+      <VERS vnumber="1">A Song of Ascents.   When <STYLE id="cl:divineName">Jehovah</STYLE> brought back those who returned to Zion,we were like those who dream.</VERS>
+      <VERS vnumber="2">Then our mouth was filled with laughter,and our tongue with singing.Then they said among the nations,"<STYLE id="cl:divineName">Jehovah</STYLE> has done great things for them."</VERS>
+      <VERS vnumber="3">
+        <STYLE id="cl:divineName">Jehovah</STYLE> has done great things for us,and we are glad.</VERS>
+      <VERS vnumber="4">Restore our fortunes again, <STYLE id="cl:divineName">Jehovah</STYLE>,like the streams in the Negev.</VERS>
+      <VERS vnumber="5">Those who sow in tears will reap in joy.</VERS>
+      <VERS vnumber="6">He who goes out weeping, carrying seed for sowing,will certainly come again with joy, carrying his sheaves.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

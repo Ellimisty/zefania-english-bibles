@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="121">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A <gr str="7892">Song </gr>of <gr str="4609">degrees</gr>.</STYLE> I will lift <gr str="5375">up </gr>my <gr str="5869">eyes </gr>to the <gr str="2022">hills</gr>, from <gr str="370">which </gr>
+        <gr str="935">cometh </gr>my <gr str="5828">help</gr>. <DIV>
+          <NOTE type="x-studynote">I will…: or, Shall I lift up mine eyes to the hills? whence should my help come?</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">My <gr str="5828">help </gr>
+        <STYLE css="font-style:italic">cometh</STYLE> from the <gr str="3068">LORD</gr>, who <gr str="6213">made </gr>
+        <gr str="8064">heaven </gr>and <gr str="776">earth</gr>.</VERS>
+      <VERS vnumber="3">He will not <gr str="5414">allow </gr>thy <gr str="7272">foot </gr>to be <gr str="4132">moved</gr>: he that <gr str="8104">keepeth </gr>thee will not <gr str="5123">slumber</gr>.</VERS>
+      <VERS vnumber="4">Behold, he that <gr str="8104">keepeth </gr>
+        <gr str="3478">Israel </gr>shall neither <gr str="5123">slumber </gr>nor <gr str="3462">sleep</gr>.</VERS>
+      <VERS vnumber="5">The <gr str="3068">LORD </gr>
+        <STYLE css="font-style:italic">is</STYLE> thy <gr str="8104">keeper</gr>: the <gr str="3068">LORD </gr>
+        <STYLE css="font-style:italic">is</STYLE> thy <gr str="6738">shade </gr>upon thy <gr str="3225">right </gr>
+        <gr str="3027">hand</gr>.</VERS>
+      <VERS vnumber="6">The <gr str="8121">sun </gr>shall not <gr str="5221">smite </gr>thee by <gr str="3119">day</gr>, nor the <gr str="3394">moon </gr>by <gr str="3915">night</gr>.</VERS>
+      <VERS vnumber="7">The <gr str="3068">LORD </gr>shall <gr str="8104">preserve </gr>thee from all <gr str="7451">evil</gr>: he shall <gr str="8104">preserve </gr>thy <gr str="5315">soul</gr>.</VERS>
+      <VERS vnumber="8">The <gr str="3068">LORD </gr>shall <gr str="8104">preserve </gr>thy going <gr str="3318">out </gr>and thy coming <gr str="935">in </gr>from this time forth, and even <gr str="5704">for </gr>
+        <gr str="5769">evermore</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

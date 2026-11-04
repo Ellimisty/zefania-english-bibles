@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Green's Literal Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="82">
+      <VERS vnumber="1">  A Psalm of Asaph God stands in the assembly of God; He judges in the midst of the gods.</VERS>
+      <VERS vnumber="2"> Until when will you judge unjustly, and lift up the faces of the wicked? Selah.</VERS>
+      <VERS vnumber="3"> Judge the poor and fatherless; do justice to the afflicted and needy.</VERS>
+      <VERS vnumber="4"> Deliver the poor and needy; save out of the hand of the wicked.</VERS>
+      <VERS vnumber="5"> They neither know nor will understand; they walk in darkness; all the foundations of the earth are shaken.</VERS>
+      <VERS vnumber="6"> I have said, You are gods, and all of you are sons of the Most High.</VERS>
+      <VERS vnumber="7"> But you shall die as men, and fall like one of the rulers.</VERS>
+      <VERS vnumber="8"> Rise, O God, judge the earth; for You shall inherit in all the nations.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

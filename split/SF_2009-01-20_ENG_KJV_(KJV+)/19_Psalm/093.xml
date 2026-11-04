@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="93">
+      <VERS vnumber="1"> The <gr str="3068">LORD </gr>
+        <gr str="4427">reigneth</gr>, he is <gr str="3847">clothed </gr>with <gr str="1348">majesty</gr>; the <gr str="3068">LORD </gr>is <gr str="3847">clothed </gr>with <gr str="5797">strength</gr>, <STYLE css="color:#808080;font-style:italic"> wherewith </STYLE> he hath girded <gr str="247">himself</gr>: the <gr str="8398">world </gr>
+        <gr str="637">also </gr>is <gr str="3559">established</gr>, that it <gr str="1077">cannot </gr>be <gr str="4131">moved</gr>. </VERS>
+      <VERS vnumber="2"> Thy <gr str="3678">throne </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3559">established </gr>of <gr str="4480 227">old</gr>: <gr str="859">thou </gr>
+        <STYLE css="color:#808080;font-style:italic"> art </STYLE> from <gr str="4480 5769">everlasting</gr>. </VERS>
+      <VERS vnumber="3"> The <gr str="5104">floods </gr>have lifted <gr str="5375">up</gr>, O <gr str="3068">LORD</gr>, the <gr str="5104">floods </gr>have lifted <gr str="5375">up </gr>their <gr str="6963">voice</gr>; the <gr str="5104">floods </gr>lift <gr str="5375">up </gr>their <gr str="1796">waves</gr>. </VERS>
+      <VERS vnumber="4"> The <gr str="3068">LORD </gr>on <gr str="4791">high </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="117">mightier </gr>than the <gr str="4480 6963">noise </gr>of <gr str="7227">many </gr>
+        <gr str="4325">waters</gr>, <STYLE css="color:#808080;font-style:italic"> yea, </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> than </STYLE> the <gr str="117">mighty </gr>
+        <gr str="4867">waves </gr>of the <gr str="3220">sea</gr>. </VERS>
+      <VERS vnumber="5"> Thy <gr str="5713">testimonies </gr>are <gr str="3966">very </gr>
+        <gr str="539">sure</gr>: <gr str="6944">holiness </gr>
+        <gr str="4998">becometh </gr>thine <gr str="1004">house</gr>, O <gr str="3068">LORD</gr>, <gr str="753 3117">forever</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

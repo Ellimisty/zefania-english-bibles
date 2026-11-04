@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="144">
+      <CAPTION vref="1">A Psalm of David.</CAPTION>
+      <VERS vnumber="1">Blessed is Jehovah my Rock, who teaches my hands for war, and my fingers for battle;</VERS>
+      <VERS vnumber="2">my goodness and my stronghold, my refuge and my deliverer, my shield and the One in whom I trust, who subdues my people under me.</VERS>
+      <VERS vnumber="3">Jehovah, what is man, that You take knowledge of him? Or the son of man, that You are mindful of him?</VERS>
+      <VERS vnumber="4">Man is like a breath; his days are like a shadow that vanishes.</VERS>
+      <VERS vnumber="5">Bow down Your heavens, O Jehovah, and come down; touch the mountains, and they shall smoke.</VERS>
+      <VERS vnumber="6">Cast forth lightning and scatter them; shoot out Your arrows and destroy them.</VERS>
+      <VERS vnumber="7">Extend Your hand from above; rescue me and deliver me out of great waters, from the hand of the sons of foreigners,</VERS>
+      <VERS vnumber="8">whose mouth speaks vanity, and whose right hand is a right hand of deception.</VERS>
+      <VERS vnumber="9">I will sing a new song unto You, O God; upon a lute and an instrument of ten strings I will make music unto You,</VERS>
+      <VERS vnumber="10">the One who gives deliverance to kings; who rescues David His servant from the evil sword.</VERS>
+      <VERS vnumber="11">Rescue me and deliver me from the hand of the sons of foreigners, whose mouth speaks vanity, and whose right hand is a right hand of deception;</VERS>
+      <VERS vnumber="12">that our sons may be as plants brought up in their youth; that our daughters may be like corner stones, carved in the form of a palace;</VERS>
+      <VERS vnumber="13">that our granaries may be full, furnishing kind to kind; and our flocks may bring forth thousands and ten thousands outside;</VERS>
+      <VERS vnumber="14">that our oxen may be laden; that there be no breaking in or going out; that there be no outcry in our streets.</VERS>
+      <VERS vnumber="15">Blessed are the people who are like this; blessed are the people whose God is Jehovah!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

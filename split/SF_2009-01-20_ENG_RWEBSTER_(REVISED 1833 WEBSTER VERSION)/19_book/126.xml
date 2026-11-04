@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="126">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Song of degrees.</STYLE> When the LORD turned again the captivity of Zion, we were like them that dream. <DIV>
+          <NOTE type="x-studynote">turned…: Heb. returned the returning</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The LORD hath done great things for them. <DIV>
+          <NOTE type="x-studynote">hath…: Heb. hath magnified to do with them</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">The LORD hath done great things for us; <STYLE css="font-style:italic">for which</STYLE> we are glad.</VERS>
+      <VERS vnumber="4">Turn again our captivity, O LORD, as the streams in the south.</VERS>
+      <VERS vnumber="5">They that sow in tears shall reap in joy. <DIV>
+          <NOTE type="x-studynote">joy: or, singing</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">He that goeth forth and weepeth, bearing precious seed, shall doubtless return with rejoicing, bringing his sheaves <STYLE css="font-style:italic">with him</STYLE>. <DIV>
+          <NOTE type="x-studynote">precious…: or, seed basket</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="133">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A song of the degrees by David.</STYLE> Behold, how good and how pleasant it is when brethren dwell closely together <STYLE css="font-style:italic">in union</STYLE>!</VERS>
+      <VERS vnumber="2">
+        <STYLE css="font-style:italic">It is</STYLE> like the precious oil upon the head, running down upon the beard, yea, Aarons beard, which runneth down upon the upper border of his garments;</VERS>
+      <VERS vnumber="3">Like the dew of Chermon, running down upon the mountains of Zion; for there hath the Lord commanded the blessing, even life for evermore.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Darby Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="20">
+      <VERS vnumber="1">{To the chief Musician. A Psalm of David.} Jehovah answer thee in the day of trouble; the name of the God of Jacob protect thee;</VERS>
+      <VERS vnumber="2">May he send thee help from the sanctuary, and strengthen thee out of Zion;</VERS>
+      <VERS vnumber="3">Remember all thine oblations, and accept thy burnt-offering; Selah.</VERS>
+      <VERS vnumber="4">Grant thee according to thy heart, and fulfil all thy counsels.</VERS>
+      <VERS vnumber="5">We will triumph in thy salvation, and in the name of our God will we set up our banners. Jehovah fulfil all thy petitions!</VERS>
+      <VERS vnumber="6">Now know I that Jehovah saveth his anointed; he answereth him from the heavens of his holiness, with the saving strength of his right hand.</VERS>
+      <VERS vnumber="7">Some make mention of chariots, and some of horses, but we of the name of Jehovah our God.</VERS>
+      <VERS vnumber="8">They are bowed down and fallen; but we are risen and stand upright.</VERS>
+      <VERS vnumber="9">Save, Jehovah! Let the king answer us in the day we call.</VERS>
+      <VERS vnumber="10" />
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

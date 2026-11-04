@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="John Wycliffe Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="133">
+      <VERS vnumber="1">
+The `title of the hundrid and thre and thrittithe salm. The song of greces. Lo! now blesse ye the Lord; alle the seruauntis of the Lord. Ye that stonden in the hous of the Lord; in the hallis of `the hous of oure God.
+</VERS>
+      <VERS vnumber="2">
+In nyytis reise youre hondis in to hooli thingis; and blesse ye the Lord.
+</VERS>
+      <VERS vnumber="3">
+The Lord blesse thee fro Syon; which Lord made heuene and erthe.
+</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible (YHWH)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bsname="PSA">
+    <CHAPTER cnumber="54">
+      <VERS vnumber="1" />
+      <VERS vnumber="2">Hear my prayer, God. Listen to the words of my mouth.</VERS>
+      <VERS vnumber="3">For strangers have risen up against me. Violent men have sought after my soul. They haven't set God before them. Selah.</VERS>
+      <VERS vnumber="4">Behold, God is my helper. The Lord is the one who sustains my soul.</VERS>
+      <VERS vnumber="5">He will repay the evil to my enemies. Destroy them in your truth.</VERS>
+      <VERS vnumber="6">With a free will offering, I will sacrifice to you. I will give thanks to your name, YHWH, for it is good.</VERS>
+      <VERS vnumber="7">For he has delivered me out of all trouble. My eye has seen triumph over my enemies.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

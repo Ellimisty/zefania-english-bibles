@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="70">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief <gr str="5329">Musician</gr>, [A Psalm] of <gr str="1732">David</gr>, to bring to <gr str="2142">remembrance</gr>.</STYLE>
+        <STYLE css="font-style:italic">Make haste</STYLE>, O <gr str="430">God</gr>, to <gr str="5337">deliver </gr>me; make <gr str="2363">haste </gr>to <gr str="5833">help </gr>me, O <gr str="3068">LORD</gr>. <DIV>
+          <NOTE type="x-studynote">to help…: Heb. to my help</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">Let them be <gr str="954">ashamed </gr>and <gr str="2659">confounded </gr>that <gr str="1245">seek </gr>after my <gr str="5315">soul</gr>: let them be <gr str="5472">turned </gr>
+        <gr str="268">backward</gr>, and put to <gr str="3637">confusion</gr>, that <gr str="2655">desire </gr>my <gr str="7451">hurt</gr>.</VERS>
+      <VERS vnumber="3">Let them be turned <gr str="7725">back </gr>for a <gr str="6118">reward </gr>of their <gr str="1322">shame </gr>that <gr str="559">say</gr>, <gr str="1889">Aha</gr>, <gr str="1889">aha</gr>.</VERS>
+      <VERS vnumber="4">Let all those that <gr str="1245">seek </gr>thee <gr str="7797">rejoice </gr>and be <gr str="8055">glad </gr>in thee: and let such as <gr str="157">love </gr>thy <gr str="3444">salvation </gr>
+        <gr str="559">say </gr>
+        <gr str="8548">continually</gr>, Let <gr str="430">God </gr>be <gr str="1431">magnified</gr>.</VERS>
+      <VERS vnumber="5">But I <STYLE css="font-style:italic">am </STYLE>
+        <gr str="6041">poor </gr>and <gr str="34">needy</gr>: make <gr str="2363">haste </gr>to me, O <gr str="430">God</gr>: thou <STYLE css="font-style:italic">art</STYLE> my <gr str="5828">help </gr>and my <gr str="6403">deliverer</gr>; O <gr str="3068">LORD</gr>, make no <gr str="309">delay</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

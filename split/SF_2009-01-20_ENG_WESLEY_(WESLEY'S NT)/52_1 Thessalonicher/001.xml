@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Wesley's NT" type="x-bible">
+  <BIBLEBOOK bnumber="52" bname="1 Thessalonicher" bsname="1Thes">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">Paul and Silvanus and Timotheus to the church of the Thessalonians in God the Father and the Lord Jesus Christ, Grace be unto you and Peace from God our Father and the Lord Jesus Christ.</VERS>
+      <VERS vnumber="2">We give thanks to God always for you all (making mention of you in our prayers,</VERS>
+      <VERS vnumber="3">Remembring without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of our God and Father:</VERS>
+      <VERS vnumber="4">) Knowing, beloved brethren, your election of God.</VERS>
+      <VERS vnumber="5">For our gospel came not to you in word only, but also with power, and with the Holy Ghost, and with much assurance; as ye know what manner of men we were among you, for your sake.</VERS>
+      <VERS vnumber="6">And ye became imitators of us and of the Lord, having received the word in much affliction, with joy of the Holy Ghost.</VERS>
+      <VERS vnumber="7">So that ye became examples to all that believed in Macedonia and Achaia.</VERS>
+      <VERS vnumber="8">For from you the word of the Lord sounded forth, not only in Macedonia and Achaia, but your faith toward God went abroad in every place also, so that we need not speak any thing.</VERS>
+      <VERS vnumber="9">For they themselves declare concerning us, what manner of entrance to you we had, and how ye turned from idols to God,</VERS>
+      <VERS vnumber="10">to serve the living and true God, And to wait for his Son from heaven, whom he hath raised from the dead, even Jesus, who delivereth us from the wrath to come.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

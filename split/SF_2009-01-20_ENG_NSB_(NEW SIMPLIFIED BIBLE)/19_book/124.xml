@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="124">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">»If Jehovah was not on our side,« let Israel now say:</VERS>
+      <VERS vnumber="2">»If Jehovah was not on our side when men rose up against us:</VERS>
+      <VERS vnumber="3">»Then they would have swallowed us up quickly, when their wrath was kindled against us.</VERS>
+      <VERS vnumber="4">»Then the waters would have overwhelmed us, yes the stream would have gone over us.</VERS>
+      <VERS vnumber="5">»Then the proud waters would flow over us.</VERS>
+      <VERS vnumber="6">»Blessed is Jehovah, who has not given us as a prey to their teeth.</VERS>
+      <VERS vnumber="7">»We escaped as a bird out of the trap of fowlers <STYLE css="font-style:italic">bird catchers</STYLE>. The trap is broken, and we have escaped.</VERS>
+      <VERS vnumber="8">»Our help is in the name of Jehovah, who made heaven and earth.«</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

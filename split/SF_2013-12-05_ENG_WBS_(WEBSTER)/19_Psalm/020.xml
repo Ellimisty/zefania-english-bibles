@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Webster" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="20">
+      <VERS vnumber="1">+</VERS>
+      <VERS vnumber="2">\20:1\To the chief Musician, A Psalm of David. The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee.</VERS>
+      <VERS vnumber="3">\20:2\Send thee help from the sanctuary, and strengthen thee out of Zion.</VERS>
+      <VERS vnumber="4">\20:3\Remember all thy offerings, and accept thy burnt-sacrifice. Selah.</VERS>
+      <VERS vnumber="5">\20:4\Grant thee according to thy own heart, and fulfill all thy counsel.</VERS>
+      <VERS vnumber="6">\20:5\We will rejoice in thy salvation, and in the name of our God we will set up our banners: the LORD fulfill all thy petitions.</VERS>
+      <VERS vnumber="7">\20:6\Now I know that the LORD saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand.</VERS>
+      <VERS vnumber="8">\20:7\Some trust in chariots, and some in horses: but we will remember the name of the LORD our God.</VERS>
+      <VERS vnumber="9">\20:8\They are brought down and fallen: but we are raised, and stand upright.</VERS>
+      <VERS vnumber="10">\20:9\Save, LORD: let the king hear us when we call.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

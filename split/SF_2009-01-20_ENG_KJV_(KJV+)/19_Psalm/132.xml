@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="132">
+      <VERS vnumber="1"> A <gr str="7892">Song </gr>of <gr str="4609">degrees</gr>. <gr str="3068">LORD</gr>, <gr str="2142">remember </gr>
+        <gr str="1732">David</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="*853" />
+        <gr str="3605">all </gr>his <gr str="6031">afflictions</gr>: </VERS>
+      <VERS vnumber="2">
+        <gr str="834">How </gr>he <gr str="7650">swore </gr>unto the <gr str="3068">LORD</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="5087">vowed </gr>unto the <gr str="46">mighty </gr>
+        <STYLE css="color:#808080;font-style:italic"> God </STYLE> of <gr str="3290">Jacob</gr>; </VERS>
+      <VERS vnumber="3">
+        <gr str="518">Surely </gr>I will not <gr str="935">come </gr>into the <gr str="168">tabernacle </gr>of my <gr str="1004">house</gr>, <gr str="518">nor </gr>go <gr str="5927">up </gr>
+        <gr str="5921">into </gr>my <gr str="6210 3326">bed</gr>; </VERS>
+      <VERS vnumber="4"> I will <gr str="518">not </gr>
+        <gr str="5414">give </gr>
+        <gr str="8153">sleep </gr>to mine <gr str="5869">eyes</gr>, <STYLE css="color:#808080;font-style:italic"> or </STYLE>
+        <gr str="8572">slumber </gr>to mine <gr str="6079">eyelids</gr>, </VERS>
+      <VERS vnumber="5">
+        <gr str="5704">Until </gr>I find <gr str="4672">out </gr>a <gr str="4725">place </gr>for the <gr str="3068">LORD</gr>, a <gr str="4908">habitation </gr>for the <gr str="46">mighty </gr>
+        <STYLE css="color:#808080;font-style:italic"> God </STYLE> of <gr str="3290">Jacob</gr>. </VERS>
+      <VERS vnumber="6">
+        <gr str="2009">Lo</gr>, we <gr str="8085">heard </gr>of it at <gr str="672">Ephratah</gr>: we <gr str="4672">found </gr>it in the <gr str="7704">fields </gr>of the <gr str="3293">wood</gr>. </VERS>
+      <VERS vnumber="7"> We will <gr str="935">go </gr>into his <gr str="4908">tabernacles</gr>: we will <gr str="7812">worship </gr>at his <gr str="1916 7272">footstool</gr>. </VERS>
+      <VERS vnumber="8">
+        <gr str="6965">Arise</gr>, O <gr str="3068">LORD</gr>, into thy <gr str="4496">rest</gr>; <gr str="859">thou</gr>, and the <gr str="727">ark </gr>of thy <gr str="5797">strength</gr>. </VERS>
+      <VERS vnumber="9"> Let thy <gr str="3548">priests </gr>be <gr str="3847">clothed </gr>with <gr str="6664">righteousness</gr>; and let thy <gr str="2623">saints </gr>shout for <gr str="7442">joy</gr>. </VERS>
+      <VERS vnumber="10"> For thy <gr str="5650">servant </gr>
+        <gr str="1732">David </gr>'s <gr str="5668">sake </gr>turn not <gr str="7725 408">away </gr>the <gr str="6440">face </gr>of thine <gr str="4899">anointed</gr>. </VERS>
+      <VERS vnumber="11"> The <gr str="3068">LORD </gr>hath <gr str="7650">sworn </gr>
+        <STYLE css="color:#808080;font-style:italic"> in </STYLE>
+        <gr str="571">truth </gr>unto <gr str="1732">David</gr>; he will <gr str="3808">not </gr>
+        <gr str="7725">turn </gr>
+        <gr str="4480">from </gr>it; Of the <gr str="4480 6529">fruit </gr>of thy <gr str="990">body </gr>will I <gr str="7896">set </gr>upon thy <gr str="3678">throne</gr>. </VERS>
+      <VERS vnumber="12">
+        <gr str="518">If </gr>thy <gr str="1121">children </gr>will <gr str="8104">keep </gr>my <gr str="1285">covenant </gr>and my <gr str="5713">testimony </gr>
+        <gr str="2097">that </gr>I shall <gr str="3925">teach </gr>them, their <gr str="1121">children </gr>shall <gr str="1571">also </gr>
+        <gr str="3427">sit </gr>upon thy <gr str="3678">throne </gr>
+        <gr str="5704 5703">forevermore</gr>. </VERS>
+      <VERS vnumber="13">
+        <gr str="3588">For </gr>the <gr str="3068">LORD </gr>hath <gr str="977">chosen </gr>
+        <gr str="6726">Zion</gr>; he hath <gr str="183">desired </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE> for his <gr str="4186">habitation</gr>. </VERS>
+      <VERS vnumber="14">
+        <gr str="2063">This </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> my <gr str="4496">rest </gr>
+        <gr str="5704 5703">forever</gr>: <gr str="6311">here </gr>will I <gr str="3427">dwell</gr>; <gr str="3588">for </gr>I have <gr str="183">desired </gr>it. </VERS>
+      <VERS vnumber="15"> I will abundantly <gr str="1288 1288">bless </gr>her <gr str="6718">provision</gr>: I will <gr str="7646">satisfy </gr>her <gr str="34">poor </gr>with <gr str="3899">bread</gr>. </VERS>
+      <VERS vnumber="16"> I will also <gr str="3847">clothe </gr>her <gr str="3548">priests </gr>with <gr str="3468">salvation</gr>: and her <gr str="2623">saints </gr>shall shout aloud for <gr str="7442 7442">joy</gr>. </VERS>
+      <VERS vnumber="17">
+        <gr str="8033">There </gr>will I make the <gr str="7161">horn </gr>of <gr str="1732">David </gr>to <gr str="6779">bud</gr>: I have <gr str="6186">ordained </gr>a <gr str="5216">lamp </gr>for mine <gr str="4899">anointed</gr>. </VERS>
+      <VERS vnumber="18"> His <gr str="341">enemies </gr>will I <gr str="3847">clothe </gr>with <gr str="1322">shame</gr>: but <gr str="5921">upon </gr>himself shall his <gr str="5145">crown </gr>
+        <gr str="6692">flourish</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

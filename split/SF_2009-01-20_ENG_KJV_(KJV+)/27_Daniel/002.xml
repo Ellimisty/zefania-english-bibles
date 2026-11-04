@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="27" bname="Daniel" bsname="Dan">
+    <CHAPTER cnumber="2">
+      <VERS vnumber="1"> And in the <gr str="8147">second </gr>
+        <gr str="8141">year </gr>of the <gr str="4438">reign </gr>of <gr str="5019">Nebuchadnezzar </gr>
+        <gr str="5019">Nebuchadnezzar </gr>
+        <gr str="2492">dreamed </gr>
+        <gr str="2472">dreams</gr>, wherewith his <gr str="7307">spirit </gr>was <gr str="6470">troubled</gr>, and his <gr str="8142">sleep </gr>
+        <gr str="1961">broke </gr>
+        <gr str="5921">from </gr>him. </VERS>
+      <VERS vnumber="2"> Then the <gr str="4428">king </gr>
+        <gr str="559">commanded </gr>to <gr str="7121">call </gr>the <gr str="2748">magicians</gr>, and the <gr str="825">astrologers</gr>, and the <gr str="3784">sorcerers</gr>, and the <gr str="3778">Chaldeans</gr>, for to <gr str="5046">show </gr>the <gr str="4428">king </gr>his <gr str="2472">dreams</gr>. So they <gr str="935">came </gr>and <gr str="5975">stood </gr>
+        <gr str="6440">before </gr>the <gr str="4428">king</gr>. </VERS>
+      <VERS vnumber="3"> And the <gr str="4428">king </gr>
+        <gr str="559">said </gr>unto them, I have <gr str="2492">dreamed </gr>a <gr str="2472">dream</gr>, and my <gr str="7307">spirit </gr>was <gr str="6470">troubled </gr>to <gr str="3045">know </gr>
+        <gr str="*853" />the <gr str="2472">dream</gr>. </VERS>
+      <VERS vnumber="4"> Then <gr str="1696">spoke </gr>the <gr str="3778">Chaldeans </gr>to the <gr str="4428">king </gr>in <gr str="762">Syriac</gr>, O <gr str="4430">king</gr>, <gr str="2418">live </gr>
+        <gr str="5957">forever</gr>: <gr str="560">tell </gr>thy <gr str="5649">servants </gr>the <gr str="2493">dream</gr>, and we will <gr str="2324">show </gr>the <gr str="6591">interpretation</gr>. </VERS>
+      <VERS vnumber="5"> The <gr str="4430">king </gr>
+        <gr str="6032">answered </gr>and <gr str="560">said </gr>to the <gr str="3779">Chaldeans</gr>, The <gr str="4406">thing </gr>is <gr str="230">gone </gr>
+        <gr str="4481">from </gr>me: <gr str="2006">if </gr>ye will <gr str="3809">not </gr>make <gr str="3046">known </gr>unto me the <gr str="2493">dream</gr>, with the <gr str="6591">interpretation </gr>thereof, ye shall be <gr str="5648">cut </gr>in <gr str="1917">pieces</gr>, and your <gr str="1005">houses </gr>shall be <gr str="7761">made </gr>a <gr str="5122">dunghill</gr>. </VERS>
+      <VERS vnumber="6"> But <gr str="2006">if </gr>ye <gr str="2324">show </gr>the <gr str="2493">dream</gr>, and the <gr str="6591">interpretation </gr>thereof, ye shall <gr str="6902">receive </gr>
+        <gr str="4481 6925">of </gr>me <gr str="4978">gifts </gr>and <gr str="5023">rewards </gr>and <gr str="7690">great </gr>
+        <gr str="3367">honor</gr>: <gr str="3861">therefore </gr>
+        <gr str="2324">show </gr>me the <gr str="2493">dream</gr>, and the <gr str="6591">interpretation </gr>thereof. </VERS>
+      <VERS vnumber="7"> They <gr str="6032">answered </gr>
+        <gr str="8579">again </gr>and <gr str="560">said</gr>, Let the <gr str="4430">king </gr>
+        <gr str="560">tell </gr>his <gr str="5649">servants </gr>the <gr str="2493">dream</gr>, and we will <gr str="2324">show </gr>the <gr str="6591">interpretation </gr>of it. </VERS>
+      <VERS vnumber="8"> The <gr str="4430">king </gr>
+        <gr str="6032">answered </gr>and <gr str="560">said</gr>, <gr str="576">I </gr>
+        <gr str="3046">know </gr>
+        <gr str="4481">of </gr>
+        <gr str="3330">certainty </gr>
+        <gr str="1768">that </gr>
+        <gr str="608">ye </gr>would <gr str="2084">gain </gr>the <gr str="5732">time</gr>, <gr str="3606 6903 1768">because </gr>ye <gr str="2370 1768">see </gr>the <gr str="4406">thing </gr>is <gr str="230">gone </gr>
+        <gr str="4481">from </gr>me. </VERS>
+      <VERS vnumber="9">
+        <gr str="1768">But </gr>
+        <gr str="2006">if </gr>ye will <gr str="3809">not </gr>make <gr str="3046">known </gr>unto me the <gr str="2493">dream</gr>, <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> but </STYLE>
+        <gr str="2298">one </gr>
+        <gr str="1882">decree </gr>for you: for ye have <gr str="2164">prepared </gr>
+        <gr str="3538">lying </gr>and <gr str="7844">corrupt </gr>
+        <gr str="4406">words </gr>to <gr str="560">speak </gr>
+        <gr str="6925">before </gr>me, <gr str="5705 1768">till </gr>the <gr str="5732">time </gr>be <gr str="8133">changed</gr>: <gr str="3861">therefore </gr>
+        <gr str="560">tell </gr>me the <gr str="2493">dream</gr>, and I shall <gr str="3046">know </gr>
+        <gr str="1768">that </gr>ye can <gr str="2324">show </gr>me the <gr str="6591">interpretation </gr>thereof. </VERS>
+      <VERS vnumber="10"> The <gr str="3779">Chaldeans </gr>
+        <gr str="6032">answered </gr>
+        <gr str="6925">before </gr>the <gr str="4430">king</gr>, and <gr str="560">said</gr>, There <gr str="383">is </gr>
+        <gr str="3809">not </gr>a <gr str="606">man </gr>
+        <gr str="5922">upon </gr>the <gr str="3007">earth </gr>
+        <gr str="1768">that </gr>
+        <gr str="3202">can </gr>
+        <gr str="2324">show </gr>the <gr str="4430">king </gr>'s <gr str="4406">matter</gr>: <gr str="3606 6903 1768">therefore </gr>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3809 3606">no </gr>
+        <gr str="4430">king</gr>, <gr str="7229">lord</gr>, nor <gr str="7990">ruler</gr>, <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <gr str="7593">asked </gr>such <gr str="1836">things </gr>at <gr str="3606">any </gr>
+        <gr str="2749">magician</gr>, or <gr str="826">astrologer</gr>, or <gr str="3779">Chaldean</gr>. </VERS>
+      <VERS vnumber="11"> And <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="3358">rare </gr>
+        <gr str="4406">thing </gr>
+        <gr str="1768">that </gr>the <gr str="4430">king </gr>
+        <gr str="7593">requireth</gr>, and there <gr str="383">is </gr>
+        <gr str="3809">none </gr>
+        <gr str="321">other </gr>
+        <gr str="1768">that </gr>can <gr str="2324">show </gr>it <gr str="6925">before </gr>the <gr str="4430">king</gr>, <gr str="3861">except </gr>the <gr str="426">gods</gr>, <gr str="1768">whose </gr>
+        <gr str="4070">dwelling </gr>
+        <gr str="383">is </gr>
+        <gr str="3809">not </gr>
+        <gr str="5974">with </gr>
+        <gr str="1321">flesh</gr>. </VERS>
+      <VERS vnumber="12"> For this <gr str="3606 6903 1836">cause </gr>the <gr str="4430">king </gr>was <gr str="1149">angry </gr>and <gr str="7690">very </gr>
+        <gr str="7108">furious</gr>, and <gr str="560">commanded </gr>to <gr str="7">destroy </gr>
+        <gr str="3606">all </gr>the <gr str="2445">wise </gr>
+        <STYLE css="color:#808080;font-style:italic"> men </STYLE> of <gr str="895">Babylon</gr>. </VERS>
+      <VERS vnumber="13"> And the <gr str="1882">decree </gr>went <gr str="5312">forth </gr>that the <gr str="2445">wise </gr>
+        <STYLE css="color:#808080;font-style:italic"> men </STYLE> should be <gr str="6992">slain</gr>; and they <gr str="1156">sought </gr>
+        <gr str="1841">Daniel </gr>and his <gr str="2269">fellows </gr>to be <gr str="6992">slain</gr>. </VERS>
+      <VERS vnumber="14">
+        <gr str="116">Then </gr>
+        <gr str="1841">Daniel </gr>
+        <gr str="8421">answered </gr>with <gr str="5843">counsel </gr>and <gr str="2942">wisdom </gr>to <gr str="746">Arioch </gr>the <gr str="7229">captain </gr>
+        <gr str="1768">of </gr>the <gr str="4430">king </gr>'s <gr str="2877">guard</gr>, <gr str="1768">which </gr>was gone <gr str="5312">forth </gr>to <gr str="6992">slay </gr>the <gr str="2445">wise </gr>
+        <STYLE css="color:#808080;font-style:italic"> men </STYLE> of <gr str="895">Babylon</gr>: </VERS>
+      <VERS vnumber="15"> He <gr str="6032">answered </gr>and <gr str="560">said </gr>to <gr str="746">Arioch </gr>the <gr str="1768 4430">king </gr>'s <gr str="7990">captain</gr>, <gr str="5922 4101">Why </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="1882">decree </gr>
+        <STYLE css="color:#808080;font-style:italic"> so </STYLE>
+        <gr str="2685">hasty </gr>
+        <gr str="4481 6925">from </gr>the <gr str="4430">king</gr>? <gr str="116">Then </gr>
+        <gr str="746">Arioch </gr>made the thing <gr str="3046 4406">known </gr>to <gr str="1841">Daniel</gr>. </VERS>
+      <VERS vnumber="16"> Then <gr str="1841">Daniel </gr>went <gr str="5954">in</gr>, and <gr str="1156">desired </gr>
+        <gr str="4481">of </gr>the <gr str="4430">king </gr>
+        <gr str="1768">that </gr>he would <gr str="5415">give </gr>him <gr str="2166">time</gr>, and that he would <gr str="2324">show </gr>the <gr str="4430">king </gr>the <gr str="6591">interpretation</gr>. </VERS>
+      <VERS vnumber="17">
+        <gr str="116">Then </gr>
+        <gr str="1841">Daniel </gr>
+        <gr str="236">went </gr>to his <gr str="1005">house</gr>, and made the thing <gr str="3046 4406">known </gr>to <gr str="2608">Hananiah</gr>, <gr str="4333">Mishael</gr>, and <gr str="5839">Azariah</gr>, his <gr str="2269">companions</gr>: </VERS>
+      <VERS vnumber="18"> That they would <gr str="1156">desire </gr>
+        <gr str="7359">mercies </gr>
+        <gr str="4481 6925">of </gr>the <gr str="426">God </gr>of <gr str="8065">heaven </gr>
+        <gr str="5922">concerning </gr>
+        <gr str="1836">this </gr>
+        <gr str="7328">secret</gr>; <gr str="1768">that </gr>
+        <gr str="1841">Daniel </gr>and his <gr str="2269">fellows </gr>should <gr str="3809">not </gr>
+        <gr str="7">perish </gr>
+        <gr str="5974">with </gr>the <gr str="7606">rest </gr>of the <gr str="2445">wise </gr>
+        <STYLE css="color:#808080;font-style:italic"> men </STYLE> of <gr str="895">Babylon</gr>. </VERS>
+      <VERS vnumber="19">
+        <gr str="116">Then </gr>was the <gr str="7328">secret </gr>
+        <gr str="1541">revealed </gr>unto <gr str="1841">Daniel </gr>in a <gr str="1768 3916">night </gr>
+        <gr str="2376">vision</gr>. <gr str="116">Then </gr>
+        <gr str="1841">Daniel </gr>
+        <gr str="1289">blessed </gr>the <gr str="426">God </gr>of <gr str="8065">heaven</gr>. </VERS>
+      <VERS vnumber="20">
+        <gr str="1841">Daniel </gr>
+        <gr str="6032">answered </gr>and <gr str="560">said</gr>, <gr str="1289">Blessed </gr>
+        <gr str="1934">be </gr>the <gr str="8036">name </gr>
+        <gr str="1768">of </gr>
+        <gr str="426">God </gr>forever and <gr str="4481 5957 5705 5957">ever</gr>: <gr str="1768">for </gr>
+        <gr str="2452">wisdom </gr>and <gr str="1370">might </gr>are his: </VERS>
+      <VERS vnumber="21"> And <gr str="1932">he </gr>
+        <gr str="8133">changeth </gr>the <gr str="5732">times </gr>and the <gr str="2166">seasons</gr>: he <gr str="5709">removeth </gr>
+        <gr str="4430">kings</gr>, and setteth <gr str="6966">up </gr>
+        <gr str="4430">kings</gr>: he <gr str="3052">giveth </gr>
+        <gr str="2452">wisdom </gr>unto the <gr str="2445">wise</gr>, and <gr str="4486">knowledge </gr>to them that <gr str="3046">know </gr>
+        <gr str="999">understanding</gr>: </VERS>
+      <VERS vnumber="22">
+        <gr str="1932">He </gr>
+        <gr str="1541">revealeth </gr>the <gr str="5994">deep </gr>and secret <gr str="5642">things</gr>: he <gr str="3046">knoweth </gr>
+        <gr str="4101">what </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> in the <gr str="2816">darkness</gr>, and the <gr str="5094">light </gr>
+        <gr str="8271">dwelleth </gr>
+        <gr str="5974">with </gr>him. </VERS>
+      <VERS vnumber="23">
+        <gr str="576">I </gr>
+        <gr str="3029">thank </gr>thee, and <gr str="7624">praise </gr>thee, O thou <gr str="426">God </gr>of my <gr str="2">fathers</gr>, <gr str="1768">who </gr>hast <gr str="3052">given </gr>me <gr str="2452">wisdom </gr>and <gr str="1370">might</gr>, and hast made <gr str="3046">known </gr>unto me <gr str="3705">now </gr>
+        <gr str="1768">what </gr>we <gr str="1156">desired </gr>
+        <gr str="4481">of </gr>thee: <gr str="1768">for </gr>thou hast <STYLE css="color:#808080;font-style:italic"> now </STYLE> made <gr str="3046">known </gr>unto us the <gr str="4430">king </gr>'s <gr str="4406">matter</gr>. </VERS>
+      <VERS vnumber="24">
+        <gr str="3606 6903 1836">Therefore </gr>
+        <gr str="1841">Daniel </gr>went <gr str="5954">in </gr>
+        <gr str="5922">unto </gr>
+        <gr str="746">Arioch</gr>, <gr str="1768">whom </gr>the <gr str="4430">king </gr>had <gr str="4483">ordained </gr>to <gr str="7">destroy </gr>the <gr str="2445">wise </gr>
+        <STYLE css="color:#808080;font-style:italic"> men </STYLE> of <gr str="895">Babylon</gr>: he <gr str="236">went </gr>and <gr str="560">said </gr>
+        <gr str="3652">thus </gr>unto him; <gr str="7">Destroy </gr>
+        <gr str="409">not </gr>the <gr str="2445">wise </gr>
+        <STYLE css="color:#808080;font-style:italic"> men </STYLE> of <gr str="895">Babylon</gr>: bring me <gr str="5924">in </gr>
+        <gr str="6925">before </gr>the <gr str="4430">king</gr>, and I will <gr str="2324">show </gr>unto the <gr str="4430">king </gr>the <gr str="6591">interpretation</gr>. </VERS>
+      <VERS vnumber="25">
+        <gr str="116">Then </gr>
+        <gr str="746">Arioch </gr>brought <gr str="5954">in </gr>
+        <gr str="1841">Daniel </gr>
+        <gr str="6925">before </gr>the <gr str="4430">king </gr>in <gr str="927">haste</gr>, and <gr str="560">said </gr>
+        <gr str="3652">thus </gr>unto him, I have <gr str="7912">found </gr>a <gr str="1400">man </gr>
+        <gr str="4481">of </gr>the <gr str="1123 1547">captives </gr>
+        <gr str="1768">of </gr>
+        <gr str="3061">Judah</gr>, <gr str="1768">that </gr>will make <gr str="3046">known </gr>unto the <gr str="4430">king </gr>the <gr str="6591">interpretation</gr>. </VERS>
+      <VERS vnumber="26"> The <gr str="4430">king </gr>
+        <gr str="6032">answered </gr>and <gr str="560">said </gr>to <gr str="1841">Daniel</gr>, <gr str="1768">whose </gr>
+        <gr str="8036">name </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="1096">Belteshazzar</gr>, <gr str="383">Art </gr>thou <gr str="3546">able </gr>to make <gr str="3046">known </gr>unto me the <gr str="2493">dream </gr>
+        <gr str="1768">which </gr>I have <gr str="2370">seen</gr>, and the <gr str="6591">interpretation </gr>thereof? </VERS>
+      <VERS vnumber="27">
+        <gr str="1841">Daniel </gr>
+        <gr str="6032">answered </gr>in the presence <gr str="6925">of </gr>the <gr str="4430">king</gr>, and <gr str="560">said</gr>, The <gr str="7328">secret </gr>
+        <gr str="1768">which </gr>the <gr str="4430">king </gr>hath <gr str="7593">demanded </gr>
+        <gr str="3202 3809">cannot </gr>the <gr str="2445">wise </gr>
+        <STYLE css="color:#808080;font-style:italic"> men </STYLE>, the <gr str="826">astrologers</gr>, the <gr str="2749">magicians</gr>, the <gr str="1505">soothsayers</gr>, <gr str="2324">show </gr>unto the <gr str="4430">king</gr>; </VERS>
+      <VERS vnumber="28">
+        <gr str="1297">But </gr>there <gr str="383">is </gr>a <gr str="426">God </gr>in <gr str="8065">heaven </gr>that <gr str="1541">revealeth </gr>
+        <gr str="7328">secrets</gr>, and maketh <gr str="3046">known </gr>to the <gr str="4430">king </gr>
+        <gr str="5020">Nebuchadnezzar </gr>
+        <gr str="4101 1768">what </gr>shall <gr str="1934">be </gr>in the <gr str="320">latter </gr>
+        <gr str="3118">days</gr>. Thy <gr str="2493">dream</gr>, and the <gr str="2376">visions </gr>of thy <gr str="7217">head </gr>
+        <gr str="5922">upon </gr>thy <gr str="4903">bed</gr>, are <gr str="1836">these</gr>; </VERS>
+      <VERS vnumber="29"> As for <gr str="607">thee</gr>, O <gr str="4430">king</gr>, thy <gr str="7476">thoughts </gr>
+        <gr str="5559">came </gr>
+        <STYLE css="color:#808080;font-style:italic"> into </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> thy </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> mind </STYLE>
+        <gr str="5922">upon </gr>thy <gr str="4903">bed</gr>, <gr str="4101 1768">what </gr>should come to <gr str="1934">pass </gr>
+        <gr str="311 1836">hereafter</gr>: and he that <gr str="1541">revealeth </gr>
+        <gr str="7328">secrets </gr>maketh <gr str="3046">known </gr>to thee <gr str="4101 1768">what </gr>shall come to <gr str="1934">pass</gr>. </VERS>
+      <VERS vnumber="30"> But as for <gr str="576">me</gr>, <gr str="1836">this </gr>
+        <gr str="7328">secret </gr>is <gr str="3809">not </gr>
+        <gr str="1541">revealed </gr>to me for <STYLE css="color:#808080;font-style:italic"> any </STYLE>
+        <gr str="2452">wisdom </gr>
+        <gr str="1768">that </gr>I <gr str="383">have </gr>more <gr str="4481">than </gr>
+        <gr str="3606">any </gr>
+        <gr str="2417">living</gr>, <gr str="3861">but </gr>for <STYLE css="color:#808080;font-style:italic"> their </STYLE>
+        <gr str="5922 1701">sakes </gr>
+        <gr str="1768">that </gr>shall make <gr str="3046">known </gr>the <gr str="6591">interpretation </gr>to the <gr str="4430">king</gr>, and that thou mightest <gr str="3046">know </gr>the <gr str="7476">thoughts </gr>of thy <gr str="3825">heart</gr>. </VERS>
+      <VERS vnumber="31">
+        <gr str="607">Thou</gr>, O <gr str="4430">king</gr>, <gr str="2370 1934">sawest</gr>, and <gr str="431">behold </gr>
+        <gr str="2298">a </gr>
+        <gr str="7690">great </gr>
+        <gr str="6755">image</gr>. <gr str="1797">This </gr>
+        <gr str="7229">great </gr>
+        <gr str="6755">image</gr>, whose <gr str="2122">brightness </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="3493">excellent</gr>, <gr str="6966">stood </gr>
+        <gr str="6903">before </gr>thee; and the <gr str="7299">form </gr>thereof <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="1763">terrible</gr>. </VERS>
+      <VERS vnumber="32">
+        <gr str="1932">This </gr>
+        <gr str="6755">image </gr>'s <gr str="7217">head </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="1768">of </gr>
+        <gr str="2869">fine </gr>
+        <gr str="1722">gold</gr>, his <gr str="2306">breast </gr>and his <gr str="1872">arms </gr>
+        <gr str="1768">of </gr>
+        <gr str="3702">silver</gr>, his <gr str="4577">belly </gr>and his <gr str="3410">thighs </gr>
+        <gr str="1768">of </gr>
+        <gr str="5174">brass</gr>, </VERS>
+      <VERS vnumber="33"> His <gr str="8243">legs </gr>
+        <gr str="1768">of </gr>
+        <gr str="6523">iron</gr>, his <gr str="7271">feet </gr>
+        <gr str="4481">part </gr>
+        <gr str="1768">of </gr>
+        <gr str="6523">iron </gr>and <gr str="4481">part </gr>
+        <gr str="1768">of </gr>
+        <gr str="2635">clay</gr>. </VERS>
+      <VERS vnumber="34"> Thou <gr str="2370 1934">sawest </gr>
+        <gr str="5705">till </gr>
+        <gr str="1768">that </gr>a <gr str="69">stone </gr>was cut <gr str="1505">out </gr>
+        <gr str="1768 3809">without </gr>
+        <gr str="3028">hands</gr>, which <gr str="4223">smote </gr>the <gr str="6755">image </gr>
+        <gr str="5922">upon </gr>his <gr str="7271">feet </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE>
+        <gr str="1768">of </gr>
+        <gr str="6523">iron </gr>and <gr str="2635">clay</gr>, and broke them to <gr str="1855 1994">pieces</gr>. </VERS>
+      <VERS vnumber="35">
+        <gr str="116">Then </gr>was the <gr str="6523">iron</gr>, the <gr str="2635">clay</gr>, the <gr str="5174">brass</gr>, the <gr str="3702">silver</gr>, and the <gr str="1722">gold</gr>, broken to <gr str="1751">pieces </gr>
+        <gr str="2298">together</gr>, and <gr str="1934">became </gr>like the <gr str="5784">chaff </gr>
+        <gr str="4481">of </gr>the <gr str="7007">summer </gr>
+        <gr str="147">threshingfloors</gr>; and the <gr str="7308">wind </gr>carried them <gr str="5376 1994">away</gr>, that <gr str="3809 3606">no </gr>
+        <gr str="870">place </gr>was <gr str="7912">found </gr>for them: and the <gr str="69">stone </gr>
+        <gr str="1768">that </gr>
+        <gr str="4223">smote </gr>the <gr str="6755">image </gr>
+        <gr str="1934">became </gr>a <gr str="7229">great </gr>
+        <gr str="2906">mountain</gr>, and <gr str="4391">filled </gr>the <gr str="3606">whole </gr>
+        <gr str="772">earth</gr>. </VERS>
+      <VERS vnumber="36">
+        <gr str="1836">This </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="2493">dream</gr>; and we will <gr str="560">tell </gr>the <gr str="6591">interpretation </gr>thereof <gr str="6925">before </gr>the <gr str="4430">king</gr>. </VERS>
+      <VERS vnumber="37">
+        <gr str="607">Thou</gr>, O <gr str="4430">king</gr>, <STYLE css="color:#808080;font-style:italic"> art </STYLE> a <gr str="4430">king </gr>of <gr str="4430">kings</gr>: <gr str="1768">for </gr>the <gr str="426">God </gr>of <gr str="8065">heaven </gr>hath <gr str="3052">given </gr>thee a <gr str="4437">kingdom</gr>, <gr str="2632">power</gr>, and <gr str="8632">strength</gr>, and <gr str="3367">glory</gr>. </VERS>
+      <VERS vnumber="38"> And <gr str="3606 1768">wheresoever </gr>the <gr str="1123">children </gr>of <gr str="606">men </gr>
+        <gr str="1753">dwell</gr>, the <gr str="2423">beasts </gr>of the <gr str="1251">field </gr>and the <gr str="5776">fowls </gr>of the <gr str="8065">heaven </gr>hath he <gr str="3052">given </gr>into thine <gr str="3028">hand</gr>, and hath made thee <gr str="7981">ruler </gr>over them <gr str="3606">all</gr>. <gr str="607">Thou </gr>
+        <STYLE css="color:#808080;font-style:italic"> art </STYLE>
+        <gr str="1932">this </gr>
+        <gr str="7217">head </gr>
+        <gr str="1768">of </gr>
+        <gr str="1722">gold</gr>. </VERS>
+      <VERS vnumber="39"> And <gr str="870">after </gr>thee shall <gr str="6966">arise </gr>
+        <gr str="317">another </gr>
+        <gr str="4437">kingdom </gr>
+        <gr str="772">inferior </gr>
+        <gr str="4481">to </gr>thee, and <gr str="317">another </gr>
+        <gr str="8523">third </gr>
+        <gr str="4437">kingdom </gr>
+        <gr str="1768">of </gr>
+        <gr str="5174">brass</gr>, <gr str="1768">which </gr>shall bear <gr str="7981">rule </gr>over <gr str="3606">all </gr>the <gr str="772">earth</gr>. </VERS>
+      <VERS vnumber="40"> And the <gr str="7244">fourth </gr>
+        <gr str="4437">kingdom </gr>shall <gr str="1934">be </gr>
+        <gr str="8624">strong </gr>as <gr str="6523">iron</gr>: forasmuch <gr str="3606 6903 1768">as </gr>
+        <gr str="6523">iron </gr>breaketh in <gr str="1855">pieces </gr>and <gr str="2827">subdueth </gr>
+        <gr str="3606">all </gr>
+        <STYLE css="color:#808080;font-style:italic"> things </STYLE>: and as <gr str="6523">iron </gr>
+        <gr str="1768">that </gr>
+        <gr str="7490">breaketh </gr>
+        <gr str="3606">all </gr>
+        <gr str="459">these</gr>, shall it break in <gr str="1855">pieces </gr>and <gr str="7490">bruise</gr>. </VERS>
+      <VERS vnumber="41"> And <gr str="1768">whereas </gr>thou <gr str="2370">sawest </gr>the <gr str="7271">feet </gr>and <gr str="677">toes</gr>, <gr str="4481">part </gr>
+        <gr str="1768">of </gr>
+        <gr str="6353">potters </gr>' <gr str="2635">clay</gr>, and <gr str="4481">part </gr>of <gr str="6523">iron</gr>, the <gr str="4437">kingdom </gr>shall <gr str="1934">be </gr>
+        <gr str="6386">divided</gr>; but there shall <gr str="1934">be </gr>in it <gr str="4481">of </gr>the <gr str="5326">strength </gr>
+        <gr str="1768">of </gr>the <gr str="6523">iron</gr>, forasmuch <gr str="3606 6903 1768">as </gr>thou <gr str="2370">sawest </gr>the <gr str="6523">iron </gr>
+        <gr str="6151">mixed </gr>with <gr str="2917">miry </gr>
+        <gr str="2635">clay</gr>. </VERS>
+      <VERS vnumber="42"> And <STYLE css="color:#808080;font-style:italic"> as </STYLE> the <gr str="677">toes </gr>of the <gr str="7271">feet </gr>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE>
+        <gr str="4481">part </gr>of <gr str="6523">iron</gr>, and <gr str="4481">part </gr>of <gr str="2635">clay</gr>, <STYLE css="color:#808080;font-style:italic"> so </STYLE> the <gr str="4437">kingdom </gr>shall <gr str="1934">be </gr>
+        <gr str="4481 7118">partly </gr>
+        <gr str="8624">strong</gr>, and <gr str="4481">partly </gr>
+        <gr str="8406">broken</gr>. </VERS>
+      <VERS vnumber="43"> And <gr str="1768">whereas </gr>thou <gr str="2370">sawest </gr>
+        <gr str="6523">iron </gr>
+        <gr str="6151">mixed </gr>with <gr str="2917">miry </gr>
+        <gr str="2635">clay</gr>, they <gr str="1934">shall </gr>mingle <gr str="6151">themselves </gr>with the <gr str="2234">seed </gr>of <gr str="606">men</gr>: but they <gr str="1934">shall </gr>
+        <gr str="3809">not </gr>
+        <gr str="1693">cleave </gr>
+        <gr str="1836">one </gr>
+        <gr str="5974">to </gr>
+        <gr str="1836">another</gr>, even <gr str="1888 1768">as </gr>
+        <gr str="6523">iron </gr>is <gr str="3809">not </gr>
+        <gr str="6151">mixed </gr>
+        <gr str="5974">with </gr>
+        <gr str="2635">clay</gr>. </VERS>
+      <VERS vnumber="44"> And in the <gr str="3118">days </gr>
+        <gr str="1768">of </gr>
+        <gr str="581">these </gr>
+        <gr str="4430">kings </gr>shall the <gr str="426">God </gr>of <gr str="8065">heaven </gr>set <gr str="6966">up </gr>a <gr str="4437">kingdom</gr>, <gr str="1768">which </gr>shall <gr str="3809 5957">never </gr>be <gr str="2255">destroyed</gr>: and the <gr str="4437">kingdom </gr>shall <gr str="3809">not </gr>be <gr str="7662">left </gr>to <gr str="321">other </gr>
+        <gr str="5972">people</gr>, <STYLE css="color:#808080;font-style:italic"> but </STYLE> it shall break in <gr str="1855">pieces </gr>and <gr str="5487">consume </gr>
+        <gr str="3606">all </gr>
+        <gr str="459">these </gr>
+        <gr str="4437">kingdoms</gr>, and <gr str="1932">it </gr>shall <gr str="6966">stand </gr>
+        <gr str="5957">forever</gr>. </VERS>
+      <VERS vnumber="45"> Forasmuch <gr str="3606 6903 1768">as </gr>thou <gr str="2370">sawest </gr>
+        <gr str="1768">that </gr>the <gr str="69">stone </gr>was cut <gr str="1505">out </gr>of the <gr str="4481 2906">mountain </gr>
+        <gr str="1768 3809">without </gr>
+        <gr str="3028">hands</gr>, and that it broke in <gr str="1855">pieces </gr>the <gr str="6523">iron</gr>, the <gr str="5174">brass</gr>, the <gr str="2635">clay</gr>, the <gr str="3702">silver</gr>, and the <gr str="1722">gold</gr>; the <gr str="7229">great </gr>
+        <gr str="426">God </gr>hath made <gr str="3046">known </gr>to the <gr str="4430">king </gr>
+        <gr str="4101 1768">what </gr>shall come to <gr str="1934">pass </gr>
+        <gr str="311 1836">hereafter</gr>: and the <gr str="2493">dream </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3330">certain</gr>, and the <gr str="6591">interpretation </gr>thereof <gr str="540">sure</gr>. </VERS>
+      <VERS vnumber="46">
+        <gr str="116">Then </gr>the <gr str="4430">king </gr>
+        <gr str="5020">Nebuchadnezzar </gr>
+        <gr str="5308">fell </gr>
+        <gr str="5922">upon </gr>his <gr str="600">face</gr>, and <gr str="5457">worshiped </gr>
+        <gr str="1841">Daniel</gr>, and <gr str="560">commanded </gr>that they should <gr str="5260">offer </gr>an <gr str="4061">oblation </gr>and sweet <gr str="5208">odors </gr>unto him. </VERS>
+      <VERS vnumber="47"> The <gr str="4430">king </gr>
+        <gr str="6032">answered </gr>unto <gr str="1841">Daniel</gr>, and <gr str="560">said</gr>, <gr str="4481">Of </gr>a <gr str="7187">truth </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>, <gr str="1768">that </gr>your <gr str="426">God </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="426">God </gr>of <gr str="426">gods</gr>, and a <gr str="4756">Lord </gr>of <gr str="4430">kings</gr>, and a <gr str="1541">revealer </gr>of <gr str="7328">secrets</gr>, <gr str="1768">seeing </gr>thou <gr str="3202">couldest </gr>
+        <gr str="1541">reveal </gr>
+        <gr str="1836">this </gr>
+        <gr str="7328">secret</gr>. </VERS>
+      <VERS vnumber="48">
+        <gr str="116">Then </gr>the <gr str="4430">king </gr>made Daniel a great <gr str="7236 1841">man</gr>, and <gr str="3052">gave </gr>him <gr str="7690">many </gr>
+        <gr str="7260">great </gr>
+        <gr str="4978">gifts</gr>, and made him <gr str="7981">ruler </gr>
+        <gr str="5922">over </gr>the <gr str="3606">whole </gr>
+        <gr str="4083">province </gr>of <gr str="895">Babylon</gr>, and <gr str="7229">chief </gr>of the <gr str="5460">governors </gr>
+        <gr str="5922">over </gr>
+        <gr str="3606">all </gr>the <gr str="2445">wise </gr>
+        <STYLE css="color:#808080;font-style:italic"> men </STYLE> of <gr str="895">Babylon</gr>. </VERS>
+      <VERS vnumber="49"> Then <gr str="1841">Daniel </gr>
+        <gr str="1156">requested </gr>
+        <gr str="4481">of </gr>the <gr str="4430">king</gr>, and he <gr str="4483">set </gr>
+        <gr str="7715">Shadrach</gr>, <gr str="4336">Meshach</gr>, and <gr str="5665">Abed </gr>-nego, <gr str="5922">over </gr>the <gr str="5673">affairs </gr>
+        <gr str="1768">of </gr>the <gr str="4083">province </gr>of <gr str="895">Babylon</gr>: but <gr str="1841">Daniel </gr>
+        <STYLE css="color:#808080;font-style:italic"> sat </STYLE> in the <gr str="8651">gate </gr>of the <gr str="4430">king</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

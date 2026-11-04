@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="John Wycliffe Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="132">
+      <VERS vnumber="1">
+The `title of the hundrid and two and thrittithe salm. The song of grecis. Lo! hou good and hou myrie it is; that britheren dwelle togidere.
+</VERS>
+      <VERS vnumber="2">
+As oynement in the heed; that goith doun in to the beerd, in to the beerd of Aaron. That goith doun in to the coler of his cloth; as the dew of Ermon,
+</VERS>
+      <VERS vnumber="3">
+that goith doun in to the hil of Sion. For there the Lord sente blessing; and lijf til in to the world.
+</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

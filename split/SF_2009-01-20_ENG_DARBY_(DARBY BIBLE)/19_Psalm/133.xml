@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Darby Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="133">
+      <VERS vnumber="1">{A Song of degrees. Of David.} Behold, how good and how pleasant it is for brethren to dwell together in unity!</VERS>
+      <VERS vnumber="2">Like the precious oil upon the head, that ran down upon the beard, upon Aaron's beard, that ran down to the hem of his garments;</VERS>
+      <VERS vnumber="3">As the dew of Hermon that descendeth on the mountains of Zion; for there hath Jehovah commanded the blessing, life for evermore.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

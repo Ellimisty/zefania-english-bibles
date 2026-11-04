@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="6">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">O Jehovah, do not rebuke me in your anger or discipline me in your wrath.</VERS>
+      <VERS vnumber="2">Be merciful to me, Jehovah, for I am faint. O Jehovah, heal me, for my bones are in agony.</VERS>
+      <VERS vnumber="3">I am in anguish. How long, O Jehovah, how long?</VERS>
+      <VERS vnumber="4">Return, O Jehovah, and deliver me. Save me because of your unfailing love.</VERS>
+      <VERS vnumber="5">No one remembers you when he is dead. Who praises you from the grave?</VERS>
+      <VERS vnumber="6">I am worn out from groaning. All night long I flood my bed with weeping and drench my couch with tears.</VERS>
+      <VERS vnumber="7">My eyes grow weak with sorrow. I am weak because of all my foes.</VERS>
+      <VERS vnumber="8">Depart from me, all you who do evil. Jehovah hears my weeping.</VERS>
+      <VERS vnumber="9">Jehovah hears my supplication for mercy. Jehovah receives my prayer!</VERS>
+      <VERS vnumber="10">All my enemies will be ashamed and dismayed. They will turn back in sudden disgrace.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

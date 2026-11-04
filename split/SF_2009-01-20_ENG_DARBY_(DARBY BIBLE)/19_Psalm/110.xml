@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Darby Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="110">
+      <VERS vnumber="1">{Psalm of David.} Jehovah said unto my Lord, Sit at my right hand, until I put thine enemies [as] footstool of thy feet.</VERS>
+      <VERS vnumber="2">Jehovah shall send the sceptre of thy might out of Zion: rule in the midst of thine enemies.</VERS>
+      <VERS vnumber="3">Thy people shall be willing in the day of thy power, in holy splendour: from the womb of the morning [shall come] to thee the dew of thy youth.</VERS>
+      <VERS vnumber="4">Jehovah hath sworn, and will not repent, Thou art priest for ever after the order of Melchisedek.</VERS>
+      <VERS vnumber="5">The Lord at thy right hand will smite through kings in the day of his anger.</VERS>
+      <VERS vnumber="6">He shall judge among the nations; he shall fill [all places] with dead bodies; he shall smite through the head over a great country.</VERS>
+      <VERS vnumber="7">He shall drink of the brook in the way; therefore shall he lift up the head.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="87">
+      <VERS vnumber="1">On the holy mountain standsthe city he founded.</VERS>
+      <VERS vnumber="2">The <STYLE id="cl:divineName">Lord</STYLE> loves the gates of Zionmore than all the dwellings of Jacob.</VERS>
+      <VERS vnumber="3">Glorious things he is speaking of you,you city of God.  (Selah)  <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="4">“Among those who are mine I name Rahab and Babylon,Philistia, Tyre, Ethiopia,their people will say I was born in Zion.</VERS>
+      <VERS vnumber="5">As for Zion it will be saideach and all were born in her.”The <STYLE id="cl:divineName">Lord</STYLE> will preserve her. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="6">The <STYLE id="cl:divineName">Lord</STYLE> shall count, when enrolling the peoples,“This one was born there, and that one was born there.”  (Selah)</VERS>
+      <VERS vnumber="7">Singers and dancers alike will say“All my springs are in you.”</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

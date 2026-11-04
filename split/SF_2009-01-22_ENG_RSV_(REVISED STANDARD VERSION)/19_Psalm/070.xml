@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="70">
+      <VERS vnumber="1">To the choirmaster. A Psalm of David, for the memorial offering.</VERS>
+      <VERS vnumber="2">Be pleased, O God, to deliver me! O LORD, make haste to help me!</VERS>
+      <VERS vnumber="3">Let them be put to shame and confusion who seek my life! Let them be turned back and brought to dishonor who desire my hurt!</VERS>
+      <VERS vnumber="4">Let them be appalled because of their shame who say, "Aha, Aha!"</VERS>
+      <VERS vnumber="5">May all who seek thee rejoice and be glad in thee! May those who love thy salvation say evermore, "God is great!" [ (Psalms 70:6) But I am poor and needy; hasten to me, O God! Thou art my help and my deliverer; O LORD, do not tarry! ]</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

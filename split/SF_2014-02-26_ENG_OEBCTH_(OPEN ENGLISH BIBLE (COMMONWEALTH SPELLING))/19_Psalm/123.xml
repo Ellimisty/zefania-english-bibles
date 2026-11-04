@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="123">
+      <VERS vnumber="1">I Lift up my eyes to you,who are throned in the heavens.</VERS>
+      <VERS vnumber="2">As the eyes of a servantturn to the hand of his master,or the eyes of a maidto the hand of her mistress,so do our eyes turnto the <STYLE id="cl:divineName">Lord</STYLE> our God,until he is gracious to us. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">Be gracious, be gracious to us, <STYLE id="cl:divineName">Lord</STYLE>.Scorn enough, and more, have we borne</VERS>
+      <VERS vnumber="4">More than enough have we borneof derision from those at their ease,of scorn from those who are haughty.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

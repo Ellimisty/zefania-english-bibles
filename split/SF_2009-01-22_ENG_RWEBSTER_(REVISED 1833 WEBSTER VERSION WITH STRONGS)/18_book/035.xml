@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="18">
+    <CHAPTER cnumber="35">
+      <VERS vnumber="1">
+        <gr str="453">Elihu </gr>
+        <gr str="6030">spoke </gr>moreover, and <gr str="559">said</gr>,</VERS>
+      <VERS vnumber="2">
+        <gr str="2803">Thinkest </gr>thou this to be <gr str="4941">right</gr>, <STYLE css="font-style:italic">that</STYLE> thou <gr str="559">saidst</gr>, My <gr str="6664">righteousness </gr>
+        <STYLE css="font-style:italic">is</STYLE> more than <gr str="410">God’s</gr>?</VERS>
+      <VERS vnumber="3">For thou <gr str="559">saidst</gr>, What <gr str="5532">advantage </gr>will it be to thee? <STYLE css="font-style:italic">and</STYLE>, What <gr str="3276">profit </gr>shall I have, <STYLE css="font-style:italic">if I be cleansed</STYLE> from my <gr str="2403">sin</gr>? <DIV>
+          <NOTE type="x-studynote">if…: or, by it more than by my sin</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">I will <gr str="7725 4405">answer </gr>thee, and thy <gr str="7453">companions </gr>with thee. <DIV>
+          <NOTE type="x-studynote">answer…: Heb. return to thee words</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="5">
+        <gr str="5027">Look </gr>to the <gr str="8064">heavens</gr>, and <gr str="7200">see</gr>; and <gr str="7789">behold </gr>the <gr str="7834">clouds </gr>
+        <STYLE css="font-style:italic">which</STYLE> are <gr str="1361">higher </gr>than thou.</VERS>
+      <VERS vnumber="6">If thou <gr str="2398">sinnest</gr>, what <gr str="6466">doest </gr>thou against him? or <STYLE css="font-style:italic">if</STYLE> thy <gr str="6588">transgressions </gr>are <gr str="7231">multiplied</gr>, what <gr str="6213">doest </gr>thou to him?</VERS>
+      <VERS vnumber="7">If thou art <gr str="6663">righteous</gr>, what <gr str="5414">givest </gr>thou to him? or what <gr str="3947">receiveth </gr>he from thy <gr str="3027">hand</gr>?</VERS>
+      <VERS vnumber="8">Thy <gr str="7562">wickedness </gr>
+        <STYLE css="font-style:italic">may hurt</STYLE> a <gr str="376">man </gr>as thou <STYLE css="font-style:italic">art</STYLE>; and thy <gr str="6666">righteousness </gr>
+        <STYLE css="font-style:italic">may profit</STYLE> the <gr str="1121">son </gr>of <gr str="120">man</gr>.</VERS>
+      <VERS vnumber="9">By reason of the <gr str="7230">multitude </gr>of <gr str="6217">oppressions </gr>they make <STYLE css="font-style:italic">the oppressed</STYLE> to <gr str="2199">cry</gr>: they cry <gr str="7768">out </gr>by reason of the <gr str="2220">arm </gr>of the <gr str="7227">mighty</gr>.</VERS>
+      <VERS vnumber="10">But none <gr str="559">saith</gr>, Where <STYLE css="font-style:italic">is </STYLE>
+        <gr str="433">God </gr>my <gr str="6213">maker</gr>, who <gr str="5414">giveth </gr>
+        <gr str="2158">songs </gr>in the <gr str="3915">night</gr>;</VERS>
+      <VERS vnumber="11">Who <gr str="502">teacheth </gr>us more than the <gr str="929">beasts </gr>of the <gr str="776">earth</gr>, and maketh us <gr str="2449">wiser </gr>than the <gr str="5775">fowls </gr>of <gr str="8064">heaven</gr>?</VERS>
+      <VERS vnumber="12">There they <gr str="6817">cry</gr>, but none giveth <gr str="6030">answer</gr>, <gr str="6440">because </gr>of the <gr str="1347">pride </gr>of evil <gr str="7451">men</gr>.</VERS>
+      <VERS vnumber="13">Surely <gr str="410">God </gr>will not <gr str="8085">hear </gr>
+        <gr str="7723">vanity</gr>, neither will the <gr str="7706">Almighty </gr>
+        <gr str="7789">regard </gr>it.</VERS>
+      <VERS vnumber="14">
+        <gr str="637">Although </gr>thou <gr str="559">sayest </gr>thou shalt not <gr str="7789">see </gr>him, <STYLE css="font-style:italic">yet </STYLE>
+        <gr str="1779">judgment </gr>
+        <STYLE css="font-style:italic">is </STYLE>
+        <gr str="6440">before </gr>him; therefore <gr str="2342">trust </gr>thou in him.</VERS>
+      <VERS vnumber="15">But now, because <STYLE css="font-style:italic">it is</STYLE> not <STYLE css="font-style:italic">so</STYLE>, he hath <gr str="6485">visited </gr>in his <gr str="639">anger</gr>; yet he <gr str="3045">knoweth </gr>
+        <STYLE css="font-style:italic">it</STYLE> not in <gr str="3966">great </gr>
+        <gr str="6580">extremity</gr>: <DIV>
+          <NOTE type="x-studynote">he hath: that is, God hath</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">he knoweth: that is, Job knoweth</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="16">Therefore doth <gr str="347">Job </gr>
+        <gr str="6475">open </gr>his <gr str="6310">mouth </gr>in <gr str="1892">vain</gr>; he <gr str="3527">multiplieth </gr>
+        <gr str="4405">words </gr>
+        <gr str="1097">without </gr>
+        <gr str="1847">knowledge</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

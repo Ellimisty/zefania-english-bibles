@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Darby Bible" type="x-bible">
+  <BIBLEBOOK bnumber="21" bname="Ecclesiastes" bsname="Eccl">
+    <CHAPTER cnumber="6">
+      <VERS vnumber="1">There is an evil that I have seen under the sun, and it is frequent among men:</VERS>
+      <VERS vnumber="2">one to whom God giveth riches, wealth, and honour, and he wanteth nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but a stranger eateth it: this is vanity, and a sore evil.</VERS>
+      <VERS vnumber="3">If a man beget a hundred [sons], and live many years, so that the days of his years be many, but his soul be not filled with good, and also he have no burial, I say an untimely birth is better than he.</VERS>
+      <VERS vnumber="4">For it cometh in vanity, and departeth in darkness, and its name is covered with darkness;</VERS>
+      <VERS vnumber="5">moreover it hath not seen nor known the sun: this hath rest rather than the other.</VERS>
+      <VERS vnumber="6">Yea, though he live twice a thousand years, yet hath he seen no good: do not all go to one place?</VERS>
+      <VERS vnumber="7">All the labour of man is for his mouth, and yet the appetite is not filled.</VERS>
+      <VERS vnumber="8">For what advantage hath the wise above the fool? what hath the poor, that knoweth to walk before the living?</VERS>
+      <VERS vnumber="9">Better is the seeing of the eyes than the wandering of the desire: this also is vanity and pursuit of the wind.</VERS>
+      <VERS vnumber="10">That which is hath already been named; and what man is, is known, and that he cannot contend with him that is mightier than he.</VERS>
+      <VERS vnumber="11">For there are many things that increase vanity: what is man advantaged?</VERS>
+      <VERS vnumber="12">For who knoweth what is good for man in life, all the days of his vain life which he spendeth as a shadow? for who can tell man what shall be after him under the sun?</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

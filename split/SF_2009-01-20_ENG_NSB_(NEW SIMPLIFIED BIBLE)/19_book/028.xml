@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="28">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">O Jehovah, I call to you. O my rock, do not turn a deaf ear to me. If you remain silent, I will be like those who go down to the pit <STYLE css="font-style:italic">grave</STYLE>.</VERS>
+      <VERS vnumber="2">Hear the voice of my prayer when I call to you for help, when I lift my hands <STYLE css="font-style:italic">in prayer</STYLE> toward your most holy place.</VERS>
+      <VERS vnumber="3">Do not drag me away with the wicked and with troublemakers who speak of peace with their neighbors but have evil in their hearts.</VERS>
+      <VERS vnumber="4">Pay them back for what they have done, for their evil deeds. Pay them back for what their hands have done, and give them recompense.</VERS>
+      <VERS vnumber="5">Jehovah will tear them down and never build them up again. This is because they never consider what he has done or what his hands have made.</VERS>
+      <VERS vnumber="6">Blessed is Jehovah for he has heard my prayer <STYLE css="font-style:italic">supplication</STYLE>!</VERS>
+      <VERS vnumber="7">Jehovah is my strength and my shield. My heart trusted him, so I received help. My heart is triumphant and I thank him with my song.</VERS>
+      <VERS vnumber="8">Jehovah is the strength of his people and a fortress for the victory of his anointed.</VERS>
+      <VERS vnumber="9">Save your people, and bless those who belong to you. Be their shepherd, and carry them forever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="117">
+      <VERS vnumber="1">O <gr str="1984">praise </gr>the <gr str="3068">LORD</gr>, all ye <gr str="1471">nations</gr>: <gr str="7623">praise </gr>him, all ye <gr str="523">people</gr>.</VERS>
+      <VERS vnumber="2">For his <gr str="2617">merciful </gr>
+        <gr str="2617">kindness </gr>is <gr str="1396">great </gr>toward us: and the <gr str="571">truth </gr>of the <gr str="3068">LORD </gr>
+        <STYLE css="font-style:italic">endureth</STYLE> for <gr str="5769">ever</gr>. <gr str="1984">Praise </gr>ye the <gr str="3050">LORD</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

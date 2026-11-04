@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="16">
+      <VERS vnumber="1">Keep me, O God, for in you I take refuge.</VERS>
+      <VERS vnumber="2">I said to the <STYLE id="cl:divineName">Lord</STYLE>, “You are my <STYLE id="cl:divineName">Lord</STYLE>,my happiness rests in you alone.</VERS>
+      <VERS vnumber="3">Those who are holy in the land,they, they alone, are the noble ones;all my delight is in them.” <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="4">Those who choose other godsfind endless sorrow.In their offerings of blood I will have no partnor take their name on my lips.</VERS>
+      <VERS vnumber="5">The <STYLE id="cl:divineName">Lord</STYLE> is my share and my portion,my fate is in your strong hands. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="6">The boundary lines of my lifemark out delightful country,my heritage pleases me well.</VERS>
+      <VERS vnumber="7">I praise the <STYLE id="cl:divineName">Lord</STYLE> for his counsel,which so stirs my heart in the night.</VERS>
+      <VERS vnumber="8">I keep the <STYLE id="cl:divineName">Lord</STYLE> always in mind:with him at my hand, I can never be moved. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="9">So my heart is glad, there is joy inside me;and in safety of body I live.</VERS>
+      <VERS vnumber="10">For you will not give me up to Sheolnor let any who love you see the pit.</VERS>
+      <VERS vnumber="11">You will show me the path that leads to life,to that fulness of joy which is in your presence,and the pleasures dispensed by your hand evermore.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

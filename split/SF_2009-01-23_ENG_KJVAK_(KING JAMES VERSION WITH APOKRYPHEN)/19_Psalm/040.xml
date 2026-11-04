@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James Version with Apokryphen" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="40">
+      <CAPTION vref="1">To the chief Musician, A Psalm of David.</CAPTION>
+      <VERS vnumber="1">I waited patiently for the LORD; and he inclined unto me, and heard my cry.</VERS>
+      <VERS vnumber="2">He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings.</VERS>
+      <VERS vnumber="3">And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the LORD.</VERS>
+      <VERS vnumber="4">Blessed is that man that maketh the LORD his trust, and respecteth not the proud, nor such as turn aside to lies.</VERS>
+      <VERS vnumber="5">Many, O LORD my God, are thy wonderful works which thou hast done, and thy thoughts which are to us-ward: they cannot be reckoned up in order unto thee: if I would declare and speak of them, they are more than can be numbered.</VERS>
+      <VERS vnumber="6">Sacrifice and offering thou didst not desire; mine ears hast thou opened: burnt offering and sin offering hast thou not required.</VERS>
+      <VERS vnumber="7">Then said I, Lo, I come: in the volume of the book it is written of me,</VERS>
+      <VERS vnumber="8">I delight to do thy will, O my God: yea, thy law is within my heart.</VERS>
+      <VERS vnumber="9">I have preached righteousness in the great congregation: lo, I have not refrained my lips, O LORD, thou knowest.</VERS>
+      <VERS vnumber="10">I have not hid thy righteousness within my heart; I have declared thy faithfulness and thy salvation: I have not concealed thy lovingkindness and thy truth from the great congregation.</VERS>
+      <VERS vnumber="11">Withhold not thou thy tender mercies from me, O LORD: let thy lovingkindness and thy truth continually preserve me.</VERS>
+      <VERS vnumber="12">For innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart faileth me.</VERS>
+      <VERS vnumber="13">Be pleased, O LORD, to deliver me: O LORD, make haste to help me.</VERS>
+      <VERS vnumber="14">Let them be ashamed and confounded together that seek after my soul to destroy it; let them be driven backward and put to shame that wish me evil.</VERS>
+      <VERS vnumber="15">Let them be desolate for a reward of their shame that say unto me, Aha, aha.</VERS>
+      <VERS vnumber="16">Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The LORD be magnified.</VERS>
+      <VERS vnumber="17">But I am poor and needy; yet the Lord thinketh upon me: thou art my help and my deliverer; make no tarrying, O my God.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="YLT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="23">
+      <VERS vnumber="1">A Psalm of David. Jehovah [is] my shepherd, I do not lack,</VERS>
+      <VERS vnumber="2">In pastures of tender grass He causeth me to lie down, By  quiet waters He doth lead me.</VERS>
+      <VERS vnumber="3">My soul He refresheth, He leadeth me in paths of  righteousness, For His name`s sake,</VERS>
+      <VERS vnumber="4">Also -- when I walk in a valley of death-shade, I fear no  evil, for Thou [art] with me, Thy rod and Thy staff -- they  comfort me.</VERS>
+      <VERS vnumber="5">Thou arrangest before me a table, Over-against my  adversaries, Thou hast anointed with oil my head, My cup is  full!</VERS>
+      <VERS vnumber="6">Only -- goodness and kindness pursue me, All the days of my  life, And my dwelling [is] in the house of Jehovah, For a  length of days!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

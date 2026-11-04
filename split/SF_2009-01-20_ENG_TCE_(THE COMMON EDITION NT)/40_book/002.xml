@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="The Common Edition: New Testament" type="x-bible">
+  <BIBLEBOOK bnumber="40">
+    <CHAPTER cnumber="2">
+      <VERS vnumber="1">Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the East came to Jerusalem,</VERS>
+      <VERS vnumber="2">saying, »Where is he who has been born king of the Jews? For we have seen his star in the East and have come to worship him.«</VERS>
+      <VERS vnumber="3">When Herod the king heard this, he was troubled, and all Jerusalem with him.</VERS>
+      <VERS vnumber="4">And when he had gathered all the chief priests and scribes of the people together, he inquired of them where the Christ was to be born.</VERS>
+      <VERS vnumber="5">So they said to him, »In Bethlehem of Judea, for thus it is written by the prophet:</VERS>
+      <VERS vnumber="6">
+        <STYLE css="display:block;text-indent:5mm">But you, Bethlehem, in the land of Judah,</STYLE>
+        <STYLE css="display:block;text-indent:10mm">are by no means least among the rulers of Judah;</STYLE>
+        <STYLE css="display:block;text-indent:5mm">for out of you shall come a ruler</STYLE>
+        <STYLE css="display:block;text-indent:10mm">who will be the shepherd of my people Israel.«</STYLE>
+      </VERS>
+      <VERS vnumber="7">Then Herod called the wise men secretly and determined from them what time the star had appeared.</VERS>
+      <VERS vnumber="8">And he sent them to Bethlehem and said, »Go and search diligently for the young child, and when you have found him, bring back word to me, so that I too may come and worship him.«</VERS>
+      <VERS vnumber="9">When they had heard the king they went their way; and behold, the star which they had seen in the East went before them, until it came to rest over the place where the child was.</VERS>
+      <VERS vnumber="10">When they saw the star, they rejoiced with exceedingly great joy.</VERS>
+      <VERS vnumber="11">On coming into the house, they saw the child with his mother Mary, and they fell down and worshipped him. Then they opened their treasures and presented him with gifts of gold, and of frankincense, and of myrrh.</VERS>
+      <VERS vnumber="12">And being warned in a dream not to return to Herod, they departed to their own country by another way.</VERS>
+      <VERS vnumber="13">Now when they had departed, behold, an angel of the Lord appeared to Joseph in a dream and said, »Rise, take the child and his mother, and flee to Egypt, and stay there until I tell you; for Herod is about to search for the child, to destroy him.«</VERS>
+      <VERS vnumber="14">When he rose, he took the young child and his mother by night and departed for Egypt,</VERS>
+      <VERS vnumber="15">and remained there until the death of Herod. And so was fulfilled what the Lord had spoken by the prophet, »Out of Egypt have I called my son.«</VERS>
+      <VERS vnumber="16">Then Herod, when he saw that he had been tricked by the wise men, was in a furious rage, and he sent and killed all the male children in Bethlehem and in all its region who were two years old or under, according to the time which he had determined from the wise men.</VERS>
+      <VERS vnumber="17">Then was fulfilled what was spoken by the prophet Jeremiah:</VERS>
+      <VERS vnumber="18">
+        <STYLE css="display:block;text-indent:5mm">»A voice was heard in Ramah,</STYLE>
+        <STYLE css="display:block;text-indent:10mm">lamentation, weeping, and great mourning,</STYLE>
+        <STYLE css="display:block;text-indent:5mm">Rachel weeping for her children,</STYLE>
+        <STYLE css="display:block;text-indent:10mm">refusing to be comforted, because they are no more.«</STYLE>
+      </VERS>
+      <VERS vnumber="19">But when Herod died, behold, an angel of the Lord appeared in a dream to Joseph in Egypt,</VERS>
+      <VERS vnumber="20">saying, »Rise, take the young child and his mother, and go to the land of Israel, for those who sought the young childs life are dead.«</VERS>
+      <VERS vnumber="21">And he rose and took the child and his mother, and went to the land of Israel.</VERS>
+      <VERS vnumber="22">But when he heard that Archelaus was reigning over Judea in place of his father Herod, he was afraid to go there. And being warned in a dream, he withdrew to the district of Galilee,</VERS>
+      <VERS vnumber="23">and he went and dwelt in a city called Nazareth, that what was spoken by the Prophets might be fulfilled, »He shall be called a Nazarene.«</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

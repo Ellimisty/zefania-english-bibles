@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="12">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief Musician upon Sheminith, A Psalm of David.</STYLE> Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men. <DIV>
+          <NOTE type="x-studynote">upon…: or, upon the eighth</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">Help: or, Save</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">They speak vanity every one with his neighbour: <STYLE css="font-style:italic">with</STYLE> flattering lips <STYLE css="font-style:italic">and</STYLE> with a double heart do they speak. <DIV>
+          <NOTE type="x-studynote">a double…: Heb. an heart and an heart</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">The LORD shall cut off all flattering lips, <STYLE css="font-style:italic">and</STYLE> the tongue that speaketh proud things: <DIV>
+          <NOTE type="x-studynote">proud: Heb. great</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">Who have said, With our tongue will we prevail; our lips <STYLE css="font-style:italic">are</STYLE> our own: who <STYLE css="font-style:italic">is</STYLE> lord over us? <DIV>
+          <NOTE type="x-studynote">are…: Heb. are with us</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="5">For the oppression of the poor, for the sighing of the needy, now will I arise, saith the LORD; I will set <STYLE css="font-style:italic">him</STYLE> in safety <STYLE css="font-style:italic">from him that</STYLE> puffeth at him. <DIV>
+          <NOTE type="x-studynote">puffeth…: or, would ensnare him</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">The words of the LORD <STYLE css="font-style:italic">are</STYLE> pure words: <STYLE css="font-style:italic">as</STYLE> silver tried in a furnace of earth, purified seven times.</VERS>
+      <VERS vnumber="7">Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever. <DIV>
+          <NOTE type="x-studynote">them from: Heb. him, etc: that is, every one of them, etc</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">The wicked walk on every side, when the vilest men are exalted. <DIV>
+          <NOTE type="x-studynote">men: Heb. of the sons of the men</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

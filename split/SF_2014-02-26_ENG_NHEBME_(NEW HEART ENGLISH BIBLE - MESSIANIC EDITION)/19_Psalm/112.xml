@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible - Messianic Edition" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="112">
+      <VERS vnumber="1">Praise Yah!  ALEPH  Blessed is the man who fears the <STYLE id="cl:divineName">Lord</STYLE>,  BET  who delights greatly in his commandments.  GIMEL</VERS>
+      <VERS vnumber="2">His seed will be mighty in the land.  DALET  The generation of the upright will be blessed.  HEY</VERS>
+      <VERS vnumber="3">Wealth and riches are in his house.  VAV  His righteousness endures forever.  ZAYIN</VERS>
+      <VERS vnumber="4">Light dawns in the darkness for the upright,  HET  gracious, merciful, and righteous.  TET</VERS>
+      <VERS vnumber="5">It is well with the man who deals graciously and lends.  YOD  He will maintain his cause in judgment.  KAPH</VERS>
+      <VERS vnumber="6">For he will never be shaken.  LAMED  The righteous will be remembered forever.  MEM</VERS>
+      <VERS vnumber="7">He will not be afraid of evil news.  NUN  His heart is steadfast, trusting in the <STYLE id="cl:divineName">Lord</STYLE>.  SAMEKH</VERS>
+      <VERS vnumber="8">His heart is established,he will not be afraid  AYIN  until he gaze upon his adversaries.  PEY</VERS>
+      <VERS vnumber="9">He has dispersed, he has given to the poor.  TZADE  His righteousness endures forever.  QOPH  His horn will be exalted with honor.  RESH</VERS>
+      <VERS vnumber="10">The wicked will see it, and be grieved.  SHIN  He shall gnash with his teeth, and melt away.  TAV  The desire of the wicked will perish.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Rotherham Version" type="x-bible">
+  <BIBLEBOOK bname="Psalm" bnumber="19" bsname="Ps">
+    <CHAPTER cnumber="114">
+      <VERS vnumber="1">When Israel came forth out of Egypt, The house of Jacob from among a people of strange tongue,</VERS>
+      <VERS vnumber="2">Judah became his sanctuary, Israel his realm:</VERS>
+      <VERS vnumber="3">The sea, beheld, and fled, The Jordan, turned back;</VERS>
+      <VERS vnumber="4">The mountains, started like rams, The hills like the young of the flock?</VERS>
+      <VERS vnumber="5">What aileth thee, O sea, that thou fleest? O Jordan, that thou turnest back?</VERS>
+      <VERS vnumber="6">Ye mountains, that ye start like rams? Ye hills, like the young of the flock?</VERS>
+      <VERS vnumber="7">Before the Lord, be in anguish, O earth, Before the GOD of Jacob:</VERS>
+      <VERS vnumber="8">Who turneth The Rock into a pool of water, The Flint into springs of water.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

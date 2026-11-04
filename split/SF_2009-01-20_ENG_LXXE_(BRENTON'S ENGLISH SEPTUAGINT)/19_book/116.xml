@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="116">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">Alleluia.</STYLE> - I am well pleased, because the Lord will hearken to the voice of my supplication.</VERS>
+      <VERS vnumber="2">Because he has inclined his ear to me, therefore will I call upon him while I live.</VERS>
+      <VERS vnumber="3">The pangs of death compassed me; the dangers of hell found me: I found affliction and sorrow.</VERS>
+      <VERS vnumber="4">Then I called on the name of the Lord: O Lord, deliver my soul.</VERS>
+      <VERS vnumber="5">The Lord is merciful and righteous; yea, our God has pity.</VERS>
+      <VERS vnumber="6">The Lord preserves <DIV>
+          <NOTE type="x-studynote">Gr. infants</NOTE>
+        </DIV> the simple: I was brought low, and he delivered me.</VERS>
+      <VERS vnumber="7">Return to thy rest, O my soul; for the Lord has dealt bountifully with thee.</VERS>
+      <VERS vnumber="8">For he has delivered my soul from death, mine eyes from tears, and my feet from falling.</VERS>
+      <VERS vnumber="9">I shall be well-pleasing before the Lord in the land of the living.</VERS>
+      <VERS vnumber="10">Alleluia: <DIV>
+          <NOTE type="x-studynote">2 Co 4:13</NOTE>
+        </DIV> I believed, wherefore I have spoken: but I was greatly afflicted.</VERS>
+      <VERS vnumber="11">And I said in mine amazement, Every man is a liar.</VERS>
+      <VERS vnumber="12">What shall I render to the Lord for all the things wherein he has rewarded me?</VERS>
+      <VERS vnumber="13">I will take the cup of salvation, and call upon the name of the Lord.</VERS>
+      <VERS vnumber="14">I will pay my vows to the Lord, in the presence of all his people.</VERS>
+      <VERS vnumber="15">Precious in the sight of the Lord is the death of his saints.</VERS>
+      <VERS vnumber="16">O Lord, I am thy servant; I am thy servant, and the son of thine handmaid: thou hast burst by bonds asunder.</VERS>
+      <VERS vnumber="17">I will offer to thee the sacrifice of praise, and will call upon the name of the Lord.</VERS>
+      <VERS vnumber="18">I will pay my vows unto the Lord, in the presence of all his people,</VERS>
+      <VERS vnumber="19">in the courts of the Lord’s house, in the midst of thee, Jerusalem.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

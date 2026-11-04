@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="131">
+      <VERS vnumber="1"> A Song of the going up. Of David. Lord, there is no pride in my heart and my eyes are not lifted up; and I have not taken part in great undertakings, or in things over-hard for me.</VERS>
+      <VERS vnumber="2">See, I have made my soul calm and quiet, like a child on its mother's breast; my soul is like a child on its mother's breast.</VERS>
+      <VERS vnumber="3">O Israel, have hope in the Lord, from this time and for ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

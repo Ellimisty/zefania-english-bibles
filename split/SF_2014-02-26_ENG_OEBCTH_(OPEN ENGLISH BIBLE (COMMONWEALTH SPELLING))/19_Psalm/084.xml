@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="84">
+      <VERS vnumber="1">How dearly loved is the place where you live,<STYLE id="cl:divineName">Lord</STYLE> of hosts!</VERS>
+      <VERS vnumber="2">How I long and yearnfor the courts of the <STYLE id="cl:divineName">Lord</STYLE>.Now heart and flesh cry for joyto the living God. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">Even the sparrow has found her a homeand the swallow a nest,to lay her young,near your altar,<STYLE id="cl:divineName">Lord</STYLE> of hosts,my king and my God.</VERS>
+      <VERS vnumber="4">Happy those who live in your house,praising you evermore.  (Selah)  <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">Happy are those whose strength is in you,people with pilgrim hearts.</VERS>
+      <VERS vnumber="6">As they pass through the valley of tears,they make it a place of fountains,clothed with the blessings of early rain.</VERS>
+      <VERS vnumber="7">From rampart to rampart on they march,till at last God reveals himself in Zion. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="8">
+        <STYLE id="cl:divineName">Lord</STYLE>, God of hosts, hear my prayer,give ear, O God of Jacob.  (Selah)</VERS>
+      <VERS vnumber="9">Behold, O God, our defender,and look upon your anointed,for better a single day in your courtsthan a thousand in my own chambers:better stand at the door of the house of my Godthan live in the tents of ungodliness,for the <STYLE id="cl:divineName">Lord</STYLE> is sun and shield,the <STYLE id="cl:divineName">Lord</STYLE> gives grace and glory.He withholds no good thing from the life that is blameless.</VERS>
+      <VERS vnumber="12">
+        <STYLE id="cl:divineName">Lord</STYLE> of hosts,happy the person whose trust is in you.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

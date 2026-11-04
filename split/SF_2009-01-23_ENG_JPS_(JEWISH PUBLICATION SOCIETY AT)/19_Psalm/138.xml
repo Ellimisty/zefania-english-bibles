@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Jewish Publication Society AT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="138">
+      <VERS vnumber="1">A Psalm  of David. I will give Thee thanks with my whole heart, in the presence of the mighty will I sing praises unto Thee.</VERS>
+      <VERS vnumber="2">I will bow down toward Thy holy temple, and give thanks unto Thy name for Thy mercy and for Thy truth; for Thou hast magnified Thy word above all Thy name.</VERS>
+      <VERS vnumber="3">In the day that I called, Thou didst answer me; Thou didst encourage me in my soul with strength.</VERS>
+      <VERS vnumber="4">All the kings of the earth shall give Thee thanks, O LORD, for they have heard the words of Thy mouth.</VERS>
+      <VERS vnumber="5">Yea, they shall sing of the ways of the LORD; for great is the glory of the LORD.</VERS>
+      <VERS vnumber="6">For though the LORD be high, yet regardeth He the lowly, and the haughty He knoweth from afar.</VERS>
+      <VERS vnumber="7">Though I walk in the midst of trouble, Thou quickenest me; Thou stretchest forth Thy hand against the wrath of mine enemies, and Thy right hand doth save me.</VERS>
+      <VERS vnumber="8">The LORD will accomplish that which concerneth me; Thy mercy, O LORD, endureth for ever; forsake not the work of Thine own hands.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

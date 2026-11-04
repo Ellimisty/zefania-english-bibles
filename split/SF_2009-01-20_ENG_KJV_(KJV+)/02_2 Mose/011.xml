@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="2" bname="2 Mose" bsname="2Mo">
+    <CHAPTER cnumber="11">
+      <VERS vnumber="1"> And the <gr str="3068">LORD </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>
+        <gr str="4872">Moses</gr>, <gr str="5750">Yet </gr>will I <gr str="935">bring </gr>
+        <gr str="259">one </gr>
+        <gr str="5061">plague </gr>
+        <STYLE css="color:#808080;font-style:italic"> more </STYLE>
+        <gr str="5921">upon </gr>
+        <gr str="6547">Pharaoh</gr>, and <gr str="5921">upon </gr>
+        <gr str="4714">Egypt</gr>; <gr str="310 3651">afterwards </gr>he will let you <gr str="7971">go </gr>
+        <gr str="4480 2088">hence</gr>: when he shall let <STYLE css="color:#808080;font-style:italic"> you </STYLE>
+        <gr str="7971">go</gr>, he shall surely thrust you <gr str="1644 1644 *853">out </gr>
+        <gr str="4480 2088">hence </gr>
+        <gr str="3617">altogether</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="1696">Speak </gr>
+        <gr str="4994">now </gr>in the <gr str="241">ears </gr>of the <gr str="5971">people</gr>, and let every <gr str="376">man </gr>
+        <gr str="7592">borrow </gr>
+        <gr str="4480 854">of </gr>his <gr str="7453">neighbor</gr>, and every <gr str="802">woman </gr>
+        <gr str="4480 854">of </gr>her <gr str="7468">neighbor</gr>, <gr str="3627">jewels </gr>of <gr str="3701">silver</gr>, and <gr str="3627">jewels </gr>of <gr str="2091">gold</gr>. </VERS>
+      <VERS vnumber="3"> And the <gr str="3068">LORD </gr>
+        <gr str="5414">gave </gr>the <gr str="5971">people </gr>
+        <gr str="*853" />
+        <gr str="2580">favor </gr>in the <gr str="5869">sight </gr>of the <gr str="4714">Egyptians</gr>. <gr str="1571">Moreover </gr>the <gr str="376">man </gr>
+        <gr str="4872">Moses </gr>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="3966">very </gr>
+        <gr str="1419">great </gr>in the <gr str="776">land </gr>of <gr str="4714">Egypt</gr>, in the <gr str="5869">sight </gr>of <gr str="6547">Pharaoh </gr>'s <gr str="5650">servants</gr>, and in the <gr str="5869">sight </gr>of the <gr str="5971">people</gr>. </VERS>
+      <VERS vnumber="4"> And <gr str="4872">Moses </gr>
+        <gr str="559">said</gr>, <gr str="3541">Thus </gr>
+        <gr str="559">saith </gr>the <gr str="3068">LORD</gr>, About <gr str="2676 3915">midnight </gr>will <gr str="589">I </gr>go <gr str="3318">out </gr>into the <gr str="8432">midst </gr>of <gr str="4714">Egypt</gr>: </VERS>
+      <VERS vnumber="5"> And <gr str="3605">all </gr>the <gr str="1060">firstborn </gr>in the <gr str="776">land </gr>of <gr str="4714">Egypt </gr>shall <gr str="4191">die</gr>, from the <gr str="4480 1060">firstborn </gr>of <gr str="6547">Pharaoh </gr>that <gr str="3427">sitteth </gr>
+        <gr str="5921">upon </gr>his <gr str="3678">throne</gr>, even <gr str="5704">unto </gr>the <gr str="1060">firstborn </gr>of the <gr str="8198">maidservant </gr>
+        <gr str="834">that </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="310">behind </gr>the <gr str="7347">mill</gr>; and <gr str="3605">all </gr>the <gr str="1060">firstborn </gr>of <gr str="929">beasts</gr>. </VERS>
+      <VERS vnumber="6"> And there shall <gr str="1961">be </gr>a <gr str="1419">great </gr>
+        <gr str="6818">cry </gr>throughout <gr str="3605">all </gr>the <gr str="776">land </gr>of <gr str="4714">Egypt</gr>, such <gr str="834">as </gr>there <gr str="1961">was </gr>
+        <gr str="3808">none </gr>like <gr str="3644">it</gr>, <gr str="3808">nor </gr>shall be like <gr str="3644">it </gr>any <gr str="3254">more</gr>. </VERS>
+      <VERS vnumber="7"> But against <gr str="3605">any </gr>of the <gr str="1121">children </gr>of <gr str="3478">Israel </gr>shall <gr str="3808">not </gr>a <gr str="3611">dog </gr>
+        <gr str="2782">move </gr>his <gr str="3956">tongue</gr>, against <gr str="4480 376">man </gr>
+        <gr str="5704">or </gr>
+        <gr str="929">beast</gr>: <gr str="4616">that </gr>ye may <gr str="3045">know </gr>how <gr str="834">that </gr>the <gr str="3068">LORD </gr>doth put a <gr str="6395">difference </gr>
+        <gr str="996">between </gr>the <gr str="4714">Egyptians </gr>and <gr str="3478">Israel</gr>. </VERS>
+      <VERS vnumber="8"> And <gr str="3605">all </gr>
+        <gr str="428">these </gr>thy <gr str="5650">servants </gr>shall come <gr str="3381">down </gr>
+        <gr str="413">unto </gr>me, and bow down <gr str="7812">themselves </gr>unto me, <gr str="559">saying</gr>, Get thee <gr str="3318 859">out</gr>, and <gr str="3605">all </gr>the <gr str="5971">people </gr>
+        <gr str="834">that </gr>
+        <gr str="7272">follow </gr>thee: and <gr str="310">after </gr>
+        <gr str="3651">that </gr>I will go <gr str="3318">out</gr>. And he went <gr str="3318">out </gr>
+        <gr str="4480 5973">from </gr>
+        <gr str="6547">Pharaoh </gr>in a <gr str="2750">great </gr>
+        <gr str="639">anger</gr>. </VERS>
+      <VERS vnumber="9"> And the <gr str="3068">LORD </gr>
+        <gr str="559">said </gr>
+        <gr str="413">unto </gr>
+        <gr str="4872">Moses</gr>, <gr str="6547">Pharaoh </gr>shall <gr str="3808">not </gr>
+        <gr str="8085">hearken </gr>
+        <gr str="413">unto </gr>you; <gr str="4616">that </gr>my <gr str="4159">wonders </gr>may be <gr str="7235">multiplied </gr>in the <gr str="776">land </gr>of <gr str="4714">Egypt</gr>. </VERS>
+      <VERS vnumber="10"> And <gr str="4872">Moses </gr>and <gr str="175">Aaron </gr>
+        <gr str="6213">did </gr>
+        <gr str="*853" />
+        <gr str="3605">all </gr>
+        <gr str="428">these </gr>
+        <gr str="4159">wonders </gr>
+        <gr str="6440">before </gr>
+        <gr str="6547">Pharaoh</gr>: and the <gr str="3068">LORD </gr>
+        <gr str="2388">hardened </gr>
+        <gr str="*853" />
+        <gr str="6547">Pharaoh </gr>'s <gr str="3820">heart</gr>, so that he would <gr str="3808">not </gr>let <gr str="*853" />the <gr str="1121">children </gr>of <gr str="3478">Israel </gr>
+        <gr str="7971">go </gr>out of his <gr str="4480 776">land</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

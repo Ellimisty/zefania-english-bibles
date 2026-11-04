@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Douay Rheims" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="4">
+      <VERS vnumber="1">Unto the end, in verses. A psalm of David.</VERS>
+      <VERS vnumber="2">When I called upon him, the God of my justice heard me: when I was in distress, thou hast enlarged me. Have mercy on me: and hear my prayer.</VERS>
+      <VERS vnumber="3">O ye sons of men, how long will you be dull of heart? why do you love vanity, and seek after lying?</VERS>
+      <VERS vnumber="4">Know ye also that the Lord hath made his holy one wonderful: the Lord will hear me when I shall cry unto him.</VERS>
+      <VERS vnumber="5">Be angry, and sin not: the things you say in your hearts, be sorry for them upon your beds.</VERS>
+      <VERS vnumber="6">Offer up the sacrifice of justice, and trust in the Lord: many say, Who sheweth us good things?</VERS>
+      <VERS vnumber="7">The light of thy countenance O Lord, is signed upon us: thou hast given gladness in my heart.</VERS>
+      <VERS vnumber="8">By the fruit of their corn, their wine and oil, they are multiplied.</VERS>
+      <VERS vnumber="9">In peace in the selfsame I will sleep, and I will rest:</VERS>
+      <VERS vnumber="10">for thou, O Lord, singularly hast settled me in hope.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

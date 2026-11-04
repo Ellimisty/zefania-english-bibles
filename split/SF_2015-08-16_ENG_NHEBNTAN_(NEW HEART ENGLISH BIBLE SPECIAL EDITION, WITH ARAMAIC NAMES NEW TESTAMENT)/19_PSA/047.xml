@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bsname="PSA">
+    <CHAPTER cnumber="47">
+      <VERS vnumber="1" />
+      <VERS vnumber="2">For the LORD Most High is awesome. He is a great King over all the earth.</VERS>
+      <VERS vnumber="3">He subdues nations under us, and peoples under our feet.</VERS>
+      <VERS vnumber="4">He chooses our inheritance for us, the glory of Jacob whom he loved. Selah.</VERS>
+      <VERS vnumber="5">God has gone up with a shout, the LORD with the sound of a trumpet.</VERS>
+      <VERS vnumber="6">Sing praise to God, sing praises. Sing praises to our King, sing praises.</VERS>
+      <VERS vnumber="7">For God is the King of all the earth. Sing praises with understanding.</VERS>
+      <VERS vnumber="8">God reigns over the nations. God sits on his holy throne.</VERS>
+      <VERS vnumber="9">The princes of the peoples are gathered together, the people of the God of Abraham. For the shields of the earth belong to God. He is greatly exalted.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

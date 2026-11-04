@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="120">
+      <VERS vnumber="1">A Canticle in steps. I have lifted up my eyes to the mountains; from thence help will come to me.</VERS>
+      <VERS vnumber="2">My help is from the Lord, who made heaven and earth.</VERS>
+      <VERS vnumber="3">May he not allow your foot to be moved, and may he not slumber, who guards you.</VERS>
+      <VERS vnumber="4">Behold, he who guards Israel will neither sleep, nor slumber.</VERS>
+      <VERS vnumber="5">The Lord is your keeper, the Lord is your protection, above your right hand.</VERS>
+      <VERS vnumber="6">The sun will not burn you by day, nor the moon by night.</VERS>
+      <VERS vnumber="7">The Lord guards you from all evil. May the Lord guard your soul.</VERS>
+      <VERS vnumber="8">May the Lord guard your entrance and your exit, from this time forward and even forever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

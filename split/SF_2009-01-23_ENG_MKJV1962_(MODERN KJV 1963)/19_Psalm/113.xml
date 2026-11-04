@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Modern KJV 1963" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="113">
+      <VERS vnumber="1">Praise the LORD! Praise, O servants of the LORD, praise the name of the LORD.</VERS>
+      <VERS vnumber="2">Blessed [is] the name of the LORD from this time forth and forevermore.</VERS>
+      <VERS vnumber="3">From the rising of the sun to its going down, the LORD's name [is] to be praised.</VERS>
+      <VERS vnumber="4">The LORD [is] high above all nations, and His glory above the heavens.</VERS>
+      <VERS vnumber="5">Who [is] like the LORD our God, who dwells on high,</VERS>
+      <VERS vnumber="6">who humbles [Himself] to behold [the] [things] in the heavens and in the earth!</VERS>
+      <VERS vnumber="7">He raises up the poor out of the dust, [and] lifts the needy out of the dunghill,</VERS>
+      <VERS vnumber="8">in order to make him sit with nobles, with the nobles of his people.</VERS>
+      <VERS vnumber="9">He causes the barren to dwell in the house [as] a joyful mother of sons. Praise the LORD!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

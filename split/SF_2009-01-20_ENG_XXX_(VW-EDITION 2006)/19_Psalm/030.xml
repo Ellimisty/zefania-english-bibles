@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="30">
+      <CAPTION vref="1">A Psalm and Song at the dedication of the House of David.</CAPTION>
+      <VERS vnumber="1">I will exalt You, O Jehovah, for You have lifted me up, and have not allowed my foes to rejoice over me.</VERS>
+      <VERS vnumber="2">O Jehovah my God, I cried out to You, and You have healed me.</VERS>
+      <VERS vnumber="3">O Jehovah, You have brought up my soul from Sheol; You have kept me alive, that I should not go down to the Pit.</VERS>
+      <VERS vnumber="4">Make music unto Jehovah, O you saints of His, and give thanks at the remembrance of His holiness.</VERS>
+      <VERS vnumber="5">For His anger is but for a moment; in His favor is life. Weeping may endure for a night, but joy comes in the morning.</VERS>
+      <VERS vnumber="6">And in my prosperity I said, I shall never be moved.</VERS>
+      <VERS vnumber="7">O Jehovah, by Your favor You have made my mountain to stand strong; You hid Your face, and I was troubled.</VERS>
+      <VERS vnumber="8">I cried out to You, O Jehovah; and unto Jehovah I made supplication.</VERS>
+      <VERS vnumber="9">What profit is there in my blood, in going down to the pit? Will the dust praise You? Will it declare Your truth?</VERS>
+      <VERS vnumber="10">Hear, O Jehovah, and have mercy upon me; Jehovah, be my helper!</VERS>
+      <VERS vnumber="11">You have turned my mourning into dancing for me; You have loosened my sackcloth, and clothed me with gladness,</VERS>
+      <VERS vnumber="12">so that my glory may make music unto You, and not be silent. O Jehovah my God, I will give thanks unto You forever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="131">
+      <CAPTION vref="1">A Song of Ascents of David.</CAPTION>
+      <VERS vnumber="1">Jehovah, my heart is not haughty, nor my eyes lofty. Neither have I walked in great matters, nor in things beyond my understanding.</VERS>
+      <VERS vnumber="2">Surely my soul has been calm and quiet, like a child weaned by his mother; my soul is like a weaned child.</VERS>
+      <VERS vnumber="3">O Israel, hope in Jehovah from this time and forever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

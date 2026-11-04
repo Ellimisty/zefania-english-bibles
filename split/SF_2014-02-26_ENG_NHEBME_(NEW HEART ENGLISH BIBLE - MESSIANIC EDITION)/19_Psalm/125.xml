@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible - Messianic Edition" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="125">
+      <VERS vnumber="1">A Song of Ascents.   Those who trust in the <STYLE id="cl:divineName">Lord</STYLE> are as Mount Zion,which can't be moved, but remains forever.</VERS>
+      <VERS vnumber="2">As the mountains surround Jerusalem,so the <STYLE id="cl:divineName">Lord</STYLE> surrounds his people from this time forth and forevermore.</VERS>
+      <VERS vnumber="3">For the scepter of wickedness won't remain over the allotment of the righteous;so that the righteous won't use their hands to do evil.</VERS>
+      <VERS vnumber="4">Do good, <STYLE id="cl:divineName">Lord</STYLE>, to those who are good,to those who are upright in their hearts.</VERS>
+      <VERS vnumber="5">But as for those who turn aside to their crooked ways,The <STYLE id="cl:divineName">Lord</STYLE> will lead them away with the workers of iniquity.Peace be on Israel.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

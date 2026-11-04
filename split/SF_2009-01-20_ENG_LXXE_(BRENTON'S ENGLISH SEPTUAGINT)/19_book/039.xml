@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="39">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For the end, a Song of David, to Idithun.</STYLE> - I said, I will take heed to my ways, that I sin not with my tongue: I set a guard on my mouth, while the sinner stood in my presence.</VERS>
+      <VERS vnumber="2">I was dumb, and humbled myself, and kept silence from good words; and my grief was renewed.</VERS>
+      <VERS vnumber="3">My heart grew hot within me, and a fire would kindle in my meditation: I spoke with my tongue,</VERS>
+      <VERS vnumber="4">O Lord, make me to know mine end, and the number of my days, what it is; that I may know what I lack.</VERS>
+      <VERS vnumber="5">Behold, thou hast made my days <DIV>
+          <NOTE type="x-studynote">Alex. a span long</NOTE>
+        </DIV> old; and my existence is as nothing before thee: nay, every man living is altogether vanity. Pause.</VERS>
+      <VERS vnumber="6">Surely man walks in a <DIV>
+          <NOTE type="x-studynote">Gr. image</NOTE>
+        </DIV> shadow; nay, he is disquieted in vain: he lays up treasures, and knows not for whom he shall gather them.</VERS>
+      <VERS vnumber="7">And now what is my expectation? is it not the Lord? and my ground of hope is with thee. Pause.</VERS>
+      <VERS vnumber="8">Deliver me from all my transgressions: thou hast made me a reproach to the foolish.</VERS>
+      <VERS vnumber="9">I was <DIV>
+          <NOTE type="x-studynote">Gr. made dumb</NOTE>
+        </DIV> dumb, and opened not my mouth; for thou art he that made me.</VERS>
+      <VERS vnumber="10">Remove thy scourges from me: I have fainted by reason of the strength of thine hand.</VERS>
+      <VERS vnumber="11">Thou chastenest man with rebukes for iniquity, and thou makest his life to consume away like a spider’s web; nay, every man is disquieted in vain. Pause.</VERS>
+      <VERS vnumber="12">O Lord, hearken to my prayer and my supplication: attend to my tears: be not silent, for I am a sojourner in the land, and a stranger, as all my fathers were.</VERS>
+      <VERS vnumber="13">Spare me, that I may be refreshed, before I depart, and be no more.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

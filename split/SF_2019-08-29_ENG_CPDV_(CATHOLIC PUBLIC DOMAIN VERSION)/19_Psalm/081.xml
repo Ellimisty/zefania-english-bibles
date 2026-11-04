@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="81">
+      <VERS vnumber="1">A Psalm of Asaph.  God has stood in the synagogue of gods, but,in their midst, he decides between gods.</VERS>
+      <VERS vnumber="2">How long will you judge unjustly and favor the faces of sinners?</VERS>
+      <VERS vnumber="3">Judge for the indigent and the orphan.Do justice to the humble and the poor.</VERS>
+      <VERS vnumber="4">Rescue the poor, and free the needy from the hand of the sinner.</VERS>
+      <VERS vnumber="5">They did not know and did not understand. They wander in darkness.All the foundations of the earth will be moved.</VERS>
+      <VERS vnumber="6">I said: You are gods, and all of you are sons of the Most High.</VERS>
+      <VERS vnumber="7">But you will die like men, and you will fall just like one of the princes.</VERS>
+      <VERS vnumber="8">Rise up, O God. Judge the earth. For you will inherit it with all the nations.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

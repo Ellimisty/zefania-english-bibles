@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Jewish Publication Society AT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="128">
+      <VERS vnumber="1">A Song of Ascents. Happy is every one that feareth the LORD, that walketh in His ways.</VERS>
+      <VERS vnumber="2">When thou eatest the labour of thy hands, happy shalt thou be, and it shall be well with thee.</VERS>
+      <VERS vnumber="3">Thy wife shall be as a fruitful vine, in the innermost parts of thy house; thy children like olive plants, round about thy table.</VERS>
+      <VERS vnumber="4">Behold, surely thus shall the man be blessed that feareth the LORD.</VERS>
+      <VERS vnumber="5">The LORD bless thee out of Zion; and see thou the good of Jerusalem all the days of thy life;</VERS>
+      <VERS vnumber="6">And see thy children's children. Peace be upon Israel!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

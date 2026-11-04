@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="John Wycliffe Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="120">
+      <VERS vnumber="1">
+The `title of the hundrid and twentithe salm. The song of greces. I reiside myn iyen to the hillis; fro whannus help schal come to me.
+</VERS>
+      <VERS vnumber="2">
+Myn help is of the Lord; that made heuene and erthe.
+</VERS>
+      <VERS vnumber="3">
+The Lord yyue not thi foot in to mouyng; nether he nappe, that kepith thee.
+</VERS>
+      <VERS vnumber="4">
+Lo! he schal not nappe, nether slepe; that kepith Israel.
+</VERS>
+      <VERS vnumber="5">
+The Lord kepith thee; the Lord is thi proteccioun aboue thi riythond.
+</VERS>
+      <VERS vnumber="6">
+The sunne schal not brenne thee bi dai; nether the moone bi nyyt.
+</VERS>
+      <VERS vnumber="7">
+The Lord kepe thee fro al yuel; the Lord kepe thi soule.
+</VERS>
+      <VERS vnumber="8">
+The Lord kepe thi goyng in and thi goyng out; fro this tyme now and in to the world.
+</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

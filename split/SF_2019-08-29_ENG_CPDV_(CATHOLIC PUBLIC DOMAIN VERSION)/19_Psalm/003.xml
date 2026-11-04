@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="3">
+      <VERS vnumber="1">A Psalm of David. When he fled from the face of his son, Absalom.</VERS>
+      <VERS vnumber="2">Lord, why have those who trouble me been multiplied?Many rise up against me.</VERS>
+      <VERS vnumber="3">Many say to my soul,“There is no salvation for him in his God.”Pause</VERS>
+      <VERS vnumber="4">But you, Lord, are my supporter,my glory, and the one who raises up my head.</VERS>
+      <VERS vnumber="5">I have cried out to the Lord with my voice,and he has heard me from his holy mountain.Pause</VERS>
+      <VERS vnumber="6">I have slept, and I have been stupefied.But I awakened because the Lord has taken me up.</VERS>
+      <VERS vnumber="7">I will not fear the thousands of people surrounding me.<BR art="x-nl" />Rise up, Lord. Save me, my God.</VERS>
+      <VERS vnumber="8">For you have struck all those who oppose me without cause.You have broken the teeth of sinners.</VERS>
+      <VERS vnumber="9">Salvation is of the Lord,and your blessing is upon your people.Pause</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

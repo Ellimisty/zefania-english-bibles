@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="114">
+      <VERS vnumber="1">When Israel went out of Egypt,Jacob’s house from a barbarous people,</VERS>
+      <VERS vnumber="2">God chose Judah for himself,Israel became his kingdom. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">The sea saw it, and fled,Jordan river ran backwards.</VERS>
+      <VERS vnumber="4">Mountains skipped like rams,hills like the young of the flock. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">Why, sea, do you flee?Jordan, why run backwards?</VERS>
+      <VERS vnumber="6">Mountains, why skip ram-like?Why, hills, like the young of the flock? <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">Earth, tremble before the <STYLE id="cl:divineName">Lord</STYLE>,at the presence of Jacob’s God,</VERS>
+      <VERS vnumber="8">who turns rocks into pools of water,and flint into fountains of water.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

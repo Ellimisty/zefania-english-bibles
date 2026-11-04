@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible - Jehovah Edition" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="134">
+      <VERS vnumber="1">A Song of Ascents.   Look! Praise <STYLE id="cl:divineName">Jehovah</STYLE>, all you servants of <STYLE id="cl:divineName">Jehovah</STYLE>,who stand by night in <STYLE id="cl:divineName">Jehovah</STYLE>'s house!</VERS>
+      <VERS vnumber="2">Lift up your hands in the sanctuary.Praise <STYLE id="cl:divineName">Jehovah</STYLE>!</VERS>
+      <VERS vnumber="3">May <STYLE id="cl:divineName">Jehovah</STYLE> bless you from Zion;even he who made heaven and earth.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

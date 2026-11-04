@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="54">
+      <CAPTION vref="1">To the Chief Musician. Neginoth. Maschil. A Psalm of David, when the Ziphites came and said to Saul, Does not David hide himself among us?</CAPTION>
+      <VERS vnumber="1">Deliver me, O God, by Your name, and contend for me by Your strength.</VERS>
+      <VERS vnumber="2">Hear my prayer, O God; give ear to the words of my mouth.</VERS>
+      <VERS vnumber="3">For strangers have risen up against me, and terrible men seek after my soul; they have not set God before them. Selah.</VERS>
+      <VERS vnumber="4">Behold, God is my helper; the Lord is with those who uphold my soul.</VERS>
+      <VERS vnumber="5">He will repay evil to my enemies; cut them off in Your truth.</VERS>
+      <VERS vnumber="6">I will freely sacrifice unto You; I will praise Your name, O Jehovah, for it is good.</VERS>
+      <VERS vnumber="7">For He has delivered me out of all trouble; and my eye has seen its desire upon my enemies.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="130">
+      <CAPTION vref="1">A Song of degrees. </CAPTION>
+      <VERS vnumber="1">Out of the depths have I cried unto thee, O LORD.</VERS>
+      <VERS vnumber="2">Lord, hear my voice: let thine ears be attentive to the voice of my supplications.</VERS>
+      <VERS vnumber="3">If thou, LORD, shouldest mark iniquities, O Lord, who shall stand?</VERS>
+      <VERS vnumber="4">But there is forgiveness with thee, that thou mayest be feared.</VERS>
+      <VERS vnumber="5">I wait for the LORD, my soul doth wait, and in his word do I hope.</VERS>
+      <VERS vnumber="6">My soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning.</VERS>
+      <VERS vnumber="7">Let Israel hope in the LORD: for with the LORD there is mercy, and with him is plenteous redemption.</VERS>
+      <VERS vnumber="8">And he shall redeem Israel from all his iniquities.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

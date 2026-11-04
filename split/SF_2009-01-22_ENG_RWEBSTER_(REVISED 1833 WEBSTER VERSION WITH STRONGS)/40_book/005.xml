@@ -1,0 +1,455 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="40">
+    <CHAPTER cnumber="5">
+      <VERS vnumber="1">
+        <gr str="1161">And </gr>
+        <gr str="1492">seeing </gr>the <gr str="3793">multitudes</gr>, he went <gr str="305">up </gr>
+        <gr str="1519">to </gr>a <gr str="3735">mountain</gr>: <gr str="2532">and </gr>when <gr str="846">he </gr>was <gr str="2523">seated</gr>, <gr str="846">his </gr>
+        <gr str="3101">disciples </gr>
+        <gr str="4334">came </gr>to <gr str="846">him</gr>:</VERS>
+      <VERS vnumber="2">
+        <gr str="2532">And </gr>he <gr str="455">opened </gr>
+        <gr str="846">his </gr>
+        <gr str="4750">mouth</gr>, and <gr str="1321">taught </gr>
+        <gr str="846">them</gr>, <gr str="3004">saying</gr>,</VERS>
+      <VERS vnumber="3">
+        <gr str="3107">Blessed </gr>
+        <STYLE css="font-style:italic">are</STYLE> the <gr str="4434">poor </gr>in <gr str="4151">spirit</gr>: <gr str="3754">for </gr>
+        <gr str="846">theirs </gr>
+        <gr str="2076">is </gr>the <gr str="932">kingdom </gr>of <gr str="3772">heaven</gr>.</VERS>
+      <VERS vnumber="4">
+        <gr str="3107">Blessed </gr>
+        <STYLE css="font-style:italic">are</STYLE> they that <gr str="3996">mourn</gr>: <gr str="3754">for </gr>
+        <gr str="846">they </gr>shall be <gr str="3870">comforted</gr>.</VERS>
+      <VERS vnumber="5">
+        <gr str="3107">Blessed </gr>
+        <STYLE css="font-style:italic">are</STYLE> the <gr str="4239">meek</gr>: <gr str="3754">for </gr>
+        <gr str="846">they </gr>shall <gr str="2816">inherit </gr>the <gr str="1093">earth</gr>.</VERS>
+      <VERS vnumber="6">
+        <gr str="3107">Blessed </gr>
+        <STYLE css="font-style:italic">are</STYLE> they <gr str="3588">who </gr>
+        <gr str="3983">hunger </gr>
+        <gr str="2532">and </gr>
+        <gr str="1372">thirst </gr>for <gr str="1343">righteousness</gr>: <gr str="3754">for </gr>
+        <gr str="846">they </gr>shall be <gr str="5526">filled</gr>.</VERS>
+      <VERS vnumber="7">
+        <gr str="3107">Blessed </gr>
+        <STYLE css="font-style:italic">are</STYLE> the <gr str="1655">merciful</gr>: <gr str="3754">for </gr>
+        <gr str="846">they </gr>shall obtain <gr str="1653">mercy</gr>.</VERS>
+      <VERS vnumber="8">
+        <gr str="3107">Blessed </gr>
+        <STYLE css="font-style:italic">are</STYLE> the <gr str="2513">pure </gr>in <gr str="2588">heart</gr>: <gr str="3754">for </gr>
+        <gr str="846">they </gr>shall <gr str="3700">see </gr>
+        <gr str="2316">God</gr>.</VERS>
+      <VERS vnumber="9">
+        <gr str="3107">Blessed </gr>
+        <STYLE css="font-style:italic">are</STYLE> the <gr str="1518">peacemakers</gr>: <gr str="3754">for </gr>
+        <gr str="846">they </gr>shall be <gr str="2564">called </gr>
+        <gr str="5207">children </gr>of <gr str="2316">God</gr>.</VERS>
+      <VERS vnumber="10">
+        <gr str="3107">Blessed </gr>
+        <STYLE css="font-style:italic">are</STYLE> they who are <gr str="1377">persecuted </gr>
+        <gr str="1752">for </gr>righteousness’ <gr str="1343">sake</gr>: <gr str="3754">for </gr>
+        <gr str="846">theirs </gr>
+        <gr str="2076">is </gr>the <gr str="932">kingdom </gr>of <gr str="3772">heaven</gr>.</VERS>
+      <VERS vnumber="11">
+        <gr str="3107">Blessed </gr>are <gr str="2075">ye</gr>, <gr str="3752">when </gr>
+        <STYLE css="font-style:italic">men</STYLE> shall <gr str="3679">revile </gr>
+        <gr str="5209">you</gr>, <gr str="2532">and </gr>
+        <gr str="1377">persecute </gr>
+        <STYLE css="font-style:italic">you</STYLE>, <gr str="2532">and </gr>shall <gr str="2036">say </gr>all <gr str="3956">manner </gr>of <gr str="4190 4487">evil </gr>
+        <gr str="2596">against </gr>
+        <gr str="5216">you </gr>
+        <gr str="5574">falsely</gr>, for my <gr str="1752 1700">sake</gr>. <DIV>
+          <NOTE type="x-studynote">falsely: Gr. lying</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="12">
+        <gr str="5463">Rejoice</gr>, <gr str="2532">and </gr>be exceeding <gr str="21">glad</gr>: <gr str="3754">for </gr>
+        <gr str="4183">great </gr>
+        <STYLE css="font-style:italic">is </STYLE>
+        <gr str="5216">your </gr>
+        <gr str="3408">reward </gr>
+        <gr str="1722">in </gr>
+        <gr str="3772">heaven</gr>: <gr str="1063">for </gr>
+        <gr str="3779">so </gr>they <gr str="1377">persecuted </gr>the <gr str="4396">prophets </gr>
+        <gr str="3588">who </gr>were <gr str="4253">before </gr>
+        <gr str="5216">you</gr>.</VERS>
+      <VERS vnumber="13">
+        <gr str="5210">Ye </gr>
+        <gr str="2075">are </gr>the <gr str="217">salt </gr>of the <gr str="1093">earth</gr>: <gr str="1161">but </gr>
+        <gr str="1437">if </gr>the <gr str="217">salt </gr>hath lost its <gr str="3471">savour</gr>, <gr str="1722 5101">how </gr>shall it be <gr str="233">salted</gr>? it is <gr str="2089">then </gr>
+        <gr str="2480">good </gr>
+        <gr str="1519">for </gr>
+        <gr str="3762">nothing</gr>, <gr str="1508">but </gr>to be <gr str="906">cast </gr>
+        <gr str="1854">out</gr>, <gr str="2532">and </gr>to be trodden under <gr str="2662">foot </gr>
+        <gr str="5259">by </gr>
+        <gr str="444">men</gr>.</VERS>
+      <VERS vnumber="14">
+        <gr str="5210">Ye </gr>
+        <gr str="2075">are </gr>the <gr str="5457">light </gr>of the <gr str="2889">world</gr>. A <gr str="4172">city </gr>that is <gr str="2749">set </gr>
+        <gr str="1883">on </gr>an <gr str="3735">hill </gr>
+        <gr str="3756 1410">cannot </gr>be <gr str="2928">hid</gr>.</VERS>
+      <VERS vnumber="15">
+        <gr str="3761">Neither </gr>do men <gr str="2545">light </gr>a <gr str="3088">lamp</gr>, <gr str="2532">and </gr>
+        <gr str="5087">put </gr>
+        <gr str="846">it </gr>
+        <gr str="5259">under </gr>a <gr str="3426">basket</gr>, <gr str="235">but </gr>
+        <gr str="1909">on </gr>a <gr str="3087">lampstand</gr>; <gr str="2532">and </gr>it giveth <gr str="2989">light </gr>to <gr str="3956">all </gr>that are <gr str="1722">in </gr>the <gr str="3614">house</gr>. <DIV>
+          <NOTE type="x-studynote">a bushel: the word in the original signifieth a measure containing about a pint less than a peck</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="16">Let <gr str="5216">your </gr>
+        <gr str="5457">light </gr>
+        <gr str="3779">so </gr>
+        <gr str="2989">shine </gr>
+        <gr str="1715">before </gr>
+        <gr str="444">men</gr>, <gr str="3704">that </gr>they may <gr str="1492">see </gr>
+        <gr str="5216">your </gr>
+        <gr str="2570">good </gr>
+        <gr str="2041">works</gr>, <gr str="2532">and </gr>
+        <gr str="1392">glorify </gr>
+        <gr str="5216">your </gr>
+        <gr str="3962">Father </gr>
+        <gr str="3588">who </gr>is <gr str="1722">in </gr>
+        <gr str="3772">heaven</gr>.</VERS>
+      <VERS vnumber="17">
+        <gr str="3543">Think </gr>
+        <gr str="3361">not </gr>
+        <gr str="3754">that </gr>I am <gr str="2064">come </gr>to <gr str="2647">destroy </gr>the <gr str="3551">law</gr>, <gr str="2228">or </gr>the <gr str="4396">prophets</gr>: I <gr str="2064 ">am </gr>
+        <gr str="3756">not </gr>
+        <gr str="2064">come </gr>to <gr str="2647">destroy</gr>, <gr str="235">but </gr>to <gr str="4137">fulfil</gr>.</VERS>
+      <VERS vnumber="18">
+        <gr str="1063">For </gr>
+        <gr str="281">verily </gr>I <gr str="3004">say </gr>to <gr str="5213">you</gr>, <gr str="2193 302">Till </gr>
+        <gr str="3772">heaven </gr>
+        <gr str="2532">and </gr>
+        <gr str="1093">earth </gr>shall pass <gr str="3928">away</gr>, <gr str="1520">one </gr>
+        <gr str="2503">jot </gr>
+        <gr str="2228">or </gr>
+        <gr str="3391">one </gr>
+        <gr str="2762">tittle </gr>shall by no <gr str="3364">means </gr>
+        <gr str="3928">pass </gr>
+        <gr str="575">from </gr>the <gr str="3551">law</gr>, <gr str="2193 302">till </gr>
+        <gr str="3956">all </gr>be <gr str="1096">fulfilled</gr>.</VERS>
+      <VERS vnumber="19">
+        <gr str="3739 1437">Whoever </gr>
+        <gr str="3767">therefore </gr>shall <gr str="3089">break </gr>
+        <gr str="3391">one </gr>of <gr str="5130">these </gr>
+        <gr str="1646">least </gr>
+        <gr str="1785">commandments</gr>, <gr str="2532">and </gr>shall <gr str="1321">teach </gr>
+        <gr str="444">men </gr>
+        <gr str="3779">so</gr>, he shall be <gr str="2564">called </gr>the <gr str="1646">least </gr>
+        <gr str="1722">in </gr>the <gr str="932">kingdom </gr>of <gr str="3772">heaven</gr>: <gr str="1161">but </gr>
+        <gr str="3739 302">whoever </gr>shall <gr str="4160">do </gr>
+        <gr str="2532">and </gr>
+        <gr str="1321">teach </gr>
+        <STYLE css="font-style:italic">them</STYLE>, the <gr str="3778">same </gr>shall be <gr str="2564">called </gr>
+        <gr str="3173">great </gr>
+        <gr str="1722">in </gr>the <gr str="932">kingdom </gr>of <gr str="3772">heaven</gr>.</VERS>
+      <VERS vnumber="20">
+        <gr str="1063">For </gr>I <gr str="3004">say </gr>to <gr str="5213">you</gr>, <gr str="3754">That </gr>
+        <gr str="3362">except </gr>
+        <gr str="5216">your </gr>
+        <gr str="1343">righteousness </gr>shall <gr str="4052 4119">exceed </gr>
+        <STYLE css="font-style:italic">the righteousness</STYLE> of the <gr str="1122">scribes </gr>
+        <gr str="2532">and </gr>
+        <gr str="5330">Pharisees</gr>, ye shall in no <gr str="3364">way </gr>
+        <gr str="1525">enter </gr>
+        <gr str="1519">into </gr>the <gr str="932">kingdom </gr>of <gr str="3772">heaven</gr>.</VERS>
+      <VERS vnumber="21">Ye have <gr str="191">heard </gr>
+        <gr str="3754">that </gr>it was <gr str="4483">said </gr>to them of old <gr str="744">time</gr>, Thou <gr str="5407 ">shalt </gr>
+        <gr str="3756">not </gr>
+        <gr str="5407">kill</gr>; <gr str="1161">and </gr>
+        <gr str="3739 302">whoever </gr>shall <gr str="5407">kill </gr>shall <gr str="2071">be </gr>in <gr str="1777">danger </gr>of the <gr str="2920">judgment</gr>: <DIV>
+          <NOTE type="x-studynote">by: or, to</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="22">
+        <gr str="1161">But </gr>
+        <gr str="1473">I </gr>
+        <gr str="3004">say </gr>to <gr str="5213">you</gr>, <gr str="3754">That </gr>
+        <gr str="3956">whoever </gr>is <gr str="3710">angry </gr>with <gr str="846">his </gr>
+        <gr str="80">brother </gr>without a <gr str="1500">cause </gr>shall <gr str="2071">be </gr>in <gr str="1777">danger </gr>of the <gr str="2920">judgment</gr>: <gr str="1161">and </gr>
+        <gr str="3739 302">whoever </gr>shall <gr str="2036">say </gr>to <gr str="846">his </gr>
+        <gr str="80">brother</gr>, <gr str="4469">Raca</gr>, shall <gr str="2071">be </gr>in <gr str="1777">danger </gr>of the <gr str="4892">council</gr>: <gr str="1161">but </gr>
+        <gr str="3739 302">whoever </gr>shall <gr str="2036">say</gr>, Thou <gr str="3474">fool</gr>, shall <gr str="2071">be </gr>in <gr str="1777">danger </gr>
+        <gr str="1519">of </gr>
+        <gr str="1067">hell </gr>
+        <gr str="4442">fire</gr>. <DIV>
+          <NOTE type="x-studynote">Raca: that is, Vain fellow</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="23">
+        <gr str="3767">Therefore </gr>
+        <gr str="1437">if </gr>thou shalt <gr str="4374">bring </gr>
+        <gr str="4675">thy </gr>
+        <gr str="1435">gift </gr>
+        <gr str="1909">to </gr>the <gr str="2379">altar</gr>, and <gr str="2546">there </gr>
+        <gr str="3415">remember </gr>
+        <gr str="3754">that </gr>
+        <gr str="4675">thy </gr>
+        <gr str="80">brother </gr>
+        <gr str="2192">hath </gr>any <gr str="5100">thing </gr>
+        <gr str="2596">against </gr>
+        <gr str="4675">thee</gr>;</VERS>
+      <VERS vnumber="24">
+        <gr str="863">Leave </gr>
+        <gr str="1563">there </gr>
+        <gr str="4675">thy </gr>
+        <gr str="1435">gift </gr>
+        <gr str="1715">before </gr>the <gr str="2379">altar</gr>, <gr str="2532">and </gr>go thy <gr str="5217">way</gr>; <gr str="4412">first </gr>be <gr str="1259">reconciled </gr>to <gr str="4675">thy </gr>
+        <gr str="80">brother</gr>, <gr str="2532">and </gr>
+        <gr str="5119">then </gr>
+        <gr str="2064">come </gr>and <gr str="4374">offer </gr>
+        <gr str="4675">thy </gr>
+        <gr str="1435">gift</gr>.</VERS>
+      <VERS vnumber="25">
+        <gr str="2468 2132">Agree </gr>with <gr str="4675">thy </gr>
+        <gr str="476">adversary </gr>
+        <gr str="5035">quickly</gr>, <gr str="2193 3755">while </gr>thou <gr str="1488">art </gr>
+        <gr str="1722">in </gr>the <gr str="3598">way </gr>
+        <gr str="3326">with </gr>
+        <gr str="846">him</gr>; lest at any <gr str="3379">time </gr>the <gr str="476">adversary </gr>
+        <gr str="3860">deliver </gr>
+        <gr str="4571">thee </gr>to the <gr str="2923">judge</gr>, <gr str="2532">and </gr>the <gr str="2923">judge </gr>
+        <gr str="3860">deliver </gr>
+        <gr str="4571">thee </gr>to the <gr str="5257">officer</gr>, <gr str="2532">and </gr>thou be <gr str="906">cast </gr>
+        <gr str="1519">into </gr>
+        <gr str="5438">prison</gr>.</VERS>
+      <VERS vnumber="26">
+        <gr str="281">Verily </gr>I <gr str="3004">say </gr>to <gr str="4671">thee</gr>, Thou <gr str="1831 ">shalt </gr>by no <gr str="3364">means </gr>
+        <gr str="1831">come </gr>out from <gr str="1564">there</gr>, <gr str="2193 302">till </gr>thou hast <gr str="591">paid </gr>the <gr str="2078">uttermost </gr>
+        <gr str="2835">farthing</gr>.</VERS>
+      <VERS vnumber="27">Ye have <gr str="191">heard </gr>
+        <gr str="3754">that </gr>it was <gr str="4483">said </gr>to them of old <gr str="744">time</gr>, Thou <gr str="3431 ">shalt </gr>
+        <gr str="3756">not </gr>commit <gr str="3431">adultery</gr>:</VERS>
+      <VERS vnumber="28">
+        <gr str="1161">But </gr>
+        <gr str="1473">I </gr>
+        <gr str="3004">say </gr>to <gr str="5213">you</gr>, <gr str="3754">That </gr>
+        <gr str="3956">whoever </gr>
+        <gr str="991">looketh </gr>on a <gr str="1135">woman </gr>
+        <gr str="4314">to </gr>lust <gr str="1937">after </gr>
+        <gr str="846">her </gr>hath committed <gr str="3431">adultery </gr>with <gr str="846">her </gr>
+        <gr str="2235">already </gr>
+        <gr str="1722">in </gr>
+        <gr str="846">his </gr>
+        <gr str="2588">heart</gr>.</VERS>
+      <VERS vnumber="29">
+        <gr str="1161">And </gr>
+        <gr str="1487">if </gr>
+        <gr str="4675">thy </gr>
+        <gr str="1188">right </gr>
+        <gr str="3788">eye </gr>shall <gr str="4624 ">cause </gr>
+        <gr str="4571">thee </gr>to <gr str="4624">sin</gr>, <gr str="1807 ">pluck </gr>
+        <gr str="846">it </gr>
+        <gr str="1807">out</gr>, <gr str="2532">and </gr>
+        <gr str="906">cast </gr>
+        <STYLE css="font-style:italic">it </STYLE>
+        <gr str="575">from </gr>
+        <gr str="4675">thee</gr>: <gr str="1063">for </gr>it is <gr str="4851">profitable </gr>for <gr str="4671">thee </gr>
+        <gr str="2443">that </gr>
+        <gr str="1520">one </gr>of <gr str="4675">thy </gr>
+        <gr str="3196">members </gr>should <gr str="622">perish</gr>, <gr str="2532">and </gr>
+        <gr str="3361">not </gr>
+        <STYLE css="font-style:italic">that </STYLE>
+        <gr str="4675">thy </gr>
+        <gr str="3650">whole </gr>
+        <gr str="4983">body </gr>should be <gr str="906">cast </gr>
+        <gr str="1519">into </gr>
+        <gr str="1067">hell</gr>. <DIV>
+          <NOTE type="x-studynote">offend…: or, do cause thee to offend</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="30">
+        <gr str="2532">And </gr>
+        <gr str="1487">if </gr>
+        <gr str="4675">thy </gr>
+        <gr str="1188">right </gr>
+        <gr str="5495">hand </gr>shall <gr str="4624 ">cause </gr>
+        <gr str="4571">thee </gr>to <gr str="4624">sin</gr>, <gr str="1581 ">cut </gr>
+        <gr str="846">it </gr>
+        <gr str="1581">off</gr>, <gr str="2532">and </gr>
+        <gr str="906">cast </gr>
+        <STYLE css="font-style:italic">it </STYLE>
+        <gr str="575">from </gr>
+        <gr str="4675">thee</gr>: <gr str="1063">for </gr>it is <gr str="4851">profitable </gr>for <gr str="4671">thee </gr>
+        <gr str="2443">that </gr>
+        <gr str="1520">one </gr>of <gr str="4675">thy </gr>
+        <gr str="3196">members </gr>should <gr str="622">perish</gr>, <gr str="2532">and </gr>
+        <gr str="3361">not </gr>
+        <STYLE css="font-style:italic">that </STYLE>
+        <gr str="4675">thy </gr>
+        <gr str="3650">whole </gr>
+        <gr str="4983">body </gr>should be <gr str="906">cast </gr>
+        <gr str="1519">into </gr>
+        <gr str="1067">hell</gr>.</VERS>
+      <VERS vnumber="31">
+        <gr str="1161" /> It hath been <gr str="4483 3754">said</gr>, <gr str="3739 302">Whoever </gr>shall put <gr str="630">away </gr>
+        <gr str="846">his </gr>
+        <gr str="1135">wife</gr>, let him <gr str="1325">give </gr>
+        <gr str="846">her </gr>a writing of <gr str="647">divorcement</gr>:</VERS>
+      <VERS vnumber="32">
+        <gr str="1161">But </gr>
+        <gr str="1473">I </gr>
+        <gr str="3004">say </gr>to <gr str="5213">you</gr>, <gr str="3754">That </gr>
+        <gr str="3739 302">whoever </gr>shall put <gr str="630">away </gr>
+        <gr str="846">his </gr>
+        <gr str="1135">wife</gr>, <gr str="3924">except </gr>for the <gr str="3056">cause </gr>of <gr str="4202">immorality</gr>, <gr str="4160">causeth </gr>
+        <gr str="846">her </gr>to commit <gr str="3429">adultery</gr>: <gr str="2532">and </gr>
+        <gr str="3739 1437">whoever </gr>shall <gr str="1060">marry </gr>her that is <gr str="630">divorced </gr>committeth <gr str="3429">adultery</gr>.</VERS>
+      <VERS vnumber="33">
+        <gr str="3825">Again</gr>, ye have <gr str="191">heard </gr>
+        <gr str="3754">that </gr>it hath been <gr str="4483">said </gr>to them of old <gr str="744">time</gr>, Thou <gr str="1964 ">shalt </gr>
+        <gr str="3756">not </gr>swear <gr str="1964">falsely</gr>, <gr str="1161">but </gr>shalt <gr str="591">perform </gr>to the <gr str="2962">Lord </gr>
+        <gr str="4675">thy </gr>
+        <gr str="3727">oaths</gr>:</VERS>
+      <VERS vnumber="34">
+        <gr str="1161">But </gr>
+        <gr str="1473">I </gr>
+        <gr str="3004">say </gr>to <gr str="5213">you</gr>, <gr str="3660">Swear </gr>
+        <gr str="3361">not </gr>at <gr str="3654">all</gr>; <gr str="3383">neither </gr>
+        <gr str="1722">by </gr>
+        <gr str="3772">heaven</gr>; <gr str="3754">for </gr>it <gr str="2076">is </gr>
+        <gr str="2316">God’s </gr>
+        <gr str="2362">throne</gr>:</VERS>
+      <VERS vnumber="35">
+        <gr str="3383">Nor </gr>
+        <gr str="1722">by </gr>the <gr str="1093">earth</gr>; <gr str="3754">for </gr>it <gr str="2076">is </gr>
+        <gr str="846">his </gr>
+        <gr str="4228 5286">footstool</gr>: <gr str="3383">neither </gr>
+        <gr str="1519">by </gr>
+        <gr str="2414">Jerusalem</gr>; <gr str="3754">for </gr>it <gr str="2076">is </gr>the <gr str="4172">city </gr>of the <gr str="3173">great </gr>
+        <gr str="935">King</gr>.</VERS>
+      <VERS vnumber="36">
+        <gr str="3383">Neither </gr>shalt thou <gr str="3660">swear </gr>
+        <gr str="1722">by </gr>
+        <gr str="4675">thy </gr>
+        <gr str="2776">head</gr>, <gr str="3754">because </gr>thou <gr str="1410">canst </gr>
+        <gr str="3756">not </gr>
+        <gr str="4160">make </gr>
+        <gr str="3391">one </gr>
+        <gr str="2359">hair </gr>
+        <gr str="3022">white </gr>
+        <gr str="2228">or </gr>
+        <gr str="3189">black</gr>.</VERS>
+      <VERS vnumber="37">
+        <gr str="1161">But </gr>
+        <gr str="2077 ">let </gr>
+        <gr str="5216">your </gr>
+        <gr str="3056">communication </gr>
+        <gr str="2077">be</gr>, <gr str="3483">Yea</gr>, <gr str="3483">yea</gr>; <gr str="3756">Nay</gr>, <gr str="3756">nay</gr>: <gr str="1161">for </gr>whatever is <gr str="4053">more </gr>than <gr str="5130">these </gr>
+        <gr str="2076">cometh </gr>
+        <gr str="1537">of </gr>
+        <gr str="4190">evil</gr>.</VERS>
+      <VERS vnumber="38">Ye have <gr str="191">heard </gr>
+        <gr str="3754">that </gr>it hath been <gr str="4483">said</gr>, An <gr str="3788">eye </gr>
+        <gr str="473">for </gr>an <gr str="3788">eye</gr>, <gr str="2532">and </gr>a <gr str="3599">tooth </gr>
+        <gr str="473">for </gr>a <gr str="3599">tooth</gr>:</VERS>
+      <VERS vnumber="39">
+        <gr str="1161">But </gr>
+        <gr str="1473">I </gr>
+        <gr str="3004">say </gr>to <gr str="5213">you</gr>, That ye <gr str="436">resist </gr>
+        <gr str="3361">not </gr>
+        <gr str="4190">evil</gr>: <gr str="235">but </gr>
+        <gr str="3748">whoever </gr>shall <gr str="4474">strike </gr>
+        <gr str="4571">thee </gr>
+        <gr str="1909">on </gr>
+        <gr str="4675">thy </gr>
+        <gr str="1188">right </gr>
+        <gr str="4600">cheek</gr>, <gr str="4762">turn </gr>to <gr str="846">him </gr>the <gr str="243">other </gr>
+        <gr str="2532">also</gr>.</VERS>
+      <VERS vnumber="40">
+        <gr str="2532">And </gr>if any man <gr str="2309">will </gr>
+        <gr str="2919 ">sue </gr>
+        <gr str="4671">thee </gr>at the <gr str="2919">law</gr>, <gr str="2532">and </gr>take <gr str="2983">away </gr>
+        <gr str="4675">thy </gr>
+        <gr str="5509">coat</gr>, <gr str="863 ">let </gr>
+        <gr str="846">him </gr>
+        <gr str="863">have </gr>
+        <STYLE css="font-style:italic">thy </STYLE>
+        <gr str="2440">cloke </gr>
+        <gr str="2532">also</gr>.</VERS>
+      <VERS vnumber="41">
+        <gr str="2532">And </gr>
+        <gr str="3748">whoever </gr>shall <gr str="29 ">compel </gr>
+        <gr str="4571">thee </gr>to <gr str="29">go </gr>
+        <gr str="1520">one </gr>
+        <gr str="3400">mile</gr>, <gr str="5217">go </gr>
+        <gr str="3326">with </gr>
+        <gr str="846">him </gr>
+        <gr str="1417">two</gr>.</VERS>
+      <VERS vnumber="42">
+        <gr str="1325">Give </gr>to him that <gr str="154">asketh </gr>
+        <gr str="4571">thee</gr>, <gr str="2532">and </gr>from him that <gr str="2309">would </gr>
+        <gr str="1155">borrow </gr>
+        <gr str="575">of </gr>
+        <gr str="4675">thee </gr>
+        <gr str="654 ">turn </gr>
+        <gr str="3361">not </gr>thou <gr str="654">away</gr>.</VERS>
+      <VERS vnumber="43">Ye have <gr str="191">heard </gr>
+        <gr str="3754">that </gr>it hath been <gr str="4483">said</gr>, Thou shalt <gr str="25">love </gr>
+        <gr str="4675">thy </gr>
+        <gr str="4139">neighbour</gr>, <gr str="2532">and </gr>
+        <gr str="3404">hate </gr>
+        <gr str="4675">thy </gr>
+        <gr str="2190">enemy</gr>.</VERS>
+      <VERS vnumber="44">
+        <gr str="1161">But </gr>
+        <gr str="1473">I </gr>
+        <gr str="3004">say </gr>to <gr str="5213">you</gr>, <gr str="25">Love </gr>
+        <gr str="5216">your </gr>
+        <gr str="2190">enemies</gr>, <gr str="2127">bless </gr>them that <gr str="2672">curse </gr>
+        <gr str="5209">you</gr>, <gr str="4160">do </gr>
+        <gr str="2573">good </gr>to them that <gr str="3404">hate </gr>
+        <gr str="5209">you</gr>, <gr str="2532">and </gr>
+        <gr str="4336">pray </gr>
+        <gr str="5228">for </gr>them <gr str="3588">who </gr>despitefully <gr str="1908">use </gr>
+        <gr str="5209">you</gr>, <gr str="2532">and </gr>
+        <gr str="1377">persecute </gr>
+        <gr str="5209">you</gr>;</VERS>
+      <VERS vnumber="45">
+        <gr str="3704">That </gr>ye may <gr str="1096">be </gr>the <gr str="5207">children </gr>of <gr str="5216">your </gr>
+        <gr str="3962">Father </gr>
+        <gr str="3588">who </gr>is <gr str="1722">in </gr>
+        <gr str="3772">heaven</gr>: <gr str="3754">for </gr>he <gr str="393 ">maketh </gr>
+        <gr str="846">his </gr>
+        <gr str="2246">sun </gr>to <gr str="393">rise </gr>
+        <gr str="1909">on </gr>the <gr str="4190">evil </gr>
+        <gr str="2532">and </gr>on the <gr str="18">good</gr>, <gr str="2532">and </gr>sendeth <gr str="1026">rain </gr>
+        <gr str="1909">on </gr>the <gr str="1342">just </gr>
+        <gr str="2532">and </gr>on the <gr str="94">unjust</gr>.</VERS>
+      <VERS vnumber="46">
+        <gr str="1063">For </gr>
+        <gr str="1437">if </gr>ye <gr str="25">love </gr>them <gr str="3588">who </gr>
+        <gr str="25">love </gr>
+        <gr str="5209">you</gr>, <gr str="5101">what </gr>
+        <gr str="3408">reward </gr>have <gr str="2192">ye</gr>? <gr str="4160">do </gr>
+        <gr str="3780">not </gr>
+        <gr str="2532">even </gr>the tax <gr str="5057">collectors </gr>the <gr str="846">same</gr>?</VERS>
+      <VERS vnumber="47">
+        <gr str="2532">And </gr>
+        <gr str="1437">if </gr>ye <gr str="782">greet </gr>
+        <gr str="5216">your </gr>
+        <gr str="80">brethren </gr>
+        <gr str="3440">only</gr>, <gr str="5101">what </gr>
+        <gr str="4160">do </gr>ye <gr str="4053">more </gr>
+        <STYLE css="font-style:italic">than others</STYLE>? <gr str="4160">do </gr>
+        <gr str="3780">not </gr>
+        <gr str="2532">even </gr>the tax <gr str="5057">collectors </gr>
+        <gr str="3779">so</gr>?</VERS>
+      <VERS vnumber="48">
+        <gr str="2071">Be </gr>
+        <gr str="5210">ye </gr>
+        <gr str="3767">therefore </gr>
+        <gr str="5046">perfect</gr>, <gr str="5618">even </gr>as <gr str="5216">your </gr>
+        <gr str="3962">Father </gr>
+        <gr str="3588">who </gr>is <gr str="1722">in </gr>
+        <gr str="3772">heaven </gr>
+        <gr str="2076">is </gr>
+        <gr str="5046">perfect</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

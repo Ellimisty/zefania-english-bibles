@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="65">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">Let silence and praise come before you in Zion, O God. To you the vow will be performed.</VERS>
+      <VERS vnumber="2">All men will come to you O Hearer of prayer.</VERS>
+      <VERS vnumber="3">Iniquities prevail against me. You forgive our transgressions.</VERS>
+      <VERS vnumber="4">How blessed is the one you choose to bring near to you, to dwell in your courts. We will be satisfied with the goodness of your house, your holy Temple.</VERS>
+      <VERS vnumber="5">By awesome deeds you answer us in righteousness, O God of our salvation. You are trusted to the ends of the earth and the farthest sea.</VERS>
+      <VERS vnumber="6">He established the mountains with his power. He is girded <STYLE css="font-style:italic">fortified</STYLE>
+        <STYLE css="font-style:italic">surrounded</STYLE> with mighty strength.</VERS>
+      <VERS vnumber="7">He stills the roaring of the seas, the roaring of their waves, and the tumult of the peoples.</VERS>
+      <VERS vnumber="8">They who dwell in the ends of the earth stand in awe of your signs. You make the dawn and the sunset shout for joy.</VERS>
+      <VERS vnumber="9">You visit the earth and cause it to overflow. You greatly enrich it! The stream of God is full of water. You prepare their grain and thus you prepare the earth.</VERS>
+      <VERS vnumber="10">You water its furrows abundantly; you settle its ridges and soften it with showers. You bless its growth.</VERS>
+      <VERS vnumber="11">You have crowned the year with your bounty. Your paths drip with fatness.</VERS>
+      <VERS vnumber="12">The pastures of the wilderness drip, and the hills surround themselves with rejoicing.</VERS>
+      <VERS vnumber="13">The meadows are clothed with flocks and the valleys are covered with grain. They shout for joy, yes, they sing.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="126">
+      <VERS vnumber="1">A Canticle in steps: of Solomon.  Unless the Lord has built the house, those who build it have labored in vain.Unless the Lord has guarded the city, he who guards it watches in vain.</VERS>
+      <VERS vnumber="2">It is in vain that you rise before daylight,that you rise up after you have sat down,you who chew the bread of sorrow.Whereas, to his beloved, he will give sleep.</VERS>
+      <VERS vnumber="3">Behold, the inheritance of the Lord is sons,the reward is the fruit of the womb.</VERS>
+      <VERS vnumber="4">Like arrows in the hand of the powerful,so are the sons of those who have been cast out.</VERS>
+      <VERS vnumber="5">Blessed is the man who has filled his desire from these things.He will not be confounded when he speaks to his enemies at the gate.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,863 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="43" bname="Johannes" bsname="Joh">
+    <CHAPTER cnumber="18">
+      <VERS vnumber="1"> When <gr str="2424">Jesus </gr>had <gr str="2036">spoken </gr>these <gr str="5023">words</gr>, he went <gr str="1831">forth </gr>
+        <gr str="4862">with </gr>
+        <gr str="846">his </gr>
+        <gr str="3101">disciples </gr>
+        <gr str="4008">over </gr>
+        <gr str="3588">the </gr>
+        <gr str="5493">brook </gr>
+        <gr str="2748">Cedron</gr>, <gr str="3699">where </gr>
+        <gr str="2258">was </gr>a <gr str="2779">garden</gr>, <gr str="1519">into </gr>the <gr str="3739">which </gr>
+        <gr str="846">he </gr>
+        <gr str="1525">entered</gr>, <gr str="2532">and </gr>
+        <gr str="846">his </gr>
+        <gr str="3101">disciples</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="1161">And </gr>
+        <gr str="2455">Judas </gr>
+        <gr str="2532">also</gr>, which <gr str="3860">betrayed </gr>
+        <gr str="846">him</gr>, <gr str="1492">knew </gr>
+        <gr str="3588">the </gr>
+        <gr str="5117">place</gr>: <gr str="3754">for </gr>
+        <gr str="2424">Jesus </gr>
+        <gr str="4178">ofttimes </gr>
+        <gr str="4863">resorted </gr>
+        <gr str="1563">thither </gr>
+        <gr str="3326">with </gr>
+        <gr str="846">his </gr>
+        <gr str="3101">disciples</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="2455">Judas </gr>
+        <gr str="3767">then</gr>, having <gr str="2983">received </gr>a <gr str="4686">band </gr>
+        <STYLE css="color:#808080;font-style:italic"> of </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> men </STYLE>
+        <gr str="2532">and </gr>
+        <gr str="5257">officers </gr>
+        <gr str="1537">from </gr>
+        <gr str="3588">the </gr>chief <gr str="749">priests </gr>
+        <gr str="2532">and </gr>
+        <gr str="5330">Pharisees</gr>, <gr str="2064">cometh </gr>
+        <gr str="1563">thither </gr>
+        <gr str="3326">with </gr>
+        <gr str="5322">lanterns </gr>
+        <gr str="2532">and </gr>
+        <gr str="2985">torches </gr>
+        <gr str="2532">and </gr>
+        <gr str="3696">weapons</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="2424">Jesus </gr>
+        <gr str="3767">therefore</gr>, <gr str="1492">knowing </gr>all <gr str="3956">things </gr>that should <gr str="2064">come </gr>
+        <gr str="1909">upon </gr>
+        <gr str="848">him</gr>, went <gr str="1831">forth</gr>, and <gr str="2036">said </gr>unto <gr str="846">them</gr>, <STYLE css="color:#ff0000">
+          <gr str="5101">Whom </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2212">seek </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> ye? </STYLE>
+      </VERS>
+      <VERS vnumber="5"> They <gr str="611">answered </gr>
+        <gr str="846">him</gr>, <gr str="2424">Jesus </gr>of <gr str="3480">Nazareth</gr>. <gr str="2424">Jesus </gr>
+        <gr str="3004">saith </gr>unto <gr str="846">them</gr>, <STYLE css="color:#ff0000">
+          <gr str="1473">I </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1510">am </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <STYLE css="color:#808080;font-style:italic"> he. </STYLE>
+        </STYLE>
+        <gr str="1161">And </gr>
+        <gr str="2455">Judas </gr>
+        <gr str="2532">also</gr>, which <gr str="3860">betrayed </gr>
+        <gr str="846">him</gr>, <gr str="2476">stood </gr>
+        <gr str="3326">with </gr>
+        <gr str="846">them</gr>. </VERS>
+      <VERS vnumber="6"> As soon then <gr str="5613 3767">as </gr>he had <gr str="2036">said </gr>unto <gr str="846">them</gr>, <STYLE css="color:#ff0000">
+          <gr str="1473">I </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1510">am </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <STYLE css="color:#808080;font-style:italic"> he, </STYLE>
+        </STYLE> they <gr str="565">went </gr>
+        <gr str="1519 3694">backward</gr>, <gr str="2532">and </gr>
+        <gr str="4098">fell </gr>to the <gr str="5476">ground</gr>. </VERS>
+      <VERS vnumber="7">
+        <gr str="3767">Then </gr>
+        <gr str="1905">asked </gr>he <gr str="846">them </gr>
+        <gr str="3825">again</gr>, <STYLE css="color:#ff0000">
+          <gr str="5101">Whom </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2212">seek </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> ye? </STYLE>
+        <gr str="1161">And </gr>
+        <gr str="3588">they </gr>
+        <gr str="2036">said</gr>, <gr str="2424">Jesus </gr>of <gr str="3480">Nazareth</gr>. </VERS>
+      <VERS vnumber="8">
+        <gr str="2424">Jesus </gr>
+        <gr str="611">answered</gr>, <STYLE css="color:#ff0000"> I </STYLE>
+        <STYLE css="color:#ff0000"> have </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2036">told </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="5213">you </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3754">that </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1473">I </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1510">am </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <STYLE css="color:#808080;font-style:italic"> he </STYLE>: </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1487">if </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3767">therefore </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> ye </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2212">seek </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1691">me</gr>, </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="863">let </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="5128">these </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> go their <gr str="5217">way</gr>: </STYLE>
+      </VERS>
+      <VERS vnumber="9">
+        <gr str="2443">That </gr>
+        <gr str="3588">the </gr>
+        <gr str="3056">saying </gr>might be <gr str="4137">fulfilled</gr>, <gr str="3739">which </gr>he <gr str="2036">spake</gr>, <gr str="1537">Of </gr>
+        <gr str="846">them </gr>
+        <gr str="3739">which </gr>thou <gr str="1325">gavest </gr>
+        <gr str="3427">me </gr>
+        <gr str="*3756">have </gr>I <gr str="622">lost </gr>
+        <gr str="3762">none</gr>. </VERS>
+      <VERS vnumber="10">
+        <gr str="3767">Then </gr>
+        <gr str="4613">Simon </gr>
+        <gr str="4074">Peter </gr>
+        <gr str="2192">having </gr>a <gr str="3162">sword </gr>
+        <gr str="1670">drew </gr>
+        <gr str="846">it</gr>, <gr str="2532">and </gr>
+        <gr str="3817">smote </gr>
+        <gr str="3588">the </gr>high <gr str="749">priest </gr>'s <gr str="1401">servant</gr>, <gr str="2532">and </gr>cut <gr str="609">off </gr>
+        <gr str="846">his </gr>
+        <gr str="1188">right </gr>
+        <gr str="5621">ear <gr str="*1161" />
+        </gr>. <gr str="3588">The </gr>
+        <gr str="1401">servant </gr>'s <gr str="3686">name </gr>
+        <gr str="2258">was </gr>
+        <gr str="3124">Malchus</gr>. </VERS>
+      <VERS vnumber="11">
+        <gr str="3767">Then </gr>
+        <gr str="2036">said </gr>
+        <gr str="2424">Jesus </gr>unto <gr str="4074">Peter</gr>, <STYLE css="color:#ff0000"> Put <gr str="906">up </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="4675">thy </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3162">sword </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1519">into </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3588">the </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2336">sheath</gr>: </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3588">the </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="4221">cup </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3739">which </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> my </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3962">Father </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> hath </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1325">given </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3427">me</gr>, </STYLE>
+        <STYLE css="color:#ff0000"> shall </STYLE>
+        <STYLE css="color:#ff0000"> I </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3364">not </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="4095">drink </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="846">it</gr>? </STYLE>
+      </VERS>
+      <VERS vnumber="12">
+        <gr str="3767">Then </gr>
+        <gr str="3588">the </gr>
+        <gr str="4686">band </gr>
+        <gr str="2532">and </gr>
+        <gr str="3588">the </gr>
+        <gr str="5506">captain </gr>
+        <gr str="2532">and </gr>
+        <gr str="5257">officers </gr>of <gr str="3588">the </gr>
+        <gr str="2453">Jews </gr>
+        <gr str="4815">took </gr>
+        <gr str="2424">Jesus</gr>, <gr str="2532">and </gr>
+        <gr str="1210">bound </gr>
+        <gr str="846">him</gr>, </VERS>
+      <VERS vnumber="13">
+        <gr str="2532">And </gr>led him <gr str="520 846">away </gr>
+        <gr str="4314">to </gr>
+        <gr str="452">Annas </gr>
+        <gr str="4412">first</gr>; <gr str="1063">for </gr>he <gr str="2258">was </gr>father in <gr str="3995">law </gr>to <gr str="2533">Caiaphas</gr>, <gr str="3739">which </gr>
+        <gr str="2258">was </gr>the high <gr str="749">priest </gr>that <gr str="1565">same </gr>
+        <gr str="1763">year</gr>. </VERS>
+      <VERS vnumber="14">
+        <gr str="1161">Now </gr>
+        <gr str="2533">Caiaphas </gr>
+        <gr str="2258">was </gr>
+        <gr str="3588">he</gr>, which gave <gr str="4823">counsel </gr>to <gr str="3588">the </gr>
+        <gr str="2453">Jews</gr>, <gr str="3754">that </gr>it was <gr str="4851">expedient </gr>that <gr str="1520">one </gr>
+        <gr str="444">man </gr>should <gr str="622">die </gr>
+        <gr str="5228">for </gr>
+        <gr str="3588">the </gr>
+        <gr str="2992">people</gr>. </VERS>
+      <VERS vnumber="15">
+        <gr str="1161">And </gr>
+        <gr str="4613">Simon </gr>
+        <gr str="4074">Peter </gr>
+        <gr str="190">followed </gr>
+        <gr str="2424">Jesus</gr>, <gr str="2532">and </gr>
+        <STYLE css="color:#808080;font-style:italic"> so </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> did </STYLE>
+        <gr str="243">another </gr>
+        <gr str="3101">disciple <gr str="*1161" />
+        </gr>: <gr str="1565">that </gr>
+        <gr str="3101">disciple </gr>
+        <gr str="2258">was </gr>
+        <gr str="1110">known </gr>unto <gr str="3588">the </gr>high <gr str="749">priest</gr>, <gr str="2532">and </gr>went in <gr str="4897">with </gr>
+        <gr str="2424">Jesus </gr>
+        <gr str="1519">into </gr>
+        <gr str="3588">the </gr>
+        <gr str="833">palace </gr>of <gr str="3588">the </gr>high <gr str="749">priest</gr>. </VERS>
+      <VERS vnumber="16">
+        <gr str="1161">But </gr>
+        <gr str="4074">Peter </gr>
+        <gr str="2476">stood </gr>
+        <gr str="4314">at </gr>
+        <gr str="3588">the </gr>
+        <gr str="2374">door </gr>
+        <gr str="1854">without</gr>. <gr str="3767">Then </gr>went <gr str="1831">out </gr>that <gr str="243">other </gr>
+        <gr str="3101">disciple</gr>, <gr str="3739">which </gr>
+        <gr str="2258">was </gr>
+        <gr str="1110">known </gr>unto <gr str="3588">the </gr>high <gr str="749">priest</gr>, <gr str="2532">and </gr>
+        <gr str="2036">spake </gr>unto her that kept the <gr str="2377">door</gr>, <gr str="2532">and </gr>brought <gr str="1521">in </gr>
+        <gr str="4074">Peter</gr>. </VERS>
+      <VERS vnumber="17">
+        <gr str="3767">Then </gr>
+        <gr str="3004">saith </gr>
+        <gr str="3588">the </gr>
+        <gr str="3814">damsel </gr>that kept the <gr str="2377">door </gr>unto <gr str="4074">Peter</gr>, <gr str="1488">Art </gr>
+        <gr str="3361">not </gr>
+        <gr str="4771">thou </gr>
+        <gr str="2532">also </gr>
+        <STYLE css="color:#808080;font-style:italic"> one </STYLE>
+        <gr str="1537">of </gr>
+        <gr str="5127">this </gr>
+        <gr str="444">man </gr>'s <gr str="3101">disciples</gr>? <gr str="1565">He </gr>
+        <gr str="3004">saith</gr>, I <gr str="1510">am </gr>
+        <gr str="3756">not</gr>. </VERS>
+      <VERS vnumber="18">
+        <gr str="1161">And </gr>
+        <gr str="3588">the </gr>
+        <gr str="1401">servants </gr>
+        <gr str="2532">and </gr>
+        <gr str="5257">officers </gr>
+        <gr str="2476">stood </gr>there, who had <gr str="4160">made </gr>a fire of <gr str="439">coals</gr>; <gr str="3754">for </gr>it <gr str="2258">was </gr>
+        <gr str="5592">cold</gr>: <gr str="2532">and </gr>they <gr str="2328">warmed </gr>themselves: <gr str="1161">and </gr>
+        <gr str="4074">Peter </gr>
+        <gr str="2258 2476">stood </gr>
+        <gr str="3326">with </gr>
+        <gr str="846">them</gr>, <gr str="2532">and </gr>
+        <gr str="2328">warmed </gr>himself. </VERS>
+      <VERS vnumber="19">
+        <gr str="3588">The </gr>high <gr str="749">priest </gr>
+        <gr str="3767">then </gr>
+        <gr str="2065">asked </gr>
+        <gr str="2424">Jesus </gr>
+        <gr str="4012">of </gr>
+        <gr str="846">his </gr>
+        <gr str="3101">disciples</gr>, <gr str="2532">and </gr>
+        <gr str="4012">of </gr>
+        <gr str="846">his </gr>
+        <gr str="1322">doctrine</gr>. </VERS>
+      <VERS vnumber="20">
+        <gr str="2424">Jesus </gr>
+        <gr str="611">answered </gr>
+        <gr str="846">him</gr>, <STYLE css="color:#ff0000">
+          <gr str="1473">I </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2980">spake </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3954">openly </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> to </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3588">the </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2889">world</gr>; </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1473">I </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3842">ever </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1321">taught </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1722">in </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3588">the </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="4864">synagogue</gr>, </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2532">and </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1722">in </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3588">the </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2411">temple</gr>, </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3699">whither </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3588">the </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2453">Jews </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3842">always </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="4905">resort</gr>; </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2532">and </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1722">in </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2927">secret </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> have </STYLE>
+        <STYLE css="color:#ff0000"> I </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2980">said </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3752">nothing</gr>. </STYLE>
+      </VERS>
+      <VERS vnumber="21">
+        <STYLE css="color:#ff0000">
+          <gr str="5101">Why </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1905">askest </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> thou </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1905">me</gr>? </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1905">ask </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> them which <gr str="191">heard </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> me, </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="5101">what </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> I </STYLE>
+        <STYLE css="color:#ff0000"> have </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2980">said </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> unto </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="846">them</gr>: </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2396">behold</gr>, </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3778">they </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1492">know </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3739">what </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1473">I </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2036">said</gr>. </STYLE>
+      </VERS>
+      <VERS vnumber="22">
+        <gr str="1161">And </gr>when <gr str="846">he </gr>had <gr str="5023">thus </gr>
+        <gr str="2036">spoken</gr>, <gr str="1520">one </gr>of <gr str="3588">the </gr>
+        <gr str="5257">officers </gr>which stood <gr str="3936">by </gr>struck Jesus with the palm of his <gr str="1325 2424 4475">hand</gr>, <gr str="2036">saying</gr>, <gr str="611">Answerest </gr>thou <gr str="3588">the </gr>high <gr str="749">priest </gr>
+        <gr str="3779">so</gr>? </VERS>
+      <VERS vnumber="23">
+        <gr str="2424">Jesus </gr>
+        <gr str="611">answered </gr>
+        <gr str="846">him</gr>, <STYLE css="color:#ff0000">
+          <gr str="1487">If </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> I </STYLE>
+        <STYLE css="color:#ff0000"> have </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2980">spoken </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2560">evil</gr>, </STYLE>
+        <STYLE css="color:#ff0000"> bear <gr str="3140">witness </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="4012">of </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3588">the </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2556">evil</gr>: </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1161">but </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1487">if </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2573">well</gr>, </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="5101">why </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1194">smitest </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> thou </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3165">me</gr>? </STYLE>
+      </VERS>
+      <VERS vnumber="24"> Now <gr str="452">Annas </gr>had <gr str="649">sent </gr>
+        <gr str="846">him </gr>
+        <gr str="1210">bound </gr>
+        <gr str="4314">unto </gr>
+        <gr str="2533">Caiaphas </gr>
+        <gr str="3588">the </gr>high <gr str="749">priest</gr>. </VERS>
+      <VERS vnumber="25"> And <gr str="4613">Simon </gr>
+        <gr str="4074">Peter </gr>
+        <gr str="2258 2476">stood </gr>
+        <gr str="2532">and </gr>
+        <gr str="2328">warmed </gr>himself. They <gr str="2036">said </gr>
+        <gr str="3767">therefore </gr>unto <gr str="846">him</gr>, <gr str="1488">Art </gr>
+        <gr str="3361">not </gr>
+        <gr str="4771">thou </gr>
+        <gr str="2532">also </gr>
+        <STYLE css="color:#808080;font-style:italic"> one </STYLE>
+        <gr str="1537">of </gr>
+        <gr str="846">his </gr>
+        <gr str="3101">disciples</gr>? <gr str="1565">He </gr>
+        <gr str="720">denied </gr>
+        <STYLE css="color:#808080;font-style:italic"> it, </STYLE>
+        <gr str="2532">and </gr>
+        <gr str="2036">said</gr>, I <gr str="1510">am </gr>
+        <gr str="3756">not</gr>. </VERS>
+      <VERS vnumber="26">
+        <gr str="1520">One </gr>
+        <gr str="1537">of </gr>
+        <gr str="3588">the </gr>
+        <gr str="1401">servants </gr>of <gr str="3588">the </gr>high <gr str="749">priest</gr>, <gr str="5607">being </gr>
+        <STYLE css="color:#808080;font-style:italic"> his </STYLE>
+        <gr str="4773">kinsman </gr>
+        <gr str="3739">whose </gr>
+        <gr str="5621">ear </gr>
+        <gr str="4074">Peter </gr>cut <gr str="609">off</gr>, <gr str="3004">saith</gr>, Did <gr str="3756">not </gr>
+        <gr str="1473">I </gr>
+        <gr str="1492">see </gr>
+        <gr str="4571">thee </gr>
+        <gr str="1722">in </gr>
+        <gr str="3588">the </gr>
+        <gr str="2779">garden </gr>
+        <gr str="3326">with </gr>
+        <gr str="846">him</gr>? </VERS>
+      <VERS vnumber="27">
+        <gr str="4074">Peter </gr>
+        <gr str="3767">then </gr>
+        <gr str="720">denied </gr>
+        <gr str="3825">again</gr>: <gr str="2532">and </gr>
+        <gr str="2112">immediately </gr>the <gr str="220">cock </gr>
+        <gr str="5455">crew</gr>. </VERS>
+      <VERS vnumber="28">
+        <gr str="3767">Then </gr>
+        <gr str="71">led </gr>they <gr str="2424">Jesus </gr>
+        <gr str="575">from </gr>
+        <gr str="2533">Caiaphas </gr>
+        <gr str="1519">unto </gr>
+        <gr str="3588">the </gr>hall of <gr str="4232">judgment</gr>: <gr str="1161">and </gr>it <gr str="2258">was </gr>
+        <gr str="4405">early</gr>; <gr str="2532">and </gr>
+        <gr str="846">they </gr>themselves <gr str="1525">went </gr>
+        <gr str="3756">not </gr>
+        <gr str="1519">into </gr>
+        <gr str="3588">the </gr>judgment <gr str="4232">hall</gr>, <gr str="3363">lest </gr>they should be <gr str="3392">defiled</gr>; <gr str="235">but </gr>
+        <gr str="2443">that </gr>they might <gr str="5315">eat </gr>
+        <gr str="3588">the </gr>
+        <gr str="3957">passover</gr>. </VERS>
+      <VERS vnumber="29">
+        <gr str="4091">Pilate </gr>
+        <gr str="3767">then </gr>went <gr str="1831">out </gr>
+        <gr str="4314">unto </gr>
+        <gr str="846">them</gr>, <gr str="2532">and </gr>
+        <gr str="2036">said</gr>, <gr str="5101">What </gr>
+        <gr str="2724">accusation </gr>
+        <gr str="5342">bring </gr>ye <gr str="2596">against </gr>
+        <gr str="5127">this </gr>
+        <gr str="444">man</gr>? </VERS>
+      <VERS vnumber="30"> They <gr str="611">answered </gr>
+        <gr str="2532">and </gr>
+        <gr str="2036">said </gr>unto <gr str="846">him</gr>, <gr str="1487">If </gr>
+        <gr str="3778">he </gr>
+        <gr str="2258">were </gr>
+        <gr str="3361">not </gr>a <gr str="2555">malefactor</gr>, we would <gr str="3756">not </gr>
+        <gr str="*302">have </gr>delivered him <gr str="3860 846">up </gr>unto <gr str="4671">thee</gr>. </VERS>
+      <VERS vnumber="31">
+        <gr str="3767">Then </gr>
+        <gr str="2036">said </gr>
+        <gr str="4091">Pilate </gr>unto <gr str="846">them</gr>, <gr str="2983">Take </gr>
+        <gr str="5210">ye </gr>
+        <gr str="846">him</gr>, <gr str="2532">and </gr>
+        <gr str="2919">judge </gr>
+        <gr str="846">him </gr>
+        <gr str="2596">according </gr>to <gr str="5216">your </gr>
+        <gr str="3551">law</gr>. <gr str="3588">The </gr>
+        <gr str="2453">Jews </gr>
+        <gr str="3767">therefore </gr>
+        <gr str="2036">said </gr>unto <gr str="846">him</gr>, It is not <gr str="1832 3756">lawful </gr>for <gr str="2254">us </gr>to put any man to <gr str="615 3762">death</gr>: </VERS>
+      <VERS vnumber="32">
+        <gr str="2443">That </gr>
+        <gr str="3588">the </gr>
+        <gr str="3056">saying </gr>of <gr str="2424">Jesus </gr>might be <gr str="4137">fulfilled</gr>, <gr str="3739">which </gr>he <gr str="2036">spake</gr>, <gr str="4591">signifying </gr>
+        <gr str="4169">what </gr>
+        <gr str="2288">death </gr>he <gr str="3195">should </gr>
+        <gr str="599">die</gr>. </VERS>
+      <VERS vnumber="33">
+        <gr str="3767">Then </gr>
+        <gr str="4091">Pilate </gr>
+        <gr str="1525">entered </gr>
+        <gr str="1519">into </gr>
+        <gr str="3588">the </gr>judgment <gr str="4232">hall </gr>
+        <gr str="3825">again</gr>, <gr str="2532">and </gr>
+        <gr str="5455">called </gr>
+        <gr str="2424">Jesus</gr>, <gr str="2532">and </gr>
+        <gr str="2036">said </gr>unto <gr str="846">him</gr>, <gr str="1488">Art </gr>
+        <gr str="4771">thou </gr>
+        <gr str="3588">the </gr>
+        <gr str="935">King </gr>of <gr str="3588">the </gr>
+        <gr str="2453">Jews</gr>? </VERS>
+      <VERS vnumber="34">
+        <gr str="2424">Jesus </gr>
+        <gr str="611">answered </gr>
+        <gr str="846">him</gr>, <STYLE css="color:#ff0000">
+          <gr str="3004">Sayest </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="4771">thou </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> this <gr str="5124">thing </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="575">of </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1438">thyself</gr>, </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2228">or </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> did </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="243">others </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2036">tell </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> it </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="4671">thee </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="4012">of </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1700">me</gr>? </STYLE>
+      </VERS>
+      <VERS vnumber="35">
+        <gr str="4091">Pilate </gr>
+        <gr str="611 *3385">answered</gr>, <gr str="1510">Am </gr>
+        <gr str="1473">I </gr>a <gr str="2453">Jew</gr>? Thine <gr str="4674">own </gr>
+        <gr str="1484">nation </gr>
+        <gr str="2532">and </gr>
+        <gr str="3588">the </gr>chief <gr str="749">priests </gr>have <gr str="3860">delivered </gr>
+        <gr str="4571">thee </gr>unto <gr str="1698">me</gr>: <gr str="5101">what </gr>hast thou <gr str="4160">done</gr>? </VERS>
+      <VERS vnumber="36">
+        <gr str="2424">Jesus </gr>
+        <gr str="611">answered</gr>, <STYLE css="color:#ff0000">
+          <gr str="1699">My </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="932">kingdom </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2076">is </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3756">not </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1537">of </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="5127">this </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2889">world</gr>: </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1487">if </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1699">my </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="932">kingdom </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2258">were </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1537">of </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="5127">this </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2889">world</gr>, </STYLE>
+        <STYLE css="color:#ff0000"> then </STYLE>
+        <STYLE css="color:#ff0000"> would </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1699">my </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="5257">servants </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="75 302">fight</gr>, </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2443">that </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> I </STYLE>
+        <STYLE css="color:#ff0000"> should </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3361">not </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> be </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3860">delivered </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> to </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3588">the </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2453">Jews</gr>: </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1161">but </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3568">now </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2076">is </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1699">my </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="932">kingdom </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3756">not </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> from <gr str="1782">hence</gr>. </STYLE>
+      </VERS>
+      <VERS vnumber="37">
+        <gr str="4091">Pilate </gr>
+        <gr str="3767">therefore </gr>
+        <gr str="2036">said </gr>unto <gr str="846">him</gr>, <gr str="1488">Art </gr>
+        <gr str="4771">thou </gr>a <gr str="935">king </gr>
+        <gr str="3766">then</gr>? <gr str="2424">Jesus </gr>
+        <gr str="611">answered</gr>, <STYLE css="color:#ff0000">
+          <gr str="4771">Thou </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3004">sayest </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3754">that </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1473">I </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1510">am </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> a </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="935">king</gr>. </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1519">To </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> this <gr str="5124">end </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> was </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1473">I </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1080">born</gr>, </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2532">and </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1519">for </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> this <gr str="5124">cause </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2064">came </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> I </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1519">into </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3588">the </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2889">world</gr>, </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="2443">that </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> I </STYLE>
+        <STYLE css="color:#ff0000"> should </STYLE>
+        <STYLE css="color:#ff0000"> bear <gr str="3140">witness </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> unto </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3588">the </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="225">truth</gr>. </STYLE>
+        <STYLE css="color:#ff0000"> Every <gr str="3956">one </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000"> that <gr str="5607">is </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="1537">of </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3588">the </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="225">truth </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="191">heareth </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="3450">my </gr>
+        </STYLE>
+        <STYLE css="color:#ff0000">
+          <gr str="5456">voice</gr>. </STYLE>
+      </VERS>
+      <VERS vnumber="38">
+        <gr str="4091">Pilate </gr>
+        <gr str="3004">saith </gr>unto <gr str="846">him</gr>, <gr str="5101">What </gr>
+        <gr str="2076">is </gr>
+        <gr str="225">truth</gr>? <gr str="2532">And </gr>when he had <gr str="2036">said </gr>
+        <gr str="5124">this</gr>, he went <gr str="1831">out </gr>
+        <gr str="3825">again </gr>
+        <gr str="4314">unto </gr>
+        <gr str="3588">the </gr>
+        <gr str="2453">Jews</gr>, <gr str="2532">and </gr>
+        <gr str="3004">saith </gr>unto <gr str="846">them</gr>, <gr str="1473">I </gr>
+        <gr str="2147">find </gr>
+        <gr str="1722">in </gr>
+        <gr str="846">him </gr>
+        <gr str="3762">no </gr>
+        <gr str="156">fault </gr>
+        <STYLE css="color:#808080;font-style:italic"> at </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> all. </STYLE>
+      </VERS>
+      <VERS vnumber="39">
+        <gr str="1161">But </gr>
+        <gr str="5213">ye </gr>
+        <gr str="2076">have </gr>a <gr str="4914">custom</gr>, <gr str="2443">that </gr>I should <gr str="630">release </gr>unto <gr str="5213">you </gr>
+        <gr str="1520">one </gr>
+        <gr str="1722">at </gr>
+        <gr str="3588">the </gr>
+        <gr str="3957">passover</gr>: <gr str="1014">will </gr>ye <gr str="3767">therefore </gr>that I <gr str="630">release </gr>unto <gr str="5213">you </gr>
+        <gr str="3588">the </gr>
+        <gr str="935">King </gr>of <gr str="3588">the </gr>
+        <gr str="2453">Jews</gr>? </VERS>
+      <VERS vnumber="40">
+        <gr str="3767">Then </gr>
+        <gr str="2905">cried </gr>they <gr str="3956">all </gr>
+        <gr str="3825">again</gr>, <gr str="3004">saying</gr>, <gr str="3361">Not </gr>this <gr str="5126">man</gr>, <gr str="235">but </gr>
+        <gr str="912">Barabbas</gr>. <gr str="1161">Now </gr>
+        <gr str="912">Barabbas </gr>
+        <gr str="2258">was </gr>a <gr str="3027">robber</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

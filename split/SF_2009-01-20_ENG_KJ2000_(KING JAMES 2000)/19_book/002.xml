@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James 2000" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="2">
+      <VERS vnumber="1">Why do the nations rage, and the people imagine a vain thing?</VERS>
+      <VERS vnumber="2">The kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his anointed, saying,</VERS>
+      <VERS vnumber="3">Let us break their bands asunder, and cast away their cords from us.</VERS>
+      <VERS vnumber="4">He that sits in the heavens shall laugh: the Lord shall have them in derision.</VERS>
+      <VERS vnumber="5">Then shall he speak unto them in his wrath, and distress them in his great displeasure.</VERS>
+      <VERS vnumber="6">
+        <STYLE css="color:#FF0000">Yet have I set my king upon my holy hill of Zion.</STYLE>
+      </VERS>
+      <VERS vnumber="7">I will declare the decree: the LORD has said unto me, <STYLE css="color:#FF0000">You are my Son; this day have I begotten you.</STYLE>
+      </VERS>
+      <VERS vnumber="8">
+        <STYLE css="color:#FF0000">Ask of me, and I shall give you the nations for your inheritance, and the uttermost parts of the earth for your possession.</STYLE>
+      </VERS>
+      <VERS vnumber="9">
+        <STYLE css="color:#FF0000">You shall break them with a rod of iron; you shall dash them in pieces like a potter's vessel.</STYLE>
+      </VERS>
+      <VERS vnumber="10">Be wise now therefore, O you kings: be instructed, you judges of the earth.</VERS>
+      <VERS vnumber="11">Serve the LORD with fear, and rejoice with trembling.</VERS>
+      <VERS vnumber="12">Kiss the Son, lest he be angry, and you perish in the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

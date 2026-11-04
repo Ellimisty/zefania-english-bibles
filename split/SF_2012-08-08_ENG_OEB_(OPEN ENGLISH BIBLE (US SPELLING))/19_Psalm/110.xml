@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="110">
+      <VERS vnumber="1">This said the <STYLE id="cl:divineName">Lord</STYLE> concerning my lord,“Sit at my right hand,till I set your foot on the neck of your foes.” <BR art="x-nl" /> On Zion the <STYLE id="cl:divineName">Lord</STYLE> is wieldingyour sceptre of might, and charges youTo rule over the foes that surround you. <BR art="x-nl" /> The day that you march to battleyour people will follow you gladlyyoung warriors in holy array,like dew-drops, born of the morning. <BR art="x-nl" /> The <STYLE id="cl:divineName">Lord</STYLE> has sworn and will not repent,“As for you, you are priest for everas Melchizedek was.” <BR art="x-nl" /> By your side will the <STYLE id="cl:divineName">Lord</STYLE> shatter kingson the day of his wrath.He will execute judgmentfilling the valleys with dead,the broad fields with shattered heads.He will drink of the brook by the way,and march onward with uplifted head.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

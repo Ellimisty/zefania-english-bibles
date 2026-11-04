@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="3" bname="3 Mose" bsname="3Mo">
+    <CHAPTER cnumber="14">
+      <VERS vnumber="1"> And the <gr str="3068">LORD </gr>
+        <gr str="1696">spoke </gr>
+        <gr str="413">unto </gr>
+        <gr str="4872">Moses</gr>, <gr str="559">saying</gr>, </VERS>
+      <VERS vnumber="2">
+        <gr str="2063">This </gr>shall <gr str="1961">be </gr>the <gr str="8451">law </gr>of the <gr str="6879">leper </gr>in the <gr str="3117">day </gr>of his <gr str="2893">cleansing</gr>: He shall be <gr str="935">brought </gr>
+        <gr str="413">unto </gr>the <gr str="3548">priest</gr>: </VERS>
+      <VERS vnumber="3"> And the <gr str="3548">priest </gr>shall go <gr str="3318">forth </gr>out <gr str="413 4480 2351">of </gr>the <gr str="4264">camp</gr>; and the <gr str="3548">priest </gr>shall <gr str="7200">look</gr>, and, <gr str="2009">behold</gr>, <STYLE css="color:#808080;font-style:italic"> if </STYLE> the <gr str="5061">plague </gr>of <gr str="6883">leprosy </gr>be <gr str="7495">healed </gr>
+        <gr str="4480">in </gr>the <gr str="6879">leper</gr>; </VERS>
+      <VERS vnumber="4"> Then shall the <gr str="3548">priest </gr>
+        <gr str="6680">command </gr>to <gr str="3947">take </gr>for him that is to be <gr str="2891">cleansed </gr>
+        <gr str="8147">two </gr>
+        <gr str="6833">birds </gr>
+        <gr str="2416">alive </gr>
+        <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="2889">clean</gr>, and <gr str="730">cedar </gr>
+        <gr str="6086">wood</gr>, and <gr str="8144 8438">scarlet</gr>, and <gr str="231">hyssop</gr>: </VERS>
+      <VERS vnumber="5"> And the <gr str="3548">priest </gr>shall <gr str="6680">command </gr>
+        <gr str="*853" />that <gr str="259">one </gr>of the <gr str="6833">birds </gr>be <gr str="7819">killed </gr>
+        <gr str="413">in </gr>an <gr str="2789">earthen </gr>
+        <gr str="3627">vessel </gr>
+        <gr str="5921">over </gr>
+        <gr str="2416">running </gr>
+        <gr str="4325">water</gr>: </VERS>
+      <VERS vnumber="6"> As for <gr str="*853" />the <gr str="2416">living </gr>
+        <gr str="6833">bird</gr>, he shall <gr str="3947">take </gr>it, and the <gr str="730">cedar </gr>
+        <gr str="6086">wood</gr>, and the <gr str="8144 8438">scarlet</gr>, and the <gr str="231">hyssop</gr>, and shall <gr str="2881">dip </gr>them and the <gr str="2416">living </gr>
+        <gr str="6833">bird </gr>in the <gr str="1818">blood </gr>of the <gr str="6833">bird </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> was </STYLE>
+        <gr str="7819">killed </gr>
+        <gr str="5921">over </gr>the <gr str="2416">running </gr>
+        <gr str="4325">water</gr>: </VERS>
+      <VERS vnumber="7"> And he shall <gr str="5137">sprinkle </gr>
+        <gr str="5921">upon </gr>him that is to be <gr str="2891">cleansed </gr>
+        <gr str="4480">from </gr>the <gr str="6883">leprosy </gr>
+        <gr str="7651">seven </gr>
+        <gr str="6471">times</gr>, and shall pronounce him <gr str="2891">clean</gr>, and shall let <gr str="*853" />the <gr str="2416">living </gr>
+        <gr str="6833">bird </gr>
+        <gr str="7971">loose </gr>
+        <gr str="5921">into </gr>the <gr str="6440">open </gr>
+        <gr str="7704">field</gr>. </VERS>
+      <VERS vnumber="8"> And he that is to be <gr str="2891">cleansed </gr>shall <gr str="3526">wash </gr>
+        <gr str="*853" />his <gr str="899">clothes</gr>, and shave <gr str="1548">off </gr>
+        <gr str="*853" />
+        <gr str="3605">all </gr>his <gr str="8181">hair</gr>, and <gr str="7364">wash </gr>himself in <gr str="4325">water</gr>, that he may be <gr str="2891">clean</gr>: and after <gr str="310">that </gr>he shall <gr str="935">come </gr>
+        <gr str="413">into </gr>the <gr str="4264">camp</gr>, and shall <gr str="3427">tarry </gr>
+        <gr str="4480 2351">abroad </gr>out of his <gr str="168">tent </gr>
+        <gr str="7651">seven </gr>
+        <gr str="3117">days</gr>. </VERS>
+      <VERS vnumber="9"> But it shall <gr str="1961">be </gr>on the <gr str="7637">seventh </gr>
+        <gr str="3117">day</gr>, that he shall shave all his hair <gr str="1548 *853 3605 8181">off </gr>
+        <gr str="*853" />his <gr str="7218">head </gr>and his <gr str="2206">beard </gr>and his <gr str="1354 5869">eyebrows</gr>, even <gr str="3605">all </gr>his <gr str="8181">hair </gr>he shall shave <gr str="1548">off</gr>: and he shall <gr str="3526">wash </gr>
+        <gr str="*853" />his <gr str="899">clothes</gr>, also he shall <gr str="7364">wash </gr>
+        <gr str="*853" />his <gr str="1320">flesh </gr>in <gr str="4325">water</gr>, and he shall be <gr str="2891">clean</gr>. </VERS>
+      <VERS vnumber="10"> And on the <gr str="8066">eighth </gr>
+        <gr str="3117">day </gr>he shall <gr str="3947">take </gr>
+        <gr str="8147">two </gr>he <gr str="3532">lambs </gr>without <gr str="8549">blemish</gr>, and <gr str="259">one </gr>ewe <gr str="3535">lamb </gr>of the <gr str="1323">first </gr>
+        <gr str="8141">year </gr>without <gr str="8549">blemish</gr>, and <gr str="7969">three </gr>tenth <gr str="6241">deals </gr>of fine <gr str="5560">flour </gr>
+        <STYLE css="color:#808080;font-style:italic"> for </STYLE> a meat <gr str="4503">offering</gr>, <gr str="1101">mingled </gr>with <gr str="8081">oil</gr>, and <gr str="259">one </gr>
+        <gr str="3849">log </gr>of <gr str="8081">oil</gr>. </VERS>
+      <VERS vnumber="11"> And the <gr str="3548">priest </gr>that maketh <STYLE css="color:#808080;font-style:italic"> him </STYLE>
+        <gr str="2891">clean </gr>shall <gr str="5975">present </gr>
+        <gr str="*853" />the <gr str="376">man </gr>that is to be made <gr str="2891">clean</gr>, and those things, <gr str="6440">before </gr>the <gr str="3068">LORD</gr>, <STYLE css="color:#808080;font-style:italic"> at </STYLE> the <gr str="6607">door </gr>of the <gr str="168">tabernacle </gr>of the <gr str="4150">congregation</gr>: </VERS>
+      <VERS vnumber="12"> And the <gr str="3548">priest </gr>shall <gr str="3947">take </gr>
+        <gr str="*853" />
+        <gr str="259">one </gr>he <gr str="3532">lamb</gr>, and <gr str="7126">offer </gr>him for a trespass <gr str="817">offering</gr>, and the <gr str="3849">log </gr>of <gr str="8081">oil</gr>, and <gr str="5130">wave </gr>them <STYLE css="color:#808080;font-style:italic"> for </STYLE> a wave <gr str="8573">offering </gr>
+        <gr str="6440">before </gr>the <gr str="3068">LORD</gr>: </VERS>
+      <VERS vnumber="13"> And he shall <gr str="7819">slay </gr>
+        <gr str="*853" />the <gr str="3532">lamb </gr>in the <gr str="4725">place </gr>
+        <gr str="834">where </gr>he shall <gr str="7819">kill </gr>
+        <gr str="*853" />the sin <gr str="2403">offering </gr>and the burnt <gr str="5930">offering</gr>, in the <gr str="6944">holy </gr>
+        <gr str="4725">place</gr>: <gr str="3588">for </gr>as the sin <gr str="2403">offering </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="3548">priest </gr>'s, <STYLE css="color:#808080;font-style:italic"> so </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the trespass <gr str="817">offering</gr>: <gr str="1931">it </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> most <gr str="6944 6944">holy</gr>: </VERS>
+      <VERS vnumber="14"> And the <gr str="3548">priest </gr>shall <gr str="3947">take </gr>
+        <STYLE css="color:#808080;font-style:italic"> some </STYLE> of the <gr str="4480 1818">blood </gr>of the trespass <gr str="817">offering</gr>, and the <gr str="3548">priest </gr>shall <gr str="5414">put </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <gr str="5921">upon </gr>the <gr str="8571">tip </gr>of the <gr str="3233">right </gr>
+        <gr str="241">ear </gr>of him that is to be <gr str="2891">cleansed</gr>, and <gr str="5921">upon </gr>the <gr str="931">thumb </gr>of his <gr str="3233">right </gr>
+        <gr str="3027">hand</gr>, and <gr str="5921">upon </gr>the great <gr str="931">toe </gr>of his <gr str="3233">right </gr>
+        <gr str="7272">foot</gr>: </VERS>
+      <VERS vnumber="15"> And the <gr str="3548">priest </gr>shall <gr str="3947">take </gr>
+        <STYLE css="color:#808080;font-style:italic"> some </STYLE> of the <gr str="4480 3849">log </gr>of <gr str="8081">oil</gr>, and <gr str="3332">pour </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <gr str="5921">into </gr>the <gr str="3709">palm </gr>of his <gr str="3548">own </gr>left <gr str="8042">hand</gr>: </VERS>
+      <VERS vnumber="16"> And the <gr str="3548">priest </gr>shall <gr str="2881">dip </gr>
+        <gr str="*853" />his <gr str="3233">right </gr>
+        <gr str="676">finger </gr>
+        <gr str="4480">in </gr>the <gr str="8081">oil </gr>
+        <gr str="834">that </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="5921">in </gr>his <gr str="8042">left </gr>
+        <gr str="3709">hand</gr>, and shall <gr str="5137">sprinkle </gr>
+        <gr str="4480">of </gr>the <gr str="8081">oil </gr>with his <gr str="676">finger </gr>
+        <gr str="7651">seven </gr>
+        <gr str="6471">times </gr>
+        <gr str="6440">before </gr>the <gr str="3068">LORD</gr>: </VERS>
+      <VERS vnumber="17"> And of the <gr str="4480 3499">rest </gr>of the <gr str="8081">oil </gr>
+        <gr str="834">that </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="5921">in </gr>his <gr str="3709">hand </gr>shall the <gr str="3548">priest </gr>
+        <gr str="5414">put </gr>
+        <gr str="5921">upon </gr>the <gr str="8571">tip </gr>of the <gr str="3233">right </gr>
+        <gr str="241">ear </gr>of him that is to be <gr str="2891">cleansed</gr>, and <gr str="5921">upon </gr>the <gr str="931">thumb </gr>of his <gr str="3233">right </gr>
+        <gr str="3027">hand</gr>, and <gr str="5921">upon </gr>the great <gr str="931">toe </gr>of his <gr str="3233">right </gr>
+        <gr str="7272">foot</gr>, <gr str="5921">upon </gr>the <gr str="1818">blood </gr>of the trespass <gr str="817">offering</gr>: </VERS>
+      <VERS vnumber="18"> And the <gr str="3498">remnant </gr>of the <gr str="8081">oil </gr>
+        <gr str="834">that </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="5921">in </gr>the <gr str="3548">priest </gr>'s <gr str="3709">hand </gr>he shall <gr str="5414">pour </gr>
+        <gr str="5921">upon </gr>the <gr str="7218">head </gr>of him that is to be <gr str="2891">cleansed</gr>: and the <gr str="3548">priest </gr>shall make an <gr str="3722">atonement </gr>
+        <gr str="5921">for </gr>him <gr str="6440">before </gr>the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="19"> And the <gr str="3548">priest </gr>shall <gr str="6213">offer </gr>
+        <gr str="*853" />the sin <gr str="2403">offering</gr>, and make an <gr str="3722">atonement </gr>
+        <gr str="5921">for </gr>him that is to be <gr str="2891">cleansed </gr>from his <gr str="4480 2932">uncleanness</gr>; and <gr str="310">afterward </gr>he shall <gr str="7819">kill </gr>
+        <gr str="*853" />the burnt <gr str="5930">offering</gr>: </VERS>
+      <VERS vnumber="20"> And the <gr str="3548">priest </gr>shall <gr str="5927">offer </gr>
+        <gr str="*853" />the burnt <gr str="5930">offering </gr>and the meat <gr str="4503">offering </gr>upon the <gr str="4196">altar</gr>: and the <gr str="3548">priest </gr>shall make an <gr str="3722">atonement </gr>
+        <gr str="5921">for </gr>him, and he shall be <gr str="2891">clean</gr>. </VERS>
+      <VERS vnumber="21"> And <gr str="518">if </gr>
+        <gr str="1931">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="1800">poor</gr>, and cannot get so <gr str="369 3027 5381">much</gr>; then he shall <gr str="3947">take </gr>
+        <gr str="259">one </gr>
+        <gr str="3532">lamb </gr>
+        <STYLE css="color:#808080;font-style:italic"> for </STYLE> a trespass <gr str="817">offering </gr>to be <gr str="8573">waved</gr>, to make an <gr str="3722">atonement </gr>
+        <gr str="5921">for </gr>him, and <gr str="259">one </gr>tenth <gr str="6241">deal </gr>of fine <gr str="5560">flour </gr>
+        <gr str="1101">mingled </gr>with <gr str="8081">oil </gr>for a meat <gr str="4503">offering</gr>, and a <gr str="3849">log </gr>of <gr str="8081">oil</gr>; </VERS>
+      <VERS vnumber="22"> And <gr str="8147">two </gr>
+        <gr str="8449">turtledoves</gr>, <gr str="176">or </gr>
+        <gr str="8147">two </gr>
+        <gr str="1121">young </gr>
+        <gr str="3123">pigeons</gr>, such <gr str="834">as </gr>he is able to <gr str="5381 3027">get</gr>; and the <gr str="259">one </gr>shall <gr str="1961">be </gr>a sin <gr str="2403">offering</gr>, and the <gr str="259">other </gr>a burnt <gr str="5930">offering</gr>. </VERS>
+      <VERS vnumber="23"> And he shall <gr str="935">bring </gr>them on the <gr str="8066">eighth </gr>
+        <gr str="3117">day </gr>for his <gr str="2893">cleansing </gr>
+        <gr str="413">unto </gr>the <gr str="3548">priest</gr>, <gr str="413">unto </gr>the <gr str="6607">door </gr>of the <gr str="168">tabernacle </gr>of the <gr str="4150">congregation</gr>, <gr str="6440">before </gr>the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="24"> And the <gr str="3548">priest </gr>shall <gr str="3947">take </gr>
+        <gr str="*853" />the <gr str="3532">lamb </gr>of the trespass <gr str="817">offering</gr>, and the <gr str="3849">log </gr>of <gr str="8081">oil</gr>, and the <gr str="3548">priest </gr>shall <gr str="5130">wave </gr>them <STYLE css="color:#808080;font-style:italic"> for </STYLE> a wave <gr str="8573">offering </gr>
+        <gr str="6440">before </gr>the <gr str="3068">LORD</gr>: </VERS>
+      <VERS vnumber="25"> And he shall <gr str="7819">kill </gr>
+        <gr str="*853" />the <gr str="3532">lamb </gr>of the trespass <gr str="817">offering</gr>, and the <gr str="3548">priest </gr>shall <gr str="3947">take </gr>
+        <STYLE css="color:#808080;font-style:italic"> some </STYLE> of the <gr str="4480 1818">blood </gr>of the trespass <gr str="817">offering</gr>, and <gr str="5414">put </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <gr str="5921">upon </gr>the <gr str="8571">tip </gr>of the <gr str="3233">right </gr>
+        <gr str="241">ear </gr>of him that is to be <gr str="2891">cleansed</gr>, and <gr str="5921">upon </gr>the <gr str="931">thumb </gr>of his <gr str="3233">right </gr>
+        <gr str="3027">hand</gr>, and <gr str="5921">upon </gr>the great <gr str="931">toe </gr>of his <gr str="3233">right </gr>
+        <gr str="7272">foot</gr>: </VERS>
+      <VERS vnumber="26"> And the <gr str="3548">priest </gr>shall <gr str="3332">pour </gr>
+        <gr str="4480">of </gr>the <gr str="8081">oil </gr>
+        <gr str="5921">into </gr>the <gr str="3709">palm </gr>of his <gr str="3548">own </gr>left <gr str="8042">hand</gr>: </VERS>
+      <VERS vnumber="27"> And the <gr str="3548">priest </gr>shall <gr str="5137">sprinkle </gr>with his <gr str="3233">right </gr>
+        <gr str="676">finger </gr>
+        <STYLE css="color:#808080;font-style:italic"> some </STYLE>
+        <gr str="4480">of </gr>the <gr str="8081">oil </gr>
+        <gr str="834">that </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="5921">in </gr>his <gr str="8042">left </gr>
+        <gr str="3709">hand </gr>
+        <gr str="7651">seven </gr>
+        <gr str="6471">times </gr>
+        <gr str="6440">before </gr>the <gr str="3068">LORD</gr>: </VERS>
+      <VERS vnumber="28"> And the <gr str="3548">priest </gr>shall <gr str="5414">put </gr>
+        <gr str="4480">of </gr>the <gr str="8081">oil </gr>
+        <gr str="834">that </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="5921">in </gr>his <gr str="3709">hand </gr>
+        <gr str="5921">upon </gr>the <gr str="8571">tip </gr>of the <gr str="3233">right </gr>
+        <gr str="241">ear </gr>of him that is to be <gr str="2891">cleansed</gr>, and <gr str="5921">upon </gr>the <gr str="931">thumb </gr>of his <gr str="3233">right </gr>
+        <gr str="3027">hand</gr>, and <gr str="5921">upon </gr>the great <gr str="931">toe </gr>of his <gr str="3233">right </gr>
+        <gr str="7272">foot</gr>, <gr str="5921">upon </gr>the <gr str="4725">place </gr>of the <gr str="1818">blood </gr>of the trespass <gr str="817">offering</gr>: </VERS>
+      <VERS vnumber="29"> And the <gr str="3498">rest </gr>
+        <gr str="4480">of </gr>the <gr str="8081">oil </gr>
+        <gr str="834">that </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="5921">in </gr>the <gr str="3548">priest </gr>'s <gr str="3709">hand </gr>he shall <gr str="5414">put </gr>
+        <gr str="5921">upon </gr>the <gr str="7218">head </gr>of him that is to be <gr str="2891">cleansed</gr>, to make an <gr str="3722">atonement </gr>
+        <gr str="5921">for </gr>him <gr str="6440">before </gr>the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="30"> And he shall <gr str="6213">offer </gr>
+        <gr str="*853" />the <gr str="259">one </gr>
+        <gr str="4480">of </gr>the <gr str="8449">turtledoves</gr>, <gr str="176">or </gr>
+        <gr str="4480">of </gr>the <gr str="1121">young </gr>
+        <gr str="3123">pigeons</gr>, such <gr str="4480 834">as </gr>he can <gr str="5381 3027">get</gr>; </VERS>
+      <VERS vnumber="31">
+        <STYLE css="color:#808080;font-style:italic"> Even </STYLE>
+        <gr str="*853">
+        </gr>such <gr str="834">as </gr>he is able to <gr str="5381 3027">get</gr>,  <gr str="*853" />the <gr str="259">one </gr>
+        <STYLE css="color:#808080;font-style:italic"> for </STYLE> a sin <gr str="2403">offering</gr>, and the <gr str="259">other </gr>
+        <STYLE css="color:#808080;font-style:italic"> for </STYLE> a burnt <gr str="5930">offering</gr>, <gr str="5921">with </gr>the meat <gr str="4503">offering</gr>: and the <gr str="3548">priest </gr>shall make an <gr str="3722">atonement </gr>
+        <gr str="5921">for </gr>him that is to be <gr str="2891">cleansed </gr>
+        <gr str="6440">before </gr>the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="32">
+        <gr str="2063">This </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="8451">law </gr>
+        <STYLE css="color:#808080;font-style:italic"> of </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> him </STYLE> in <gr str="834">whom </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="5061">plague </gr>of <gr str="6883">leprosy</gr>, <gr str="834">whose </gr>
+        <gr str="3027">hand </gr>is <gr str="3808">not </gr>able to <gr str="5381">get </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> which </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> pertaineth </STYLE> to his <gr str="2893">cleansing</gr>. </VERS>
+      <VERS vnumber="33"> And the <gr str="3068">LORD </gr>
+        <gr str="1696">spoke </gr>
+        <gr str="413">unto </gr>
+        <gr str="4872">Moses </gr>and <gr str="413">unto </gr>
+        <gr str="175">Aaron</gr>, <gr str="559">saying</gr>, </VERS>
+      <VERS vnumber="34">
+        <gr str="3588">When </gr>ye be <gr str="935">come </gr>
+        <gr str="413">into </gr>the <gr str="776">land </gr>of <gr str="3667">Canaan</gr>, <gr str="834">which </gr>
+        <gr str="589">I </gr>
+        <gr str="5414">give </gr>to you for a <gr str="272">possession</gr>, and I <gr str="5414">put </gr>the <gr str="5061">plague </gr>of <gr str="6883">leprosy </gr>in a <gr str="1004">house </gr>of the <gr str="776">land </gr>of your <gr str="272">possession</gr>; </VERS>
+      <VERS vnumber="35"> And he that <gr str="834">owneth </gr>the <gr str="1004">house </gr>shall <gr str="935">come </gr>and <gr str="5046">tell </gr>the <gr str="3548">priest</gr>, <gr str="559">saying</gr>, It <gr str="7200">seemeth </gr>to me <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> as it were a <gr str="5061">plague </gr>in the <gr str="1004">house</gr>: </VERS>
+      <VERS vnumber="36"> Then the <gr str="3548">priest </gr>shall <gr str="6680">command </gr>that they <gr str="6437">empty </gr>
+        <gr str="*853" />the <gr str="1004">house</gr>, <gr str="2962">before </gr>the <gr str="3548">priest </gr>
+        <gr str="935">go </gr>
+        <STYLE css="color:#808080;font-style:italic"> into </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE> to <gr str="7200">see </gr>
+        <gr str="*853" />the <gr str="5061">plague</gr>, that <gr str="3605">all </gr>
+        <gr str="834">that </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> in the <gr str="1004">house </gr>be <gr str="3808">not </gr>made <gr str="2930">unclean</gr>: and <gr str="310 3651">afterward </gr>the <gr str="3548">priest </gr>shall go <gr str="935">in </gr>to <gr str="7200">see </gr>
+        <gr str="*853" />the <gr str="1004">house</gr>: </VERS>
+      <VERS vnumber="37"> And he shall look <gr str="7200">on </gr>
+        <gr str="*853" />the <gr str="5061">plague</gr>, and, <gr str="2009">behold</gr>, <STYLE css="color:#808080;font-style:italic"> if </STYLE> the <gr str="5061">plague </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> in the <gr str="7023">walls </gr>of the <gr str="1004">house </gr>with hollow <gr str="8258">streaks</gr>, <gr str="3422">greenish </gr>
+        <gr str="176">or </gr>
+        <gr str="125">reddish</gr>, which in <gr str="4758">sight </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="8217">lower </gr>
+        <gr str="4480">than </gr>the <gr str="7023">wall</gr>; </VERS>
+      <VERS vnumber="38"> Then the <gr str="3548">priest </gr>shall go <gr str="3318">out </gr>
+        <gr str="4480">of </gr>the <gr str="1004">house </gr>
+        <gr str="413">to </gr>the <gr str="6607">door </gr>of the <gr str="1004">house</gr>, and shut <gr str="5462">up </gr>
+        <gr str="*853" />the <gr str="1004">house </gr>
+        <gr str="7651">seven </gr>
+        <gr str="3117">days</gr>: </VERS>
+      <VERS vnumber="39"> And the <gr str="3548">priest </gr>shall come <gr str="7725">again </gr>the <gr str="7637">seventh </gr>
+        <gr str="3117">day</gr>, and shall <gr str="7200">look</gr>: and, <gr str="2009">behold</gr>, <STYLE css="color:#808080;font-style:italic"> if </STYLE> the <gr str="5061">plague </gr>be <gr str="6581">spread </gr>in the <gr str="7023">walls </gr>of the <gr str="1004">house</gr>; </VERS>
+      <VERS vnumber="40"> Then the <gr str="3548">priest </gr>shall <gr str="6680">command </gr>that they take <gr str="2502">away </gr>
+        <gr str="*853" />the <gr str="68">stones </gr>in <gr str="834 2004">which </gr>the <gr str="5061">plague </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>, and they shall <gr str="7993">cast </gr>them <gr str="413">into </gr>an <gr str="2931">unclean </gr>
+        <gr str="4725">place </gr>
+        <gr str="4480 2351 413">without </gr>the <gr str="5892">city</gr>: </VERS>
+      <VERS vnumber="41"> And he shall cause the <gr str="1004">house </gr>to be <gr str="7106">scraped </gr>
+        <gr str="4480 1004">within </gr>round <gr str="5439">about</gr>, and they shall pour <gr str="8210">out </gr>
+        <gr str="*853" />the <gr str="6083">dust </gr>
+        <gr str="834">that </gr>they scrape <gr str="7096">off </gr>
+        <gr str="413 4480 2351">without </gr>the <gr str="5892">city </gr>
+        <gr str="413">into </gr>an <gr str="2931">unclean </gr>
+        <gr str="4725">place</gr>: </VERS>
+      <VERS vnumber="42"> And they shall <gr str="3947">take </gr>
+        <gr str="312">other </gr>
+        <gr str="68">stones</gr>, and <gr str="935">put </gr>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE>
+        <gr str="413">in </gr>the <gr str="8478">place </gr>of those <gr str="68">stones</gr>; and he shall <gr str="3947">take </gr>
+        <gr str="312">other </gr>
+        <gr str="6083">mortar</gr>, and shall <gr str="2902">plaster </gr>
+        <gr str="*853" />the <gr str="1004">house</gr>. </VERS>
+      <VERS vnumber="43"> And <gr str="518">if </gr>the <gr str="5061">plague </gr>come <gr str="7725">again</gr>, and break <gr str="6524">out </gr>in the <gr str="1004">house</gr>, after <gr str="310">that </gr>he hath taken <gr str="2502">away </gr>
+        <gr str="*853" />the <gr str="68">stones</gr>, and <gr str="310">after </gr>he hath <gr str="7096">scraped </gr>
+        <gr str="*853" />the <gr str="1004">house</gr>, and <gr str="310">after </gr>it is <gr str="2902">plastered</gr>; </VERS>
+      <VERS vnumber="44"> Then the <gr str="3548">priest </gr>shall <gr str="935">come </gr>and <gr str="7200">look</gr>, and, <gr str="2009">behold</gr>, <STYLE css="color:#808080;font-style:italic"> if </STYLE> the <gr str="5061">plague </gr>be <gr str="6581">spread </gr>in the <gr str="1004">house</gr>, <gr str="1931">it </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="3992">fretting </gr>
+        <gr str="6883">leprosy </gr>in the <gr str="1004">house</gr>: <gr str="1931">it </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2931">unclean</gr>. </VERS>
+      <VERS vnumber="45"> And he shall break <gr str="5422">down </gr>
+        <gr str="*853" />the <gr str="1004">house</gr>,  <gr str="*853" />the <gr str="68">stones </gr>of it, and the <gr str="6086">timber </gr>thereof, and <gr str="3605">all </gr>the <gr str="6083">mortar </gr>of the <gr str="1004">house</gr>; and he shall carry <STYLE css="color:#808080;font-style:italic"> them </STYLE>
+        <gr str="3318">forth </gr>out <gr str="413 4480 2351">of </gr>the <gr str="5892">city </gr>
+        <gr str="413">into </gr>an <gr str="2931">unclean </gr>
+        <gr str="4725">place</gr>. </VERS>
+      <VERS vnumber="46"> Moreover he that <gr str="935">goeth </gr>
+        <gr str="413">into </gr>the <gr str="1004">house </gr>
+        <gr str="3605">all </gr>the <gr str="3117">while </gr>that it is shut <gr str="5462">up </gr>shall be <gr str="2930">unclean </gr>
+        <gr str="5704">until </gr>the <gr str="6153">even</gr>. </VERS>
+      <VERS vnumber="47"> And he that <gr str="7901">lieth </gr>in the <gr str="1004">house </gr>shall <gr str="3526">wash </gr>
+        <gr str="*853" />his <gr str="899">clothes</gr>; and he that <gr str="398">eateth </gr>in the <gr str="1004">house </gr>shall <gr str="3526">wash </gr>
+        <gr str="*853" />his <gr str="899">clothes</gr>. </VERS>
+      <VERS vnumber="48"> And <gr str="518">if </gr>the <gr str="3548">priest </gr>shall come <gr str="935 935">in</gr>, and <gr str="7200">look </gr>
+        <STYLE css="color:#808080;font-style:italic"> upon </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>, and, <gr str="2009">behold</gr>, the <gr str="5061">plague </gr>hath <gr str="3808">not </gr>
+        <gr str="6581">spread </gr>in the <gr str="1004">house</gr>, <gr str="310">after </gr>
+        <gr str="*853" />the <gr str="1004">house </gr>was <gr str="2902">plastered</gr>: then the <gr str="3548">priest </gr>shall pronounce the house <gr str="2891 *853 1004">clean</gr>, <gr str="3588">because </gr>the <gr str="5061">plague </gr>is <gr str="7495">healed</gr>. </VERS>
+      <VERS vnumber="49"> And he shall <gr str="3947">take </gr>to <gr str="2398">cleanse </gr>
+        <gr str="*853" />the <gr str="1004">house </gr>
+        <gr str="8147">two </gr>
+        <gr str="6833">birds</gr>, and <gr str="730">cedar </gr>
+        <gr str="6086">wood</gr>, and <gr str="8144 8438">scarlet</gr>, and <gr str="231">hyssop</gr>: </VERS>
+      <VERS vnumber="50"> And he shall <gr str="7819">kill </gr>
+        <gr str="*853" />the <gr str="259">one </gr>of the <gr str="6833">birds </gr>
+        <gr str="413">in </gr>an <gr str="2789">earthen </gr>
+        <gr str="3627">vessel </gr>
+        <gr str="5921">over </gr>
+        <gr str="2416">running </gr>
+        <gr str="4325">water</gr>: </VERS>
+      <VERS vnumber="51"> And he shall <gr str="3947">take </gr>
+        <gr str="*853" />the <gr str="730">cedar </gr>
+        <gr str="6086">wood</gr>, and the <gr str="231">hyssop</gr>, and the <gr str="8144 8438">scarlet</gr>, and the <gr str="2416">living </gr>
+        <gr str="6833">bird</gr>, and <gr str="2881">dip </gr>them in the <gr str="1818">blood </gr>of the <gr str="7819">slain </gr>
+        <gr str="6833">bird</gr>, and in the <gr str="2416">running </gr>
+        <gr str="4325">water</gr>, and <gr str="5137 413">sprinkle </gr>the <gr str="1004">house </gr>
+        <gr str="7651">seven </gr>
+        <gr str="6471">times</gr>: </VERS>
+      <VERS vnumber="52"> And he shall <gr str="2398">cleanse </gr>
+        <gr str="*853" />the <gr str="1004">house </gr>with the <gr str="1818">blood </gr>of the <gr str="6833">bird</gr>, and with the <gr str="2416">running </gr>
+        <gr str="4325">water</gr>, and with the <gr str="2416">living </gr>
+        <gr str="6833">bird</gr>, and with the <gr str="730">cedar </gr>
+        <gr str="6086">wood</gr>, and with the <gr str="231">hyssop</gr>, and with the <gr str="8144 8438">scarlet</gr>: </VERS>
+      <VERS vnumber="53"> But he shall let <gr str="7971">go </gr>
+        <gr str="*853" />the <gr str="2416">living </gr>
+        <gr str="6833">bird </gr>out <gr str="413 4480 2351">of </gr>the <gr str="5892">city </gr>
+        <gr str="413">into </gr>the <gr str="6440">open </gr>
+        <gr str="7704">fields</gr>, and make an <gr str="3722">atonement </gr>
+        <gr str="5921">for </gr>the <gr str="1004">house</gr>: and it shall be <gr str="2891">clean</gr>. </VERS>
+      <VERS vnumber="54">
+        <gr str="2063">This </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="8451">law </gr>for all <gr str="3605">manner </gr>of <gr str="5061">plague </gr>of <gr str="6883">leprosy</gr>, and <gr str="5424">scurf</gr>, </VERS>
+      <VERS vnumber="55"> And for the <gr str="6883">leprosy </gr>of a <gr str="899">garment</gr>, and of a <gr str="1004">house</gr>, </VERS>
+      <VERS vnumber="56"> And for a <gr str="7613">rising</gr>, and for a <gr str="5597">scab</gr>, and for a bright <gr str="934">spot</gr>: </VERS>
+      <VERS vnumber="57"> To <gr str="3384">teach </gr>
+        <gr str="3117">when </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2931">unclean</gr>, and <gr str="3117">when </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2889">clean</gr>: <gr str="2063">this </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="8451">law </gr>of <gr str="6883">leprosy</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

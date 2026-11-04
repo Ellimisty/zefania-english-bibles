@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="28" bname="Hosea" bsname="Hos">
+    <CHAPTER cnumber="6">
+      <VERS vnumber="1">
+        <gr str="1980">Come</gr>, and let us <gr str="7725">return </gr>
+        <gr str="413">unto </gr>the <gr str="3068">LORD</gr>: <gr str="3588">for </gr>
+        <gr str="1931">he </gr>hath <gr str="2963">torn</gr>, and he will <gr str="7495">heal </gr>us; he hath <gr str="5221">smitten</gr>, and he will bind us <gr str="2280">up</gr>. </VERS>
+      <VERS vnumber="2"> After two <gr str="4480 3117">days </gr>will he <gr str="2421">revive </gr>us: in the <gr str="7992">third </gr>
+        <gr str="3117">day </gr>he will raise us <gr str="6965">up</gr>, and we shall <gr str="2421">live </gr>in his <gr str="6440">sight</gr>. </VERS>
+      <VERS vnumber="3"> Then shall we <gr str="3045">know</gr>, <STYLE css="color:#808080;font-style:italic"> if </STYLE> we follow <gr str="7291">on </gr>to <gr str="3045">know </gr>
+        <gr str="*853" />the <gr str="3068">LORD</gr>: his going <gr str="4161">forth </gr>is <gr str="3559">prepared </gr>as the <gr str="7837">morning</gr>; and he shall <gr str="935">come </gr>unto us as the <gr str="1653">rain</gr>, as the <gr str="4456">latter </gr>
+        <STYLE css="color:#808080;font-style:italic"> and </STYLE> former <gr str="3138">rain </gr>unto the <gr str="776">earth</gr>. </VERS>
+      <VERS vnumber="4"> O <gr str="669">Ephraim</gr>, <gr str="4100">what </gr>shall I <gr str="6213">do </gr>unto thee? O <gr str="3063">Judah</gr>, <gr str="4100">what </gr>shall I <gr str="6213">do </gr>unto thee? for your <gr str="2617">goodness </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> as a <gr str="1242">morning </gr>
+        <gr str="6051">cloud</gr>, and as the <gr str="7925">early </gr>
+        <gr str="2919">dew </gr>it goeth <gr str="1980">away</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="5921 3651">Therefore </gr>have I <gr str="2672">hewed </gr>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE> by the <gr str="5030">prophets</gr>; I have <gr str="2026">slain </gr>them by the <gr str="561">words </gr>of my <gr str="6310">mouth</gr>: and thy <gr str="4941">judgments </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> as </STYLE> the <gr str="216">light </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE> goeth <gr str="3318">forth</gr>. </VERS>
+      <VERS vnumber="6">
+        <gr str="3588">For </gr>I <gr str="2654">desired </gr>
+        <gr str="2617">mercy</gr>, and <gr str="3808">not </gr>
+        <gr str="2077">sacrifice</gr>; and the <gr str="1847">knowledge </gr>of <gr str="430">God </gr>more than burnt <gr str="4480 5930">offerings</gr>. </VERS>
+      <VERS vnumber="7"> But <gr str="1992">they </gr>like <gr str="120">men </gr>have <gr str="5674">transgressed </gr>the <gr str="1285">covenant</gr>: <gr str="8033">there </gr>have they dealt <gr str="898">treacherously </gr>against me. </VERS>
+      <VERS vnumber="8">
+        <gr str="1568">Gilead </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="7151">city </gr>of them that <gr str="6466">work </gr>
+        <gr str="205">iniquity</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="6121">polluted </gr>with <gr str="4480 1818">blood</gr>. </VERS>
+      <VERS vnumber="9"> And as troops of <gr str="1416">robbers </gr>
+        <gr str="2442">wait </gr>for a <gr str="376">man</gr>, <STYLE css="color:#808080;font-style:italic"> so </STYLE> the <gr str="2267">company </gr>of <gr str="3548">priests </gr>
+        <gr str="7523">murder </gr>in the <gr str="1870">way </gr>by <gr str="7926">consent</gr>: <gr str="3588">for </gr>they <gr str="6213">commit </gr>
+        <gr str="2154">lewdness</gr>. </VERS>
+      <VERS vnumber="10"> I have <gr str="7200">seen </gr>a horrible <gr str="8186">thing </gr>in the <gr str="1004">house </gr>of <gr str="3478">Israel</gr>: <gr str="8033">there </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="2184">whoredom </gr>of <gr str="669">Ephraim</gr>, <gr str="3478">Israel </gr>is <gr str="2930">defiled</gr>. </VERS>
+      <VERS vnumber="11">
+        <gr str="1571">Also</gr>, O <gr str="3063">Judah</gr>, he hath <gr str="7896">set </gr>a <gr str="7105">harvest </gr>for thee, when I <gr str="7725">returned </gr>the <gr str="7622">captivity </gr>of my <gr str="5971">people</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

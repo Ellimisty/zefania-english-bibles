@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="134">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Song of Degrees.</STYLE> - Behold now, bless ye the Lord, all the servants of the Lord, who stand in the house of the Lord, in the courts of the house of our God.</VERS>
+      <VERS vnumber="2">Lift up your hands by night <DIV>
+          <NOTE type="x-studynote">Or, to the holy places</NOTE>
+        </DIV> in the sanctuaries, and bless the Lord.</VERS>
+      <VERS vnumber="3">May the Lord, who made heaven and earth, bless thee out of Sion.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

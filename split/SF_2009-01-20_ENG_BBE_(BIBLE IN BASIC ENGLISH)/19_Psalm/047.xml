@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="47">
+      <VERS vnumber="1"> To the chief music-maker. A Psalm. Of the sons of Korah. </VERS>
+      <VERS vnumber="2">\47:1\O make a glad noise with your hands, all you peoples; letting your voices go up to God with joy.</VERS>
+      <VERS vnumber="3">\47:2\For the Lord Most High is to be feared; he is a great King over all the earth.</VERS>
+      <VERS vnumber="4">\47:3\He will put down the peoples under us, and the nations under our feet.</VERS>
+      <VERS vnumber="5">\47:4\He will give us our heritage, the glory of Jacob who is dear to him. (Selah.)</VERS>
+      <VERS vnumber="6">\47:5\God has gone up with a glad cry, the Lord with the sound of the horn.</VERS>
+      <VERS vnumber="7">\47:6\Give praises to God, make songs of praise; give praises to our King, make songs of praise.</VERS>
+      <VERS vnumber="8">\47:7\For God is the King of all the earth; make songs of praise with knowledge.</VERS>
+      <VERS vnumber="9">\47:8\God is the ruler over the nations; God is on the high seat of his holy rule.</VERS>
+      <VERS vnumber="10">\47:9\The rulers of the peoples have come together, with the people of the God of Abraham; because the powers of the earth are God's: he is lifted up on high.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="133">
+      <VERS vnumber="1">A Canticle in steps.  Behold, bless the Lord now, all you servants of the Lord,who stand in the house of the Lord, in the courts of the house of our God.</VERS>
+      <VERS vnumber="2">In the nights, lift up your hands in sanctity, and bless the Lord.</VERS>
+      <VERS vnumber="3">May the Lord, who made heaven and earth, bless you from Zion.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

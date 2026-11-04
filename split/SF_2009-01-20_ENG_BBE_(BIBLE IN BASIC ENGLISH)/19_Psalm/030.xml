@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="30">
+      <VERS vnumber="1"> A Psalm. A Song at the blessing of the House. Of David. </VERS>
+      <VERS vnumber="2">\30:1\I will give you praise and honour, O Lord, because through you I have been lifted up; you have not given my haters cause to be glad over me.</VERS>
+      <VERS vnumber="3">\30:2\O Lord my God, I sent up my cry to you, and you have made me well.</VERS>
+      <VERS vnumber="4">\30:3\O Lord, you have made my soul come again from the underworld: you have given me life and kept me from going down among the dead.</VERS>
+      <VERS vnumber="5">\30:4\Make songs to the Lord, O you saints of his, and give praise to his holy name.</VERS>
+      <VERS vnumber="6">\30:5\For his wrath is only for a minute; in his grace there is life; weeping may be for a night, but joy comes in the morning.</VERS>
+      <VERS vnumber="7">\30:6\When things went well for me I said, I will never be moved.</VERS>
+      <VERS vnumber="8">\30:7\Lord, by your grace you have kept my mountain strong: when your face was turned from me I was troubled.</VERS>
+      <VERS vnumber="9">\30:8\My voice went up to you, O Lord; I made my prayer to the Lord.</VERS>
+      <VERS vnumber="10">\30:9\What profit is there in my blood if I go down into the underworld? will the dust give you praise, or be a witness to your help?</VERS>
+      <VERS vnumber="11">\30:10\Give ear to me, O Lord, and have mercy on me: Lord, be my helper.</VERS>
+      <VERS vnumber="12">\30:11\By you my sorrow is turned into dancing; you have taken away my clothing of grief, and given me robes of joy;</VERS>
+      <VERS vnumber="13">\30:12\So that my glory may make songs of praise to you and not be quiet. O Lord my God, I will give you praise for ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

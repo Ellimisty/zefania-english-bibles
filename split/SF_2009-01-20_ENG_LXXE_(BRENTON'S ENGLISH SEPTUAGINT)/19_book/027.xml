@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="27">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of David, before he was anointed.</STYLE> - The Lord is my light and my Saviour; whom shall I fear? the Lord is the defender of my life; of whom shall I be afraid?</VERS>
+      <VERS vnumber="2">When evil-doers drew nigh against me to eat up my flesh, my persecutors and mine enemies, they fainted and fell.</VERS>
+      <VERS vnumber="3">Though an army should set itself in array against me, my heart shall not be afraid: though war should rise up against me, in this am I confident.</VERS>
+      <VERS vnumber="4">One thing have I asked of the Lord, this will I earnestly seek: that I should dwell in the house of the Lord, all the days of my life, that I should behold the fair beauty of the Lord, and survey his temple.</VERS>
+      <VERS vnumber="5">For in the day of mine afflictions he hid me in his tabernacle: he sheltered me in the secret of his tabernacle; he set me up on a rock.</VERS>
+      <VERS vnumber="6">And now, behold, he has lifted up mine head over mine enemies: I went round and offered in his tabernacle the sacrifice of <DIV>
+          <NOTE type="x-studynote">Gr. shouting</NOTE>
+        </DIV> joy; I will sing <DIV>
+          <NOTE type="x-studynote">Or, and play on a psaltery</NOTE>
+        </DIV> even sing psalms to the Lord.</VERS>
+      <VERS vnumber="7">Hear, O Lord, my voice which I have uttered aloud: pity me, and hearken to me.</VERS>
+      <VERS vnumber="8">My heart said to thee, I have diligently sought thy face: thy face, O Lord, I will seek.</VERS>
+      <VERS vnumber="9">Turn not thy face away from me, turn not thou away from thy servant in anger: be thou my helper, forsake me not; and, O God my Saviour, overlook me not.</VERS>
+      <VERS vnumber="10">For my father and my mother have forsaken me, but the Lord has taken me to himself.</VERS>
+      <VERS vnumber="11">Teach me, O Lord, in thy way, and guide me in a right path, because of mine enemies.</VERS>
+      <VERS vnumber="12">Deliver me not over to the desire of them that afflict me; for unjust witnesses have risen up against me, and injustice has lied within herself.</VERS>
+      <VERS vnumber="13">I believe that I shall see the <DIV>
+          <NOTE type="x-studynote">Gr. good things</NOTE>
+        </DIV> goodness of the Lord in the land of the living.</VERS>
+      <VERS vnumber="14">Wait on the Lord: be of good courage, and let thy heart be strengthened: yea wait on the Lord.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

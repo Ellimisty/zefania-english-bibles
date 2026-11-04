@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="125">
+      <VERS vnumber="1"> A <gr str="7892">Song </gr>of <gr str="4609">degrees</gr>. They that <gr str="982">trust </gr>in the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> as <gr str="2022">mount </gr>
+        <gr str="6726">Zion</gr>, <STYLE css="color:#808080;font-style:italic"> which </STYLE>
+        <gr str="3808">cannot </gr>be <gr str="4131">removed</gr>, <STYLE css="color:#808080;font-style:italic"> but </STYLE>
+        <gr str="3427">abideth </gr>
+        <gr str="5769">forever</gr>. </VERS>
+      <VERS vnumber="2"> As the <gr str="2022">mountains </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> round <gr str="5439">about </gr>
+        <gr str="3389">Jerusalem</gr>, so the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> round <gr str="5439">about </gr>his <gr str="5971">people </gr>from <gr str="4480 6258">henceforth </gr>even <gr str="5704 5769">forever</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="3588">For </gr>the <gr str="7626">rod </gr>of the <gr str="7562">wicked </gr>shall <gr str="3808">not </gr>
+        <gr str="5117">rest </gr>
+        <gr str="5921">upon </gr>the <gr str="1486">lot </gr>of the <gr str="6662">righteous</gr>; <gr str="4616 3808">lest </gr>the <gr str="6662">righteous </gr>put <gr str="7971">forth </gr>their <gr str="3027">hands </gr>unto <gr str="5766">iniquity</gr>. </VERS>
+      <VERS vnumber="4"> Do <gr str="3190">good</gr>, O <gr str="3068">LORD</gr>, unto <STYLE css="color:#808080;font-style:italic"> those </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="2896">good</gr>, and <STYLE css="color:#808080;font-style:italic"> to </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="3477">upright </gr>in their <gr str="3826">hearts</gr>. </VERS>
+      <VERS vnumber="5"> As for such as turn <gr str="5186">aside </gr>unto their crooked <gr str="6128">ways</gr>, the <gr str="3068">LORD </gr>shall lead them <gr str="1980">forth </gr>
+        <gr str="854">with </gr>the <gr str="6466">workers </gr>of <gr str="205">iniquity</gr>: <STYLE css="color:#808080;font-style:italic"> but </STYLE>
+        <gr str="7965">peace </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="5921">upon </gr>
+        <gr str="3478">Israel</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

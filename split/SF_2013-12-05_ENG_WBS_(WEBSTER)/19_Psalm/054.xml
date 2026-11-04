@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Webster" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="54">
+      <VERS vnumber="1">+</VERS>
+      <VERS vnumber="2">+</VERS>
+      <VERS vnumber="3">\54:1\To the chief Musician on Neginoth, Maschil, A Psalm of David, when the Ziphims came and said to Saul, Doth not David hide himself with us? Save me, O God, by thy name, and judge me by thy strength.</VERS>
+      <VERS vnumber="4">\54:2\Hear my prayer, O God; give ear to the words of my mouth.</VERS>
+      <VERS vnumber="5">\54:3\For strangers have risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.</VERS>
+      <VERS vnumber="6">\54:4\Behold, God is my helper: the Lord is with them that uphold my soul.</VERS>
+      <VERS vnumber="7">\54:5\He will reward evil to my enemies; cut them off in thy truth.</VERS>
+      <VERS vnumber="8">\54:6\I will freely sacrifice to thee: I will praise thy name, O LORD; for it is good.</VERS>
+      <VERS vnumber="9">\54:7\For he hath delivered me out of all trouble: and my eye hath seen its desire upon my enemies.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

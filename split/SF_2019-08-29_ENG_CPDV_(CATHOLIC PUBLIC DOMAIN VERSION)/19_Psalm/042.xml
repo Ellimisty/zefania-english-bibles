@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Catholic Public Domain Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="42">
+      <VERS vnumber="1">A Psalm of David.  Judge me, O God, and discern my cause from that of a nation not holy;rescue me from a man unjust and deceitful.</VERS>
+      <VERS vnumber="2">For you are God, my strength. Why have you rejected me?And why do I walk in sadness, while the adversary afflicts me?</VERS>
+      <VERS vnumber="3">Send forth your light and your truth.They have guided me and led me, to your holy mountain and into your tabernacles.</VERS>
+      <VERS vnumber="4">And I will enter, up to the altar of God,to God who enlivens my youthfulness.To you, O God, my God, I will confess upon a stringed instrument.</VERS>
+      <VERS vnumber="5">Why are you sad, my soul? And why do you disquiet me?Hope in God, for I will still give praise to him:the salvation of my countenance and my God.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

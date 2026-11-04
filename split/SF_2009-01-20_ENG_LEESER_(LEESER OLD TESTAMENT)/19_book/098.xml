@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="98">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm.</STYLE> Oh sing unto the Lord a new song; for he hath done wonderful things: his right hand and his holy arm have gotten him the victory.</VERS>
+      <VERS vnumber="2">The Lord hath made known his salvation: before the eyes of the nations hath he revealed his righteousness.</VERS>
+      <VERS vnumber="3">He hath remembered his kindness and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God.</VERS>
+      <VERS vnumber="4">Shout joyfully unto the Lord, all the lands: break forth, and rejoice, and sing praises.</VERS>
+      <VERS vnumber="5">Sing praises unto the Lord with the harp,with the harp, and the voice of psalmody.</VERS>
+      <VERS vnumber="6">With trumpets and the sound of cornet shout joyfully before the King, the Lord.</VERS>
+      <VERS vnumber="7">Let the sea roar, with all that filleth it; the world, with those that dwell therein.</VERS>
+      <VERS vnumber="8">Let the rivers clap their hands; let the mountains be joyful together,</VERS>
+      <VERS vnumber="9">Before the Lord; for he cometh to judge the earth: he will judge the world with righteousness, and people with equity.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

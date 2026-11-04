@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="53">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">Paul, and Silvanus, and Timothy, to the church of the Thessalonians in God our Father and the Lord Jesus Christ:</VERS>
+      <VERS vnumber="2">Grace to you, and peace, from God our Father and the Lord Jesus Christ.</VERS>
+      <VERS vnumber="3">We are bound to thank God always for you, brethren, as it is befitting, because your faith groweth exceedingly, and the charity of each one of you all toward each other aboundeth;</VERS>
+      <VERS vnumber="4">So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:</VERS>
+      <VERS vnumber="5">
+        <STYLE css="font-style:italic">Which is</STYLE> a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer:</VERS>
+      <VERS vnumber="6">Seeing <STYLE css="font-style:italic">it is</STYLE> a righteous thing with God to recompense tribulation to them that trouble you;</VERS>
+      <VERS vnumber="7">And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels, <DIV>
+          <NOTE type="x-studynote">his…: Gr. the angels of his power</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ: <DIV>
+          <NOTE type="x-studynote">taking: or, yielding</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="9">Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;</VERS>
+      <VERS vnumber="10">When he shall come to be glorified in his saints, and to be admired by all them that believe (because our testimony among you was believed) in that day.</VERS>
+      <VERS vnumber="11">Therefore also we pray always for you, that our God would count you worthy of <STYLE css="font-style:italic">this</STYLE> calling, and fulfil all the good pleasure of <STYLE css="font-style:italic">his</STYLE> goodness, and the work of faith with power: <DIV>
+          <NOTE type="x-studynote">count: or, vouchsafe</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="12">That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and of the Lord Jesus Christ.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

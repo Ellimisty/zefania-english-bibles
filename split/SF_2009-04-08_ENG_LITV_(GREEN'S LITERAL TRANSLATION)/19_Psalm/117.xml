@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Green's Literal Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="117">
+      <VERS vnumber="1"> Praise Jehovah, all nations; praise Him, all peoples;</VERS>
+      <VERS vnumber="2"> for His mercy is mighty over us, and the truth of Jehovah is forever. Praise Jehovah!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="82">
+      <VERS vnumber="1">God has taken his standin the divine assembly:in the midst of the gods he holds judgment.</VERS>
+      <VERS vnumber="2">“How long will you crookedly judge,and favour the wicked?  (Selah)</VERS>
+      <VERS vnumber="3">Do right by the weak and the orphan,acquit the innocent poor.</VERS>
+      <VERS vnumber="4">Rescue the weak and the needy,save them from the hand of the wicked. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">They have neither knowledge nor insight,in darkness they walk to and fro,while the earth’s foundations totter.</VERS>
+      <VERS vnumber="6">It was I who appointed you gods,children of the Most High all of you.</VERS>
+      <VERS vnumber="7">Yet like mortals you shall surely die,you shall fall like any prince.” <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="8">Arise, O God, judge the earth,for all nations are yours by inheritance.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

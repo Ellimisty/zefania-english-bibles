@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="48">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of </STYLE>
+        <DIV>
+          <NOTE type="x-studynote">A song</NOTE>
+        </DIV>
+        <STYLE css="font-style:italic"> praise for the sons of Core on the second day of the week.</STYLE> - Great is the Lord, and greatly to be praised in the city of our God, in his holy mountain.</VERS>
+      <VERS vnumber="2">The city of the great King is well planted on the mountains of Sion, with the joy of the whole earth, on the sides of the north.</VERS>
+      <VERS vnumber="3">God is known in her palaces, when he undertakes to help her.</VERS>
+      <VERS vnumber="4">For, behold the kings of the earth were assembled, they came together.</VERS>
+      <VERS vnumber="5">They saw, and so they wondered: they were troubled, they were moved.</VERS>
+      <VERS vnumber="6">Trembling took hold on them: there were the pangs as of a woman in travail.</VERS>
+      <VERS vnumber="7">Thou wilt break the ships of Tharsis with a vehement wind.</VERS>
+      <VERS vnumber="8">As we have heard, so have we also seen, in the city of the Lord of hosts, in the city of our God: God has founded it for ever. Pause.</VERS>
+      <VERS vnumber="9">We have thought of thy mercy, O God, in the midst of thy people.</VERS>
+      <VERS vnumber="10">According to thy name, O God, so is also thy praise to the ends of the earth: thy right hand is full of righteousness.</VERS>
+      <VERS vnumber="11">Let mount Sion rejoice, let the daughters of Judaea exult, because of thy judgements, O Lord.</VERS>
+      <VERS vnumber="12">Go round about Sion, and encompass her: tell ye her towers.</VERS>
+      <VERS vnumber="13">Mark ye well her strength, and observe her palaces; that ye may tell the next generation.</VERS>
+      <VERS vnumber="14">For this is our God for ever and ever: he will be our guide for evermore.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

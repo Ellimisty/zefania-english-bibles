@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="42">
+      <VERS vnumber="1">For the end, a Psalm for instruction, for the sons of Core. As the hart earnestly desires the fountains of water, so my soul earnestly longs for thee, O God.</VERS>
+      <VERS vnumber="2">My soul has thirsted for the living God: when shall I come and appear before God?</VERS>
+      <VERS vnumber="3">My tears have been bread to me day and night, while they daily said to me, Where is thy God?</VERS>
+      <VERS vnumber="4">I remembered these things, and poured out my soul in me, for I will go to the place of thy wondrous tabernacle, even to the house of God, with a voice of exultation and thanksgiving and of the sound of those who keep festival. <DIV>
+          <NOTE type="x-studynote">There are several difficulties connected with this passage. In the first place it seems evident that the LXX read Kob, and the English translators dob, or something similar. The Hebrew Text (to which no yrq is appended) thus far favours the LXX, who, however, appear to have read Mdda as a part of rda, and made an adjective of it. Again, topw has nothing immediately answering it in the Hebrew, and may be accounted for on the principle so often referred to of double translation</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="5">Wherefore art thou very sad, O my soul? and wherefore dost thou trouble me? hope in God; for I will give thanks to him; he is the salvation of my countenance.</VERS>
+      <VERS vnumber="6">O my God, my soul has been troubled within me: therefore will I remember thee from the land of Jordan, and of the Ermonites, from the little hill.</VERS>
+      <VERS vnumber="7">Deep calls to deep at the voice of thy cataracts: all thy billows and thy waves have gone over me.</VERS>
+      <VERS vnumber="8">By day the Lord will command his mercy, and <DIV>
+          <NOTE type="x-studynote">Heb. and Alex. his song shall be, etc.</NOTE>
+        </DIV> manifest it by night: with me is prayer to the God of my life.</VERS>
+      <VERS vnumber="9">I will say to God, Thou art my helper; why hast thou forgotten me? wherefore do I go sad of countenance, while the enemy oppresses me?</VERS>
+      <VERS vnumber="10">While my bones were breaking, they that afflicted me reproached me; while they said to me daily, Where is thy God?</VERS>
+      <VERS vnumber="11">Wherefore art thou very sad, O my soul? and wherefore dost thou trouble me? hope in God; for I will give thanks to him; he is the health of my countenance, and my God.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

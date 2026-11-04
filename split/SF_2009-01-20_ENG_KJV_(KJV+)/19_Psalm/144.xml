@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="144">
+      <VERS vnumber="1">
+        <STYLE css="color:#808080;font-style:italic"> A </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> Psalm </STYLE> of <gr str="1732">David</gr>. <gr str="1288">Blessed </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> the <gr str="3068">LORD </gr>my <gr str="6697">strength</gr>, which <gr str="3925">teacheth </gr>my <gr str="3027">hands </gr>to <gr str="7128">war</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> my <gr str="676">fingers </gr>to <gr str="4421">fight</gr>: </VERS>
+      <VERS vnumber="2"> My <gr str="2617">goodness</gr>, and my <gr str="4686">fortress</gr>; my high <gr str="4869">tower</gr>, and my <gr str="6403">deliverer</gr>; my <gr str="4043">shield</gr>, and <STYLE css="color:#808080;font-style:italic"> he </STYLE> in whom I <gr str="2620">trust</gr>; who <gr str="7286">subdueth </gr>my <gr str="5971">people </gr>
+        <gr str="8478">under </gr>me. </VERS>
+      <VERS vnumber="3">
+        <gr str="3068">LORD</gr>, <gr str="4100">what </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="120">man</gr>, that thou takest <gr str="3045">knowledge </gr>of him! <STYLE css="color:#808080;font-style:italic"> or </STYLE> the <gr str="1121">son </gr>of <gr str="582">man</gr>, that thou makest <gr str="2803">account </gr>of him! </VERS>
+      <VERS vnumber="4">
+        <gr str="120">Man </gr>is <gr str="1819">like </gr>to <gr str="1892">vanity</gr>: his <gr str="3117">days </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> as a <gr str="6738">shadow </gr>that passeth <gr str="5674">away</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="5186">Bow </gr>thy <gr str="8064">heavens</gr>, O <gr str="3068">LORD</gr>, and come <gr str="3381">down</gr>: <gr str="5060">touch </gr>the <gr str="2022">mountains</gr>, and they shall <gr str="6225">smoke</gr>. </VERS>
+      <VERS vnumber="6"> Cast <gr str="1299">forth </gr>
+        <gr str="1300">lightning</gr>, and <gr str="6327">scatter </gr>them: shoot <gr str="7971">out </gr>thine <gr str="2671">arrows</gr>, and <gr str="2000">destroy </gr>them. </VERS>
+      <VERS vnumber="7">
+        <gr str="7971">Send </gr>thine <gr str="3027">hand </gr>from <gr str="4480 4791">above</gr>; <gr str="6475">rid </gr>me, and <gr str="5337">deliver </gr>me out of <gr str="7227">great </gr>
+        <gr str="4480 4325">waters</gr>, from the <gr str="4480 3027">hand </gr>of <gr str="5236">strange </gr>
+        <gr str="1121">children</gr>; </VERS>
+      <VERS vnumber="8">
+        <gr str="834">Whose </gr>
+        <gr str="6310">mouth </gr>
+        <gr str="1696">speaketh </gr>
+        <gr str="7723">vanity</gr>, and their right <gr str="3225">hand </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a right <gr str="3225">hand </gr>of <gr str="8267">falsehood</gr>. </VERS>
+      <VERS vnumber="9"> I will <gr str="7891">sing </gr>a <gr str="2319">new </gr>
+        <gr str="7892">song </gr>unto thee, O <gr str="430">God</gr>: upon a <gr str="5035">psaltery </gr>
+        <STYLE css="color:#808080;font-style:italic"> and </STYLE> an instrument of ten <gr str="6218">strings </gr>will I sing <gr str="2167">praises </gr>unto thee. </VERS>
+      <VERS vnumber="10">
+        <STYLE css="color:#808080;font-style:italic"> It </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> he </STYLE> that <gr str="5414">giveth </gr>
+        <gr str="8668">salvation </gr>unto <gr str="4428">kings</gr>: who <gr str="6475">delivereth </gr>
+        <gr str="*853" />
+        <gr str="1732">David </gr>his <gr str="5650">servant </gr>from the <gr str="7451">hurtful </gr>
+        <gr str="4480 2719">sword</gr>. </VERS>
+      <VERS vnumber="11">
+        <gr str="6475">Rid </gr>me, and <gr str="5337">deliver </gr>me from the <gr str="4480 3027">hand </gr>of <gr str="5236">strange </gr>
+        <gr str="1121">children</gr>, <gr str="834">whose </gr>
+        <gr str="6310">mouth </gr>
+        <gr str="1696">speaketh </gr>
+        <gr str="7723">vanity</gr>, and their right <gr str="3225">hand </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a right <gr str="3225">hand </gr>of <gr str="8267">falsehood</gr>: </VERS>
+      <VERS vnumber="12">
+        <gr str="834">That </gr>our <gr str="1121">sons </gr>
+        <STYLE css="color:#808080;font-style:italic"> may </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> as <gr str="5195">plants </gr>grown <gr str="1431">up </gr>in their <gr str="5271">youth</gr>; <STYLE css="color:#808080;font-style:italic"> that </STYLE> our <gr str="1323">daughters </gr>
+        <STYLE css="color:#808080;font-style:italic"> may </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> as corner <gr str="2106">stones</gr>, <gr str="2404">polished </gr>
+        <STYLE css="color:#808080;font-style:italic"> after </STYLE> the <gr str="8403">similitude </gr>of a <gr str="1964">palace</gr>: </VERS>
+      <VERS vnumber="13">
+        <STYLE css="color:#808080;font-style:italic"> That </STYLE> our <gr str="4200">garners </gr>
+        <STYLE css="color:#808080;font-style:italic"> may </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="4392">full</gr>, <gr str="6329">affording </gr>all manner of <gr str="4480 2177 413 2177">store</gr>: <STYLE css="color:#808080;font-style:italic"> that </STYLE> our <gr str="6629">sheep </gr>may bring forth <gr str="503">thousands </gr>and ten <gr str="7231">thousands </gr>in our <gr str="2351">streets</gr>: </VERS>
+      <VERS vnumber="14">
+        <STYLE css="color:#808080;font-style:italic"> That </STYLE> our <gr str="441">oxen </gr>
+        <STYLE css="color:#808080;font-style:italic"> may </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> strong to <gr str="5445">labor</gr>; <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="369">no </gr>breaking <gr str="6556">in</gr>, <gr str="369">nor </gr>going <gr str="3318">out </gr>; that <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="369">no </gr>
+        <gr str="6682">complaining </gr>in our <gr str="7339">streets</gr>. </VERS>
+      <VERS vnumber="15">
+        <gr str="835">Happy </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <gr str="5971">people</gr>, that is in such a <gr str="7945 3602">case</gr>: <STYLE css="color:#808080;font-style:italic"> yea </STYLE>, <gr str="835">happy </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <gr str="5971">people</gr>, whose <gr str="430">God </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="7945 3068">LORD</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

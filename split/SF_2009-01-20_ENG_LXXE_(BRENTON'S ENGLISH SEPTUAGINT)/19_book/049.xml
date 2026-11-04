@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="49">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For the end, a Psalm for the sons of Core.</STYLE> - Hear these words, all ye nations, hearken, all ye that dwell upon the earth:</VERS>
+      <VERS vnumber="2">both the <DIV>
+          <NOTE type="x-studynote">Gr. earth-born</NOTE>
+        </DIV> sons of mean men, and sons of great men; the rich and poor man together.</VERS>
+      <VERS vnumber="3">My mouth shall speak of wisdom; and the meditation of my heart shall bring forth understanding.</VERS>
+      <VERS vnumber="4">I will incline mine ear to a parable: I will open my <DIV>
+          <NOTE type="x-studynote">Gr. problem</NOTE>
+        </DIV> riddle on the harp.</VERS>
+      <VERS vnumber="5">Wherefore <DIV>
+          <NOTE type="x-studynote">Gr. shall</NOTE>
+        </DIV> should I fear in the evil day? the iniquity of my heel shall compass me.</VERS>
+      <VERS vnumber="6">They that trust in their strength, and boast themselves in the multitude of their wealth—</VERS>
+      <VERS vnumber="7">A brother does not redeem, shall a man redeem? he shall not give to God a ransom for himself,</VERS>
+      <VERS vnumber="8">or the price of the redemption of his soul, though he labour for ever,</VERS>
+      <VERS vnumber="9">and live to the end, so that he should not see corruption.</VERS>
+      <VERS vnumber="10">When he shall see wise men dying, the fool and the senseless one shall perish together; and they shall leave their wealth to strangers.</VERS>
+      <VERS vnumber="11">And their sepulchres are their houses for ever, even their tabernacles to all generations: they have called their lands after their own names.</VERS>
+      <VERS vnumber="12">And man being in honour, understands not: he is compared to the senseless cattle, and is like to them.</VERS>
+      <VERS vnumber="13">This their way is an offence to them: yet afterwards men will commend their sayings. Pause.</VERS>
+      <VERS vnumber="14">They have laid them as sheep in Hades; death shall feed on them; and the upright shall have dominion over them in the morning, and their help shall fail in Hades from their glory.</VERS>
+      <VERS vnumber="15">But God shall deliver my soul from the power of Hades, when he shall receive me. Pause.</VERS>
+      <VERS vnumber="16">Fear not when a man is enriched, and when the glory of his house is increased.</VERS>
+      <VERS vnumber="17">For he shall take nothing when he dies; neither shall his glory descend with him.</VERS>
+      <VERS vnumber="18">For his soul shall be blessed in his life: he shall give thanks to thee when thou dost well to him.</VERS>
+      <VERS vnumber="19">Yet he shall go in <DIV>
+          <NOTE type="x-studynote">Gr. as far as</NOTE>
+        </DIV> to the generation of his fathers; he shall never see light.</VERS>
+      <VERS vnumber="20">Man that is in honour, understands not: he is compared to the senseless cattle, and is like them.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

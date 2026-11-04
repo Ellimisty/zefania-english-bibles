@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="127">
+      <VERS vnumber="1"> A <gr str="7892">Song </gr>of <gr str="4609">degrees </gr>for <gr str="8010">Solomon</gr>. <gr str="518 3808">Except </gr>the <gr str="3068">LORD </gr>
+        <gr str="1129">build </gr>the <gr str="1004">house</gr>, they <gr str="5998">labor </gr>in <gr str="7723">vain </gr>that <gr str="1129">build </gr>it: <gr str="518 3808">except </gr>the <gr str="3068">LORD </gr>
+        <gr str="8104">keep </gr>the <gr str="5892">city</gr>, the <gr str="8104">watchman </gr>
+        <gr str="8245">waketh </gr>
+        <STYLE css="color:#808080;font-style:italic"> but </STYLE> in <gr str="7723">vain</gr>. </VERS>
+      <VERS vnumber="2">
+        <STYLE css="color:#808080;font-style:italic"> It </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="7723">vain </gr>for you to rise <gr str="6965">up </gr>
+        <gr str="7925">early</gr>, to sit <gr str="3427">up </gr>
+        <gr str="309">late</gr>, to <gr str="398">eat </gr>the <gr str="3899">bread </gr>of <gr str="6089">sorrows</gr>: <STYLE css="color:#808080;font-style:italic"> for </STYLE>
+        <gr str="3651">so </gr>he <gr str="5414">giveth </gr>his <gr str="3039">beloved </gr>
+        <gr str="8142">sleep</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="2009">Lo</gr>, <gr str="1121">children </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> a <gr str="5159">heritage </gr>of the <gr str="3068">LORD</gr>: <STYLE css="color:#808080;font-style:italic"> and </STYLE> the <gr str="6529">fruit </gr>of the <gr str="990">womb </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> his </STYLE>
+        <gr str="7939">reward</gr>. </VERS>
+      <VERS vnumber="4"> As <gr str="2671">arrows </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> in the <gr str="3027">hand </gr>of a <gr str="1368">mighty </gr>man; <gr str="3651">so </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="1121">children </gr>of the <gr str="5271">youth</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="835">Happy </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="1397">man </gr>
+        <gr str="834">that </gr>hath <gr str="*853" />his <gr str="827">quiver </gr>
+        <gr str="4390">full </gr>
+        <gr str="4480">of </gr>them: they shall <gr str="3808">not </gr>be <gr str="954">ashamed</gr>, <gr str="3588">but </gr>they shall <gr str="1696">speak </gr>
+        <gr str="854">with </gr>the <gr str="341">enemies </gr>in the <gr str="8179">gate</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

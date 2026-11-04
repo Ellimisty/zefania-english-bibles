@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="122">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Song of Degrees.</STYLE> - I was glad when they said to me, Let us go into the house of the Lord.</VERS>
+      <VERS vnumber="2">Our feet stood in thy courts, O Jerusalem.</VERS>
+      <VERS vnumber="3">Jerusalem is built as a city whose fellowship is complete.</VERS>
+      <VERS vnumber="4">For thither the tribes went up, the tribes of the Lord, as a testimony for Israel, to give thanks unto the name of the Lord.</VERS>
+      <VERS vnumber="5">For there are set thrones for judgement, even thrones for the house of David.</VERS>
+      <VERS vnumber="6">
+        <DIV>
+          <NOTE type="x-studynote">Or, ask Jerusalem how it is with her</NOTE>
+        </DIV> Pray now for the peace of Jerusalem: and let there be prosperity to them that love thee.</VERS>
+      <VERS vnumber="7">Let peace, I pray, be within thine host, and prosperity in thy palaces.</VERS>
+      <VERS vnumber="8">For the sake of my brethren and my neighbours, I have indeed spoken peace concerning thee.</VERS>
+      <VERS vnumber="9">Because of the house of the Lord our God, I have diligently sought thy good.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

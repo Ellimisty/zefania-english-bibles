@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James 2000" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="134">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic;font-weight:bold">A song of ascents.</STYLE> Behold, bless you the LORD, all you servants of the LORD, who by night stand in the house of the LORD.</VERS>
+      <VERS vnumber="2">Lift up your hands in the sanctuary, and bless the LORD.</VERS>
+      <VERS vnumber="3">The LORD that made heaven and earth bless you out of Zion.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

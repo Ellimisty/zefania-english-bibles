@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="28">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">[A Psalm] of David.</STYLE> To thee will I cry, O LORD my rock; be not silent to me: lest, <STYLE css="font-style:italic">if</STYLE> thou shouldest be silent to me, I should become like them that go down into the pit. <DIV>
+          <NOTE type="x-studynote">to me: Heb. from me</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">Hear the voice of my supplications, when I cry to thee, when I lift my hands toward thy holy oracle. <DIV>
+          <NOTE type="x-studynote">thy…: or, the oracle of thy sanctuary</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">Draw me not away with the wicked, and with the workers of iniquity, who speak peace to their neighbours, but mischief <STYLE css="font-style:italic">is</STYLE> in their hearts.</VERS>
+      <VERS vnumber="4">Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert.</VERS>
+      <VERS vnumber="5">Because they regard not the works of the LORD, nor the operation of his hands, he shall destroy them, and not build them up.</VERS>
+      <VERS vnumber="6">Blessed <STYLE css="font-style:italic">be</STYLE> the LORD, because he hath heard the voice of my supplications.</VERS>
+      <VERS vnumber="7">The LORD <STYLE css="font-style:italic">is</STYLE> my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.</VERS>
+      <VERS vnumber="8">The LORD <STYLE css="font-style:italic">is</STYLE> their strength, and he <STYLE css="font-style:italic">is</STYLE> the saving strength of his anointed. <DIV>
+          <NOTE type="x-studynote">their: or, his</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">saving…: Heb. strength of salvations</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="9">Save thy people, and bless thy inheritance: feed them also, and lift them up for ever. <DIV>
+          <NOTE type="x-studynote">feed: or, rule</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible - Jehovah Edition" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="113">
+      <VERS vnumber="1">Praise Yah!Praise, you servants of <STYLE id="cl:divineName">Jehovah</STYLE>,praise the name of <STYLE id="cl:divineName">Jehovah</STYLE>.</VERS>
+      <VERS vnumber="2">Blessed be the name of <STYLE id="cl:divineName">Jehovah</STYLE>,from this time forth and forevermore.</VERS>
+      <VERS vnumber="3">From the rising of the sun to the going down of the same,<STYLE id="cl:divineName">Jehovah</STYLE>'s name is to be praised.</VERS>
+      <VERS vnumber="4">
+        <STYLE id="cl:divineName">Jehovah</STYLE> is high above all nations,his glory above the heavens.</VERS>
+      <VERS vnumber="5">Who is like <STYLE id="cl:divineName">Jehovah</STYLE>, our God,who has his seat on high,</VERS>
+      <VERS vnumber="6">Who stoops down to see in heaven and in the earth?</VERS>
+      <VERS vnumber="7">He raises up the poor out of the dust.Lifts up the needy from the ash heap;</VERS>
+      <VERS vnumber="8">that he may set him with princes,even with the princes of his people.</VERS>
+      <VERS vnumber="9">He settles the barren woman in her home,as a joyful mother of children.Praise Yah!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

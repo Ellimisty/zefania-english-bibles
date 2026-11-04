@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="26">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of David.</STYLE> Be thou my judge, O LORD! for I have walked in uprightness. I have put my trust in the LORD, therefore shall I not fall.</VERS>
+      <VERS vnumber="2">Examine me, O LORD! and prove me; Try my reins and my heart!</VERS>
+      <VERS vnumber="3">For thy kindness is ever before my eyes, And I walk in thy truth.</VERS>
+      <VERS vnumber="4">I sit not with men of falsehood. And go not in company with dissemblers.</VERS>
+      <VERS vnumber="5">I hate the assembly of evildoers, And do not sit with the wicked.</VERS>
+      <VERS vnumber="6">I wash my hands in innocence. And go around thine altar. O LORD!</VERS>
+      <VERS vnumber="7">To utter the voice of thanksgiving, And tell of all thy wondrous works.</VERS>
+      <VERS vnumber="8">O LORD! I love the habitation of thy house, The place where thine honor dwelleth!</VERS>
+      <VERS vnumber="9">Gather not my breath with sinners, Nor my life with men of blood,</VERS>
+      <VERS vnumber="10">In whose hands is mischief, And whose right hands are full of bribes!</VERS>
+      <VERS vnumber="11">But as for me, I walk in my integrity; Oh, redeem me, and be merciful to me!</VERS>
+      <VERS vnumber="12">My feet tread in a straight path; In the congregation will I bless the LORD.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

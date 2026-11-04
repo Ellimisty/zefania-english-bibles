@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="141">
+      <VERS vnumber="1"> A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>. <gr str="3068">LORD</gr>, I <gr str="7121">cry </gr>unto thee: make <gr str="2363">haste </gr>unto me; give <gr str="238">ear </gr>unto my <gr str="6963">voice</gr>, when I <gr str="7121">cry </gr>unto thee. </VERS>
+      <VERS vnumber="2"> Let my <gr str="8605">prayer </gr>be set <gr str="3559">forth </gr>
+        <gr str="6440">before </gr>thee <STYLE css="color:#808080;font-style:italic"> as </STYLE>
+        <gr str="7004">incense</gr>; <STYLE css="color:#808080;font-style:italic"> and </STYLE> the lifting <gr str="4864">up </gr>of my <gr str="3709">hands </gr>
+        <STYLE css="color:#808080;font-style:italic"> as </STYLE> the <gr str="6153">evening </gr>
+        <gr str="4503">sacrifice</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="7896">Set </gr>a <gr str="8108">watch</gr>, O <gr str="3068">LORD</gr>, before my <gr str="6310">mouth</gr>; <gr str="5341 5921">keep </gr>the <gr str="1817">door </gr>of my <gr str="8193">lips</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="5186">Incline </gr>
+        <gr str="408">not </gr>my <gr str="3820">heart </gr>to <STYLE css="color:#808080;font-style:italic"> any </STYLE>
+        <gr str="7451">evil </gr>
+        <gr str="1697">thing</gr>, to <gr str="5953">practice </gr>
+        <gr str="7562">wicked </gr>
+        <gr str="5949">works </gr>
+        <gr str="854">with </gr>
+        <gr str="376">men </gr>that <gr str="6466">work </gr>
+        <gr str="205">iniquity</gr>: and let me <gr str="1077">not </gr>
+        <gr str="3898">eat </gr>of their <gr str="4516">dainties</gr>. </VERS>
+      <VERS vnumber="5"> Let the <gr str="6662">righteous </gr>
+        <gr str="1986">smite </gr>me; <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> a <gr str="2617">kindness</gr>: and let him <gr str="3198">reprove </gr>me; <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> an <gr str="7218">excellent </gr>
+        <gr str="8081">oil</gr>, <STYLE css="color:#808080;font-style:italic"> which </STYLE> shall <gr str="408">not </gr>
+        <gr str="5106">break </gr>my <gr str="7218">head</gr>: <gr str="3588">for </gr>
+        <gr str="5750">yet </gr>my <gr str="8605">prayer </gr>also <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> in their <gr str="7451">calamities</gr>. </VERS>
+      <VERS vnumber="6"> When their <gr str="8199">judges </gr>are <gr str="8058">overthrown </gr>in <gr str="5553">stony </gr>
+        <gr str="3027">places</gr>, they shall <gr str="8085">hear </gr>my <gr str="561">words</gr>; <gr str="3588">for </gr>they are <gr str="5276">sweet</gr>. </VERS>
+      <VERS vnumber="7"> Our <gr str="6106">bones </gr>are <gr str="6340">scattered </gr>at the <gr str="7585">grave </gr>'s <gr str="6310">mouth</gr>, as <gr str="3644">when </gr>one <gr str="6398">cutteth </gr>and <gr str="1234">cleaveth </gr>
+        <STYLE css="color:#808080;font-style:italic"> wood </STYLE> upon the <gr str="776">earth</gr>. </VERS>
+      <VERS vnumber="8">
+        <gr str="3588">But </gr>mine <gr str="5869">eyes </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="413">unto </gr>thee, O <gr str="3069">GOD </gr>the <gr str="136">Lord</gr>: in thee is my <gr str="2620">trust</gr>; leave not my soul <gr str="6168 408 5315">destitute</gr>. </VERS>
+      <VERS vnumber="9">
+        <gr str="8104">Keep </gr>me <gr str="4480 3027">from </gr>the <gr str="6341">snares </gr>
+        <STYLE css="color:#808080;font-style:italic"> which </STYLE> they have <gr str="3369">laid </gr>for me, and the <gr str="4170">gins </gr>of the <gr str="6466">workers </gr>of <gr str="205">iniquity</gr>. </VERS>
+      <VERS vnumber="10"> Let the <gr str="7563">wicked </gr>
+        <gr str="5307">fall </gr>into their own <gr str="4364">nets</gr>, <gr str="5704">whilst </gr>that <gr str="595">I </gr>
+        <gr str="3162">withal </gr>
+        <gr str="5674">escape</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

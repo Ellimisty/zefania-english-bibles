@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="King James Version PCE" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="4">
+      <VERS vnumber="1">To the chief Musician on Neginoth, A Psalm of David.  Hear me when I call, O God of my righteousness: thou hast enlarged me  when I was  in distress; have mercy upon me, and hear my prayer.</VERS>
+      <VERS vnumber="2">O ye sons of men, how long  will ye turn  my glory into shame?  how long  will ye love vanity,  and  seek after leasing? Selah.</VERS>
+      <VERS vnumber="3">But know that the <STYLE id="cl:divineName">Lord</STYLE> hath set apart him that is godly for himself: the <STYLE id="cl:divineName">Lord</STYLE> will hear when I call unto him.</VERS>
+      <VERS vnumber="4">Stand in awe, and sin not: commune with your own heart upon your bed, and be still. Selah.</VERS>
+      <VERS vnumber="5">Offer the sacrifices of righteousness, and put your trust in the <STYLE id="cl:divineName">Lord</STYLE>.</VERS>
+      <VERS vnumber="6">There be  many that say, Who will shew us  any  good? <STYLE id="cl:divineName">Lord</STYLE>, lift thou up the light of thy countenance upon us.</VERS>
+      <VERS vnumber="7">Thou hast put gladness in my heart, more than in the time  that  their corn and their wine increased.</VERS>
+      <VERS vnumber="8">I will both lay me down in peace, and sleep: for thou, <STYLE id="cl:divineName">Lord</STYLE>, only makest me dwell in safety.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

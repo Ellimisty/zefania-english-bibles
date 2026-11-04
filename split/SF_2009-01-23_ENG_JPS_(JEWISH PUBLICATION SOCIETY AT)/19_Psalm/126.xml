@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Jewish Publication Society AT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="126">
+      <VERS vnumber="1">A Song of Ascents. When the LORD brought back those that returned to Zion, we were like unto them that dream.</VERS>
+      <VERS vnumber="2">Then was our mouth filled with laughter, and our tongue with singing; then said they among the nations: 'The LORD hath done great things with these.'</VERS>
+      <VERS vnumber="3">The LORD hath done great things with us; we are rejoiced.</VERS>
+      <VERS vnumber="4">Turn our captivity, O LORD, as the streams in the dry land.</VERS>
+      <VERS vnumber="5">They that sow in tears shall reap in joy.</VERS>
+      <VERS vnumber="6">Though he goeth on his way weeping that beareth the measure of seed, he shall come home with joy, bearing his sheaves.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

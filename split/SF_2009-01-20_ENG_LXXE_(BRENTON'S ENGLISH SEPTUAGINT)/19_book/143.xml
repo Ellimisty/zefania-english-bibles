@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="143">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of David, when his son pursued him.</STYLE> - O Lord, attend to my prayer: hearken to my supplication in thy truth; hear me in thy righteousness.</VERS>
+      <VERS vnumber="2">And enter not into judgement with thy servant, for in thy sight shall no man living be justified.</VERS>
+      <VERS vnumber="3">For the enemy has persecuted my soul; he has brought my life down to the ground; he has made me to dwell in a dark place, as those that have been long dead.</VERS>
+      <VERS vnumber="4">Therefore my spirit was grieved in me; my heart was troubled within me.</VERS>
+      <VERS vnumber="5">I remembered the days of old; and I meditated on all thy doings: yea, I meditated on the works of thine hands.</VERS>
+      <VERS vnumber="6">I spread forth my hands to thee; my soul thirsts for thee, as a dry land. Pause.</VERS>
+      <VERS vnumber="7">Hear me speedily, O Lord; my spirit has failed; turn not away thy face from me, else I shall be like to them that go down to the pit.</VERS>
+      <VERS vnumber="8">Cause me to hear thy mercy in the morning; for I have hoped in thee; make known to me, O Lord, the way wherein I should walk; for I have lifted up my soul to thee.</VERS>
+      <VERS vnumber="9">Deliver me from mine enemies, O Lord; for I have fled to thee for refuge.</VERS>
+      <VERS vnumber="10">Teach me to do thy will; for thou art my God; thy good Spirit shall guide me in the <DIV>
+          <NOTE type="x-studynote">Alex. and Heb. «land of uprightness’</NOTE>
+        </DIV> straight way.</VERS>
+      <VERS vnumber="11">Thou shalt quicken me, O Lord, for thy name’s sake; in thy righteousness thou shalt bring my soul out of affliction.</VERS>
+      <VERS vnumber="12">And in thy mercy thou wilt destroy mine enemies, and wilt destroy all those that afflict my soul; for I am thy servant.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

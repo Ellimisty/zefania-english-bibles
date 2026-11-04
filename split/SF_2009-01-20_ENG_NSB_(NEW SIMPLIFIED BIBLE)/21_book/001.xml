@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="21">
+    <CHAPTER cnumber="1">
+      <CAPTION vref="1">(Writer: Solomon) (Completed before 1000 B.C.E.)</CAPTION>
+      <VERS vnumber="1">The words of the Preacher <STYLE css="font-style:italic">assembler</STYLE>
+        <STYLE css="font-style:italic">lecturer</STYLE>, the son of David, king in Jerusalem.</VERS>
+      <VERS vnumber="2">»Vanity of vanities,« said the Preacher, »vanity of vanities; all is vanity.«</VERS>
+      <VERS vnumber="3">What profit does a man have of all his labor that he works under the sun?</VERS>
+      <VERS vnumber="4">One generation goes and another generation comes, but the earth remains forever <STYLE css="font-style:italic">without end</STYLE>.</VERS>
+      <VERS vnumber="5">The sun rises and the sun goes down, and it quickly goes back to the place where it began.</VERS>
+      <VERS vnumber="6">The wind blows toward the south, and it turns around to the north. It whirls around continually and the wind returns on its circuits.</VERS>
+      <VERS vnumber="7">All the rivers run into the sea yet the sea is not full. The rivers return to the place where they began.</VERS>
+      <VERS vnumber="8">All things are wearisome, man is not able to tell. The eye is not satisfied with seeing, nor the ear filled with hearing.</VERS>
+      <VERS vnumber="9">That which has been is that which will be. That which has been done is that which will be done. There is nothing new under the sun!</VERS>
+      <VERS vnumber="10">Is there anything of which it may be said: »See, this is new?« It has already existed in days of old, which were before us.</VERS>
+      <VERS vnumber="11">There is no memory of former things. Those who follow will not remember those who are yet to come.</VERS>
+      <VERS vnumber="12">I, the Preacher, was king over Israel in Jerusalem.</VERS>
+      <VERS vnumber="13">I devoted myself to study and explored wisdom concerning all that is done under the heavens. It is a grievous task God has given to the sons of men to be afflicted with.</VERS>
+      <VERS vnumber="14">I have seen all the works that are done under the sun. Behold, all is vanity and a striving after wind.</VERS>
+      <VERS vnumber="15">What is crooked cannot be made straight. What is lacking cannot be numbered.</VERS>
+      <VERS vnumber="16">I said to my heart, »I have become great and have aquired more wisdom than all who were before me in Jerusalem. Yes, my heart has seen an abundance of wisdom and knowledge.«</VERS>
+      <VERS vnumber="17">I gave my heart to know wisdom and to know madness and folly. I know that this also is a striving after wind.</VERS>
+      <VERS vnumber="18">In much wisdom there is much grief for he who increases knowledge increases pain.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="108">
+      <VERS vnumber="1">A Song. A Psalm of David.</VERS>
+      <VERS vnumber="2">My heart is steadfast, O God, my heart is steadfast! I will sing and make melody! Awake, my soul!</VERS>
+      <VERS vnumber="3">Awake, O harp and lyre! I will awake the dawn!</VERS>
+      <VERS vnumber="4">I will give thanks to thee, O LORD, among the peoples, I will sing praises to thee among the nations.</VERS>
+      <VERS vnumber="5">For thy steadfast love is great above the heavens, thy faithfulness reaches to the clouds.</VERS>
+      <VERS vnumber="6">Be exalted, O God, above the heavens! Let thy glory be over all the earth!</VERS>
+      <VERS vnumber="7">That thy beloved may be delivered, give help by thy right hand, and answer me!</VERS>
+      <VERS vnumber="8">God has promised in his sanctuary: "With exultation I will divide up Shechem, and portion out the Vale of Succoth.</VERS>
+      <VERS vnumber="9">Gilead is mine; Manas'seh is mine; E'phraim is my helmet; Judah my scepter.</VERS>
+      <VERS vnumber="10">Moab is my washbasin; upon Edom I cast my shoe; over Philistia I shout in triumph."</VERS>
+      <VERS vnumber="11">Who will bring me to the fortified city? Who will lead me to Edom?</VERS>
+      <VERS vnumber="12">Hast thou not rejected us, O God? Thou dost not go forth, O God, with our armies.</VERS>
+      <VERS vnumber="13">O grant us help against the foe, for vain is the help of man! [ (Psalms 108:14) With God we shall do valiantly; it is he who will tread down our foes. ]</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

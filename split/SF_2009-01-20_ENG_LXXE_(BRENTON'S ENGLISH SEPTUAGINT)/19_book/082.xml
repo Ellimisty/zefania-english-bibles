@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="82">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm for Asaph.</STYLE> - God stands in the assembly of gods; and in the midst of them will judge gods.</VERS>
+      <VERS vnumber="2">How long will ye judge unrighteously, and accept the persons of sinners? Pause.</VERS>
+      <VERS vnumber="3">Judge the orphan and poor: <DIV>
+          <NOTE type="x-studynote">Gr. justify</NOTE>
+        </DIV> do justice to the low and needy.</VERS>
+      <VERS vnumber="4">Rescue the needy, and deliver the poor out of the hand of the sinner.</VERS>
+      <VERS vnumber="5">They know not, nor understand; they walk on in darkness: all the foundations of the earth shall be shaken.</VERS>
+      <VERS vnumber="6">I have said, Ye are gods; and all of you children of the Most High.</VERS>
+      <VERS vnumber="7">But ye die as men, and fall as one of the princes.</VERS>
+      <VERS vnumber="8">Arise, O God, judge the earth: for thou shalt inherit all nations.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

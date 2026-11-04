@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="32">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">[A Psalm] of David, Maschil.</STYLE> Blessed <STYLE css="font-style:italic">is he whose</STYLE> transgression <STYLE css="font-style:italic">is</STYLE> forgiven, <STYLE css="font-style:italic">whose</STYLE> sin <STYLE css="font-style:italic">is</STYLE> covered. <DIV>
+          <NOTE type="x-studynote">A Psalm…: or, A Psalm of David giving instruction</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">Blessed <STYLE css="font-style:italic">is</STYLE> the man to whom the LORD imputeth not iniquity, and in whose spirit <STYLE css="font-style:italic">there is</STYLE> no guile.</VERS>
+      <VERS vnumber="3">When I kept silence, my bones became old through my roaring all the day long.</VERS>
+      <VERS vnumber="4">For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah.</VERS>
+      <VERS vnumber="5">I acknowledged my sin to thee, and my iniquity have I not hid. I said, I will confess my transgressions to the LORD; and thou forgavest the iniquity of my sin. Selah.</VERS>
+      <VERS vnumber="6">For this shall every one that is godly pray to thee in a time when thou mayest be found: surely in the floods of great waters they shall not come near to him. <DIV>
+          <NOTE type="x-studynote">when…: Heb. of finding</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="7">Thou <STYLE css="font-style:italic">art</STYLE> my hiding place; thou shalt preserve me from trouble; thou shalt surround me with songs of deliverance. Selah.</VERS>
+      <VERS vnumber="8">I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with my eye. <DIV>
+          <NOTE type="x-studynote">guide…: Heb. counsel thee, mine eye shall be upon thee</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="9">Be ye not as the horse, <STYLE css="font-style:italic">or</STYLE> as the mule, <STYLE css="font-style:italic">which</STYLE> have no understanding: whose mouth must be held in with bit and bridle, lest they come near to thee.</VERS>
+      <VERS vnumber="10">Many sorrows <STYLE css="font-style:italic">shall be</STYLE> to the wicked: but he that trusteth in the LORD, mercy shall surround him.</VERS>
+      <VERS vnumber="11">Be glad in the LORD, and rejoice, ye righteous: and shout for joy, all <STYLE css="font-style:italic">ye that are</STYLE> upright in heart.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

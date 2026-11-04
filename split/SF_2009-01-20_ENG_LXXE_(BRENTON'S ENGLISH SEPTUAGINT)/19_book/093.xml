@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="93">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For </STYLE>
+        <DIV>
+          <NOTE type="x-studynote">Alex. the sabbath-day</NOTE>
+        </DIV>
+        <STYLE css="font-style:italic"> the day before the Sabbath, when the land was first inhabited, the praise of a Song by David.</STYLE> - The Lord reigns; he has clothed himself with honour: the Lord has clothed and girded himself with strength; for he has established the world, which shall not be moved.</VERS>
+      <VERS vnumber="2">Thy throne is prepared of old: thou art from everlasting.</VERS>
+      <VERS vnumber="3">The rivers have lifted up, O Lord, the rivers have lifted up their voices, <DIV>
+          <NOTE type="x-studynote">Alex. +the floods will lift up their waves; See Heb.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">at <DIV>
+          <NOTE type="x-studynote">q. d. in answer to</NOTE>
+        </DIV> the voices of many waters: the billows of the sea are wonderful: the Lord is wonderful in high places.</VERS>
+      <VERS vnumber="5">Thy testimonies are made very sure: holiness becomes thine house, O Lord, <DIV>
+          <NOTE type="x-studynote">Gr. to length of days</NOTE>
+        </DIV> for ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

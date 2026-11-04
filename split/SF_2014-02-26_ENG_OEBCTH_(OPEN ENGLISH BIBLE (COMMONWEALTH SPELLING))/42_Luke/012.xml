@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="42" bname="Luke" bsname="Luk">
+    <CHAPTER cnumber="12">
+      <VERS vnumber="1">Meanwhile the people had gathered in thousands, so that they trod on one another, when Jesus, addressing himself to his disciples, began by saying to them:</VERS>
+      <VERS vnumber="13">“Teacher,” a man in the crowd said to Jesus, “tell my brother to share the property with me.”</VERS>
+      <VERS vnumber="14">But Jesus said to him:</VERS>
+      <VERS vnumber="15">And then he added: </VERS>
+      <VERS vnumber="16">Then Jesus told them this parable —</VERS>
+      <VERS vnumber="21" />
+      <VERS vnumber="22">And Jesus said to his disciples:</VERS>
+      <VERS vnumber="32" />
+      <VERS vnumber="40" />
+      <VERS vnumber="41">“Master,” said Peter, “are you telling this parable with reference to us or to everyone?”  </VERS>
+      <VERS vnumber="42">replied the Master,</VERS>
+      <VERS vnumber="54">And to the people Jesus said:</VERS>
+      <VERS vnumber="59" />
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

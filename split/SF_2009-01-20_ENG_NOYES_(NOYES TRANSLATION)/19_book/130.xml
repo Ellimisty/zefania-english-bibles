@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="130">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of the steps, or the goings up.</STYLE> Out of the depths do I cry to thee, O LORD!</VERS>
+      <VERS vnumber="2">O Lord! listen to my voice, Let thine ears be attentive to my supplication!</VERS>
+      <VERS vnumber="3">If thou, LORD, shouldst treasure up transgressions, Lord, who could stand?</VERS>
+      <VERS vnumber="4">But with thee is forgiveness, That thou mayst be feared.</VERS>
+      <VERS vnumber="5">I trust in the LORD; my soul doth trust, And in his promise do I confide.</VERS>
+      <VERS vnumber="6">My soul waiteth for the LORD More than they who watch for the morning; Yea, more than they who watch for the morning!</VERS>
+      <VERS vnumber="7">O Israel! trust in the LORD! For with the LORD is mercy, And with him is plenteous redemption.</VERS>
+      <VERS vnumber="8">He will redeem Israel From all his iniquities.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

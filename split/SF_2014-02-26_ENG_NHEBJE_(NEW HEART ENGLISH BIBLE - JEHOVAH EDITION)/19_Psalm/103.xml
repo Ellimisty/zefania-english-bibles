@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible - Jehovah Edition" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="103">
+      <VERS vnumber="1">By David.   Praise <STYLE id="cl:divineName">Jehovah</STYLE>, my soul!All that is within me, praise his holy name!</VERS>
+      <VERS vnumber="2">Praise <STYLE id="cl:divineName">Jehovah</STYLE>, my soul,and do not forget all his benefits;</VERS>
+      <VERS vnumber="3">who forgives all your sins;who heals all your diseases;</VERS>
+      <VERS vnumber="4">who redeems your life from destruction;who crowns you with loving kindness and tender mercies;</VERS>
+      <VERS vnumber="5">who satisfies your desire with good things,so that your youth is renewed like the eagle's.</VERS>
+      <VERS vnumber="6">
+        <STYLE id="cl:divineName">Jehovah</STYLE> executes righteous acts,and justice for all who are oppressed.</VERS>
+      <VERS vnumber="7">He made known his ways to Moses,his deeds to the children of Israel.</VERS>
+      <VERS vnumber="8">
+        <STYLE id="cl:divineName">Jehovah</STYLE> is merciful and gracious,slow to anger, and abundant in loving kindness.</VERS>
+      <VERS vnumber="9">He will not always accuse;neither will he stay angry forever.</VERS>
+      <VERS vnumber="10">He has not dealt with us according to our sins,nor repaid us for our iniquities.</VERS>
+      <VERS vnumber="11">For as the heavens are high above the earth,so great is his loving kindness toward those who fear him.</VERS>
+      <VERS vnumber="12">As far as the east is from the west,so far has he removed our transgressions from us.</VERS>
+      <VERS vnumber="13">Like a father has compassion on his children,so <STYLE id="cl:divineName">Jehovah</STYLE> has compassion on those who fear him.</VERS>
+      <VERS vnumber="14">For he knows how we are made.He remembers that we are dust.</VERS>
+      <VERS vnumber="15">As for man, his days are like grass.As a flower of the field, so he flourishes.</VERS>
+      <VERS vnumber="16">For the wind passes over it, and it is gone.Its place remembers it no more.</VERS>
+      <VERS vnumber="17">But <STYLE id="cl:divineName">Jehovah</STYLE>'s loving kindness is from everlasting to everlasting with those who fear him,his righteousness to children's children;</VERS>
+      <VERS vnumber="18">to those who keep his covenant,to those who remember to obey his precepts.</VERS>
+      <VERS vnumber="19">
+        <STYLE id="cl:divineName">Jehovah</STYLE> has established his throne in the heavens.His kingdom rules over all.</VERS>
+      <VERS vnumber="20">Praise <STYLE id="cl:divineName">Jehovah</STYLE>, you angels of his,who are mighty in strength, who fulfill his word,obeying the voice of his word.</VERS>
+      <VERS vnumber="21">Praise <STYLE id="cl:divineName">Jehovah</STYLE>, all you armies of his,you servants of his, who do his pleasure.</VERS>
+      <VERS vnumber="22">Praise <STYLE id="cl:divineName">Jehovah</STYLE>, all you works of his,in all places of his dominion.Praise <STYLE id="cl:divineName">Jehovah</STYLE>, my soul!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

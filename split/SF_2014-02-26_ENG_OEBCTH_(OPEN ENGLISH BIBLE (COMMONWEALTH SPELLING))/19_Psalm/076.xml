@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="76">
+      <VERS vnumber="1">God has made himself known in Judah,his name is great in Israel.</VERS>
+      <VERS vnumber="2">His tent is in Salem,his dwelling in Zion. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">There he broke the lightning arrows,shield, sword, and weapons of war.  (Selah)</VERS>
+      <VERS vnumber="4">Terrible is your splendouron the everlasting mountains. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">Despoiled were the stout of heart;in the sleep into which they had fallen,none of the warriorscould lift a hand. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="6">At your rebuke, God of Jacob,sank chariot and horse to sleep.</VERS>
+      <VERS vnumber="7">Awful are you: who can standbefore you, when once you are angry? <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="8">The judgment you gave from heavenfrightened the earth into silence,</VERS>
+      <VERS vnumber="9">when God arose to judgmentto save the oppressed of the earth.  (Selah)  <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="10">The fiercest shall praise you,to you shall the remnant hold festival.</VERS>
+      <VERS vnumber="11">Vow and pay to <STYLE id="cl:divineName">Lord</STYLE> your God,and let all who are round him bring presents. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="12">He lops off the courage of princes,and with terror fills kings of the earth.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

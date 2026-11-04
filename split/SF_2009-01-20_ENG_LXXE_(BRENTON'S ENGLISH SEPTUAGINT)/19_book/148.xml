@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="148">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">Alleluia, a Psalm of Aggaeus and Zacharias.</STYLE> - Praise ye the Lord from the heavens: praise him in the highest.</VERS>
+      <VERS vnumber="2">Praise ye him, all his angels: praise ye him, all his hosts.</VERS>
+      <VERS vnumber="3">Praise him, sun and moon; praise him, all ye stars and light.</VERS>
+      <VERS vnumber="4">Praise him, ye heavens of heavens, and the water that is above the heavens.</VERS>
+      <VERS vnumber="5">Let them praise the name of the Lord: for he spoke, and they were made; he commanded, and they were created.</VERS>
+      <VERS vnumber="6">He has established them for ever, even for ever and ever: he has made an ordinance, and it shall not pass away.</VERS>
+      <VERS vnumber="7">Praise the Lord from the earth, ye serpents, and all deeps.</VERS>
+      <VERS vnumber="8">Fire, hail, snow, ice, stormy wind; the things that perform his word.</VERS>
+      <VERS vnumber="9">Mountains, and all hills; fruitful trees, and all cedars:</VERS>
+      <VERS vnumber="10">wild beasts, and all cattle; reptiles, and winged birds:</VERS>
+      <VERS vnumber="11">kings of the earth, and all peoples; princes, and all judges of the earth:</VERS>
+      <VERS vnumber="12">young men and virgins, old men with youths:</VERS>
+      <VERS vnumber="13">let them praise the name of the Lord: for his name only is exalted; his praise is above the earth and heaven,</VERS>
+      <VERS vnumber="14">and he shall exalt the horn of his people, <DIV>
+          <NOTE type="x-studynote">Or, who is the praise of</NOTE>
+        </DIV> there is a hymn for all his saints, even of the children of Israel, a people who draw near to him.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

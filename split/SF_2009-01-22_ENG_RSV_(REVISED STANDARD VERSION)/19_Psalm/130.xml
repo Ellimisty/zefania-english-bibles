@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="130">
+      <VERS vnumber="1">A Song of Ascents.</VERS>
+      <VERS vnumber="2">Out of the depths I cry to thee, O LORD!</VERS>
+      <VERS vnumber="3">Lord, hear my voice! Let thy ears be attentive to the voice of my supplications!</VERS>
+      <VERS vnumber="4">If thou, O LORD, shouldst mark iniquities, Lord, who could stand?</VERS>
+      <VERS vnumber="5">But there is forgiveness with thee, that thou mayest be feared.</VERS>
+      <VERS vnumber="6">I wait for the LORD, my soul waits, and in his word I hope;</VERS>
+      <VERS vnumber="7">my soul waits for the LORD more than watchmen for the morning, more than watchmen for the morning.</VERS>
+      <VERS vnumber="8">O Israel, hope in the LORD! For with the LORD there is steadfast love, and with him is plenteous redemption. [ (Psalms 130:9) And he will redeem Israel from all his iniquities. ]</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

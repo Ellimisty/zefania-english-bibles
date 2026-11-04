@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="144">
+      <VERS vnumber="1">Blest be the <STYLE id="cl:divineName">Lord</STYLE> my rock,who trains my hands for war,my fingers for fighting.</VERS>
+      <VERS vnumber="2">My rock and my fortress,my tower, my deliverer,my shield, behind whom I take refuge,who lays nations low at my feet. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">
+        <STYLE id="cl:divineName">Lord</STYLE>, what are mortalsthat you care for them,humans,that you think of them?</VERS>
+      <VERS vnumber="4">They are like a breath,their days as a shadow that passes. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">
+        <STYLE id="cl:divineName">Lord</STYLE>, bow your heavens and come down:touch the hills, so that they smoke.</VERS>
+      <VERS vnumber="6">Flash forth lightning and scatter them,your arrows send forth and confound them. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">Stretch out your hand from on high;pluck me out of the mighty waters,out of the hands of foreigners,</VERS>
+      <VERS vnumber="8">who speak with the mouth of falsehood,and lift their right hand to swear lies. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="9">O God, a new song I would sing you,on a ten-stringed harp make you music.</VERS>
+      <VERS vnumber="10">For to kings you give the victory,and David your servant you save.</VERS>
+      <VERS vnumber="11">Snatch me from the cruel sword,rescue me from the hand of foreigners,who speak with the mouth of falsehood,and lift their right hand to swear lies.</VERS>
+      <VERS vnumber="12">May our sons in their youthbe as plants well tended:our daughters like cornicescarved as in palaces. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="13">May our barns be burstingwith produce of all kinds.In the fields may our sheep bearby thousands and ten thousands. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="14">May our cattle be fat,our walls unbreached,may no cry of distressring in our streets. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="15">Happy the peoplewho fares so well: and so fares the peoplewhose God is the <STYLE id="cl:divineName">Lord</STYLE>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

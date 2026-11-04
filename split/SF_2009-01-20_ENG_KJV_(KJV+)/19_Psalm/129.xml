@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="129">
+      <VERS vnumber="1"> A <gr str="7892">Song </gr>of <gr str="4609">degrees</gr>. Many a <gr str="7227">time </gr>have they <gr str="6887">afflicted </gr>me from my <gr str="4480 5271">youth</gr>, may <gr str="3478">Israel </gr>
+        <gr str="4994">now </gr>
+        <gr str="559">say</gr>: </VERS>
+      <VERS vnumber="2"> Many a <gr str="7227">time </gr>have they <gr str="6887">afflicted </gr>me from my <gr str="4480 5271">youth</gr>: <gr str="1571">yet </gr>they have <gr str="3808">not </gr>
+        <gr str="3201">prevailed </gr>against me. </VERS>
+      <VERS vnumber="3"> The <gr str="2790">plowers </gr>
+        <gr str="2790">plowed </gr>
+        <gr str="5921">upon </gr>my <gr str="1354">back</gr>: they made <gr str="748">long </gr>their <gr str="4618">furrows</gr>. </VERS>
+      <VERS vnumber="4"> The <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="6662">righteous</gr>: he hath cut <gr str="7112">asunder </gr>the <gr str="5688">cords </gr>of the <gr str="7563">wicked</gr>. </VERS>
+      <VERS vnumber="5"> Let them <gr str="3605">all </gr>be <gr str="954">confounded </gr>and <gr str="5472">turned </gr>
+        <gr str="268">back </gr>that <gr str="8130">hate </gr>
+        <gr str="6726">Zion</gr>. </VERS>
+      <VERS vnumber="6"> Let them <gr str="1961">be </gr>as the <gr str="2682">grass </gr>
+        <STYLE css="color:#808080;font-style:italic"> upon </STYLE> the <gr str="1406">housetops</gr>, which <gr str="3001">withereth </gr>
+        <gr str="7945 6927">before </gr>it groweth <gr str="8025">up</gr>: </VERS>
+      <VERS vnumber="7"> Wherewith the <gr str="7114">mower </gr>
+        <gr str="4390">filleth </gr>
+        <gr str="7945 3808">not </gr>his <gr str="3709">hand</gr>; nor he that <gr str="6014">bindeth </gr>sheaves his <gr str="2683">bosom</gr>. </VERS>
+      <VERS vnumber="8">
+        <gr str="3808">Neither </gr>do they which go <gr str="5674">by </gr>
+        <gr str="559">say</gr>, The <gr str="1293">blessing </gr>of the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="413">upon </gr>you: we <gr str="1288">bless </gr>you in the <gr str="8034">name </gr>of the <gr str="3068">LORD</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

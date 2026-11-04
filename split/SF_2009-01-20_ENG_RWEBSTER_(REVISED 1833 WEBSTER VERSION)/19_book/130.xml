@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="130">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Song of degrees.</STYLE> Out of the depths have I cried to thee, O LORD.</VERS>
+      <VERS vnumber="2">Lord, hear my voice: let thy ears be attentive to the voice of my supplications.</VERS>
+      <VERS vnumber="3">If thou, LORD, shouldest mark iniquities, O Lord, who shall stand?</VERS>
+      <VERS vnumber="4">But <STYLE css="font-style:italic">there is</STYLE> forgiveness with thee, that thou mayest be feared.</VERS>
+      <VERS vnumber="5">I wait for the LORD, my soul doth wait, and in his word do I hope.</VERS>
+      <VERS vnumber="6">My soul <STYLE css="font-style:italic">waiteth</STYLE> for the Lord more than they that watch for the morning: <STYLE css="font-style:italic">I say, more than</STYLE> they that watch for the morning. <DIV>
+          <NOTE type="x-studynote">I say…: or, which watch unto</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="7">Let Israel hope in the LORD: for with the LORD <STYLE css="font-style:italic">there is</STYLE> mercy, and with him <STYLE css="font-style:italic">is</STYLE> plenteous redemption.</VERS>
+      <VERS vnumber="8">And he shall redeem Israel from all his iniquities.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

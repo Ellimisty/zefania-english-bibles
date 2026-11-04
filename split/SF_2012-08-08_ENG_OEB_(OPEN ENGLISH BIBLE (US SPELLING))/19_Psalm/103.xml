@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="103">
+      <VERS vnumber="1">O my soul, bless the <STYLE id="cl:divineName">Lord</STYLE>;and all that is in me, his holy name.</VERS>
+      <VERS vnumber="2">O my soul, bless the <STYLE id="cl:divineName">Lord</STYLE>;and forget not one of his benefits.</VERS>
+      <VERS vnumber="3">He pardons all your sins,he heals all your diseases.</VERS>
+      <VERS vnumber="4">He ransoms your life from the pit,he crowns you with kindness and pity.</VERS>
+      <VERS vnumber="5">He gives you your heart’s desire,renewing your youth like the eagle’s. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="6">The <STYLE id="cl:divineName">Lord</STYLE> executes justice -and right for all who are wronged.</VERS>
+      <VERS vnumber="7">He revealed his ways to Moses,his acts to the children of Israel.</VERS>
+      <VERS vnumber="8">Full of pity and grace is the <STYLE id="cl:divineName">Lord</STYLE>,patient, and rich in kindness:</VERS>
+      <VERS vnumber="9">he will not always chide,nor cherish his anger forever.</VERS>
+      <VERS vnumber="10">Not after our sins has he dealt with us,nor requited us after our wickedness. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="11">For high as the heavens o’er the earthis his love over those who fear him.</VERS>
+      <VERS vnumber="12">Far as is east from the westhas he put our transgressions from us.</VERS>
+      <VERS vnumber="13">As a father pities his children,so the <STYLE id="cl:divineName">Lord</STYLE> pities those who fear him;</VERS>
+      <VERS vnumber="14">for well he knows our frame,he remembers that we are dust. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="15">A person's days are as grass;blossoms like a flower of the meadow.</VERS>
+      <VERS vnumber="16">At the breath of the wind it is gone,and the place thereof knows it no more.</VERS>
+      <VERS vnumber="17">But the love of the <STYLE id="cl:divineName">Lord</STYLE> is eternal,and his kindness to children’s children,</VERS>
+      <VERS vnumber="18">to those who keep his covenantand mindfully do his behests. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="19">The <STYLE id="cl:divineName">Lord</STYLE> has set his throne in the heavens;the whole world is under his sway.</VERS>
+      <VERS vnumber="20">Bless the <STYLE id="cl:divineName">Lord</STYLE>, you angels of his,mighty heroes performing his word.</VERS>
+      <VERS vnumber="21">Bless the <STYLE id="cl:divineName">Lord</STYLE>, all you his hosts,you servants who do his will.</VERS>
+      <VERS vnumber="22">Bless the <STYLE id="cl:divineName">Lord</STYLE>, all you his works,far as his sway extends.O my soul, bless the <STYLE id="cl:divineName">Lord</STYLE>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="3" bname="3 Mose" bsname="3Mo">
+    <CHAPTER cnumber="18">
+      <VERS vnumber="1"> And the <gr str="3068">LORD </gr>
+        <gr str="1696">spoke </gr>
+        <gr str="413">unto </gr>
+        <gr str="4872">Moses</gr>, <gr str="559">saying</gr>, </VERS>
+      <VERS vnumber="2">
+        <gr str="1696">Speak </gr>
+        <gr str="413">unto </gr>the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>, and <gr str="559">say </gr>
+        <gr str="413">unto </gr>them, <gr str="589">I </gr>am the <gr str="3068">LORD </gr>your <gr str="430">God</gr>. </VERS>
+      <VERS vnumber="3"> After the <gr str="4639">doings </gr>of the <gr str="776">land </gr>of <gr str="4714">Egypt</gr>, <gr str="834">wherein </gr>ye <gr str="3427">dwelt</gr>, shall ye <gr str="3808">not </gr>
+        <gr str="6213">do</gr>: and after the <gr str="4639">doings </gr>of the <gr str="776">land </gr>of <gr str="3667">Canaan</gr>, <gr str="834 8033">whither </gr>
+        <gr str="589">I </gr>
+        <gr str="935">bring </gr>you, shall ye <gr str="3808">not </gr>
+        <gr str="6213">do</gr>: <gr str="3808">neither </gr>shall ye <gr str="1980">walk </gr>in their <gr str="2708">ordinances</gr>. </VERS>
+      <VERS vnumber="4"> Ye shall <gr str="6213">do </gr>
+        <gr str="*853" />my <gr str="4941">judgments</gr>, and <gr str="8104">keep </gr>mine <gr str="2708">ordinances</gr>, to <gr str="1980">walk </gr>therein: <gr str="589">I </gr>
+        <STYLE css="color:#808080;font-style:italic"> am </STYLE> the <gr str="3068">LORD </gr>your <gr str="430">God</gr>. </VERS>
+      <VERS vnumber="5"> Ye shall therefore <gr str="8104">keep </gr>
+        <gr str="*853" />my <gr str="2708">statutes</gr>, and my <gr str="4941">judgments</gr>: <gr str="834">which </gr>if a <gr str="120">man </gr>
+        <gr str="6213">do</gr>, he shall <gr str="2425">live </gr>in them: <gr str="589">I </gr>
+        <STYLE css="color:#808080;font-style:italic"> am </STYLE> the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="6">
+        <gr str="3808 376 376">None </gr>of you shall <gr str="7126">approach </gr>
+        <gr str="413">to </gr>
+        <gr str="3605">any </gr>that is <gr str="7607">near </gr>of <gr str="1320">kin </gr>to him, to <gr str="1540">uncover </gr>
+        <STYLE css="color:#808080;font-style:italic"> their </STYLE>
+        <gr str="6172">nakedness</gr>: <gr str="589">I </gr>
+        <STYLE css="color:#808080;font-style:italic"> am </STYLE> the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="7"> The <gr str="6172">nakedness </gr>of thy <gr str="1">father</gr>, or the <gr str="6172">nakedness </gr>of thy <gr str="517">mother</gr>, shalt thou <gr str="3808">not </gr>
+        <gr str="1540">uncover</gr>: <gr str="1931">she </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> thy <gr str="517">mother</gr>; thou shalt <gr str="3808">not </gr>
+        <gr str="1540">uncover </gr>her <gr str="6172">nakedness</gr>. </VERS>
+      <VERS vnumber="8"> The <gr str="6172">nakedness </gr>of thy <gr str="1">father </gr>'s <gr str="802">wife </gr>shalt thou <gr str="3808">not </gr>
+        <gr str="1540">uncover</gr>: <gr str="1931">it </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> thy <gr str="1">father </gr>'s <gr str="6172">nakedness</gr>. </VERS>
+      <VERS vnumber="9"> The <gr str="6172">nakedness </gr>of thy <gr str="269">sister</gr>, the <gr str="1323">daughter </gr>of thy <gr str="1">father</gr>, <gr str="176">or </gr>
+        <gr str="1323">daughter </gr>of thy <gr str="517">mother</gr>, <STYLE css="color:#808080;font-style:italic"> whether </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> she </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="4138">born </gr>at <gr str="1004">home</gr>, <gr str="176">or </gr>
+        <gr str="4138">born </gr>
+        <gr str="2351">abroad</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE> their <gr str="6172">nakedness </gr>thou shalt <gr str="3808">not </gr>
+        <gr str="1540">uncover</gr>. </VERS>
+      <VERS vnumber="10"> The <gr str="6172">nakedness </gr>of thy <gr str="1121">son </gr>'s <gr str="1323">daughter</gr>, <gr str="176">or </gr>of thy <gr str="1323">daughter </gr>'s <gr str="1323">daughter</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE> their <gr str="6172">nakedness </gr>thou shalt <gr str="3808">not </gr>
+        <gr str="1540">uncover</gr>: <gr str="3588">for </gr>
+        <gr str="2007">theirs </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> thine own <gr str="6172">nakedness</gr>. </VERS>
+      <VERS vnumber="11"> The <gr str="6172">nakedness </gr>of thy <gr str="1">father </gr>'s <gr str="802">wife </gr>'s <gr str="1323">daughter</gr>, <gr str="4138">begotten </gr>of thy <gr str="1">father</gr>, <gr str="1931">she </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> thy <gr str="269">sister</gr>, thou shalt <gr str="3808">not </gr>
+        <gr str="1540">uncover </gr>her <gr str="6172">nakedness</gr>. </VERS>
+      <VERS vnumber="12"> Thou shalt <gr str="3808">not </gr>
+        <gr str="1540">uncover </gr>the <gr str="6172">nakedness </gr>of thy <gr str="1">father </gr>'s <gr str="269">sister</gr>: <gr str="1931">she </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> thy <gr str="1">father </gr>'s near <gr str="7607">kinswoman</gr>. </VERS>
+      <VERS vnumber="13"> Thou shalt <gr str="3808">not </gr>
+        <gr str="1540">uncover </gr>the <gr str="6172">nakedness </gr>of thy <gr str="517">mother </gr>'s <gr str="269">sister</gr>: <gr str="3588">for </gr>
+        <gr str="1931">she </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> thy <gr str="517">mother </gr>'s near <gr str="7607">kinswoman</gr>. </VERS>
+      <VERS vnumber="14"> Thou shalt <gr str="3808">not </gr>
+        <gr str="1540">uncover </gr>the <gr str="6172">nakedness </gr>of thy <gr str="1">father </gr>'s <gr str="251">brother</gr>, thou shalt <gr str="3808">not </gr>
+        <gr str="7126">approach </gr>
+        <gr str="413">to </gr>his <gr str="802">wife</gr>: <gr str="1931">she </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> thine <gr str="1733">aunt</gr>. </VERS>
+      <VERS vnumber="15"> Thou shalt <gr str="3808">not </gr>
+        <gr str="1540">uncover </gr>the <gr str="6172">nakedness </gr>of thy <gr str="3618">daughter </gr>-in-law: <gr str="1931">she </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> thy <gr str="1121">son </gr>'s <gr str="802">wife</gr>; thou shalt <gr str="3808">not </gr>
+        <gr str="1540">uncover </gr>her <gr str="6172">nakedness</gr>. </VERS>
+      <VERS vnumber="16"> Thou shalt <gr str="3808">not </gr>
+        <gr str="1540">uncover </gr>the <gr str="6172">nakedness </gr>of thy <gr str="251">brother </gr>'s <gr str="802">wife</gr>: <gr str="1931">it </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> thy <gr str="251">brother </gr>'s <gr str="6172">nakedness</gr>. </VERS>
+      <VERS vnumber="17"> Thou shalt <gr str="3808">not </gr>
+        <gr str="1540">uncover </gr>the <gr str="6172">nakedness </gr>of a <gr str="802">woman </gr>and her <gr str="1323">daughter</gr>, <gr str="3808">neither </gr>shalt thou <gr str="3947">take </gr>
+        <gr str="*853" />her <gr str="1121">son </gr>'s <gr str="1323">daughter</gr>, or her <gr str="1323">daughter </gr>'s <gr str="1323">daughter</gr>, to <gr str="1540">uncover </gr>her <gr str="6172">nakedness</gr>; <STYLE css="color:#808080;font-style:italic"> for </STYLE>
+        <gr str="2007">they </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> her near <gr str="7608">kinswomen</gr>: <gr str="1931">it </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2154">wickedness</gr>. </VERS>
+      <VERS vnumber="18">
+        <gr str="3808">Neither </gr>shalt thou <gr str="3947">take </gr>a <gr str="802">wife </gr>
+        <gr str="413">to </gr>her <gr str="269">sister</gr>, to <gr str="6887">vex </gr>
+        <STYLE css="color:#808080;font-style:italic"> her </STYLE>, to <gr str="1540">uncover </gr>her <gr str="6172">nakedness</gr>, <gr str="5921">beside </gr>the other in her <gr str="2416">life </gr>
+        <STYLE css="color:#808080;font-style:italic"> time </STYLE>. </VERS>
+      <VERS vnumber="19"> Also thou shalt <gr str="3808">not </gr>
+        <gr str="7126">approach </gr>
+        <gr str="413">unto </gr>a <gr str="802">woman </gr>to <gr str="1540">uncover </gr>her <gr str="6172">nakedness</gr>, as long as she is put <gr str="5079">apart </gr>for her <gr str="2932">uncleanness</gr>. </VERS>
+      <VERS vnumber="20"> Moreover thou shalt <gr str="3808">not </gr>lie <gr str="5414 7903 2233">carnally </gr>
+        <gr str="413">with </gr>thy <gr str="5997">neighbor </gr>'s <gr str="802">wife</gr>, to <gr str="2930">defile </gr>thyself with her. </VERS>
+      <VERS vnumber="21"> And thou shalt <gr str="3808">not </gr>
+        <gr str="5414">let </gr>any of thy <gr str="4480 2233">seed </gr>pass <gr str="5674">through </gr>
+        <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> fire </STYLE> to <gr str="4432">Molech</gr>, <gr str="3808">neither </gr>shalt thou <gr str="2490">profane </gr>
+        <gr str="*853" />the <gr str="8034">name </gr>of thy <gr str="430">God</gr>: <gr str="589">I </gr>
+        <STYLE css="color:#808080;font-style:italic"> am </STYLE> the <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="22"> Thou shalt <gr str="3808">not </gr>
+        <gr str="7901">lie </gr>
+        <gr str="854">with </gr>
+        <gr str="2145">mankind</gr>, as <gr str="4904">with </gr>
+        <gr str="802">womankind</gr>: <gr str="1931">it </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="8441">abomination</gr>. </VERS>
+      <VERS vnumber="23">
+        <gr str="3808">Neither </gr>shalt thou <gr str="5414 7903">lie </gr>with <gr str="3605">any </gr>
+        <gr str="929">beast </gr>to <gr str="2930">defile </gr>thyself therewith: <gr str="3808">neither </gr>shall any <gr str="802">woman </gr>
+        <gr str="5975">stand </gr>
+        <gr str="6440">before </gr>a <gr str="929">beast </gr>to lie <gr str="7250">down </gr>thereto: <gr str="1931">it </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="8397">confusion</gr>. </VERS>
+      <VERS vnumber="24"> Defile not ye <gr str="2930 408">yourselves </gr>in <gr str="3605">any </gr>of these <gr str="428">things</gr>: <gr str="3588">for </gr>in <gr str="3605">all </gr>
+        <gr str="428">these </gr>the <gr str="1471">nations </gr>are <gr str="2930">defiled </gr>
+        <gr str="834">which </gr>
+        <gr str="589">I </gr>cast <gr str="7971">out </gr>
+        <gr str="4480 6440">before </gr>you: </VERS>
+      <VERS vnumber="25"> And the <gr str="776">land </gr>is <gr str="2930">defiled</gr>: therefore I do <gr str="6485">visit </gr>the <gr str="5771">iniquity </gr>thereof <gr str="5921">upon </gr>it, and the <gr str="776">land </gr>itself vomiteth <gr str="6958">out </gr>
+        <gr str="*853" />her <gr str="3427">inhabitants</gr>. </VERS>
+      <VERS vnumber="26">
+        <gr str="859">Ye </gr>shall therefore <gr str="8104">keep </gr>
+        <gr str="*853" />my <gr str="2708">statutes </gr>and my <gr str="4941">judgments</gr>, and shall <gr str="3808">not </gr>
+        <gr str="6213">commit </gr>
+        <STYLE css="color:#808080;font-style:italic"> any </STYLE> of <gr str="4480 3605 428">these </gr>
+        <gr str="8441">abominations</gr>; <STYLE css="color:#808080;font-style:italic"> neither </STYLE> any of your own <gr str="249">nation</gr>, nor any <gr str="1616">stranger </gr>that <gr str="1481">sojourneth </gr>
+        <gr str="8432">among </gr>you: </VERS>
+      <VERS vnumber="27"> (<gr str="3588">For </gr>
+        <gr str="*853" />
+        <gr str="3605">all </gr>
+        <gr str="411">these </gr>
+        <gr str="8441">abominations </gr>have the <gr str="376">men </gr>of the <gr str="776">land </gr>
+        <gr str="6213">done</gr>, <gr str="834">which </gr>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE>
+        <gr str="6440">before </gr>you, and the <gr str="776">land </gr>is <gr str="2930">defiled</gr>;) </VERS>
+      <VERS vnumber="28"> That the <gr str="776">land </gr>spew not you <gr str="6958 3808 *853">out </gr>also, when ye <gr str="2930">defile </gr>it, <gr str="834">as </gr>it spewed <gr str="6958">out </gr>
+        <gr str="*853" />the <gr str="1471">nations </gr>
+        <gr str="834">that </gr>
+        <STYLE css="color:#808080;font-style:italic"> were </STYLE>
+        <gr str="6440">before </gr>you. </VERS>
+      <VERS vnumber="29">
+        <gr str="3588">For </gr>
+        <gr str="3605 834">whosoever </gr>shall <gr str="6213">commit </gr>
+        <gr str="4480 3605">any </gr>of <gr str="428">these </gr>
+        <gr str="8441">abominations</gr>, even the <gr str="5315">souls </gr>that <gr str="6213">commit </gr>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE> shall be cut <gr str="3772">off </gr>from <gr str="4480 7130">among </gr>their <gr str="5971">people</gr>. </VERS>
+      <VERS vnumber="30"> Therefore shall ye <gr str="8104">keep </gr>
+        <gr str="*853" />mine <gr str="4931">ordinance</gr>, that <STYLE css="color:#808080;font-style:italic"> ye </STYLE> commit <gr str="6213 1115">not </gr>
+        <STYLE css="color:#808080;font-style:italic"> any </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> one </STYLE> of these abominable <gr str="4480 2708 8441">customs</gr>, <gr str="834">which </gr>were <gr str="6213">committed </gr>
+        <gr str="6440">before </gr>you, and that ye defile not <gr str="2930 3808">yourselves </gr>therein: <gr str="589">I </gr>
+        <STYLE css="color:#808080;font-style:italic"> am </STYLE> the <gr str="3068">LORD </gr>your <gr str="430">God</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

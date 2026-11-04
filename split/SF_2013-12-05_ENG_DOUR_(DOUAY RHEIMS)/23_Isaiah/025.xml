@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Douay Rheims" type="x-bible">
+  <BIBLEBOOK bnumber="23" bname="Isaiah" bsname="Isa">
+    <CHAPTER cnumber="25">
+      <VERS vnumber="1">For the hand of the Lord shall rest in this mountain: and Moab shall be trodden down under him, as straw is broken in pieces with the wain.</VERS>
+      <VERS vnumber="2">dummy verses inserted by amos</VERS>
+      <VERS vnumber="3">dummy verses inserted by amos</VERS>
+      <VERS vnumber="4">dummy verses inserted by amos</VERS>
+      <VERS vnumber="5">dummy verses inserted by amos</VERS>
+      <VERS vnumber="6">dummy verses inserted by amos</VERS>
+      <VERS vnumber="7">dummy verses inserted by amos</VERS>
+      <VERS vnumber="8">dummy verses inserted by amos</VERS>
+      <VERS vnumber="9">dummy verses inserted by amos</VERS>
+      <VERS vnumber="10">dummy verses inserted by amos</VERS>
+      <VERS vnumber="11">And he shall stretch forth his hands under him, as he that swimmeth stretcheth forth his hands to swim: and he shall bring down his glory with the dashing of his hands.</VERS>
+      <VERS vnumber="12">And the bulwarks of thy high walls shall fall, and be brought low, and shall be pulled down to the ground, even to the dust.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

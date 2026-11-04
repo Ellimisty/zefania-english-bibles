@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="15">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of David.</STYLE> LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill? <DIV>
+          <NOTE type="x-studynote">abide: Heb. sojourn</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.</VERS>
+      <VERS vnumber="3">
+        <STYLE css="font-style:italic">He that</STYLE> backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour. <DIV>
+          <NOTE type="x-studynote">taketh…: or, receiveth, or, endureth</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">In whose eyes a vile person is despised; but he honoureth them that fear the LORD. <STYLE css="font-style:italic">He that</STYLE> sweareth to <STYLE css="font-style:italic">his own</STYLE> hurt, and changeth not.</VERS>
+      <VERS vnumber="5">
+        <STYLE css="font-style:italic">He that</STYLE> putteth not out his money to interest, nor taketh reward against the innocent. He that doeth these <STYLE css="font-style:italic">things</STYLE> shall never be moved.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

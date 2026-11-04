@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="1">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">In the <GRAM str="7225">beginning </GRAM>
+        <gr str="430">God </gr>
+        <gr str="1254 853">created </gr>the <gr str="8064">heaven </gr>
+        <gr str="853">and </gr>the <gr str="776">earth</gr>.</VERS>
+      <VERS vnumber="2">And the <gr str="776">earth </gr>
+        <gr str="1961">was </gr>without <gr str="8414">form</gr>, and <gr str="922">void</gr>; and <gr str="2822">darkness </gr>
+        <STYLE css="font-style:italic">was</STYLE> upon the <gr str="6440">face </gr>of the <gr str="8415">deep</gr>. And the <gr str="7307">Spirit </gr>of <gr str="430">God </gr>
+        <gr str="7363">moved </gr>
+        <gr str="5921">upon </gr>the <gr str="6440">face </gr>of the <gr str="4325">waters</gr>.</VERS>
+      <VERS vnumber="3">And <gr str="430">God </gr>
+        <gr str="559">said</gr>, Let there <gr str="1961">be </gr>
+        <gr str="216">light</gr>: and there was <gr str="216">light</gr>.</VERS>
+      <VERS vnumber="4">And <gr str="430">God </gr>
+        <gr str="7200 853">saw </gr>the <gr str="216">light</gr>, <gr str="3588">that </gr>
+        <STYLE css="font-style:italic">it was </STYLE>
+        <gr str="2896">good</gr>: and <gr str="430">God </gr>
+        <gr str="914 996">divided </gr>the <gr str="216">light </gr>
+        <gr str="996">from </gr>the <gr str="2822">darkness</gr>. <DIV>
+          <NOTE type="x-studynote">the light from…: Heb. between the light and between the darkness</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="5">And <gr str="430">God </gr>
+        <gr str="7121">called </gr>the <gr str="216">light </gr>
+        <gr str="3117">Day</gr>, and the <gr str="2822">darkness </gr>he <gr str="7121">called </gr>
+        <gr str="3915">Night</gr>. And the <gr str="6153">evening </gr>and the <gr str="1242">morning </gr>were the <gr str="259">first </gr>
+        <gr str="3117">day</gr>. <DIV>
+          <NOTE type="x-studynote">And the evening…: Heb. And the evening was, and the morning was etc.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">And <gr str="430">God </gr>
+        <gr str="559">said</gr>, Let there be a <gr str="7549">firmament </gr>in the <gr str="8432">midst </gr>of the <gr str="4325">waters</gr>, and let it <gr str="914">divide </gr>the <gr str="4325">waters </gr>from the <gr str="4325">waters</gr>. <DIV>
+          <NOTE type="x-studynote">firmament: Heb. expansion</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="7">And <gr str="430">God </gr>
+        <gr str="6213">made </gr>the <gr str="7549">firmament</gr>, and <gr str="914">divided </gr>the <gr str="4325">waters </gr>
+        <gr str="834">which </gr>
+        <STYLE css="font-style:italic">were </STYLE>
+        <gr str="8478">under </gr>the <gr str="7549">firmament </gr>from the <gr str="4325">waters </gr>
+        <gr str="834">which </gr>
+        <STYLE css="font-style:italic">were </STYLE>
+        <gr str="5921">above </gr>the <gr str="7549">firmament</gr>: and it was <gr str="3651">so</gr>.</VERS>
+      <VERS vnumber="8">And <gr str="430">God </gr>
+        <gr str="7121">called </gr>the <gr str="7549">firmament </gr>
+        <gr str="8064">Heaven</gr>. And the <gr str="6153">evening </gr>and the <gr str="1242">morning </gr>were the <gr str="8145">second </gr>
+        <gr str="3117">day</gr>. <DIV>
+          <NOTE type="x-studynote">And the evening…: Heb. And the evening was, and the morning was etc.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="9">And <gr str="430">God </gr>
+        <gr str="559">said</gr>, Let the <gr str="4325">waters </gr>under the <gr str="8064">heaven </gr>be gathered <gr str="6960">together </gr>
+        <gr str="413">into </gr>
+        <gr str="259">one </gr>
+        <gr str="4725">place</gr>, and let the <gr str="3004">dry </gr>
+        <STYLE css="font-style:italic">land </STYLE>
+        <gr str="7200">appear</gr>: and it was so.</VERS>
+      <VERS vnumber="10">And <gr str="430">God </gr>
+        <gr str="7121">called </gr>the <gr str="3004">dry </gr>
+        <STYLE css="font-style:italic">land </STYLE>
+        <gr str="776">Earth</gr>; and the gathering <gr str="4723">together </gr>of the <gr str="4325">waters </gr>he <gr str="7121">called </gr>
+        <gr str="3220">Seas</gr>: and <gr str="430">God </gr>
+        <gr str="7200">saw </gr>that <STYLE css="font-style:italic">it was </STYLE>
+        <gr str="2896">good</gr>.</VERS>
+      <VERS vnumber="11">And <gr str="430">God </gr>
+        <gr str="559">said</gr>, Let the <gr str="776">earth </gr>bring <gr str="1876">forth </gr>
+        <gr str="1877">grass</gr>, the <gr str="6212">herb </gr>
+        <gr str="2232">yielding </gr>
+        <gr str="2233">seed</gr>, <STYLE css="font-style:italic">and</STYLE> the <gr str="6529">fruit </gr>
+        <gr str="6086">tree </gr>
+        <gr str="6213">yielding </gr>
+        <gr str="6529">fruit </gr>after its <gr str="4327">kind</gr>, <gr str="834">whose </gr>
+        <gr str="2233">seed </gr>
+        <STYLE css="font-style:italic">is</STYLE> in itself, upon the <gr str="776">earth</gr>: and it was so. <DIV>
+          <NOTE type="x-studynote">grass: Heb. tender grass</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="12">And the <gr str="776">earth </gr>brought <gr str="3318">forth </gr>
+        <gr str="1877">grass</gr>, <STYLE css="font-style:italic">and </STYLE>
+        <gr str="6212">herb </gr>
+        <gr str="2232">yielding </gr>
+        <gr str="2233">seed </gr>after its <gr str="4327">kind</gr>, and the <gr str="6086">tree </gr>
+        <gr str="6213">yielding </gr>
+        <gr str="6529">fruit</gr>, whose <gr str="2233">seed </gr>
+        <STYLE css="font-style:italic">was</STYLE> in itself, after its <gr str="4327">kind</gr>: and <gr str="430">God </gr>
+        <gr str="7200">saw </gr>that <STYLE css="font-style:italic">it was </STYLE>
+        <gr str="2896">good</gr>.</VERS>
+      <VERS vnumber="13">And the <gr str="6153">evening </gr>and the <gr str="1242">morning </gr>were the <gr str="7992">third </gr>
+        <gr str="3117">day</gr>. <DIV>
+          <NOTE type="x-studynote">And the evening…: Heb. And the evening was, and the morning was etc.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="14">And <gr str="430">God </gr>
+        <gr str="559">said</gr>, Let there be <gr str="3974">lights </gr>in the <gr str="7549">firmament </gr>of the <gr str="8064">heaven </gr>to <gr str="914">divide </gr>the <gr str="3117">day </gr>from the <gr str="3915">night</gr>; and let them be for <gr str="226">signs</gr>, and for <gr str="4150">seasons</gr>, and for <gr str="3117">days</gr>, and <gr str="8141">years</gr>: <DIV>
+          <NOTE type="x-studynote">the day…: Heb. between the day and between the night</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="15">And let them be for <gr str="3974">lights </gr>in the <gr str="7549">firmament </gr>of the <gr str="8064">heaven </gr>to give <gr str="215">light </gr>upon the <gr str="776">earth</gr>: and it was so.</VERS>
+      <VERS vnumber="16">And <gr str="430">God </gr>
+        <gr str="6213">made </gr>
+        <gr str="8147">two </gr>
+        <gr str="1419">great </gr>
+        <gr str="3974">lights</gr>; the <gr str="1419">greater </gr>
+        <gr str="3974">light </gr>to <gr str="4475">rule </gr>the <gr str="3117">day</gr>, and the <gr str="6996">lesser </gr>
+        <gr str="3974">light </gr>to <gr str="4475">rule </gr>the <gr str="3915">night</gr>: <STYLE css="font-style:italic">he made</STYLE> the <gr str="3556">stars </gr>also. <DIV>
+          <NOTE type="x-studynote">to rule the day…: Heb. for the rule of the day, etc.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="17">And <gr str="430">God </gr>
+        <gr str="5414">set </gr>them in the <gr str="7549">firmament </gr>of the <gr str="8064">heaven </gr>to give <gr str="215">light </gr>upon the <gr str="776">earth</gr>,</VERS>
+      <VERS vnumber="18">And to <gr str="4910">rule </gr>over the <gr str="3117">day </gr>and over the <gr str="3915">night</gr>, and to <gr str="914">divide </gr>the <gr str="216">light </gr>from the <gr str="2822">darkness</gr>: and <gr str="430">God </gr>
+        <gr str="7200">saw </gr>that <STYLE css="font-style:italic">it was </STYLE>
+        <gr str="2896">good</gr>.</VERS>
+      <VERS vnumber="19">And the <gr str="6153">evening </gr>and the <gr str="1242">morning </gr>were the <gr str="7243">fourth </gr>
+        <gr str="3117">day</gr>. <DIV>
+          <NOTE type="x-studynote">And the evening…: Heb. And the evening was, and the morning was etc.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="20">And <gr str="430">God </gr>
+        <gr str="559">said</gr>, Let the <gr str="4325">waters </gr>bring forth <gr str="8317">abundantly </gr>the moving <gr str="8318">creature </gr>that <gr str="5315">hath </gr>
+        <gr str="2416">life</gr>, and <gr str="5775">fowl </gr>
+        <STYLE css="font-style:italic">that</STYLE> may <gr str="5774">fly </gr>
+        <gr str="5921">above </gr>the <gr str="776">earth </gr>in the <gr str="6440">open </gr>
+        <gr str="7549">firmament </gr>of <gr str="8064">heaven</gr>. <DIV>
+          <NOTE type="x-studynote">moving: or, creeping</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">life: Heb. soul</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">fowl…: Heb. let fowl fly</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">open…: Heb. face of the firmament of heaven</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="21">And <gr str="430">God </gr>
+        <gr str="1254">created </gr>
+        <gr str="1419">great </gr>sea <gr str="8577">creatures</gr>, and every <gr str="2416">living </gr>
+        <gr str="5315">creature </gr>that <gr str="7430">moveth</gr>, which the <gr str="4325">waters </gr>brought forth <gr str="8317">abundantly</gr>, after their <gr str="4327">kind</gr>, and every <gr str="3671">winged </gr>
+        <gr str="5775">fowl </gr>after his <gr str="4327">kind</gr>: and <gr str="430">God </gr>
+        <gr str="7200">saw </gr>that <STYLE css="font-style:italic">it was </STYLE>
+        <gr str="2896">good</gr>.</VERS>
+      <VERS vnumber="22">And <gr str="430">God </gr>
+        <gr str="1288">blessed </gr>them, <gr str="559">saying</gr>, Be <gr str="6509">fruitful</gr>, and <gr str="7235">multiply</gr>, and <gr str="4390">fill </gr>the <gr str="4325">waters </gr>in the <gr str="3220">seas</gr>, and let <gr str="5775">fowl </gr>
+        <gr str="7235">multiply </gr>in the <gr str="776">earth</gr>.</VERS>
+      <VERS vnumber="23">And the <gr str="6153">evening </gr>and the <gr str="1242">morning </gr>were the <gr str="2549">fifth </gr>
+        <gr str="3117">day</gr>. <DIV>
+          <NOTE type="x-studynote">And the evening…: Heb. And the evening was, and the morning was etc.</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="24">And <gr str="430">God </gr>
+        <gr str="559">said</gr>, Let the <gr str="776">earth </gr>bring <gr str="3318">forth </gr>the <gr str="2416">living </gr>
+        <gr str="5315">creature </gr>after his <gr str="4327">kind</gr>, <gr str="929">cattle</gr>, and creeping <gr str="7431">thing</gr>, and the <gr str="2416">beast </gr>of the <gr str="776">earth </gr>after his <gr str="4327">kind</gr>: and it was so.</VERS>
+      <VERS vnumber="25">And <gr str="430">God </gr>
+        <gr str="6213">made </gr>the <gr str="2416">beast </gr>of the <gr str="776">earth </gr>after his <gr str="4327">kind</gr>, and <gr str="929">cattle </gr>after their <gr str="4327">kind</gr>, and every thing that <gr str="7431">creepeth </gr>upon the <gr str="127">earth </gr>after his <gr str="4327">kind</gr>: and <gr str="430">God </gr>
+        <gr str="7200">saw </gr>that <STYLE css="font-style:italic">it was </STYLE>
+        <gr str="2896">good</gr>.</VERS>
+      <VERS vnumber="26">And <gr str="430">God </gr>
+        <gr str="559">said</gr>, Let us <gr str="6213">make </gr>
+        <gr str="120">man </gr>in our <gr str="6754">image</gr>, after our <gr str="1823">likeness</gr>: and let them have <gr str="7287">dominion </gr>over the <gr str="1710">fish </gr>of the <gr str="3220">sea</gr>, and over the <gr str="5775">fowl </gr>of the <gr str="8064">air</gr>, and over the <gr str="929">cattle</gr>, and over all the <gr str="776">earth</gr>, and over every creeping <gr str="7431">thing </gr>that <gr str="7430">creepeth </gr>upon the <gr str="776">earth</gr>.</VERS>
+      <VERS vnumber="27">So <gr str="430">God </gr>
+        <gr str="1254">created </gr>
+        <gr str="120">man </gr>in his <STYLE css="font-style:italic">own </STYLE>
+        <gr str="6754">image</gr>, in the <gr str="6754">image </gr>of <gr str="430">God </gr>
+        <gr str="1254">created </gr>he him; <gr str="2145">male </gr>and <gr str="5347">female </gr>
+        <gr str="1254">created </gr>he them.</VERS>
+      <VERS vnumber="28">And <gr str="430">God </gr>
+        <gr str="1288">blessed </gr>them, and <gr str="430">God </gr>
+        <gr str="559">said </gr>to them, Be <gr str="6509">fruitful</gr>, and <gr str="7235">multiply</gr>, and <gr str="4390">fill </gr>the <gr str="776">earth</gr>, and subdue <gr str="3533">it</gr>: and have <gr str="7287">dominion </gr>over the <gr str="1710">fish </gr>of the <gr str="3220">sea</gr>, and over the <gr str="5775">fowl </gr>of the <gr str="8064">air</gr>, and over every living <gr str="2416">thing </gr>that <gr str="7430">moveth </gr>upon the <gr str="776">earth</gr>. <DIV>
+          <NOTE type="x-studynote">moveth: Heb. creepeth</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="29">And <gr str="430">God </gr>
+        <gr str="559">said</gr>, <gr str="2009">Behold</gr>, I have <gr str="5414">given </gr>you every <gr str="6212">herb </gr>
+        <gr str="2232">bearing </gr>
+        <gr str="2233">seed</gr>, which <STYLE css="font-style:italic">is</STYLE> upon the <gr str="6440">face </gr>of all the <gr str="776">earth</gr>, and every <gr str="6086">tree</gr>, in which <STYLE css="font-style:italic">is</STYLE> the <gr str="6529">fruit </gr>of a <gr str="6086">tree </gr>
+        <gr str="2232">yielding </gr>
+        <gr str="2233">seed</gr>; to you it shall <gr str="1961">be </gr>for <gr str="402">food</gr>. <DIV>
+          <NOTE type="x-studynote">bearing…: Heb. seeding seed</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">yielding…: Heb. seeding seed</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="30">And to every <gr str="2416">beast </gr>of the <gr str="776">earth</gr>, and to every <gr str="5775">fowl </gr>of the <gr str="8064">air</gr>, and to every thing that <gr str="7430">creepeth </gr>upon the <gr str="776">earth</gr>, in which <STYLE css="font-style:italic">is </STYLE>
+        <gr str="2416 5315">life</gr>, <STYLE css="font-style:italic">I have given</STYLE> every <gr str="3418">green </gr>
+        <gr str="6212">herb </gr>for <gr str="402">food</gr>: and it was so. <DIV>
+          <NOTE type="x-studynote">life: Heb. a living soul</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="31">And <gr str="430">God </gr>
+        <gr str="7200">saw </gr>every thing <gr str="834">that </gr>he had <gr str="6213">made</gr>, and, behold, <STYLE css="font-style:italic">it was </STYLE>
+        <gr str="3966">very </gr>
+        <gr str="2896">good</gr>. And the <gr str="6153">evening </gr>and the <gr str="1242">morning </gr>were the <gr str="8345">sixth </gr>
+        <gr str="3117">day</gr>. <DIV>
+          <NOTE type="x-studynote">And the evening…: Heb. And the evening was, and the morning was etc.</NOTE>
+        </DIV>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

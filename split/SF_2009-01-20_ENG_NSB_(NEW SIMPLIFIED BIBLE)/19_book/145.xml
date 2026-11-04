@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="145">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">I will praise you, my God and King! I will consecrate your name forever and ever.</VERS>
+      <VERS vnumber="2">Every day I will bless you. I will praise your name forever and ever.</VERS>
+      <VERS vnumber="3">Great is Jehovah, and highly to be praised. His greatness is unsearchable <STYLE css="font-style:italic">beyond human calculation</STYLE>.</VERS>
+      <VERS vnumber="4">One generation shall praise your works to another. They will declare your mighty acts.</VERS>
+      <VERS vnumber="5">On the glorious splendor of your majesty and on your wonderful works, I will meditate.</VERS>
+      <VERS vnumber="6">Men shall speak of the power of your awesome acts, and I will tell of your greatness.</VERS>
+      <VERS vnumber="7">They will eagerly utter the memory of your great goodness and will shout joyfully of your righteousness.</VERS>
+      <VERS vnumber="8">Jehovah is gracious and merciful; Slow to anger and great in loving-kindness.</VERS>
+      <VERS vnumber="9">Jehovah is good to all and his mercies are over all his works.</VERS>
+      <VERS vnumber="10">All your works <STYLE css="font-style:italic">activities</STYLE>
+        <STYLE css="font-style:italic">achievements</STYLE> praise you, O Jehovah, and your godly ones will praise you.</VERS>
+      <VERS vnumber="11">They will speak of the glory of your kingdom and talk of your power.</VERS>
+      <VERS vnumber="12">They will make known to the sons of men your mighty acts and the glory of the majesty of your kingdom.</VERS>
+      <VERS vnumber="13">Your kingdom is an everlasting kingdom, and your dominion throughout all generations.</VERS>
+      <VERS vnumber="14">Jehovah sustains all who fall and raises up all who are bowed down.</VERS>
+      <VERS vnumber="15">The eyes of all look to you, and you give them their food in due time.</VERS>
+      <VERS vnumber="16">You open your hand and satisfy the desire of every living thing.</VERS>
+      <VERS vnumber="17">Jehovah is righteous in all his ways. He is kind in all his deeds.</VERS>
+      <VERS vnumber="18">Jehovah is near to all who call upon him, to all who call upon him in truth.</VERS>
+      <VERS vnumber="19">He will fulfill the desire of those who reverence him. He will also hear their cry and will save them.</VERS>
+      <VERS vnumber="20">Jehovah protects all who love him, but he will destroy the wicked.</VERS>
+      <VERS vnumber="21">My mouth will speak the praise of Jehovah! All flesh will praise his holy name forever and ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bsname="PSA">
+    <CHAPTER cnumber="131">
+      <VERS vnumber="1" />
+      <VERS vnumber="2">Surely I have stilled and quieted my soul, like a weaned child with his mother, like a weaned child is my soul within me.</VERS>
+      <VERS vnumber="3">Israel, hope in the LORD, from this time forth and forevermore.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="King James Version PCE" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="117">
+      <VERS vnumber="1">O praise the <STYLE id="cl:divineName">Lord</STYLE>, all ye nations: praise him, all ye people.</VERS>
+      <VERS vnumber="2">For his merciful kindness is great toward us: and the truth of the <STYLE id="cl:divineName">Lord</STYLE> endureth  for ever. Praise ye the <STYLE id="cl:divineName">Lord</STYLE>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

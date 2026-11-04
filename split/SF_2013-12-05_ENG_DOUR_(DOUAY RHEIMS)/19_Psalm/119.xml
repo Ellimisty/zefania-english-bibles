@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Douay Rheims" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="119">
+      <VERS vnumber="1">Aleph</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

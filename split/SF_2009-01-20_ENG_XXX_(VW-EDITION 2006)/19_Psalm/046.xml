@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="46">
+      <CAPTION vref="1">To the chief Musician. A song for the sons of Korah. Alamoth.</CAPTION>
+      <VERS vnumber="1">God is our refuge and strength, a very present help in trouble.</VERS>
+      <VERS vnumber="2">Therefore we will not fear when the earth changes, when mountains are slipping into the midst of the seas.</VERS>
+      <VERS vnumber="3">Let its waters roar and foam; let the mountains shake with the swelling of it. Selah.</VERS>
+      <VERS vnumber="4">There is a river whose streams cause rejoicing in the city of God, the consecrated place of the tabernacle of the Most High.</VERS>
+      <VERS vnumber="5">God is in the midst of her; she shall not be moved; God shall help her at the break of day.</VERS>
+      <VERS vnumber="6">The nations raged, the kingdoms were shaken; He uttered His voice, the earth melted.</VERS>
+      <VERS vnumber="7">Jehovah of Hosts is with us; the God of Jacob is our refuge. Selah.</VERS>
+      <VERS vnumber="8">Come, behold the works of Jehovah, who has made desolations on the earth;</VERS>
+      <VERS vnumber="9">who makes wars to cease to the ends of the earth; He breaks the bow and cuts the spear in two; He burns the chariots in the fire.</VERS>
+      <VERS vnumber="10">Be still, and know that I am God! I will be exalted among the nations, I will be exalted in the earth!</VERS>
+      <VERS vnumber="11">Jehovah of Hosts is with us; the God of Jacob is our refuge. Selah.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

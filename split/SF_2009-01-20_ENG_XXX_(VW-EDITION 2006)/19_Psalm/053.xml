@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="53">
+      <CAPTION vref="1">To the chief Musician. Mahalath. Maschil. A Psalm of David.</CAPTION>
+      <VERS vnumber="1">The fool has said in his heart, There is no God. They are corrupt, and have done abominable iniquity; there is no one who does good.</VERS>
+      <VERS vnumber="2">God looked down from Heaven upon the children of mankind to see if any was circumspect, seeking God.</VERS>
+      <VERS vnumber="3">Every one of them has turned back; they have all together become corrupt; not one is doing good, no, not even one.</VERS>
+      <VERS vnumber="4">Have the workers of iniquity no knowledge? They eat up my people as they eat bread; they have not called upon God.</VERS>
+      <VERS vnumber="5">There they fear with dread, where there was no dread, for God has scattered the bones of him who encamps against you; you have put them to shame because God has rejected them.</VERS>
+      <VERS vnumber="6">Oh, that the salvation of Israel would come out of Zion! When God brings back the captivity of His people, Jacob shall rejoice, and Israel shall be glad.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

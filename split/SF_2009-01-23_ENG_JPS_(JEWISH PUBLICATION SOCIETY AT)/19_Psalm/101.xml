@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Jewish Publication Society AT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="101">
+      <VERS vnumber="1">A Psalm of David. I will sing of mercy and justice; unto Thee, O LORD, will I sing praises.</VERS>
+      <VERS vnumber="2">I will give heed unto the way of integrity; Oh when wilt Thou come unto me? I will walk within my house in the integrity of my heart.</VERS>
+      <VERS vnumber="3">I will set no base thing before mine eyes; I hate the doing of things crooked; it shall not cleave unto me.</VERS>
+      <VERS vnumber="4">A perverse heart shall depart from me; I will know no evil thing.</VERS>
+      <VERS vnumber="5">Whoso slandereth his neighbour in secret, him will I destroy; whoso is haughty of eye and proud of heart, him will I not suffer.</VERS>
+      <VERS vnumber="6">Mine eyes are upon the faithful of the land, that they may dwell with me; he that walketh in a way of integrity, he shall minister unto me.</VERS>
+      <VERS vnumber="7">He that worketh deceit shall not dwell within my house; he that speaketh falsehood shall not be established before mine eyes.</VERS>
+      <VERS vnumber="8">Morning by morning will I destroy all the wicked of the land; to cut off all the workers of iniquity from the city of the LORD.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,491 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="44">
+    <CHAPTER cnumber="13">
+      <VERS vnumber="1">
+        <gr str="1161">Now </gr>there <gr str="2258">were </gr>
+        <gr str="2596">in </gr>the <gr str="1577">church </gr>that <gr str="5607">was </gr>
+        <gr str="1722">at </gr>
+        <gr str="490">Antioch </gr>
+        <gr str="5100">certain </gr>
+        <gr str="4396">prophets </gr>
+        <gr str="2532">and </gr>
+        <gr str="1320">teachers</gr>; <gr str="5037">as </gr>
+        <gr str="921">Barnabas</gr>, <gr str="2532">and </gr>
+        <gr str="4826">Simeon </gr>that was <gr str="2564">called </gr>
+        <gr str="3526">Niger</gr>, <gr str="2532">and </gr>
+        <gr str="3066">Lucius </gr>of <gr str="2956">Cyrene</gr>, <gr str="5037">and </gr>
+        <gr str="3127">Manaen</gr>, who had been brought <gr str="4939">up </gr>with <gr str="2264">Herod </gr>the <gr str="5076">tetrarch</gr>, <gr str="2532">and </gr>
+        <gr str="4569">Saul</gr>. <DIV>
+          <NOTE type="x-studynote">which…: or, Herod’s foster brother</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">
+        <gr str="1161">As </gr>
+        <gr str="846">they </gr>
+        <gr str="3008">ministered </gr>to the <gr str="2962">Lord</gr>, <gr str="2532">and </gr>
+        <gr str="3522">fasted</gr>, the <gr str="40">Holy </gr>
+        <gr str="4151">Spirit </gr>
+        <gr str="2036 1211">said</gr>, <gr str="873">Separate </gr>for <gr str="3427 5037">me </gr>
+        <gr str="921">Barnabas </gr>
+        <gr str="2532">and </gr>
+        <gr str="4569">Saul </gr>
+        <gr str="1519">for </gr>the <gr str="2041">work </gr>to <gr str="3739">which </gr>I have <gr str="4341">called </gr>
+        <gr str="846">them</gr>.</VERS>
+      <VERS vnumber="3">
+        <gr str="5119">And </gr>when they had <gr str="3522">fasted </gr>
+        <gr str="2532">and </gr>
+        <gr str="4336">prayed</gr>, <gr str="2532">and </gr>
+        <gr str="2007 ">laid </gr>
+        <STYLE css="font-style:italic">their </STYLE>
+        <gr str="5495">hands </gr>
+        <gr str="2007">on </gr>
+        <gr str="846">them</gr>, they sent <STYLE css="font-style:italic">them </STYLE>
+        <gr str="630">away</gr>.</VERS>
+      <VERS vnumber="4">
+        <gr str="3303 3767">So </gr>
+        <gr str="3778">they</gr>, being sent <gr str="1599">forth </gr>
+        <gr str="5259">by </gr>the <gr str="40">Holy </gr>
+        <gr str="4151">Spirit</gr>, <gr str="2718">departed </gr>
+        <gr str="1519">to </gr>
+        <gr str="4581">Seleucia</gr>; and <gr str="1564">from </gr>
+        <gr str="5037">there </gr>they <gr str="636">sailed </gr>
+        <gr str="1519">to </gr>
+        <gr str="2954">Cyprus</gr>.</VERS>
+      <VERS vnumber="5">
+        <gr str="2532">And </gr>when they <gr str="1096">were </gr>
+        <gr str="1722">at </gr>
+        <gr str="4529">Salamis</gr>, they <gr str="2605">preached </gr>the <gr str="3056">word </gr>of <gr str="2316">God </gr>
+        <gr str="1722">in </gr>the <gr str="4864">synagogues </gr>of the <gr str="2453">Jews</gr>: <gr str="1161">and </gr>they <gr str="2192">had </gr>
+        <gr str="2532">also </gr>
+        <gr str="2491">John </gr>as <STYLE css="font-style:italic">their </STYLE>
+        <gr str="5257">helper</gr>.</VERS>
+      <VERS vnumber="6">
+        <gr str="1161">And </gr>when they had gone <gr str="1330">through </gr>the <gr str="3520">isle </gr>
+        <gr str="891">to </gr>
+        <gr str="3974">Paphos</gr>, they <gr str="2147">found </gr>a <gr str="5100">certain </gr>
+        <gr str="3097">sorcerer</gr>, a false <gr str="5578">prophet</gr>, a <gr str="2453">Jew</gr>, <gr str="3739">whose </gr>
+        <gr str="3686">name </gr>
+        <STYLE css="font-style:italic">was </STYLE>
+        <gr str="919">Barjesus</gr>:</VERS>
+      <VERS vnumber="7">
+        <gr str="3739">Who </gr>
+        <gr str="2258">was </gr>
+        <gr str="4862">with </gr>the deputy of the <gr str="446">country</gr>, <gr str="4588">Sergius </gr>
+        <gr str="3972">Paulus</gr>, a <gr str="4908">prudent </gr>
+        <gr str="435">man</gr>; <gr str="3778">who </gr>
+        <gr str="4341">called </gr>for <gr str="921">Barnabas </gr>
+        <gr str="2532">and </gr>
+        <gr str="4569">Saul</gr>, and <gr str="1934">desired </gr>to <gr str="191">hear </gr>the <gr str="3056">word </gr>of <gr str="2316">God</gr>.</VERS>
+      <VERS vnumber="8">
+        <gr str="1161">But </gr>
+        <gr str="1681">Elymas </gr>the <gr str="3097">sorcerer </gr>
+        <gr str="1063">(for </gr>
+        <gr str="3779">so </gr>is <gr str="846">his </gr>
+        <gr str="3686">name </gr>by <gr str="3177">interpretation</gr>) <gr str="436">withstood </gr>
+        <gr str="846">them</gr>, <gr str="2212">seeking </gr>to turn <gr str="1294">away </gr>the <gr str="446">deputy </gr>
+        <gr str="575">from </gr>the <gr str="4102">faith</gr>.</VERS>
+      <VERS vnumber="9">
+        <gr str="1161">Then </gr>
+        <gr str="4569">Saul</gr>, <gr str="3588">(who </gr>
+        <gr str="2532">also </gr>
+        <STYLE css="font-style:italic">is called </STYLE>
+        <gr str="3972">Paul</gr>,) filled <gr str="4130">with </gr>the <gr str="40">Holy </gr>
+        <gr str="2532 4151">Spirit</gr>, set his <gr str="816">eyes </gr>
+        <gr str="1519">on </gr>
+        <gr str="846">him</gr>,</VERS>
+      <VERS vnumber="10">And <gr str="2036">said</gr>, <gr str="5599">O </gr>
+        <gr str="4134">full </gr>of <gr str="3956">all </gr>
+        <gr str="1388">deceit </gr>
+        <gr str="2532">and </gr>
+        <gr str="3956">all </gr>
+        <gr str="4468">mischief</gr>, <STYLE css="font-style:italic">thou </STYLE>
+        <gr str="5207">child </gr>of the <gr str="1228">devil</gr>, <STYLE css="font-style:italic">thou </STYLE>
+        <gr str="2190">enemy </gr>of <gr str="3956">all </gr>
+        <gr str="1343">righteousness</gr>, wilt <gr str="3973 ">thou </gr>
+        <gr str="3756">not </gr>
+        <gr str="3973">cease </gr>to <gr str="1294">pervert </gr>the <gr str="2117">right </gr>
+        <gr str="3598">ways </gr>of the <gr str="2962">Lord</gr>?</VERS>
+      <VERS vnumber="11">
+        <gr str="2532">And </gr>
+        <gr str="3568">now</gr>, <gr str="2400">behold</gr>, the <gr str="5495">hand </gr>of the <gr str="2962">Lord </gr>
+        <STYLE css="font-style:italic">is </STYLE>
+        <gr str="1909">upon </gr>
+        <gr str="4571">thee</gr>, <gr str="2532">and </gr>thou shalt <gr str="2071">be </gr>
+        <gr str="5185">blind</gr>, <gr str="3361">not </gr>
+        <gr str="991">seeing </gr>the <gr str="2246">sun </gr>
+        <gr str="891">for </gr>a <gr str="2540">season</gr>. <gr str="1161">And </gr>
+        <gr str="3916">immediately </gr>there <gr str="1968">fell </gr>
+        <gr str="1909">on </gr>
+        <gr str="846">him </gr>a <gr str="887">mist </gr>
+        <gr str="2532">and </gr>a <gr str="4655">darkness</gr>; <gr str="2532">and </gr>he went <gr str="4013">about </gr>
+        <gr str="2212">seeking </gr>some to lead him by the <gr str="5497">hand</gr>.</VERS>
+      <VERS vnumber="12">
+        <gr str="5119">Then </gr>the <gr str="446">deputy</gr>, when he <gr str="1492">saw </gr>what was <gr str="1096">done</gr>, <gr str="4100">believed</gr>, being <gr str="1605">astonished </gr>
+        <gr str="1909">at </gr>the <gr str="1322">doctrine </gr>of the <gr str="2962">Lord</gr>.</VERS>
+      <VERS vnumber="13">
+        <gr str="1161">Now </gr>when <gr str="3972">Paul </gr>and his <gr str="4012">company </gr>
+        <gr str="321">loosed </gr>
+        <gr str="575">from </gr>
+        <gr str="3974">Paphos</gr>, they <gr str="2064">came </gr>
+        <gr str="1519">to </gr>
+        <gr str="4011">Perga </gr>in <gr str="3828">Pamphylia</gr>: <gr str="1161">and </gr>
+        <gr str="2491">John </gr>
+        <gr str="672">departing </gr>
+        <gr str="575">from </gr>
+        <gr str="846">them </gr>
+        <gr str="5290">returned </gr>
+        <gr str="1519">to </gr>
+        <gr str="2414">Jerusalem</gr>.</VERS>
+      <VERS vnumber="14">
+        <gr str="1161">But </gr>when <gr str="846">they </gr>
+        <gr str="1330">departed </gr>
+        <gr str="575">from </gr>
+        <gr str="4011">Perga</gr>, they <gr str="3854">came </gr>
+        <gr str="1519">to </gr>
+        <gr str="490">Antioch </gr>in <gr str="4099">Pisidia</gr>, <gr str="2532">and </gr>
+        <gr str="1525">went </gr>
+        <gr str="1519">into </gr>the <gr str="4864">synagogue </gr>on the <gr str="4521">sabbath </gr>
+        <gr str="2250">day</gr>, and sat <gr str="2523">down</gr>.</VERS>
+      <VERS vnumber="15">
+        <gr str="1161">And </gr>
+        <gr str="3326">after </gr>the <gr str="320">reading </gr>of the <gr str="3551">law </gr>
+        <gr str="2532">and </gr>the <gr str="4396">prophets </gr>the rulers of the <gr str="752">synagogue </gr>
+        <gr str="649">sent </gr>
+        <gr str="4314">to </gr>
+        <gr str="846">them</gr>, <gr str="3004">saying</gr>, <gr str="435">Men</gr>, <gr str="80">brethren</gr>, <gr str="1487">if </gr>ye <gr str="2076 1722 5213">have </gr>any <gr str="3056">word </gr>of <gr str="3874">exhortation </gr>
+        <gr str="4314">for </gr>the <gr str="2992">people</gr>, say <gr str="3004">on</gr>.</VERS>
+      <VERS vnumber="16">
+        <gr str="1161">Then </gr>
+        <gr str="3972">Paul </gr>stood <gr str="450">up</gr>, <gr str="2532">and </gr>
+        <gr str="2678">beckoning </gr>with <STYLE css="font-style:italic">his </STYLE>
+        <gr str="5495">hand </gr>
+        <gr str="2036">said</gr>, <gr str="435">Men </gr>of <gr str="2475">Israel</gr>, <gr str="2532">and </gr>ye that <gr str="5399">fear </gr>
+        <gr str="2316">God</gr>, <gr str="191">listen</gr>.</VERS>
+      <VERS vnumber="17">The <gr str="2316">God </gr>of <gr str="5127">this </gr>
+        <gr str="2992">people </gr>
+        <gr str="2474">Israel </gr>
+        <gr str="1586">chose </gr>
+        <gr str="2257">our </gr>
+        <gr str="3962">fathers</gr>, <gr str="2532">and </gr>
+        <gr str="5312">exalted </gr>the <gr str="2992">people </gr>
+        <gr str="1722">when </gr>they dwelt as <gr str="3940">strangers </gr>
+        <gr str="1722">in </gr>the <gr str="1093">land </gr>of <gr str="125">Egypt</gr>, <gr str="2532">and </gr>
+        <gr str="3326">with </gr>an <gr str="5308">high </gr>
+        <gr str="1023">arm </gr>he <gr str="1806">brought </gr>
+        <gr str="846">them </gr>out <gr str="1537">of </gr>
+        <gr str="846">it</gr>.</VERS>
+      <VERS vnumber="18">
+        <gr str="2532">And </gr>
+        <gr str="5613">about </gr>the <gr str="5550">time </gr>of forty <gr str="5063">years </gr>he <gr str="5159 ">bore </gr>
+        <gr str="846">their </gr>
+        <gr str="5159">manners </gr>
+        <gr str="1722">in </gr>the <gr str="2048">wilderness</gr>. <DIV>
+          <NOTE type="x-studynote">suffered…: or bore, or fed them as a nurse beareth, or feedeth, her child</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="19">
+        <gr str="2532">And </gr>when he had <gr str="2507">destroyed </gr>
+        <gr str="2033">seven </gr>
+        <gr str="1484">nations </gr>
+        <gr str="1722">in </gr>the <gr str="1093">land </gr>of <gr str="5477">Canaan</gr>, he <gr str="2624 ">divided </gr>
+        <gr str="846">their </gr>
+        <gr str="1093">land </gr>to <gr str="846">them </gr>by <gr str="2624">lot</gr>.</VERS>
+      <VERS vnumber="20">
+        <gr str="2532">And </gr>
+        <gr str="3326">after </gr>these <gr str="5023">things</gr>, <STYLE css="font-style:italic">which took </STYLE>
+        <gr str="5613">about </gr>four <gr str="5071">hundred </gr>
+        <gr str="2532">and </gr>
+        <gr str="4004">fifty </gr>
+        <gr str="2094">years</gr>, he <gr str="1325">gave </gr>
+        <STYLE css="font-style:italic">to them </STYLE>
+        <gr str="2923">judges</gr>, <gr str="2193">until </gr>
+        <gr str="4545">Samuel </gr>the <gr str="4396">prophet</gr>.</VERS>
+      <VERS vnumber="21">And <gr str="2547">afterward </gr>they <gr str="154">desired </gr>a <gr str="935">king</gr>: <gr str="2532">and </gr>
+        <gr str="2316">God </gr>
+        <gr str="1325">gave </gr>to <gr str="846">them </gr>
+        <gr str="4549">Saul </gr>the <gr str="5207">son </gr>of <gr str="2797">Kish</gr>, a <gr str="435">man </gr>
+        <gr str="1537">of </gr>the <gr str="5443">tribe </gr>of <gr str="958">Benjamin</gr>, by the space of <gr str="5062">forty </gr>
+        <gr str="2094">years</gr>.</VERS>
+      <VERS vnumber="22">
+        <gr str="2532">And </gr>when he had <gr str="3179">removed </gr>
+        <gr str="846">him</gr>, he raised <gr str="1453">up </gr>to <gr str="846">them </gr>
+        <gr str="1138">David </gr>to <gr str="1519">be </gr>their <gr str="935">king</gr>; to <gr str="3739">whom </gr>
+        <gr str="2532">also </gr>he gave <gr str="3140">testimony</gr>, and <gr str="2036">said</gr>, I have <gr str="2147">found </gr>
+        <gr str="1138">David </gr>the <STYLE css="font-style:italic">son</STYLE> of <gr str="2421">Jesse</gr>, a <gr str="435">man </gr>
+        <gr str="2596">after </gr>my <gr str="3450">own </gr>
+        <gr str="2588">heart</gr>, <gr str="3739">who </gr>shall <gr str="4160">fulfil </gr>
+        <gr str="3956">all </gr>
+        <gr str="3450">my </gr>
+        <gr str="2307">will</gr>.</VERS>
+      <VERS vnumber="23">
+        <gr str="575">Of </gr>this <gr str="5127">man’s </gr>
+        <gr str="4690">seed </gr>
+        <gr str="1453 ">hath </gr>
+        <gr str="2316">God </gr>
+        <gr str="2596">according </gr>to <STYLE css="font-style:italic">his </STYLE>
+        <gr str="1860">promise </gr>
+        <gr str="1453">raised </gr>up to <gr str="2474">Israel </gr>a <gr str="4990">Saviour</gr>, <gr str="2424">Jesus</gr>:</VERS>
+      <VERS vnumber="24">After <gr str="2491">John </gr>had first <gr str="4296">preached </gr>
+        <gr str="4253">before </gr>
+        <gr str="846">his </gr>
+        <gr str="4383 1529">coming </gr>the <gr str="908">baptism </gr>of <gr str="3341">repentance </gr>to <gr str="3956">all </gr>the <gr str="2992">people </gr>of <gr str="2474">Israel</gr>.</VERS>
+      <VERS vnumber="25">
+        <gr str="1161">And </gr>
+        <gr str="5613">as </gr>
+        <gr str="2491">John </gr>
+        <gr str="4137">fulfilled </gr>his <gr str="1408">course</gr>, he <gr str="3004">said</gr>, <gr str="5101">Whom </gr>think <gr str="5282">ye </gr>that <gr str="3165">I </gr>
+        <gr str="1511">am</gr>? <gr str="1473">I </gr>
+        <gr str="1510">am </gr>
+        <gr str="3756">not </gr>
+        <STYLE css="font-style:italic">he</STYLE>. <gr str="235">But</gr>, <gr str="2400">behold</gr>, there cometh <gr str="2064">one </gr>
+        <gr str="3326">after </gr>
+        <gr str="1691">me</gr>, <gr str="3739">whose </gr>
+        <gr str="5266">shoes </gr>of <STYLE css="font-style:italic">his </STYLE>
+        <gr str="4228">feet </gr>I <gr str="1510">am </gr>
+        <gr str="3756">not </gr>
+        <gr str="514">worthy </gr>to <gr str="3089">loose</gr>.</VERS>
+      <VERS vnumber="26">
+        <gr str="435">Men</gr>, <gr str="80">brethren</gr>, <gr str="5207">children </gr>of the <gr str="1085">stock </gr>of <gr str="11">Abraham</gr>, <gr str="2532">and </gr>whoever <gr str="1722">among </gr>
+        <gr str="5213">you </gr>
+        <gr str="5399">feareth </gr>
+        <gr str="2316">God</gr>, to <gr str="5213">you </gr>
+        <gr str="649 ">is </gr>the <gr str="3056">word </gr>of <gr str="5026">this </gr>
+        <gr str="4991">salvation </gr>
+        <gr str="649">sent</gr>.</VERS>
+      <VERS vnumber="27">
+        <gr str="1063">For </gr>they that <gr str="2730">dwell </gr>
+        <gr str="1722">at </gr>
+        <gr str="2419">Jerusalem</gr>, <gr str="2532">and </gr>
+        <gr str="846">their </gr>
+        <gr str="758">rulers</gr>, because they <gr str="50 ">knew </gr>
+        <gr str="5126">him </gr>
+        <gr str="50">not</gr>, nor <gr str="2532">yet </gr>the <gr str="5456">words </gr>of the <gr str="4396">prophets </gr>
+        <gr str="3588">which </gr>are <gr str="314 2596">read </gr>
+        <gr str="3956">every </gr>
+        <gr str="4521">sabbath</gr>, they have <gr str="4137">fulfilled </gr>
+        <STYLE css="font-style:italic">them</STYLE> in <gr str="2919">condemning </gr>
+        <STYLE css="font-style:italic">him</STYLE>.</VERS>
+      <VERS vnumber="28">
+        <gr str="2532">And </gr>though they <gr str="2147">found </gr>
+        <gr str="3367">no </gr>
+        <gr str="156">cause </gr>of <gr str="2288">death </gr>
+        <STYLE css="font-style:italic">in him</STYLE>, yet they <gr str="154">desired </gr>
+        <gr str="4091">Pilate </gr>that <gr str="846">he </gr>should be put to <gr str="337">death</gr>.</VERS>
+      <VERS vnumber="29">
+        <gr str="1161">And </gr>
+        <gr str="5613">when </gr>they had <gr str="5055">fulfilled </gr>
+        <gr str="537">all </gr>that was <gr str="1125">written </gr>
+        <gr str="4012">concerning </gr>
+        <gr str="846">him</gr>, they took <STYLE css="font-style:italic">him </STYLE>
+        <gr str="2507">down </gr>
+        <gr str="575">from </gr>the <gr str="3586">tree</gr>, and <gr str="5087">laid </gr>
+        <STYLE css="font-style:italic">him </STYLE>
+        <gr str="1519">in </gr>a <gr str="3419">sepulchre</gr>.</VERS>
+      <VERS vnumber="30">
+        <gr str="1161">But </gr>
+        <gr str="2316">God </gr>
+        <gr str="1453">raised </gr>
+        <gr str="846">him </gr>
+        <gr str="1537">from </gr>the <gr str="3498">dead</gr>:</VERS>
+      <VERS vnumber="31">And <gr str="3739">he </gr>was <gr str="3700">seen </gr>
+        <gr str="1909 4119">many </gr>
+        <gr str="2250">days </gr>by them who came up <gr str="4872">with </gr>
+        <gr str="846">him </gr>
+        <gr str="575">from </gr>
+        <gr str="1056">Galilee </gr>
+        <gr str="1519">to </gr>
+        <gr str="2419">Jerusalem</gr>, <gr str="3748">who </gr>
+        <gr str="1526">are </gr>
+        <gr str="846">his </gr>
+        <gr str="3144">witnesses </gr>
+        <gr str="4314">to </gr>the <gr str="2992">people</gr>.</VERS>
+      <VERS vnumber="32">
+        <gr str="2532">And </gr>
+        <gr str="2249">we </gr>
+        <gr str="2097 ">declare </gr>to <gr str="5209">you </gr>the glad <gr str="2097">tidings</gr>, <gr str="3754">that </gr>the <gr str="1860">promise </gr>which was <gr str="1096">made </gr>
+        <gr str="4314">to </gr>the <gr str="3962">fathers</gr>,</VERS>
+      <VERS vnumber="33">
+        <gr str="2316">God </gr>hath <gr str="1603">fulfilled </gr>the <gr str="5026">same </gr>to <gr str="2254">us </gr>
+        <gr str="846">their </gr>
+        <gr str="5043">children</gr>, in that he hath raised <gr str="450 ">up </gr>
+        <gr str="2424">Jesus </gr>
+        <gr str="450">again</gr>; <gr str="5613">as </gr>it <gr str="1125 ">is </gr>
+        <gr str="2532">also </gr>
+        <gr str="1125">written </gr>
+        <gr str="1722">in </gr>the <gr str="1208">second </gr>
+        <gr str="5568">psalm</gr>, <gr str="4771">Thou </gr>
+        <gr str="1488">art </gr>
+        <gr str="3450">my </gr>
+        <gr str="5207">Son</gr>, this <gr str="4594">day </gr>have <gr str="1473">I </gr>
+        <gr str="1080">begotten </gr>
+        <gr str="4571">thee</gr>.</VERS>
+      <VERS vnumber="34">
+        <gr str="1161">And </gr>as concerning <gr str="3754">that </gr>he <gr str="450">raised </gr>
+        <gr str="846">him </gr>
+        <gr str="1537">from </gr>the <gr str="3498">dead</gr>, <STYLE css="font-style:italic">now</STYLE> no <gr str="3371">more </gr>
+        <gr str="3195">to </gr>
+        <gr str="5290">return </gr>
+        <gr str="1519">to </gr>
+        <gr str="1312">corruption</gr>, he <gr str="2046">said </gr>in this <gr str="3754 3779">way</gr>, I will <gr str="1325">give </gr>
+        <gr str="5213">you </gr>the <gr str="4103">sure </gr>
+        <gr str="3741">mercies </gr>of <gr str="1138">David</gr>. <DIV>
+          <NOTE type="x-studynote">mercies: Gr. holy, or just things: which word the Septuagint in many places, uses for that which is in the Hebrew, mercies</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="35">
+        <gr str="1352">Therefore </gr>he <gr str="3004">saith </gr>
+        <gr str="2532">also </gr>
+        <gr str="1722">in </gr>
+        <gr str="2087">another </gr>
+        <STYLE css="font-style:italic">psalm</STYLE>, Thou <gr str="1325 ">shalt </gr>
+        <gr str="3756">not </gr>
+        <gr str="1325">allow </gr>
+        <gr str="4675">thy </gr>Holy <gr str="3741">One </gr>to <gr str="1492">see </gr>
+        <gr str="1312">corruption</gr>.</VERS>
+      <VERS vnumber="36">
+        <gr str="1063 3303">For </gr>
+        <gr str="1138">David</gr>, after he had <gr str="5256">served </gr>his <gr str="2398">own </gr>
+        <gr str="1074">generation </gr>by the <gr str="1012">will </gr>of <gr str="2316">God</gr>, fell <gr str="2837">asleep</gr>, <gr str="2532">and </gr>was <gr str="4369">laid </gr>
+        <gr str="4314">to </gr>
+        <gr str="846">his </gr>
+        <gr str="3962">fathers</gr>, <gr str="2532">and </gr>
+        <gr str="1492">saw </gr>
+        <gr str="1312">corruption</gr>: <DIV>
+          <NOTE type="x-studynote">after…: or, after he had in his own age served the will of God</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="37">
+        <gr str="1161">But </gr>he, <gr str="3739">whom </gr>
+        <gr str="2316">God </gr>raised <gr str="1453">again</gr>, <gr str="1492">saw </gr>
+        <gr str="3756">no </gr>
+        <gr str="1312">corruption</gr>.</VERS>
+      <VERS vnumber="38">Be <gr str="2077">it </gr>
+        <gr str="1110">known </gr>to <gr str="5213">you </gr>
+        <gr str="3767">therefore</gr>, <gr str="435">men</gr>, <gr str="80">brethren</gr>, <gr str="3754">that </gr>
+        <gr str="1223">through </gr>this <gr str="5127">man </gr>is <gr str="2605">preached </gr>to <gr str="5213">you </gr>the <gr str="859">forgiveness </gr>of <gr str="266">sins</gr>:</VERS>
+      <VERS vnumber="39">
+        <gr str="2532">And </gr>
+        <gr str="1722">by </gr>
+        <gr str="5129">him </gr>
+        <gr str="3956">all </gr>that <gr str="4100">believe </gr>are <gr str="1344">justified </gr>
+        <gr str="575">from </gr>all <gr str="3956">things</gr>, from <gr str="3739">which </gr>ye <gr str="1410">could </gr>
+        <gr str="3756">not </gr>be <gr str="1344">justified </gr>
+        <gr str="1722">by </gr>the <gr str="3551">law </gr>of <gr str="3475">Moses</gr>.</VERS>
+      <VERS vnumber="40">
+        <gr str="991">Beware </gr>
+        <gr str="3767">therefore</gr>, lest <gr str="3361">that </gr>
+        <gr str="1904">come </gr>
+        <gr str="1909">upon </gr>
+        <gr str="5209">you</gr>, which is <gr str="2046">spoken </gr>
+        <gr str="1722">in </gr>the <gr str="4396">prophets</gr>;</VERS>
+      <VERS vnumber="41">
+        <gr str="1492">Behold</gr>, ye <gr str="2707">despisers</gr>, <gr str="2532">and </gr>
+        <gr str="2296">wonder</gr>, <gr str="2532">and </gr>
+        <gr str="853">perish</gr>: <gr str="3754">for </gr>
+        <gr str="1473">I </gr>
+        <gr str="2038">work </gr>a <gr str="2041">work </gr>
+        <gr str="1722">in </gr>
+        <gr str="5216">your </gr>
+        <gr str="2250">days</gr>, a <gr str="2041">work </gr>
+        <gr str="3739">which </gr>ye <gr str="4100 ">shall </gr>by no <gr str="3364">means </gr>
+        <gr str="4100">believe</gr>, <gr str="1437">though </gr>a <gr str="5100">man </gr>declare <gr str="1555">it </gr>to <gr str="5213">you</gr>.</VERS>
+      <VERS vnumber="42">
+        <gr str="1161">And </gr>when the <gr str="2453">Jews </gr>had <gr str="1826">gone </gr>out <gr str="1537">of </gr>the <gr str="4864">synagogue</gr>, the <gr str="1484">Gentiles </gr>
+        <gr str="3870">besought </gr>that <gr str="5023">these </gr>
+        <gr str="4487">words </gr>might be <gr str="2980">preached </gr>to <gr str="846 1519">them </gr>the <gr str="3342">next </gr>
+        <gr str="4521">sabbath</gr>. <DIV>
+          <NOTE type="x-studynote">the next…: Gr. in the week between, or, in the sabbath between</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="43">
+        <gr str="1161">Now </gr>when the <gr str="4864">congregation </gr>was broken <gr str="3089">up</gr>, <gr str="4183">many </gr>of the <gr str="2453">Jews </gr>
+        <gr str="2532">and </gr>
+        <gr str="4576">religious </gr>
+        <gr str="4339">proselytes </gr>
+        <gr str="190">followed </gr>
+        <gr str="3972">Paul </gr>
+        <gr str="2532">and </gr>
+        <gr str="921">Barnabas</gr>: <gr str="3748">who</gr>, <gr str="4354">speaking </gr>to <gr str="846">them</gr>, <gr str="3982">persuaded </gr>
+        <gr str="846">them </gr>to <gr str="1961">continue </gr>in the <gr str="5485">grace </gr>of <gr str="2316">God</gr>.</VERS>
+      <VERS vnumber="44">
+        <gr str="1161">And </gr>the <gr str="2064">next </gr>
+        <gr str="4521">sabbath </gr>
+        <gr str="4863 ">came </gr>
+        <gr str="4975">almost </gr>the <gr str="3956">whole </gr>
+        <gr str="4172">city </gr>
+        <gr str="4863">together </gr>to <gr str="191">hear </gr>the <gr str="3056">word </gr>of <gr str="2316">God</gr>.</VERS>
+      <VERS vnumber="45">
+        <gr str="1161">But </gr>when the <gr str="2453">Jews </gr>
+        <gr str="1492">saw </gr>the <gr str="3793">multitudes</gr>, they were <gr str="4130">filled </gr>with <gr str="2205">envy</gr>, <gr str="2532">and </gr>spoke <gr str="483">against </gr>those things which were <gr str="3004">spoken </gr>
+        <gr str="5259">by </gr>
+        <gr str="3972">Paul</gr>, <gr str="483">contradicting </gr>
+        <gr str="2532">and </gr>
+        <gr str="987">blaspheming</gr>.</VERS>
+      <VERS vnumber="46">
+        <gr str="1161">Then </gr>
+        <gr str="3972">Paul </gr>
+        <gr str="2532">and </gr>
+        <gr str="921">Barnabas </gr>became <gr str="3955">bold</gr>, and <gr str="2036">said</gr>, It <gr str="2258">was </gr>
+        <gr str="316">necessary </gr>that the <gr str="3056">word </gr>of <gr str="2316">God </gr>
+        <gr str="2980 ">should </gr>
+        <gr str="4412">first </gr>be <gr str="2980">spoken </gr>to <gr str="5213">you</gr>: <gr str="1161">but </gr>
+        <gr str="1894">seeing </gr>ye <gr str="683">reject </gr>
+        <gr str="846">it</gr>, <gr str="2532">and </gr>
+        <gr str="2919">judge </gr>
+        <gr str="1438">yourselves </gr>
+        <gr str="3756 514">unworthy </gr>of <gr str="166">everlasting </gr>
+        <gr str="2222">life</gr>, <gr str="2400">lo</gr>, we <gr str="4762">turn </gr>
+        <gr str="1519">to </gr>the <gr str="1484">Gentiles</gr>.</VERS>
+      <VERS vnumber="47">
+        <gr str="1063">For </gr>
+        <gr str="3779">so </gr>
+        <gr str="1781 ">hath </gr>the <gr str="2962">Lord </gr>
+        <gr str="1781">commanded </gr>
+        <gr str="2254">us</gr>, <STYLE css="font-style:italic">saying</STYLE>, I have <gr str="5087">set </gr>
+        <gr str="4571">thee </gr>to <gr str="1519">be </gr>a <gr str="5457">light </gr>of the <gr str="1484">Gentiles</gr>, that <gr str="4571">thou </gr>shouldest <gr str="1511">be </gr>
+        <gr str="1519">for </gr>
+        <gr str="4991">salvation </gr>
+        <gr str="2193">to </gr>the <gr str="2078">ends </gr>of the <gr str="1093">earth</gr>.</VERS>
+      <VERS vnumber="48">
+        <gr str="1161">And </gr>when the <gr str="1484">Gentiles </gr>heard <gr str="191">this</gr>, they were <gr str="5463">glad</gr>, <gr str="2532">and </gr>
+        <gr str="1392">glorified </gr>the <gr str="3056">word </gr>of the <gr str="2962">Lord</gr>: <gr str="2532">and </gr>as many <gr str="3745">as </gr>
+        <gr str="2258">were </gr>
+        <gr str="5021">ordained </gr>
+        <gr str="1519">to </gr>
+        <gr str="166">eternal </gr>
+        <gr str="2222">life </gr>
+        <gr str="4100">believed</gr>.</VERS>
+      <VERS vnumber="49">
+        <gr str="1161">And </gr>the <gr str="3056">word </gr>of the <gr str="2962">Lord </gr>was <gr str="1308">proclaimed </gr>
+        <gr str="1223">throughout </gr>
+        <gr str="3650">all </gr>the <gr str="5561">region</gr>.</VERS>
+      <VERS vnumber="50">
+        <gr str="1161">But </gr>the <gr str="2453">Jews </gr>stirred <gr str="3951">up </gr>the <gr str="4576">devout </gr>
+        <gr str="2532">and </gr>
+        <gr str="2158">honourable </gr>
+        <gr str="1135">women</gr>, <gr str="2532">and </gr>the chief <gr str="4413">men </gr>of the <gr str="4172">city</gr>, <gr str="2532">and </gr>
+        <gr str="1892">raised </gr>
+        <gr str="1375">persecution </gr>
+        <gr str="1909">against </gr>
+        <gr str="3972">Paul </gr>
+        <gr str="2532">and </gr>
+        <gr str="921">Barnabas</gr>, <gr str="2532">and </gr>
+        <gr str="1544">drove </gr>
+        <gr str="846">them </gr>out <gr str="575">of </gr>
+        <gr str="846">their </gr>
+        <gr str="3725">land</gr>.</VERS>
+      <VERS vnumber="51">
+        <gr str="1161">But </gr>they shook <gr str="1621">off </gr>the <gr str="2868">dust </gr>of <gr str="846">their </gr>
+        <gr str="4228">feet </gr>
+        <gr str="1909">against </gr>
+        <gr str="846">them</gr>, and <gr str="2064">came </gr>
+        <gr str="1519">to </gr>
+        <gr str="2430">Iconium</gr>.</VERS>
+      <VERS vnumber="52">
+        <gr str="1161">And </gr>the <gr str="3101">disciples </gr>were filled <gr str="4137">with </gr>
+        <gr str="5479">joy</gr>, <gr str="2532">and </gr>with the <gr str="40">Holy </gr>
+        <gr str="4151">Spirit</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="New Heart English Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="111">
+      <VERS vnumber="1">Praise Yah!ALEPHI will give thanks to the <STYLE id="cl:divineName">Lord</STYLE> with my whole heart,BETin the council of the upright, and in the congregation.GIMEL</VERS>
+      <VERS vnumber="2">The <STYLE id="cl:divineName">Lord</STYLE>'s works are great,DALETpondered by all those who delight in them.HEY</VERS>
+      <VERS vnumber="3">His work is honor and majesty.VAVHis righteousness endures forever.ZAYIN</VERS>
+      <VERS vnumber="4">He has caused his wonderful works to be remembered.HETThe <STYLE id="cl:divineName">Lord</STYLE> is gracious and merciful.TET</VERS>
+      <VERS vnumber="5">He has given food to those who fear him.YODHe always remembers his covenant.KAPH</VERS>
+      <VERS vnumber="6">He has shown his people the power of his works,LAMEDin giving them the heritage of the nations.MEM</VERS>
+      <VERS vnumber="7">The works of his hands are truth and justice.NUNAll his precepts are sure.SAMEKH</VERS>
+      <VERS vnumber="8">They are established forever and ever.AYINThey are done in truth and uprightness.PEY</VERS>
+      <VERS vnumber="9">He has sent redemption to his people.TZADEHe has ordained his covenant forever.QOPHHis name is holy and awesome!RESH</VERS>
+      <VERS vnumber="10">The fear of the <STYLE id="cl:divineName">Lord</STYLE> is the beginning of wisdom.SHINAll those who do his work have a good understanding.TAVHis praise endures forever!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

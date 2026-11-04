@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="20" bname="Sprüche" bsname="Spr">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1"> The <gr str="4912">proverbs </gr>of <gr str="8010">Solomon </gr>the <gr str="1121">son </gr>of <gr str="1732">David</gr>, <gr str="4428">king </gr>of <gr str="3478">Israel</gr>; </VERS>
+      <VERS vnumber="2"> To <gr str="3045">know </gr>
+        <gr str="2451">wisdom </gr>and <gr str="4148">instruction</gr>; to <gr str="995">perceive </gr>the <gr str="561">words </gr>of <gr str="998">understanding</gr>; </VERS>
+      <VERS vnumber="3"> To <gr str="3947">receive </gr>the <gr str="4148">instruction </gr>of <gr str="7919">wisdom</gr>, <gr str="6664">justice</gr>, and <gr str="4941">judgment</gr>, and <gr str="4339">equity</gr>; </VERS>
+      <VERS vnumber="4"> To <gr str="5414">give </gr>
+        <gr str="6195">subtlety </gr>to the <gr str="6612">simple</gr>, to the young <gr str="5288">man </gr>
+        <gr str="1847">knowledge </gr>and <gr str="4209">discretion</gr>. </VERS>
+      <VERS vnumber="5"> A <gr str="2450">wise </gr>
+        <STYLE css="color:#808080;font-style:italic"> man </STYLE> will <gr str="8085">hear</gr>, and will <gr str="3254">increase </gr>
+        <gr str="3948">learning</gr>; and a man of <gr str="995">understanding </gr>shall <gr str="7069">attain </gr>unto wise <gr str="8458">counsels</gr>: </VERS>
+      <VERS vnumber="6"> To <gr str="995">understand </gr>a <gr str="4912">proverb</gr>, and the <gr str="4426">interpretation</gr>; the <gr str="1697">words </gr>of the <gr str="2450">wise</gr>, and their dark <gr str="2420">sayings</gr>. </VERS>
+      <VERS vnumber="7"> The <gr str="3374">fear </gr>of the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="7225">beginning </gr>of <gr str="1847">knowledge</gr>: <STYLE css="color:#808080;font-style:italic"> but </STYLE>
+        <gr str="191">fools </gr>
+        <gr str="936">despise </gr>
+        <gr str="2451">wisdom </gr>and <gr str="4148">instruction</gr>. </VERS>
+      <VERS vnumber="8"> My <gr str="1121">son</gr>, <gr str="8085">hear </gr>the <gr str="4148">instruction </gr>of thy <gr str="1">father</gr>, and <gr str="5203">forsake </gr>
+        <gr str="408">not </gr>the <gr str="8451">law </gr>of thy <gr str="517">mother</gr>: </VERS>
+      <VERS vnumber="9">
+        <gr str="3588">For </gr>
+        <gr str="1992">they </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> an <gr str="3880">ornament </gr>of <gr str="2580">grace </gr>unto thy <gr str="7218">head</gr>, and <gr str="6060">chains </gr>about thy <gr str="1621">neck</gr>. </VERS>
+      <VERS vnumber="10"> My <gr str="1121">son</gr>, <gr str="518">if </gr>
+        <gr str="2400">sinners </gr>
+        <gr str="6601">entice </gr>thee, <gr str="14">consent </gr>thou <gr str="408">not</gr>. </VERS>
+      <VERS vnumber="11">
+        <gr str="518">If </gr>they <gr str="559">say</gr>, <gr str="1980">Come </gr>
+        <gr str="854">with </gr>us, let us lay <gr str="693">wait </gr>for <gr str="1818">blood</gr>, let us lurk <gr str="6845">privily </gr>for the <gr str="5355">innocent </gr>without <gr str="2600">cause</gr>: </VERS>
+      <VERS vnumber="12"> Let us swallow them <gr str="1104">up </gr>
+        <gr str="2416">alive </gr>as the <gr str="7585">grave</gr>; and <gr str="8549">whole</gr>, as those that go <gr str="3381">down </gr>into the <gr str="953">pit</gr>: </VERS>
+      <VERS vnumber="13"> We shall <gr str="4672">find </gr>
+        <gr str="3605">all </gr>
+        <gr str="3368">precious </gr>
+        <gr str="1952">substance</gr>, we shall <gr str="4390">fill </gr>our <gr str="1004">houses </gr>with <gr str="7998">spoil</gr>: </VERS>
+      <VERS vnumber="14"> Cast <gr str="5307">in </gr>thy <gr str="1486">lot </gr>
+        <gr str="8432">among </gr>us; let us <gr str="3605">all </gr>
+        <gr str="1961">have </gr>
+        <gr str="259">one </gr>
+        <gr str="3599">purse</gr>: </VERS>
+      <VERS vnumber="15"> My <gr str="1121">son</gr>, <gr str="1980">walk </gr>
+        <gr str="408">not </gr>thou in the <gr str="1870">way </gr>
+        <gr str="854">with </gr>them; <gr str="4513">refrain </gr>thy <gr str="7272">foot </gr>from their <gr str="4480 5410">path</gr>: </VERS>
+      <VERS vnumber="16">
+        <gr str="3588">For </gr>their <gr str="7272">feet </gr>
+        <gr str="7323">run </gr>to <gr str="7451">evil</gr>, and make <gr str="4116">haste </gr>to <gr str="8210">shed </gr>
+        <gr str="1818">blood</gr>. </VERS>
+      <VERS vnumber="17">
+        <gr str="3588">Surely </gr>in <gr str="2600">vain </gr>the <gr str="7568">net </gr>is <gr str="2219">spread </gr>in the <gr str="5869">sight </gr>of <gr str="3605">any </gr>
+        <gr str="1167 3671">bird</gr>. </VERS>
+      <VERS vnumber="18"> And <gr str="1992">they </gr>lay <gr str="693">wait </gr>for their <STYLE css="color:#808080;font-style:italic"> own </STYLE>
+        <gr str="1818">blood</gr>; they lurk <gr str="6845">privily </gr>for their <STYLE css="color:#808080;font-style:italic"> own </STYLE>
+        <gr str="5315">lives</gr>. </VERS>
+      <VERS vnumber="19">
+        <gr str="3651">So </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> the <gr str="734">ways </gr>of every <gr str="3605">one </gr>that is <gr str="1214">greedy </gr>of <gr str="1215">gain</gr>; <STYLE css="color:#808080;font-style:italic"> which </STYLE> taketh <gr str="3947">away </gr>
+        <gr str="*853" />the <gr str="5315">life </gr>of the <gr str="1167">owners </gr>thereof. </VERS>
+      <VERS vnumber="20">
+        <gr str="2454">Wisdom </gr>
+        <gr str="7442">crieth </gr>
+        <gr str="2351">without</gr>; she <gr str="5414">uttereth </gr>her <gr str="6963">voice </gr>in the <gr str="7339">streets</gr>: </VERS>
+      <VERS vnumber="21"> She <gr str="7121">crieth </gr>in the <gr str="7218">chief </gr>place of <gr str="1993">concourse</gr>, in the <gr str="6607">openings </gr>of the <gr str="8179">gates</gr>: in the <gr str="5892">city </gr>she <gr str="559">uttereth </gr>her <gr str="561">words</gr>, <STYLE css="color:#808080;font-style:italic"> saying </STYLE>, </VERS>
+      <VERS vnumber="22"> How <gr str="5704 4970">long</gr>, ye simple <gr str="6612">ones</gr>, will ye <gr str="157">love </gr>
+        <gr str="6612">simplicity</gr>? and the <gr str="3887">scorners </gr>
+        <gr str="2530">delight </gr>in their <gr str="3944">scorning</gr>, and <gr str="3684">fools </gr>
+        <gr str="8130">hate </gr>
+        <gr str="1847">knowledge</gr>? </VERS>
+      <VERS vnumber="23">
+        <gr str="7725">Turn </gr>you at my <gr str="8433">reproof</gr>: <gr str="2009">behold</gr>, I will pour <gr str="5042">out </gr>my <gr str="7307">spirit </gr>unto you, I will make <gr str="3045">known </gr>my <gr str="1697">words </gr>unto you. </VERS>
+      <VERS vnumber="24">
+        <gr str="3282">Because </gr>I have <gr str="7121">called</gr>, and ye <gr str="3985">refused</gr>; I have stretched <gr str="5186">out </gr>my <gr str="3027">hand</gr>, and no <gr str="369">man </gr>
+        <gr str="7181">regarded</gr>; </VERS>
+      <VERS vnumber="25"> But ye have set at <gr str="6544">naught </gr>
+        <gr str="3605">all </gr>my <gr str="6098">counsel</gr>, and <gr str="14">would </gr>
+        <gr str="3808">none </gr>of my <gr str="8433">reproof</gr>: </VERS>
+      <VERS vnumber="26">
+        <gr str="589">I </gr>
+        <gr str="1571">also </gr>will <gr str="7832">laugh </gr>at your <gr str="343">calamity</gr>; I will <gr str="3932">mock </gr>when your <gr str="6343">fear </gr>
+        <gr str="935">cometh</gr>; </VERS>
+      <VERS vnumber="27"> When your <gr str="6343">fear </gr>
+        <gr str="935">cometh </gr>as <gr str="7722">desolation</gr>, and your <gr str="343">destruction </gr>
+        <gr str="857">cometh </gr>as a <gr str="5492">whirlwind</gr>; when <gr str="6869">distress </gr>and <gr str="6695">anguish </gr>
+        <gr str="935">cometh </gr>
+        <gr str="5921">upon </gr>you. </VERS>
+      <VERS vnumber="28">
+        <gr str="227">Then </gr>shall they call <gr str="7121">upon </gr>me, but I will <gr str="3808">not </gr>
+        <gr str="6030">answer</gr>; they shall seek me <gr str="7836">early</gr>, but they shall <gr str="3808">not </gr>
+        <gr str="4672">find </gr>me: </VERS>
+      <VERS vnumber="29"> For <gr str="8478 3588">that </gr>they <gr str="8130">hated </gr>
+        <gr str="1847">knowledge</gr>, and did <gr str="3808">not </gr>
+        <gr str="977">choose </gr>the <gr str="3374">fear </gr>of the <gr str="3068">LORD</gr>: </VERS>
+      <VERS vnumber="30"> They <gr str="14">would </gr>
+        <gr str="3808">none </gr>of my <gr str="6098">counsel</gr>: they <gr str="5006">despised </gr>
+        <gr str="3605">all </gr>my <gr str="8433">reproof</gr>. </VERS>
+      <VERS vnumber="31"> Therefore shall they <gr str="398">eat </gr>of the <gr str="4480 6529">fruit </gr>of their own <gr str="1870">way</gr>, and be <gr str="7646">filled </gr>with their own <gr str="4480 4156">devices</gr>. </VERS>
+      <VERS vnumber="32">
+        <gr str="3588">For </gr>the turning <gr str="4878">away </gr>of the <gr str="6612">simple </gr>shall <gr str="2026">slay </gr>them, and the <gr str="7962">prosperity </gr>of <gr str="3684">fools </gr>shall <gr str="6">destroy </gr>them. </VERS>
+      <VERS vnumber="33"> But whoso <gr str="8085">hearkeneth </gr>unto me shall <gr str="7931">dwell </gr>
+        <gr str="983">safely</gr>, and shall be <gr str="7599">quiet </gr>from <gr str="4480 6343">fear </gr>of <gr str="7451">evil</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

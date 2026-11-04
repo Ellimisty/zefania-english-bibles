@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="World English Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="15">
+      <VERS vnumber="1">Yahweh, who shall dwell in your sanctuary?    Who shall live on your holy hill?</VERS>
+      <VERS vnumber="2">He who walks blamelessly, does what is right,    And speaks truth in his heart;</VERS>
+      <VERS vnumber="3">He who doesn`t slander with his tongue,    Nor does evil to his friend,    Nor casts slurs against his fellow man;</VERS>
+      <VERS vnumber="4">In whose eyes a vile man is despised,    But who honors those who fear Yahweh; He who keeps an oath even when it hurts, and doesn`t change;</VERS>
+      <VERS vnumber="5">He who doesn`t lend out his money for usury,    Nor take a bribe against the innocent.  He who does these things shall never be shaken.      Psalm 16  A Poem by David.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

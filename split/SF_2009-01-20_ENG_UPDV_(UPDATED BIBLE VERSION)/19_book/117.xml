@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Updated Bible Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="117">
+      <VERS vnumber="1">O praise Yahweh, all you<DIV>
+          <NOTE type="x-emphasize">{+}</NOTE>
+        </DIV> nations; Laud him, all you<DIV>
+          <NOTE type="x-emphasize">{+}</NOTE>
+        </DIV> peoples.</VERS>
+      <VERS vnumber="2">For his loving-kindness is great toward us; And the truth of Yahweh [endures] forever. Hallelujah.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

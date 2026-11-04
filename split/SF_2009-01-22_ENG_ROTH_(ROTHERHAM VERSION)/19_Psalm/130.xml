@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Rotherham Version" type="x-bible">
+  <BIBLEBOOK bname="Psalm" bnumber="19" bsname="Ps">
+    <CHAPTER cnumber="130">
+      <VERS vnumber="1">Out of the depths, have I cried unto thee, O Yahweh.</VERS>
+      <VERS vnumber="2">O My Lord! hearken thou unto my voice,Let thine ears be attentive to the voice of my supplications,</VERS>
+      <VERS vnumber="3">If, iniquities, thou shouldest mark, O Yah, O My Lord, who could stand?</VERS>
+      <VERS vnumber="4">But, with thee, is forgiveness, that thou mayest be revered.</VERS>
+      <VERS vnumber="5">I have waited for Yahweh, My soul hath waited for his word;</VERS>
+      <VERS vnumber="6">I have hoped, O my soul, for My Lord, more than they who watch for the morning, who watch for the morning.</VERS>
+      <VERS vnumber="7">Wait, O Israel, for Yahweh,for, with Yahweh, is lovingkindness, and there aboundeth with himredemption.</VERS>
+      <VERS vnumber="8">He, therefore, will redeem Israel from all his iniquities.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

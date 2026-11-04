@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="8">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief Musician upon Gittith, A Psalm of David.</STYLE> O LORD our Lord, how excellent <STYLE css="font-style:italic">is</STYLE> thy name in all the earth! who hast set thy glory above the heavens.</VERS>
+      <VERS vnumber="2">Out of the mouth of babes and sucklings hast thou ordained strength because of thy enemies, that thou mightest still the enemy and the avenger. <DIV>
+          <NOTE type="x-studynote">ordained: Heb. founded</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;</VERS>
+      <VERS vnumber="4">What is man, that thou art mindful of him? and the son of man, that thou visitest him?</VERS>
+      <VERS vnumber="5">For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.</VERS>
+      <VERS vnumber="6">Thou hast made him to have dominion over the works of thy hands; thou hast put all <STYLE css="font-style:italic">things</STYLE> under his feet:</VERS>
+      <VERS vnumber="7">All sheep and oxen, yea, and the beasts of the field; <DIV>
+          <NOTE type="x-studynote">All…: Heb. Flocks and oxen all of them</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">The fowl of the air, and the fish of the sea, <STYLE css="font-style:italic">and whatever</STYLE> passeth through the paths of the seas.</VERS>
+      <VERS vnumber="9">O LORD our Lord, how excellent <STYLE css="font-style:italic">is</STYLE> thy name in all the earth!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

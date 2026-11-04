@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="41">
+    <CHAPTER cnumber="16">
+      <VERS vnumber="1">And when the sabbath was past, Mary the Magdalene, and Mary the mother of James, and Salome, bought spices, that they might come and anoint him.</VERS>
+      <VERS vnumber="2">And very early on the first day of the week, they came to the tomb at the rising of the sun.</VERS>
+      <VERS vnumber="3">And they said to one another, Who will roll away for us the stone from the door of the tomb?</VERS>
+      <VERS vnumber="4">And looking up they see that the stone had been rolled back; for it was very large.</VERS>
+      <VERS vnumber="5">And they entered the tomb, and saw a young man sitting on the right side, clothed in a long white garment; and they were affrighted.</VERS>
+      <VERS vnumber="6">But he saith to them, Be not affrighted; ye seek Jesus the Nazarene who was crucified; he hath risen; he is not here; behold the place where they laid him.</VERS>
+      <VERS vnumber="7">But go, tell his disciples and Peter, that he is going before you into Galilee; there ye will see him, as he said to you.</VERS>
+      <VERS vnumber="8">And they went out, and fled from the tomb; for trembling and amazement had seized them, and they said nothing to any one; for they were terrified.</VERS>
+      <VERS vnumber="9">
+        <DIV>
+          <NOTE type="x-studynote">The remaining twelve verses, according to Tischendorf and others, made originally no part of Marks Gospel. As the passage was added very early, however, since it is referred to by Irenaeus in the latter part of the second century, it is here given, as an appendix.</NOTE>
+        </DIV>
+        <STYLE css="font-style:italic">And having risen early, on the first day of the week, he appeared first to Mary the Magdalene, out of whom he had cast seven demons.</STYLE>
+      </VERS>
+      <VERS vnumber="10">
+        <STYLE css="font-style:italic">She went and reported it to those who had been with him, who were mourning and weeping.</STYLE>
+      </VERS>
+      <VERS vnumber="11">
+        <STYLE css="font-style:italic">And they, when they heard that he was alive, and had been seen by her, did not believe.</STYLE>
+      </VERS>
+      <VERS vnumber="12">
+        <STYLE css="font-style:italic">After this, he manifested himself in another form to two of them as they walked, going into the country.</STYLE>
+      </VERS>
+      <VERS vnumber="13">
+        <STYLE css="font-style:italic">And they went and reported it to the rest; and even them they did not believe.</STYLE>
+      </VERS>
+      <VERS vnumber="14">
+        <STYLE css="font-style:italic">Afterward he manifested himself to the eleven themselves, as they were reclining at table, and upbraided them with their unbelief and hardness of heart, because they did not believe those who had seen him after he had risen.</STYLE>
+      </VERS>
+      <VERS vnumber="15">
+        <STYLE css="font-style:italic">And he said to them, Go ye into all the world, and preach the glad tidings to the whole creation.</STYLE>
+      </VERS>
+      <VERS vnumber="16">
+        <STYLE css="font-style:italic">He that believeth and is baptized will be saved; but he that doth not believe will be condemned.</STYLE>
+      </VERS>
+      <VERS vnumber="17">
+        <STYLE css="font-style:italic">And these signs will accompany believers: In my name they will cast out demons; they will speak with new tongues;</STYLE>
+      </VERS>
+      <VERS vnumber="18">
+        <STYLE css="font-style:italic">they will take up serpents; and if they drink any deadly thing, it will not hurt them; they will lay their hands on the sick, and they will recover.</STYLE>
+      </VERS>
+      <VERS vnumber="19">
+        <STYLE css="font-style:italic">So then, the Lord, after he had spoken to them, was taken up into heaven, and sat down on the right hand of God;</STYLE>
+      </VERS>
+      <VERS vnumber="20">
+        <STYLE css="font-style:italic">and they went forth, and preached every where, the Lord working with them, and confirming the word by the signs which followed it.</STYLE>
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

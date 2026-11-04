@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Green's Literal Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="127">
+      <VERS vnumber="1">  A Song of Ascents, for Solomon. If Jehovah does not build the house, they who build it labor in vain; if Jehovah does not keep the city, the watchman stays awake in vain.</VERS>
+      <VERS vnumber="2">  It is in vain for you to rise early, sit up late, to eat the bread of toils; for so He gives His beloved sleep.</VERS>
+      <VERS vnumber="3"> Behold! Children are an inheritance of Jehovah; the fruit of the womb is His reward.</VERS>
+      <VERS vnumber="4"> As arrows in the hand of a mighty man, so are the sons of the young.</VERS>
+      <VERS vnumber="5"> Blessed is the man who has filled his quiver with them; they shall not be ashamed, for they shall speak with their enemies in the gate.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

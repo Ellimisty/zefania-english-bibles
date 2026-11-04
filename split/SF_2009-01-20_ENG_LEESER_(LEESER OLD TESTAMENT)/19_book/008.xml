@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="8">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief musician upon Gittith, a psalm of David.</STYLE>
+        <DIV>
+          <NOTE type="x-studynote">(8:2)</NOTE>
+        </DIV> O Eternal One our Lord, how excellent is thy name on all the earth! thou who hast set thy majesty above the heavens.</VERS>
+      <VERS vnumber="2">
+        <DIV>
+          <NOTE type="x-studynote">(8:3)</NOTE>
+        </DIV> Out of the mouth of babes and sucklings hast thou founded <STYLE css="font-style:italic">thy</STYLE> might, because of thy opponents, that thou mightest bring to silence the enemy and him that seeketh vengeance.</VERS>
+      <VERS vnumber="3">
+        <DIV>
+          <NOTE type="x-studynote">(8:4)</NOTE>
+        </DIV> When I behold thy heavens, the work of thy fingers, the moon and the stars, which thou hast established:</VERS>
+      <VERS vnumber="4">
+        <DIV>
+          <NOTE type="x-studynote">(8:5)</NOTE>
+        </DIV> What is the mortal, that thou rememberest him? and the son of man, that thou thinkest of him:</VERS>
+      <VERS vnumber="5">
+        <DIV>
+          <NOTE type="x-studynote">(8:6)</NOTE>
+        </DIV> Yet thou hast made him but a little less than angels, and hast crowned him with honor and glory.</VERS>
+      <VERS vnumber="6">
+        <DIV>
+          <NOTE type="x-studynote">(8:7)</NOTE>
+        </DIV> Thou hast given him dominion over the works of thy hands; every thing hast thou placed beneath his feet:</VERS>
+      <VERS vnumber="7">
+        <DIV>
+          <NOTE type="x-studynote">(8:8)</NOTE>
+        </DIV> Flocks and herds altogether, and also the beasts of the field;</VERS>
+      <VERS vnumber="8">
+        <DIV>
+          <NOTE type="x-studynote">(8:9)</NOTE>
+        </DIV> The birds of heaven, and the fishes of the sea, whatsoever passeth through the paths of the seas.</VERS>
+      <VERS vnumber="9">
+        <DIV>
+          <NOTE type="x-studynote">(8:10)</NOTE>
+        </DIV> O Eternal One our Lord, how excellent is thy name on all the earth!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="99">
+      <VERS vnumber="1">The <STYLE id="cl:divineName">Lord</STYLE> is king; let the nations tremble:he is throned upon cherubs; let earth quake.</VERS>
+      <VERS vnumber="2">The <STYLE id="cl:divineName">Lord</STYLE> is great in Zion,he is high over all the nations.</VERS>
+      <VERS vnumber="3">Let them praise your great and terrible name.Holy is he. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="4">You are a king who loves justice,equity you have established:justice and right you have wrought for Jacob.</VERS>
+      <VERS vnumber="5">Exalt the <STYLE id="cl:divineName">Lord</STYLE> our God,bow down at his footstool.Holy is he. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="6">Among his priests were Moses and Aaron,Samuel among those who called on his name.They called to the <STYLE id="cl:divineName">Lord</STYLE>, and he gave them answer.</VERS>
+      <VERS vnumber="7">He spoke to them in the pillar of cloud,they kept his commands and the statute he gave them.</VERS>
+      <VERS vnumber="8">
+        <STYLE id="cl:divineName">Lord</STYLE> our God, you gave them answer.A God of forgiveness were you to them,who suffered their deeds to go unpunished.</VERS>
+      <VERS vnumber="9">Exalt the <STYLE id="cl:divineName">Lord</STYLE> our God;bow down at his holy mountain.For holy is the <STYLE id="cl:divineName">Lord</STYLE> our God.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

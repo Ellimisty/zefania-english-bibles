@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="4">
+    <CHAPTER cnumber="30">
+      <VERS vnumber="1">And Moses spoke to the children of Israel according to all that the Lord commanded Moses.</VERS>
+      <VERS vnumber="2">And Moses spoke to the heads of the tribes of the children of Israel, saying, This is the thing which the Lord has commanded.</VERS>
+      <VERS vnumber="3">Whatsoever man shall vow a vow to the Lord, or swear an oath, or bind himself with an obligation upon his soul, he shall not <DIV>
+          <NOTE type="x-studynote">Gr. profane</NOTE>
+        </DIV> break his word; all that shall come out of his mouth he shall do.</VERS>
+      <VERS vnumber="4">And if a woman shall vow a vow to the Lord, or bind herself with an obligation in her youth in her father’s house; and her father should hear her vows and her obligations, wherewith she has bound her soul, and her father should hold his peace at her, then all her vows shall stand,</VERS>
+      <VERS vnumber="5">and all the obligations with which she has bound her soul, shall remain to her.</VERS>
+      <VERS vnumber="6">But if her father straitly forbid her in the day in which he shall hear all her vows and her obligations, which she has contracted upon her soul, they shall not stand; and the Lord shall hold her guiltless, because her father forbade her.</VERS>
+      <VERS vnumber="7">But if she should be indeed married, and her vows be upon her according to the utterance of her lips, <DIV>
+          <NOTE type="x-studynote">It would seem that the relative ouv must refer to orismouv, understood</NOTE>
+        </DIV> in respect of the obligations which she has contracted upon her soul;</VERS>
+      <VERS vnumber="8">and her husband should hear, and hold his peace at her in the day in which he should hear, then thus shall all her vows be binding, and her obligations, which she has contracted upon her soul shall stand.</VERS>
+      <VERS vnumber="9">But if her husband should <DIV>
+          <NOTE type="x-studynote">Or, in any wise</NOTE>
+        </DIV> straitly forbid her in the day in which he should hear her, none of her vows or obligations which she has contracted upon her soul shall stand, because her husband has disallowed her, and the Lord shall hold her guiltless.</VERS>
+      <VERS vnumber="10">And the vow of a widow and of her that is put away, whatsoever she shall <DIV>
+          <NOTE type="x-studynote">Gr. vow</NOTE>
+        </DIV> bind upon her soul, shall stand to her.</VERS>
+      <VERS vnumber="11">And if her vow be made in the house of her husband, or the obligation upon her soul with an oath,</VERS>
+      <VERS vnumber="12">and her husband should hear, and hold his peace at her, and not disallow her, then all her vows shall stand, and all the obligations which she contracted against her soul, shall stand against her.</VERS>
+      <VERS vnumber="13">But if her husband should utterly <DIV>
+          <NOTE type="x-studynote">Or, forbid; lit. take away</NOTE>
+        </DIV> cancel the vow in the day in which he shall hear it, none of the things which shall proceed out of her lips in her vows, and in the obligations contracted upon her soul, shall stand to her; her husband has cancelled them, and the Lord shall hold her guiltless.</VERS>
+      <VERS vnumber="14">Every vow, and every binding oath to afflict her soul, her husband shall confirm it to her, or her husband shall cancel it.</VERS>
+      <VERS vnumber="15">But if he be wholly silent at her from day to day, then shall he bind upon her all her vows; and he shall confirm to her the obligations which she has bound upon herself, because he held his peace at her in the day in which he heard her.</VERS>
+      <VERS vnumber="16">And if her husband should <DIV>
+          <NOTE type="x-studynote">Or, utterly</NOTE>
+        </DIV> in any wise cancel them after the day in which he heard them, then he shall bear his iniquity.</VERS>
+      <VERS vnumber="17">These are the ordinances which the Lord commanded Moses, between a man and his wife, and between a father and daughter in her youth in the house of her father.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

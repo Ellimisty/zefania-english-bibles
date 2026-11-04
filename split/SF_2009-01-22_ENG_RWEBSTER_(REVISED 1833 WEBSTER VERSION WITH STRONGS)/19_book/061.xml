@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="61">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief <gr str="5329">Musician </gr>upon <gr str="5058">Neginah</gr>, [A Psalm] of <gr str="1732">David</gr>. </STYLE>
+        <gr str="8085">Hear </gr>my <gr str="7440">cry</gr>, O <gr str="430">God</gr>; <gr str="7181">attend </gr>to my <gr str="8605">prayer</gr>.</VERS>
+      <VERS vnumber="2">From the <gr str="7097">end </gr>of the <gr str="776">earth </gr>will I <gr str="7121">cry </gr>to thee, when my <gr str="3820">heart </gr>is <gr str="5848">overwhelmed</gr>: <gr str="5148">lead </gr>me to the <gr str="6697">rock </gr>
+        <STYLE css="font-style:italic">that</STYLE> is <gr str="7311">higher </gr>than I.</VERS>
+      <VERS vnumber="3">For thou hast been a <gr str="4268">shelter </gr>for me, <STYLE css="font-style:italic">and</STYLE> a <gr str="5797">strong </gr>
+        <gr str="4026">tower </gr>
+        <gr str="6440">from </gr>the <gr str="341">enemy</gr>.</VERS>
+      <VERS vnumber="4">I will <gr str="1481">abide </gr>in thy <gr str="168">tabernacle </gr>for <gr str="5769">ever</gr>: I will <gr str="2620">trust </gr>in the <gr str="5643">shelter </gr>of thy <gr str="3671">wings</gr>. <gr str="5542">Selah</gr>. <DIV>
+          <NOTE type="x-studynote">trust: or, make my refuge</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="5">For thou, O <gr str="430">God</gr>, hast <gr str="8085">heard </gr>my <gr str="5088">vows</gr>: thou hast <gr str="5414">given </gr>
+        <STYLE css="font-style:italic">me</STYLE> the <gr str="3425">heritage </gr>of those that <gr str="3373">fear </gr>thy <gr str="8034">name</gr>.</VERS>
+      <VERS vnumber="6">Thou wilt <gr str="3254">prolong </gr>the <gr str="4428">king’s </gr>
+        <gr str="3117 3117">life</gr>: <STYLE css="font-style:italic">and</STYLE> his <gr str="8141">years </gr>as <gr str="1755">many </gr>
+        <gr str="1755">generations</gr>. <DIV>
+          <NOTE type="x-studynote">Thou…: Heb. Thou shalt add days to the days of the king</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">as…: Heb. as generation and generation</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="7">He shall <gr str="3427">abide </gr>
+        <gr str="6440">before </gr>
+        <gr str="430">God </gr>for <gr str="5769">ever</gr>: O <gr str="4487">prepare </gr>
+        <gr str="2617">mercy </gr>and <gr str="571">truth</gr>, <STYLE css="font-style:italic">which</STYLE> may <gr str="5341">preserve </gr>him.</VERS>
+      <VERS vnumber="8">So will I <gr str="2167">sing </gr>praise to thy <gr str="8034">name </gr>for <gr str="5703">ever</gr>, that I may <gr str="3117 3117">daily </gr>
+        <gr str="7999">perform </gr>my <gr str="5088">vows</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

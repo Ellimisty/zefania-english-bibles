@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="24">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">Of David a psalm.</STYLE> Unto the Lord belongeth the earth with what filleth it, the world and they that dwell therein;</VERS>
+      <VERS vnumber="2">For upon seas hath he founded it, and upon rivers hath he established it.</VERS>
+      <VERS vnumber="3">Who shall ascend into the mountain of the Lord? and who shall be able to stand in his holy place?</VERS>
+      <VERS vnumber="4">He that is of clean hands, and pure of heart; who hath not lifted up his soul unto falsehood, and hath not sworn deceitfully:</VERS>
+      <VERS vnumber="5">He shall bear away blessing from the Lord, and <STYLE css="font-style:italic">the reward of</STYLE> righteousness from the God of his salvation.</VERS>
+      <VERS vnumber="6">This is the generation of those that adore him, that seek thy presence, <STYLE css="font-style:italic">the sons of</STYLE> Jacob. Selah.</VERS>
+      <VERS vnumber="7">Raise your heads, O ye gates; and be raised wide, ye everlasting doors: and let the King of glory enter!</VERS>
+      <VERS vnumber="8">Who is this King of glory? The Lord strong and mighty, the Lord mighty in battle.</VERS>
+      <VERS vnumber="9">Raise your heads, O ye gates; and raise <STYLE css="font-style:italic">them</STYLE> up, ye everlasting doors: and let the King of glory enter!</VERS>
+      <VERS vnumber="10">Who is then this King of glory? The Lord of hosts, he is the King of glory. Selah.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

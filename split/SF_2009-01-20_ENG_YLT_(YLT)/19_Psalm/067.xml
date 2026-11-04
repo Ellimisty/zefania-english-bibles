@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="YLT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="67">
+      <VERS vnumber="1">To the Overseer, with stringed instruments. -- A Psalm, a  Song. God doth favour us and bless us, Doth cause His face to  shine with us. Selah.</VERS>
+      <VERS vnumber="2">For the knowledge in earth of Thy way, among all nations of  Thy salvation.</VERS>
+      <VERS vnumber="3">Praise Thee do peoples, O God, Praise Thee do peoples, all  of them.</VERS>
+      <VERS vnumber="4">Rejoice and sing do nations, For Thou judgest peoples  uprightly, And peoples on earth comfortest. Selah.</VERS>
+      <VERS vnumber="5">Confess Thee do peoples, O God, Confess Thee do peoples --  all of them.</VERS>
+      <VERS vnumber="6">Earth hath given her increase, God doth bless us -- our  God,</VERS>
+      <VERS vnumber="7">God doth bless us, and all ends of earth fear Him!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Rotherham Version" type="x-bible">
+  <BIBLEBOOK bname="Psalm" bnumber="19" bsname="Ps">
+    <CHAPTER cnumber="117">
+      <VERS vnumber="1">Praise Yahweh, all ye nations, Laud him, all ye tribes of men;</VERS>
+      <VERS vnumber="2">For his lovingkindness, hath prevailed over us, and, the faithfulness of Yahweh, is to times age-abiding. Praise ye Yah!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

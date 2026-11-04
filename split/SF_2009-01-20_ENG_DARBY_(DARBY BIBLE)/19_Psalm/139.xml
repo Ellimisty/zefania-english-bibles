@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Darby Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="139">
+      <VERS vnumber="1">{To the chief Musician. A Psalm of David.} Jehovah, thou hast searched me, and known [me].</VERS>
+      <VERS vnumber="2">*Thou* knowest my down-sitting and mine uprising, thou understandest my thought afar off;</VERS>
+      <VERS vnumber="3">Thou searchest out my path and my lying down, and art acquainted with all my ways;</VERS>
+      <VERS vnumber="4">For there is not yet a word on my tongue, [but] lo, O Jehovah, thou knowest it altogether.</VERS>
+      <VERS vnumber="5">Thou hast beset me behind and before, and laid thy hand upon me.</VERS>
+      <VERS vnumber="6">O knowledge too wonderful for me! it is high, I cannot [attain] unto it.</VERS>
+      <VERS vnumber="7">Whither shall I go from thy Spirit? and whither flee from thy presence?</VERS>
+      <VERS vnumber="8">If I ascend up into the heavens thou art there; or if I make my bed in Sheol, behold, thou [art there];</VERS>
+      <VERS vnumber="9">[If] I take the wings of the dawn [and] dwell in the uttermost parts of the sea,</VERS>
+      <VERS vnumber="10">Even there shall thy hand lead me, and thy right hand shall hold me.</VERS>
+      <VERS vnumber="11">And if I say, Surely darkness shall cover me, and the light about me be night;</VERS>
+      <VERS vnumber="12">Even darkness hideth not from thee, and the night shineth as the day: the darkness is as the light.</VERS>
+      <VERS vnumber="13">For thou hast possessed my reins; thou didst cover me in my mother's womb.</VERS>
+      <VERS vnumber="14">I will praise thee, for I am fearfully, wonderfully made. Marvellous are thy works; and [that] my soul knoweth right well.</VERS>
+      <VERS vnumber="15">My bones were not hidden from thee when I was made in secret, curiously wrought in the lower parts of the earth.</VERS>
+      <VERS vnumber="16">Thine eyes did see my unformed substance, and in thy book all [my members] were written; [during many] days were they fashioned, when [as yet] there was none of them.</VERS>
+      <VERS vnumber="17">But how precious are thy thoughts unto me, O God! how great is the sum of them!</VERS>
+      <VERS vnumber="18">[If] I would count them, they are more in number than the sand. When I awake, I am still with thee.</VERS>
+      <VERS vnumber="19">Oh that thou wouldest slay the wicked, O God! And ye men of blood, depart from me.</VERS>
+      <VERS vnumber="20">For they speak of thee wickedly, they take [thy name] in vain, thine enemies.</VERS>
+      <VERS vnumber="21">Do not I hate them, O Jehovah, that hate thee? and do not I loathe them that rise up against thee?</VERS>
+      <VERS vnumber="22">I hate them with perfect hatred; I account them mine enemies.</VERS>
+      <VERS vnumber="23">Search me, O God, and know my heart; prove me, and know my thoughts;</VERS>
+      <VERS vnumber="24">And see if there be any grievous way in me; and lead me in the way everlasting.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

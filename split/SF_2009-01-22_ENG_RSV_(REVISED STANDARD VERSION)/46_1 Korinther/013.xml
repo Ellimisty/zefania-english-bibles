@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="46" bname="1 Korinther" bsname="1.Kor">
+    <CHAPTER cnumber="13">
+      <VERS vnumber="1">If I speak in the tongues of men and of angels, but have not love, I am a noisy gong or a clanging cymbal.</VERS>
+      <VERS vnumber="2">And if I have prophetic powers, and understand all mysteries and all knowledge, and if I have all faith, so as to remove mountains, but have not love, I am nothing.</VERS>
+      <VERS vnumber="3">If I give away all I have, and if I deliver my body to be burned, but have not love, I gain nothing.</VERS>
+      <VERS vnumber="4">Love is patient and kind; love is not jealous or boastful;</VERS>
+      <VERS vnumber="5">it is not arrogant or rude. Love does not insist on its own way; it is not irritable or resentful;</VERS>
+      <VERS vnumber="6">it does not rejoice at wrong, but rejoices in the right.</VERS>
+      <VERS vnumber="7">Love bears all things, believes all things, hopes all things, endures all things.</VERS>
+      <VERS vnumber="8">Love never ends; as for prophecies, they will pass away; as for tongues, they will cease; as for knowledge, it will pass away.</VERS>
+      <VERS vnumber="9">For our knowledge is imperfect and our prophecy is imperfect;</VERS>
+      <VERS vnumber="10">but when the perfect comes, the imperfect will pass away.</VERS>
+      <VERS vnumber="11">When I was a child, I spoke like a child, I thought like a child, I reasoned like a child; when I became a man, I gave up childish ways.</VERS>
+      <VERS vnumber="12">For now we see in a mirror dimly, but then face to face. Now I know in part; then I shall understand fully, even as I have been fully understood.</VERS>
+      <VERS vnumber="13">So faith, hope, love abide, these three; but the greatest of these is love.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="3">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of <gr str="1732">David</gr>, when he <gr str="1272">fled </gr>
+          <gr str="6440">from </gr>
+          <gr str="53">Absalom </gr>his <gr str="1121">son</gr>. </STYLE>
+        <gr str="3068">LORD</gr>, how are they <gr str="7231">multiplied </gr>that <gr str="6862">trouble </gr>me! <gr str="7227">many </gr>
+        <STYLE css="font-style:italic">are</STYLE> they that rise <gr str="6965">up </gr>against me.</VERS>
+      <VERS vnumber="2">
+        <gr str="7227">Many </gr>
+        <STYLE css="font-style:italic">there are</STYLE> who <gr str="559">say </gr>of my <gr str="5315">soul</gr>, <STYLE css="font-style:italic">There is</STYLE> no <gr str="3444">help </gr>for him in <gr str="430">God</gr>. <gr str="5542">Selah</gr>.</VERS>
+      <VERS vnumber="3">But thou, O <gr str="3068">LORD</gr>, <STYLE css="font-style:italic">art</STYLE> a <gr str="4043">shield </gr>for me; my <gr str="3519">glory</gr>, and the lifter <gr str="7311">up </gr>of my <gr str="7218">head</gr>. <DIV>
+          <NOTE type="x-studynote">for: or, about</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">I <gr str="7121">cried </gr>to the <gr str="3068">LORD </gr>with my <gr str="6963">voice</gr>, and he <gr str="6030">heard </gr>me from his <gr str="6944">holy </gr>
+        <gr str="2022">hill</gr>. <gr str="5542">Selah</gr>.</VERS>
+      <VERS vnumber="5">I laid me <gr str="7901">down </gr>and <gr str="3462">slept</gr>; I <gr str="6974">awoke</gr>; for the <gr str="3068">LORD </gr>
+        <gr str="5564">sustained </gr>me.</VERS>
+      <VERS vnumber="6">I will not be <gr str="3372">afraid </gr>of ten <gr str="7233">thousands </gr>of <gr str="5971">people</gr>, that have <gr str="7896">set </gr>
+        <STYLE css="font-style:italic">themselves</STYLE> against me on all <gr str="5439">sides</gr>.</VERS>
+      <VERS vnumber="7">
+        <gr str="6965">Arise</gr>, O <gr str="3068">LORD</gr>; <gr str="3467">save </gr>me, O my <gr str="430">God</gr>: for thou hast <gr str="5221">smitten </gr>all my <gr str="341">enemies </gr>
+        <STYLE css="font-style:italic">upon</STYLE> the cheek <gr str="3895">bone</gr>; thou hast <gr str="7665">broken </gr>the <gr str="8127">teeth </gr>of the <gr str="7563">ungodly</gr>.</VERS>
+      <VERS vnumber="8">
+        <gr str="3444">Salvation </gr>
+        <STYLE css="font-style:italic">belongeth</STYLE> to the <gr str="3068">LORD</gr>: thy <gr str="1293">blessing </gr>
+        <STYLE css="font-style:italic">is</STYLE> upon thy <gr str="5971">people</gr>. <gr str="5542">Selah</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="110">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">Jehovah said to my Lord: »Sit at my right hand until I make your enemies a footstool for your feet.«</VERS>
+      <VERS vnumber="2">Jehovah will extend your powerful scepter from Zion. He will say: »Rule in the midst of your enemies.«</VERS>
+      <VERS vnumber="3">Your people will volunteer in the day of your power. Your young people will come to you in holy splendor like dew from the womb of the dawn <STYLE css="font-style:italic">in the early morning</STYLE>.</VERS>
+      <VERS vnumber="4">Jehovah has taken an oath and will not change his mind: »You are a priest forever in the order of Melchizedek.«</VERS>
+      <VERS vnumber="5">Jehovah is at your right hand. He will crush kings in the day of his anger.</VERS>
+      <VERS vnumber="6">He will pass judgment on the nations and fill them with dead bodies. Throughout the earth he will execute their rulers.</VERS>
+      <VERS vnumber="7">He will drink from the brook along the road. He will hold his head high.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

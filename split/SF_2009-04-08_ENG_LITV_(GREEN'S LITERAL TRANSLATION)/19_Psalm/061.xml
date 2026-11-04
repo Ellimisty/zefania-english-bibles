@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Green's Literal Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="61">
+      <VERS vnumber="1">  To the chief musician. On stringed instruments. Of David. Hear my cry, O God, and listen to my prayer.</VERS>
+      <VERS vnumber="2"> From the end of the earth I call to You when my heart faints; Oh lead me to the Rock that is higher than I.</VERS>
+      <VERS vnumber="3"> For You have been my shelter, a strong tower before the enemy.</VERS>
+      <VERS vnumber="4"> I will dwell in Your tabernacle forever; I will trust in the shelter of Your wings. Selah.</VERS>
+      <VERS vnumber="5"> For You, O God, have heard my vows; You appointed the inheritance of those who fear Your name.</VERS>
+      <VERS vnumber="6"> You will add days to the days of the king; his years will be as generations to generations.</VERS>
+      <VERS vnumber="7"> He shall abide forever before God; appoint mercy and truth to preserve him.</VERS>
+      <VERS vnumber="8"> So I will sing praise to Your name forever, so that I may pay my vows day by day.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

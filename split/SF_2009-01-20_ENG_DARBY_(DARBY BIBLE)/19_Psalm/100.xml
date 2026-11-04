@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Darby Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="100">
+      <VERS vnumber="1">{A Psalm of thanksgiving.} Shout aloud unto Jehovah, all the earth!</VERS>
+      <VERS vnumber="2">Serve Jehovah with joy: come before his presence with exultation.</VERS>
+      <VERS vnumber="3">Know that Jehovah is God: it is he that hath made us, and not we ourselves; [we are] his people, and the sheep of his pasture.</VERS>
+      <VERS vnumber="4">Enter into his gates with thanksgiving [and] into his courts with praise; give thanks unto him, bless his name:</VERS>
+      <VERS vnumber="5">For Jehovah is good; his loving-kindness [endureth] for ever; and his faithfulness from generation to generation.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James 2000" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="123">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic;font-weight:bold">A song of ascents.</STYLE> Unto you I lift up my eyes, O you that dwell in the heavens.</VERS>
+      <VERS vnumber="2">Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the LORD our God, until he has mercy upon us.</VERS>
+      <VERS vnumber="3">Have mercy upon us, O LORD, have mercy upon us: for we are exceedingly filled with contempt.</VERS>
+      <VERS vnumber="4">Our soul is exceedingly filled with the scorn of those that are at ease, and with the contempt of the proud.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

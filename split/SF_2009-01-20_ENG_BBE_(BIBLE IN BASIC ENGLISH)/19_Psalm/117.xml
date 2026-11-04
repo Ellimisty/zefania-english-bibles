@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="117">
+      <VERS vnumber="1">Let all the nations give praise to the Lord: let all the people give him praise.</VERS>
+      <VERS vnumber="2">For great is his mercy to us, and his faith is unchanging for ever. Praise be to the Lord.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

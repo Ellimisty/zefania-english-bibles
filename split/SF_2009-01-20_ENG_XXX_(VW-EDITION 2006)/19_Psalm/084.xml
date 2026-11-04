@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="84">
+      <CAPTION vref="1">To the chief Musician. Gittith. A Psalm for the sons of Korah.</CAPTION>
+      <VERS vnumber="1">How lovely is Your dwelling place, O Jehovah of Hosts!</VERS>
+      <VERS vnumber="2">My soul longs, yea, is spent for the courts of Jehovah; my heart and my flesh cry out for the living Mighty God.</VERS>
+      <VERS vnumber="3">Even the sparrow has found a house, and the swallow a nest for herself, where she may lay her young; even Your altars, O Jehovah of Hosts, my King and my God.</VERS>
+      <VERS vnumber="4">Blessed are those who dwell in Your house; they will still praise You. Selah</VERS>
+      <VERS vnumber="5">Blessed is the man whose strength is in You, whose heart is upon Your highways.</VERS>
+      <VERS vnumber="6">As they pass through the Valley of Baca, they make it a spring; the early rain also covers it with blessings.</VERS>
+      <VERS vnumber="7">They go from strength to strength, appearing before God in Zion.</VERS>
+      <VERS vnumber="8">O Jehovah the God of Hosts, hear my prayer; give ear, O God of Jacob! Selah</VERS>
+      <VERS vnumber="9">Behold, O God our shield, and look upon the face of Your anointed.</VERS>
+      <VERS vnumber="10">For a day in Your courts is better than a thousand. I would rather be a doorkeeper in the house of my God than dwell in the tents of wickedness.</VERS>
+      <VERS vnumber="11">For Jehovah God is a sun and shield; Jehovah will give grace and glory; no good thing will He withhold from those who walk in integrity.</VERS>
+      <VERS vnumber="12">O Jehovah of Hosts, blessed is the man who trusts in You!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

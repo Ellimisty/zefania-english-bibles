@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="64">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief musician, a psalm of David.</STYLE>
+        <DIV>
+          <NOTE type="x-studynote">(64:2)</NOTE>
+        </DIV> Hear my voice, O God, in my complaint: preserve my life from the dread of the enemy.</VERS>
+      <VERS vnumber="2">
+        <DIV>
+          <NOTE type="x-studynote">(64:3)</NOTE>
+        </DIV> Hide me from the secret counsel of evildoers, from the tumultuous assault of the workers of wickedness;</VERS>
+      <VERS vnumber="3">
+        <DIV>
+          <NOTE type="x-studynote">(64:4)</NOTE>
+        </DIV> Who whet their tongue like a sword, who aim with their arrow, the bitter word:</VERS>
+      <VERS vnumber="4">
+        <DIV>
+          <NOTE type="x-studynote">(64:5)</NOTE>
+        </DIV> To shoot in secret at the innocent; suddenly do they shoot at him, and fear not.</VERS>
+      <VERS vnumber="5">
+        <DIV>
+          <NOTE type="x-studynote">(64:6)</NOTE>
+        </DIV> They encourage themselves in an evil plan; they tell secretly of laying snares: they say, Who will see them?</VERS>
+      <VERS vnumber="6">
+        <DIV>
+          <NOTE type="x-studynote">(64:7)</NOTE>
+        </DIV> They search out iniquities; "We are ready with the carefully searched out device:" and the inward thought and heart of each is deeply <STYLE css="font-style:italic">hidden</STYLE>.</VERS>
+      <VERS vnumber="7">
+        <DIV>
+          <NOTE type="x-studynote">(64:8)</NOTE>
+        </DIV> But God shooteth at them suddenly <STYLE css="font-style:italic">his</STYLE> arrow; <STYLE css="font-style:italic">thence</STYLE> are come their wounds.</VERS>
+      <VERS vnumber="8">
+        <DIV>
+          <NOTE type="x-studynote">(64:9)</NOTE>
+        </DIV> And their own tongues will stumble over themselves: all that look on them will shake their head.</VERS>
+      <VERS vnumber="9">
+        <DIV>
+          <NOTE type="x-studynote">(64:10)</NOTE>
+        </DIV> All men shall fear, and shall declare the deeds of God, and understand his works.</VERS>
+      <VERS vnumber="10">
+        <DIV>
+          <NOTE type="x-studynote">(64:11)</NOTE>
+        </DIV> The righteous shall rejoice in the Lord, and shall trust in him; and all the upright in heart shall glorify themselves.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

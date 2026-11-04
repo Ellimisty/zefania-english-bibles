@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.3" biblename="New Heart English Bible ME" type="x-bible">
+  <BIBLEBOOK bnumber="19" bsname="PSA">
+    <CHAPTER cnumber="98">
+      <VERS vnumber="1" />
+      <VERS vnumber="2">The LORD has made known his salvation. He has openly shown his righteousness in the sight of the nations.</VERS>
+      <VERS vnumber="3">He has remembered his loving kindness and his faithfulness toward the house of Israel. All the ends of the earth have seen the salvation of our God.</VERS>
+      <VERS vnumber="4">Make a joyful noise to the LORD, all the earth. Burst out and sing for joy, yes, sing praises.</VERS>
+      <VERS vnumber="5">Sing praises to the LORD with the harp, with the harp and the voice of melody.</VERS>
+      <VERS vnumber="6">With trumpets and sound of the ram's horn, make a joyful noise before the King, the LORD.</VERS>
+      <VERS vnumber="7">Let the sea roar with its fullness; the world, and those who dwell therein.</VERS>
+      <VERS vnumber="8">Let the rivers clap their hands. Let the mountains sing for joy together.</VERS>
+      <VERS vnumber="9">Let them sing before the LORD, for he comes to judge the earth. He will judge the world with righteousness, and the peoples with equity.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="131">
+      <VERS vnumber="1"> A <gr str="7892">Song </gr>of <gr str="4609">degrees </gr>of <gr str="1732">David</gr>. <gr str="3068">LORD</gr>, my <gr str="3820">heart </gr>is <gr str="3808">not </gr>
+        <gr str="1361">haughty</gr>, <gr str="3808">nor </gr>mine <gr str="5869">eyes </gr>
+        <gr str="7311">lofty</gr>: <gr str="3808">neither </gr>do I <gr str="1980">exercise </gr>myself in great <gr str="1419">matters</gr>, or in things too <gr str="6381">high </gr>
+        <gr str="4480">for </gr>me. </VERS>
+      <VERS vnumber="2">
+        <gr str="518 3808">Surely </gr>I have <gr str="7737">behaved </gr>and <gr str="1826">quieted </gr>
+        <gr str="5315">myself</gr>, as a child that is <gr str="1580">weaned </gr>
+        <gr str="5921">of </gr>his <gr str="517">mother</gr>: my <gr str="5315">soul </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> even as a weaned <gr str="1580">child</gr>. </VERS>
+      <VERS vnumber="3"> Let <gr str="3478">Israel </gr>
+        <gr str="3176">hope </gr>
+        <gr str="413">in </gr>the <gr str="3068">LORD </gr>from <gr str="4480 6258">henceforth </gr>and <gr str="5704 5769">forever</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

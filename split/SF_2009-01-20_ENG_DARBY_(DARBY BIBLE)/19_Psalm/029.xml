@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Darby Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="29">
+      <VERS vnumber="1">{A Psalm of David.} Give unto Jehovah, ye sons of the mighty ones, give unto Jehovah glory and strength;</VERS>
+      <VERS vnumber="2">Give unto Jehovah the glory of his name; worship Jehovah in holy splendour.</VERS>
+      <VERS vnumber="3">The voice of Jehovah is upon the waters: the God of glory thundereth, Jehovah upon great waters.</VERS>
+      <VERS vnumber="4">The voice of Jehovah is powerful; the voice of Jehovah is full of majesty.</VERS>
+      <VERS vnumber="5">The voice of Jehovah breaketh cedars; yea, Jehovah breaketh the cedars of Lebanon:</VERS>
+      <VERS vnumber="6">And he maketh them to skip like a calf, Lebanon and Sirion like a young buffalo.</VERS>
+      <VERS vnumber="7">The voice of Jehovah cleaveth out flames of fire.</VERS>
+      <VERS vnumber="8">The voice of Jehovah shaketh the wilderness; Jehovah shaketh the wilderness of Kadesh.</VERS>
+      <VERS vnumber="9">The voice of Jehovah maketh the hinds to calve, and layeth bare the forests; and in his temple doth every one say, Glory!</VERS>
+      <VERS vnumber="10">Jehovah sitteth upon the flood; yea, Jehovah sitteth as king for ever.</VERS>
+      <VERS vnumber="11">Jehovah will give strength unto his people; Jehovah will bless his people with peace.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

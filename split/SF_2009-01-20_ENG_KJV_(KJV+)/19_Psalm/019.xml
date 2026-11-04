@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="19">
+      <VERS vnumber="1"> To the chief <gr str="5329">Musician</gr>, A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>. The <gr str="8064">heavens </gr>
+        <gr str="5608">declare </gr>the <gr str="3519">glory </gr>of <gr str="410">God</gr>; and the <gr str="7549">firmament </gr>
+        <gr str="5046">showeth </gr>his <gr str="4639 3027">handiwork</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="3117">Day </gr>unto <gr str="3117">day </gr>
+        <gr str="5042">uttereth </gr>
+        <gr str="562">speech</gr>, and <gr str="3915">night </gr>unto <gr str="3915">night </gr>
+        <gr str="2331">showeth </gr>
+        <gr str="1847">knowledge</gr>. </VERS>
+      <VERS vnumber="3">
+        <STYLE css="color:#808080;font-style:italic"> There </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="369">no </gr>
+        <gr str="562">speech </gr>
+        <gr str="369">nor </gr>
+        <gr str="1697">language</gr>, <STYLE css="color:#808080;font-style:italic"> where </STYLE> their <gr str="6963">voice </gr>is <gr str="1097">not </gr>
+        <gr str="8085">heard</gr>. </VERS>
+      <VERS vnumber="4"> Their <gr str="6957">line </gr>is gone <gr str="3318">out </gr>through <gr str="3605">all </gr>the <gr str="776">earth</gr>, and their <gr str="4405">words </gr>to the <gr str="7097">end </gr>of the <gr str="8398">world</gr>. In them hath he <gr str="7760">set </gr>a <gr str="168">tabernacle </gr>for the <gr str="8121">sun</gr>, </VERS>
+      <VERS vnumber="5">
+        <gr str="1931">Which </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> as a <gr str="2860">bridegroom </gr>coming <gr str="3318">out </gr>of his <gr str="4480 2646">chamber</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="7797">rejoiceth </gr>as a strong <gr str="1368">man </gr>to <gr str="7323">run </gr>a <gr str="734">race</gr>. </VERS>
+      <VERS vnumber="6"> His going <gr str="4161">forth </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> from the <gr str="4480 7097">end </gr>of the <gr str="8064">heaven</gr>, and his <gr str="8622">circuit </gr>
+        <gr str="5921">unto </gr>the <gr str="7098">ends </gr>of it: and there is <gr str="369">nothing </gr>
+        <gr str="5641">hid </gr>from the <gr str="4480 2535">heat </gr>thereof. </VERS>
+      <VERS vnumber="7"> The <gr str="8451">law </gr>of the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="8549">perfect</gr>, <gr str="7725">converting </gr>the <gr str="5315">soul</gr>: the <gr str="5715">testimony </gr>of the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="539">sure</gr>, making <gr str="2449">wise </gr>the <gr str="6612">simple</gr>. </VERS>
+      <VERS vnumber="8"> The <gr str="6490">statutes </gr>of the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="3477">right</gr>, <gr str="8055">rejoicing </gr>the <gr str="3820">heart</gr>: the <gr str="4687">commandment </gr>of the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="1249">pure</gr>, <gr str="215">enlightening </gr>the <gr str="5869">eyes</gr>. </VERS>
+      <VERS vnumber="9"> The <gr str="3374">fear </gr>of the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2889">clean</gr>, <gr str="5975">enduring </gr>
+        <gr str="5703">forever</gr>: the <gr str="4941">judgments </gr>of the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="571">true </gr>
+        <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="6663">righteous </gr>
+        <gr str="3162">altogether</gr>. </VERS>
+      <VERS vnumber="10"> More to be <gr str="2530">desired </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> they </STYLE> than <gr str="4480 2091">gold</gr>, yea, than <gr str="7227">much </gr>fine <gr str="4480 6337">gold</gr>: <gr str="4966">sweeter </gr>also than <gr str="4480 1706">honey </gr>and the <gr str="5317 6688">honeycomb</gr>. </VERS>
+      <VERS vnumber="11">
+        <gr str="1571">Moreover </gr>by them is thy <gr str="5650">servant </gr>
+        <gr str="2094">warned</gr>: <STYLE css="color:#808080;font-style:italic"> and </STYLE> in <gr str="8104">keeping </gr>of them <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="7227">great </gr>
+        <gr str="6118">reward</gr>. </VERS>
+      <VERS vnumber="12">
+        <gr str="4310">Who </gr>can <gr str="995">understand </gr>
+        <STYLE css="color:#808080;font-style:italic"> his </STYLE>
+        <gr str="7691">errors</gr>? <gr str="5352">cleanse </gr>thou me from <gr str="4480 5641">secret </gr>
+        <STYLE css="color:#808080;font-style:italic"> faults </STYLE>. </VERS>
+      <VERS vnumber="13"> Keep <gr str="2820">back </gr>thy <gr str="5650">servant </gr>
+        <gr str="1571">also </gr>from <gr str="4480 2086">presumptuous </gr>
+        <STYLE css="color:#808080;font-style:italic"> sins </STYLE>; let them <gr str="408">not </gr>have <gr str="4910">dominion </gr>over me: <gr str="227">then </gr>shall I be <gr str="8552">upright</gr>, and I shall be <gr str="5352">innocent </gr>from the <gr str="7227">great </gr>
+        <gr str="4480 6588">transgression</gr>. </VERS>
+      <VERS vnumber="14"> Let the <gr str="561">words </gr>of my <gr str="6310">mouth</gr>, and the <gr str="1902">meditation </gr>of my <gr str="3820">heart</gr>, <gr str="1961">be </gr>
+        <gr str="7522">acceptable </gr>in thy <gr str="6440">sight</gr>, O <gr str="3068">LORD</gr>, my <gr str="6697">strength</gr>, and my <gr str="1350">redeemer</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

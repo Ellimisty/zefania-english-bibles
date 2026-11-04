@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Geneva Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="23">
+      <VERS vnumber="1">«A Psalm of David.» The LORD [is] my shepherd; <DIV>
+          <NOTE type="x-studynote">He has care over me and ministers all things to me.</NOTE>
+        </DIV> I shall not want.</VERS>
+      <VERS vnumber="2">He maketh me to rest in greene pasture, and leadeth me by the still waters.</VERS>
+      <VERS vnumber="3">He <DIV>
+          <NOTE type="x-studynote">He comforts or refreshes me.</NOTE>
+        </DIV> restoreth my soul: he leadeth me in the <DIV>
+          <NOTE type="x-studynote">Plain or straight ways.</NOTE>
+        </DIV> paths of righteousness for his name's sake.</VERS>
+      <VERS vnumber="4">Yea, though I walk through the valley of the <DIV>
+          <NOTE type="x-studynote">Though he was in danger of death, as the sheep that wanders in the dark valley without his shepherd.</NOTE>
+        </DIV> shadow of death, I will fear no evil: for thou [art] with me; thy rod and thy staff they comfort me.</VERS>
+      <VERS vnumber="5">Thou preparest a <DIV>
+          <NOTE type="x-studynote">Even though his enemies sought to destroy him, yet God delivers him, and deals most liberally with him in spite of them.</NOTE>
+        </DIV> table before me in the presence of mine enemies: thou <DIV>
+          <NOTE type="x-studynote">As was the manner of great feasts.</NOTE>
+        </DIV> anointest my head with oil; my cup runneth over.</VERS>
+      <VERS vnumber="6">Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the <DIV>
+          <NOTE type="x-studynote">He does not set his happiness in the pleasures of this world, but in the fear and service of God.</NOTE>
+        </DIV> house of the LORD for ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

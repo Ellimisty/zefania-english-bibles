@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="40" bname="Matthäus" bsname="Mt">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1"> The <gr str="976">book </gr>of the <gr str="1078">generation </gr>of <gr str="2424">Jesus </gr>
+        <gr str="5547">Christ</gr>, the <gr str="5207">son </gr>of <gr str="1138">David</gr>, the <gr str="5207">son </gr>of <gr str="11">Abraham</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="11">Abraham </gr>
+        <gr str="1080">begat </gr>
+        <gr str="2464">Isaac</gr>; <gr str="1161">and </gr>
+        <gr str="2464">Isaac </gr>
+        <gr str="1080">begat </gr>
+        <gr str="2384">Jacob</gr>; <gr str="1161">and </gr>
+        <gr str="2384">Jacob </gr>
+        <gr str="1080">begat </gr>
+        <gr str="2455">Judas </gr>
+        <gr str="2532">and </gr>
+        <gr str="846">his </gr>
+        <gr str="80">brethren</gr>; </VERS>
+      <VERS vnumber="3">
+        <gr str="1161">And </gr>
+        <gr str="2455">Judas </gr>
+        <gr str="1080">begat </gr>
+        <gr str="5329">Phares </gr>
+        <gr str="2532">and </gr>
+        <gr str="2196">Zara </gr>
+        <gr str="1537">of </gr>
+        <gr str="2283">Tamar</gr>; <gr str="1161">and </gr>
+        <gr str="5329">Phares </gr>
+        <gr str="1080">begat </gr>
+        <gr str="2074">Esrom</gr>; <gr str="1161">and </gr>
+        <gr str="2074">Esrom </gr>
+        <gr str="1080">begat </gr>
+        <gr str="689">Aram</gr>; </VERS>
+      <VERS vnumber="4">
+        <gr str="1161">And </gr>
+        <gr str="689">Aram </gr>
+        <gr str="1080">begat </gr>
+        <gr str="284">Aminadab</gr>; <gr str="1161">and </gr>
+        <gr str="284">Aminadab </gr>
+        <gr str="1080">begat </gr>
+        <gr str="3476">Naasson</gr>; <gr str="1161">and </gr>
+        <gr str="3476">Naasson </gr>
+        <gr str="1080">begat </gr>
+        <gr str="4533">Salmon</gr>; </VERS>
+      <VERS vnumber="5">
+        <gr str="1161">And </gr>
+        <gr str="4533">Salmon </gr>
+        <gr str="1080">begat </gr>
+        <gr str="1003">Boaz </gr>
+        <gr str="1537">of </gr>
+        <gr str="4477">Rahab</gr>; <gr str="1161">and </gr>
+        <gr str="1003">Boaz </gr>
+        <gr str="1080">begat </gr>
+        <gr str="5601">Obed </gr>
+        <gr str="1537">of </gr>
+        <gr str="4503">Ruth</gr>; <gr str="1161">and </gr>
+        <gr str="5601">Obed </gr>
+        <gr str="1080">begat </gr>
+        <gr str="2421">Jesse</gr>; </VERS>
+      <VERS vnumber="6">
+        <gr str="1161">And </gr>
+        <gr str="2421">Jesse </gr>
+        <gr str="1080">begat </gr>
+        <gr str="1138">David </gr>
+        <gr str="3588">the </gr>
+        <gr str="935">king</gr>; <gr str="1161">and </gr>
+        <gr str="1138">David </gr>
+        <gr str="3588">the </gr>
+        <gr str="935">king </gr>
+        <gr str="1080">begat </gr>
+        <gr str="4672">Solomon </gr>
+        <gr str="1537">of </gr>
+        <gr str="3588">her </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> had </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> been </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> wife </STYLE> of <gr str="3774">Uriah</gr>; </VERS>
+      <VERS vnumber="7">
+        <gr str="1161">And </gr>
+        <gr str="4672">Solomon </gr>
+        <gr str="1080">begat </gr>
+        <gr str="4497">Roboam</gr>; <gr str="1161">and </gr>
+        <gr str="4497">Roboam </gr>
+        <gr str="1080">begat </gr>
+        <gr str="7">Abia</gr>; <gr str="1161">and </gr>
+        <gr str="7">Abia </gr>
+        <gr str="1080">begat </gr>
+        <gr str="760">Asa</gr>; </VERS>
+      <VERS vnumber="8">
+        <gr str="1161">And </gr>
+        <gr str="760">Asa </gr>
+        <gr str="1080">begat </gr>
+        <gr str="2498">Jehoshaphat</gr>; <gr str="1161">and </gr>
+        <gr str="2498">Jehoshaphat </gr>
+        <gr str="1080">begat </gr>
+        <gr str="2496">Joram</gr>; <gr str="1161">and </gr>
+        <gr str="2496">Joram </gr>
+        <gr str="1080">begat </gr>
+        <gr str="3604">Ozias</gr>; </VERS>
+      <VERS vnumber="9">
+        <gr str="1161">And </gr>
+        <gr str="3604">Ozias </gr>
+        <gr str="1080">begat </gr>
+        <gr str="2488">Joatham</gr>; <gr str="1161">and </gr>
+        <gr str="2488">Joatham </gr>
+        <gr str="1080">begat </gr>
+        <gr str="881">Achaz</gr>; <gr str="1161">and </gr>
+        <gr str="881">Achaz </gr>
+        <gr str="1080">begat </gr>
+        <gr str="1478">Ezekias</gr>; </VERS>
+      <VERS vnumber="10">
+        <gr str="1161">And </gr>
+        <gr str="1478">Ezekias </gr>
+        <gr str="1080">begat </gr>
+        <gr str="3128">Manasses</gr>; <gr str="1161">and </gr>
+        <gr str="3128">Manasses </gr>
+        <gr str="1080">begat </gr>
+        <gr str="300">Amon</gr>; <gr str="1161">and </gr>
+        <gr str="300">Amon </gr>
+        <gr str="1080">begat </gr>
+        <gr str="2502">Josiah</gr>; </VERS>
+      <VERS vnumber="11">
+        <gr str="1161">And </gr>
+        <gr str="2502">Josiah </gr>
+        <gr str="1080">begat </gr>
+        <gr str="2423">Jechoniah </gr>
+        <gr str="2532">and </gr>
+        <gr str="846">his </gr>
+        <gr str="80">brethren</gr>, <gr str="1909">about </gr>
+        <gr str="3588">the </gr>time they were carried <gr str="3350">away </gr>to <gr str="897">Babylon</gr>: </VERS>
+      <VERS vnumber="12">
+        <gr str="1161">And </gr>
+        <gr str="3326">after </gr>
+        <gr str="3588">they </gr>were <gr str="3350">brought </gr>to <gr str="897">Babylon</gr>, <gr str="2423">Jechoniah </gr>
+        <gr str="1080">begat </gr>
+        <gr str="4528">Shealtiel</gr>; <gr str="1161">and </gr>
+        <gr str="4528">Shealtiel </gr>
+        <gr str="1080">begat </gr>
+        <gr str="2216">Zorobabel</gr>; </VERS>
+      <VERS vnumber="13">
+        <gr str="1161">And </gr>
+        <gr str="2216">Zorobabel </gr>
+        <gr str="1080">begat </gr>
+        <gr str="10">Abiud</gr>; <gr str="1161">and </gr>
+        <gr str="10">Abiud </gr>
+        <gr str="1080">begat </gr>
+        <gr str="1662">Eliakim</gr>; <gr str="1161">and </gr>
+        <gr str="1662">Eliakim </gr>
+        <gr str="1080">begat </gr>
+        <gr str="107">Azor</gr>; </VERS>
+      <VERS vnumber="14">
+        <gr str="1161">And </gr>
+        <gr str="107">Azor </gr>
+        <gr str="1080">begat </gr>
+        <gr str="4524">Sadoc</gr>; <gr str="1161">and </gr>
+        <gr str="4524">Sadoc </gr>
+        <gr str="1080">begat </gr>
+        <gr str="885">Achim</gr>; <gr str="1161">and </gr>
+        <gr str="885">Achim </gr>
+        <gr str="1080">begat </gr>
+        <gr str="1664">Eliud</gr>; </VERS>
+      <VERS vnumber="15">
+        <gr str="1161">And </gr>
+        <gr str="1664">Eliud </gr>
+        <gr str="1080">begat </gr>
+        <gr str="1648">Eleazar</gr>; <gr str="1161">and </gr>
+        <gr str="1648">Eleazar </gr>
+        <gr str="1080">begat </gr>
+        <gr str="3157">Matthan</gr>; <gr str="1161">and </gr>
+        <gr str="3157">Matthan </gr>
+        <gr str="1080">begat </gr>
+        <gr str="2384">Jacob</gr>; </VERS>
+      <VERS vnumber="16">
+        <gr str="1161">And </gr>
+        <gr str="2384">Jacob </gr>
+        <gr str="1080">begat </gr>
+        <gr str="2501">Joseph </gr>
+        <gr str="3588">the </gr>
+        <gr str="435">husband </gr>of <gr str="3137">Mary</gr>, <gr str="1537">of </gr>
+        <gr str="3739">whom </gr>was <gr str="1080">born </gr>
+        <gr str="2424">Jesus</gr>, <gr str="3588">who </gr>is <gr str="3004">called </gr>
+        <gr str="5547">Christ</gr>. </VERS>
+      <VERS vnumber="17">
+        <gr str="3767">So </gr>
+        <gr str="3956">all </gr>
+        <gr str="3588">the </gr>
+        <gr str="1074">generations </gr>
+        <gr str="575">from </gr>
+        <gr str="11">Abraham </gr>
+        <gr str="2193">to </gr>
+        <gr str="1138">David </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="1180">fourteen </gr>
+        <gr str="1074">generations</gr>; <gr str="2532">and </gr>
+        <gr str="575">from </gr>
+        <gr str="1138">David </gr>
+        <gr str="2193">until </gr>
+        <gr str="3588">the </gr>carrying <gr str="3350">away </gr>into <gr str="897">Babylon </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="1180">fourteen </gr>
+        <gr str="1074">generations</gr>; <gr str="2532">and </gr>
+        <gr str="575">from </gr>
+        <gr str="3588">the </gr>carrying <gr str="3350">away </gr>into <gr str="897">Babylon </gr>
+        <gr str="2193">unto </gr>
+        <gr str="5547">Christ </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="1180">fourteen </gr>
+        <gr str="1074">generations</gr>. </VERS>
+      <VERS vnumber="18">
+        <gr str="1161">Now </gr>
+        <gr str="3588">the </gr>
+        <gr str="1083">birth </gr>of <gr str="2424">Jesus </gr>
+        <gr str="5547">Christ </gr>
+        <gr str="2258">was </gr>on this <gr str="3779">wise</gr>: When <gr str="1063">as </gr>
+        <gr str="846">his </gr>
+        <gr str="3384">mother </gr>
+        <gr str="3137">Mary </gr>was <gr str="3423">espoused </gr>to <gr str="2501">Joseph</gr>, <gr str="4250">before </gr>
+        <gr str="846">they </gr>came <gr str="4905">together</gr>, she was found with <gr str="2147 2192 1722 1064">child </gr>
+        <gr str="1537">of </gr>the <gr str="40">Holy </gr>
+        <gr str="4151">Ghost</gr>. </VERS>
+      <VERS vnumber="19">
+        <gr str="1161">Then </gr>
+        <gr str="2501">Joseph </gr>
+        <gr str="846">her </gr>
+        <gr str="435">husband</gr>, <gr str="5607">being </gr>a <gr str="1342">just </gr>
+        <STYLE css="color:#808080;font-style:italic"> man, </STYLE>
+        <gr str="2532">and </gr>
+        <gr str="3361">not </gr>
+        <gr str="2309">willing </gr>to make her a public <gr str="3856 846">example</gr>, was <gr str="1014">minded </gr>to put her <gr str="630 846">away </gr>
+        <gr str="2977">privily</gr>. </VERS>
+      <VERS vnumber="20">
+        <gr str="1161">But </gr>while <gr str="846">he </gr>
+        <gr str="1760">thought </gr>on these <gr str="5023">things</gr>, <gr str="2400">behold</gr>, the <gr str="32">angel </gr>of the <gr str="2962">Lord </gr>
+        <gr str="5316">appeared </gr>unto <gr str="846">him </gr>
+        <gr str="2596">in </gr>a <gr str="3677">dream</gr>, <gr str="3004">saying</gr>, <gr str="2501">Joseph</gr>, thou <gr str="5207">son </gr>of <gr str="1138">David</gr>, <gr str="5399">fear </gr>
+        <gr str="3361">not </gr>to <gr str="3880">take </gr>unto thee <gr str="3137">Mary </gr>
+        <gr str="4675">thy </gr>
+        <gr str="1135">wife</gr>; <gr str="1063">for </gr>that which is <gr str="1080">conceived </gr>
+        <gr str="1722">in </gr>
+        <gr str="846">her </gr>
+        <gr str="2076">is </gr>
+        <gr str="1537">of </gr>the <gr str="40">Holy </gr>
+        <gr str="4151">Ghost</gr>. </VERS>
+      <VERS vnumber="21">
+        <gr str="1161">And </gr>she shall bring <gr str="5088">forth </gr>a <gr str="5207">son</gr>, <gr str="2532">and </gr>thou shalt <gr str="2564">call </gr>
+        <gr str="846">his </gr>
+        <gr str="3686">name </gr>
+        <gr str="2424">JESUS</gr>: <gr str="1063">for </gr>
+        <gr str="846">he </gr>shall <gr str="4982">save </gr>
+        <gr str="848">his </gr>
+        <gr str="2992">people </gr>
+        <gr str="575">from </gr>
+        <gr str="846">their </gr>
+        <gr str="266">sins</gr>. </VERS>
+      <VERS vnumber="22">
+        <gr str="1161">Now </gr>
+        <gr str="3650">all </gr>
+        <gr str="5124">this </gr>was <gr str="1096">done</gr>, <gr str="2443">that </gr>it might be <gr str="4137">fulfilled </gr>
+        <gr str="3588">which </gr>was <gr str="4483">spoken </gr>
+        <gr str="5259">of </gr>
+        <gr str="3588">the </gr>
+        <gr str="2962">Lord </gr>
+        <gr str="1223">by </gr>
+        <gr str="3588">the </gr>
+        <gr str="4396">prophet</gr>, <gr str="3004">saying</gr>, </VERS>
+      <VERS vnumber="23">
+        <gr str="2400">Behold</gr>, a <gr str="3933">virgin </gr>shall be with <gr str="2192 1722 1064">child</gr>, <gr str="2532">and </gr>shall bring <gr str="5088">forth </gr>a <gr str="5207">son</gr>, <gr str="2532">and </gr>they shall <gr str="2564">call </gr>
+        <gr str="846">his </gr>
+        <gr str="3686">name </gr>
+        <gr str="1694">Emmanuel</gr>, <gr str="3739">which </gr>being <gr str="3177">interpreted </gr>
+        <gr str="2076">is</gr>, <gr str="2316">God </gr>
+        <gr str="3326">with </gr>
+        <gr str="2257">us</gr>. </VERS>
+      <VERS vnumber="24">
+        <gr str="1161">Then </gr>
+        <gr str="2501">Joseph </gr>being <gr str="1326">raised </gr>
+        <gr str="575">from </gr>
+        <gr str="5258">sleep </gr>
+        <gr str="4160">did </gr>
+        <gr str="5613">as </gr>
+        <gr str="3588">the </gr>
+        <gr str="32">angel </gr>of the <gr str="2962">Lord </gr>had <gr str="4367">bidden </gr>
+        <gr str="846">him</gr>, <gr str="2532">and </gr>
+        <gr str="3880">took </gr>unto him <gr str="848">his </gr>
+        <gr str="1135">wife</gr>: </VERS>
+      <VERS vnumber="25">
+        <gr str="2532">And </gr>
+        <gr str="1097">knew </gr>
+        <gr str="846">her </gr>
+        <gr str="3756">not </gr>
+        <gr str="2193">till </gr>she had brought <gr str="5088">forth </gr>
+        <gr str="848">her </gr>
+        <gr str="4416">firstborn </gr>
+        <gr str="5207">son</gr>: <gr str="2532">and </gr>he <gr str="2564">called </gr>
+        <gr str="846">his </gr>
+        <gr str="3686">name </gr>
+        <gr str="2424">JESUS</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

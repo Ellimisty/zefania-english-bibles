@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="4" bname="4 Mose" bsname="4Mo">
+    <CHAPTER cnumber="30">
+      <VERS vnumber="1"> And <gr str="4872">Moses </gr>
+        <gr str="1696">spoke </gr>
+        <gr str="413">unto </gr>the <gr str="7218">heads </gr>of the <gr str="4294">tribes </gr>concerning the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>, <gr str="559">saying</gr>, <gr str="2088">This </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="1697">thing </gr>
+        <gr str="834">which </gr>the <gr str="3068">LORD </gr>hath <gr str="6680">commanded</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="3588">If </gr>a <gr str="376">man </gr>
+        <gr str="5087">vow </gr>a <gr str="5088">vow </gr>unto the <gr str="3068">LORD</gr>, <gr str="176">or </gr>
+        <gr str="7650">swear </gr>an <gr str="7621">oath </gr>to <gr str="631 5921">bind </gr>his <gr str="5315">soul </gr>with a <gr str="632">bond</gr>; he shall <gr str="3808">not </gr>
+        <gr str="2490">break </gr>his <gr str="1697">word</gr>, he shall <gr str="6213">do </gr>according to <gr str="3605">all </gr>that proceedeth <gr str="3318">out </gr>of his <gr str="4480 6310">mouth</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="3588">If </gr>a <gr str="802">woman </gr>also <gr str="5087">vow </gr>a <gr str="5088">vow </gr>unto the <gr str="3068">LORD</gr>, and <gr str="631">bind </gr>herself by a <gr str="632">bond</gr>, <STYLE css="color:#808080;font-style:italic"> being </STYLE> in her <gr str="1">father </gr>'s <gr str="1004">house </gr>in her <gr str="5271">youth</gr>; </VERS>
+      <VERS vnumber="4"> And her <gr str="1">father </gr>
+        <gr str="8085">hear </gr>
+        <gr str="*853" />her <gr str="5088">vow</gr>, and her <gr str="632">bond </gr>
+        <gr str="834">wherewith </gr>she hath <gr str="631 5921">bound </gr>her <gr str="5315">soul</gr>, and her <gr str="1">father </gr>shall hold his <gr str="2790">peace </gr>at her: then <gr str="3605">all </gr>her <gr str="5088">vows </gr>shall <gr str="6965">stand</gr>, and <gr str="3605">every </gr>
+        <gr str="632">bond </gr>
+        <gr str="834">wherewith </gr>she hath <gr str="631 5921">bound </gr>her <gr str="5315">soul </gr>shall <gr str="6965">stand</gr>. </VERS>
+      <VERS vnumber="5"> But <gr str="518">if </gr>her <gr str="1">father </gr>
+        <gr str="5106">disallow </gr>her in the <gr str="3117">day </gr>that he <gr str="8085">heareth</gr>; <gr str="3808">not </gr>
+        <gr str="3605">any </gr>of her <gr str="5088">vows</gr>, or of her <gr str="632">bonds </gr>
+        <gr str="834">wherewith </gr>she hath <gr str="631 5921">bound </gr>her <gr str="5315">soul</gr>, shall <gr str="6965">stand</gr>: and the <gr str="3068">LORD </gr>shall <gr str="5545">forgive </gr>her, <gr str="3588">because </gr>her <gr str="1">father </gr>
+        <gr str="5106">disallowed </gr>her. </VERS>
+      <VERS vnumber="6"> And <gr str="518">if </gr>she had at <gr str="1961 1961">all </gr>a <gr str="376">husband</gr>, when she <gr str="5088 5921">vowed</gr>, <gr str="176">or </gr>
+        <gr str="4008">uttered </gr>aught out of her <gr str="8193">lips</gr>, <gr str="834">wherewith </gr>she <gr str="631 5921">bound </gr>her <gr str="5315">soul</gr>; </VERS>
+      <VERS vnumber="7"> And her <gr str="376">husband </gr>
+        <gr str="8085">heard </gr>
+        <STYLE css="color:#808080;font-style:italic"> it, </STYLE> and held his <gr str="2790">peace </gr>at her in the <gr str="3117">day </gr>that he <gr str="8085">heard </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>: then her <gr str="5088">vows </gr>shall <gr str="6965">stand</gr>, and her <gr str="632">bonds </gr>
+        <gr str="834">wherewith </gr>she <gr str="631 5921">bound </gr>her <gr str="5315">soul </gr>shall <gr str="6965">stand</gr>. </VERS>
+      <VERS vnumber="8"> But <gr str="518">if </gr>her <gr str="376">husband </gr>
+        <gr str="5106">disallowed </gr>her on the <gr str="3117">day </gr>that he <gr str="8085">heard </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>; then he shall make <gr str="*853" />her <gr str="5088">vow </gr>which she <gr str="834 5921">vowed</gr>, and that which she <gr str="4008">uttered </gr>with her <gr str="8193">lips</gr>, <gr str="834">wherewith </gr>she <gr str="631 5921">bound </gr>her <gr str="5315">soul</gr>, of none <gr str="6565">effect</gr>: and the <gr str="3068">LORD </gr>shall <gr str="5545">forgive </gr>her. </VERS>
+      <VERS vnumber="9"> But <gr str="3605">every </gr>
+        <gr str="5088">vow </gr>of a <gr str="490">widow</gr>, and of her that is <gr str="1644">divorced</gr>, <gr str="834">wherewith </gr>they have <gr str="631 5921">bound </gr>their <gr str="5315">souls</gr>, shall <gr str="6965">stand </gr>
+        <gr str="5921">against </gr>her. </VERS>
+      <VERS vnumber="10"> And <gr str="518">if </gr>she <gr str="5087">vowed </gr>in her <gr str="376">husband </gr>'s <gr str="1004">house</gr>, <gr str="176">or </gr>
+        <gr str="631 5921">bound </gr>her <gr str="5315">soul </gr>by a <gr str="632">bond </gr>with an <gr str="7621">oath</gr>; </VERS>
+      <VERS vnumber="11"> And her <gr str="376">husband </gr>
+        <gr str="8085">heard </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>, and held his <gr str="2790">peace </gr>at her, <STYLE css="color:#808080;font-style:italic"> and </STYLE>
+        <gr str="5106">disallowed </gr>her <gr str="3808">not</gr>: then <gr str="3605">all </gr>her <gr str="5088">vows </gr>shall <gr str="6965">stand</gr>, and <gr str="3605">every </gr>
+        <gr str="632">bond </gr>
+        <gr str="834">wherewith </gr>she <gr str="631 5921">bound </gr>her <gr str="5315">soul </gr>shall <gr str="6965">stand</gr>. </VERS>
+      <VERS vnumber="12"> But <gr str="518">if </gr>her <gr str="376">husband </gr>hath utterly made them <gr str="6565 6565 *853">void </gr>on the <gr str="3117">day </gr>he <gr str="8085">heard </gr>
+        <STYLE css="color:#808080;font-style:italic"> them; </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> then </STYLE>
+        <gr str="3605">whatsoever </gr>proceeded <gr str="4161">out </gr>of her <gr str="8193">lips </gr>concerning her <gr str="5088">vows</gr>, or concerning the <gr str="632">bond </gr>of her <gr str="5315">soul</gr>, shall <gr str="3808">not </gr>
+        <gr str="6965">stand</gr>: her <gr str="376">husband </gr>hath made them <gr str="6565">void</gr>; and the <gr str="3068">LORD </gr>shall <gr str="5545">forgive </gr>her. </VERS>
+      <VERS vnumber="13">
+        <gr str="3605">Every </gr>
+        <gr str="5088">vow</gr>, and <gr str="3605">every </gr>
+        <gr str="632">binding </gr>
+        <gr str="7621">oath </gr>to <gr str="6031">afflict </gr>the <gr str="5315">soul</gr>, her <gr str="376">husband </gr>may <gr str="6965">establish </gr>it, or her <gr str="376">husband </gr>may make it <gr str="6565">void</gr>. </VERS>
+      <VERS vnumber="14"> But <gr str="518">if </gr>her <gr str="376">husband </gr>altogether hold his <gr str="2790 2790">peace </gr>at her from <gr str="4480 3117">day </gr>
+        <gr str="413">to </gr>
+        <gr str="3117">day</gr>; then he <gr str="6965">establisheth </gr>
+        <gr str="*853" />
+        <gr str="3605">all </gr>her <gr str="5088">vows</gr>, <gr str="176">or </gr>
+        <gr str="*853" />
+        <gr str="3605">all </gr>her <gr str="632">bonds</gr>, <gr str="834">which </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="5921">upon </gr>her: he <gr str="6965">confirmeth </gr>them, <gr str="3588">because </gr>he held his <gr str="2790">peace </gr>at her in the <gr str="3117">day </gr>that he <gr str="8085">heard </gr>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE>. </VERS>
+      <VERS vnumber="15"> But <gr str="518">if </gr>he shall any ways make them <gr str="6565 6565 *853">void </gr>after <gr str="310">that </gr>he hath <gr str="8085">heard </gr>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE>; then he shall <gr str="5375">bear </gr>
+        <gr str="*853" />her <gr str="5771">iniquity</gr>. </VERS>
+      <VERS vnumber="16">
+        <gr str="428">These </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> the <gr str="2706">statutes</gr>, <gr str="834">which </gr>the <gr str="3068">LORD </gr>
+        <gr str="6680">commanded </gr>
+        <gr str="*853" />
+        <gr str="4872">Moses</gr>, <gr str="996">between </gr>a <gr str="376">man </gr>and his <gr str="802">wife</gr>, <gr str="996">between </gr>the <gr str="1">father </gr>and his <gr str="1323">daughter</gr>, <STYLE css="color:#808080;font-style:italic"> being </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> yet </STYLE> in her <gr str="5271">youth </gr>in her <gr str="1">father </gr>'s <gr str="1004">house</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

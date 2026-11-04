@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="14">
+      <CAPTION vref="1">To the Chief Musician. A Psalm of David.</CAPTION>
+      <VERS vnumber="1">The fool has said in his heart, There is no God! They are corrupt; they have done abominable works, there is no one who does good.</VERS>
+      <VERS vnumber="2">Jehovah looked down from Heaven upon the sons of men, to see if there were any who understood and sought God.</VERS>
+      <VERS vnumber="3">They have all turned aside, together they have become corrupt; there is no one who does good, no, not one.</VERS>
+      <VERS vnumber="4">Have all the workers of iniquity not known, eating up My people as they eat bread? They have not called upon Jehovah.</VERS>
+      <VERS vnumber="5">There they were in great fear; for God is in the generation of the righteous.</VERS>
+      <VERS vnumber="6">You shame the counsel of the lowly, for Jehovah is his refuge.</VERS>
+      <VERS vnumber="7">Oh that the salvation of Israel was out of Zion! When Jehovah brings back the captivity of His people, Jacob shall rejoice, and Israel shall be glad.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

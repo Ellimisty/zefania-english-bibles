@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="70">
+      <VERS vnumber="1"> To the chief <gr str="5329">Musician</gr>, <STYLE css="color:#808080;font-style:italic"> A </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> Psalm </STYLE> of <gr str="1732">David</gr>, to bring to <gr str="2142">remembrance</gr>. <STYLE css="color:#808080;font-style:italic"> Make </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> haste </STYLE>, O <gr str="430">God</gr>, to <gr str="5337">deliver </gr>me; make <gr str="2363">haste </gr>to <gr str="5833">help </gr>me, O <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="2"> Let them be <gr str="954">ashamed </gr>and <gr str="2659">confounded </gr>that seek <gr str="1245">after </gr>my <gr str="5315">soul</gr>: let them be <gr str="5472">turned </gr>
+        <gr str="268">backward</gr>, and put to <gr str="3637">confusion</gr>, that <gr str="2655">desire </gr>my <gr str="7451">hurt</gr>. </VERS>
+      <VERS vnumber="3"> Let them be turned <gr str="7725">back </gr>
+        <gr str="5921">for </gr>a <gr str="6118">reward </gr>of their <gr str="1322">shame </gr>that <gr str="559">say</gr>, <gr str="1889">Aha</gr>, <gr str="1889">aha</gr>. </VERS>
+      <VERS vnumber="4"> Let <gr str="3605">all </gr>those that <gr str="1245">seek </gr>thee <gr str="7797">rejoice </gr>and be <gr str="8055">glad </gr>in thee: and let such as <gr str="157">love </gr>thy <gr str="3444">salvation </gr>
+        <gr str="559">say </gr>
+        <gr str="8548">continually</gr>, Let <gr str="430">God </gr>be <gr str="1431">magnified</gr>. </VERS>
+      <VERS vnumber="5"> But <gr str="589">I </gr>
+        <STYLE css="color:#808080;font-style:italic"> am </STYLE>
+        <gr str="6041">poor </gr>and <gr str="34">needy</gr>: make <gr str="2363">haste </gr>unto me, O <gr str="430">God</gr>: <gr str="859">thou </gr>
+        <STYLE css="color:#808080;font-style:italic"> art </STYLE> my <gr str="5828">help </gr>and my <gr str="6403">deliverer</gr>; O <gr str="3068">LORD</gr>, make <gr str="408">no </gr>
+        <gr str="309">tarrying</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

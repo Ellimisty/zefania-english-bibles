@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="21">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">The king finds joy in your strength, O Jehovah. What great joy he has in your salvation!</VERS>
+      <VERS vnumber="2">You gave him his heart's desire. You did not refuse the prayer from his lips.</VERS>
+      <VERS vnumber="3">You come to him with the blessings of good things. You set a crown of fine gold on his head.</VERS>
+      <VERS vnumber="4">He asked you for life. You gave him a long life, forever and ever <STYLE css="font-style:italic">perpetuity</STYLE>
+        <STYLE css="font-style:italic">long lasting time</STYLE>.</VERS>
+      <VERS vnumber="5">Because of your salvation his glory is great. You place magnificence and majesty on him.</VERS>
+      <VERS vnumber="6">You make him blessed forever. You make him joyful with the pleasure of your presence.</VERS>
+      <VERS vnumber="7">Indeed, the king trusts Jehovah, and through the mercy of the Most High, he will not be moved.</VERS>
+      <VERS vnumber="8">Your hand <STYLE css="font-style:italic">spirit and power</STYLE> will discover all your enemies. Your powerful hand will find all who hate you.</VERS>
+      <VERS vnumber="9">When you appear, you will make them burn like a blazing furnace. Jehovah will swallow them up in his anger. Fire will devour them.</VERS>
+      <VERS vnumber="10">You will destroy their children from the earth and their offspring from among the sons of man.</VERS>
+      <VERS vnumber="11">Even though they scheme and devise evil against you, they will not succeed.</VERS>
+      <VERS vnumber="12">They turn their backs and flee because you aim your bow at their faces.</VERS>
+      <VERS vnumber="13">Arise O Jehovah be exalted in your strength. We will sing to praise your power.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

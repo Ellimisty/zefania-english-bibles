@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.3" biblename="New Heart English Bible ME" type="x-bible">
+  <BIBLEBOOK bnumber="19" bsname="PSA">
+    <CHAPTER cnumber="130">
+      <VERS vnumber="1" />
+      <VERS vnumber="2">Lord, hear my voice. Let your ears be attentive to the voice of my petitions.</VERS>
+      <VERS vnumber="3">If you, LORD, kept a record of sins, Lord, who could stand?</VERS>
+      <VERS vnumber="4">But there is forgiveness with you, therefore you are feared.</VERS>
+      <VERS vnumber="5">I wait for the LORD. My soul waits. I hope in his word.</VERS>
+      <VERS vnumber="6">My soul longs for the Lord more than watchmen long for the morning; more than watchmen for the morning.</VERS>
+      <VERS vnumber="7">Israel, hope in the LORD, for with the LORD there is loving kindness. With him is abundant redemption.</VERS>
+      <VERS vnumber="8">He will redeem Israel from all their sins.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

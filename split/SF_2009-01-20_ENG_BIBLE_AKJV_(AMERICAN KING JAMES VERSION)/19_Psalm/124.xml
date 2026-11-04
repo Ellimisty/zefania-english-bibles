@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="American King James Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="124">
+      <VERS vnumber="1">If it had not been the LORD who was on our side, now may Israel say;</VERS>
+      <VERS vnumber="2">If it had not been the LORD who was on our side, when men rose up against us:</VERS>
+      <VERS vnumber="3">Then they had swallowed us up quick, when their wrath was kindled against us:</VERS>
+      <VERS vnumber="4">Then the waters had overwhelmed us, the stream had gone over our soul:</VERS>
+      <VERS vnumber="5">Then the proud waters had gone over our soul.</VERS>
+      <VERS vnumber="6">Blessed be the LORD, who has not given us as a prey to their teeth.</VERS>
+      <VERS vnumber="7">Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.</VERS>
+      <VERS vnumber="8">Our help is in the name of the LORD, who made heaven and earth.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

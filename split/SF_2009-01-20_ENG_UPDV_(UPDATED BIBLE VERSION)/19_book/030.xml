@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Updated Bible Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="30">
+      <VERS vnumber="1">A Psalm; a Song at the Dedication of the House. [A Psalm] of David. I will extol you, O Yahweh; for you have raised me up, And have not made my foes to rejoice over me.</VERS>
+      <VERS vnumber="2">O Yahweh my God, I cried to you, and then you healed me.</VERS>
+      <VERS vnumber="3">O Yahweh, you have brought up my soul from Sheol; You have kept me alive, that I should not go down to the pit.</VERS>
+      <VERS vnumber="4">Sing praise to Yahweh, O you<DIV>
+          <NOTE type="x-emphasize">{+}</NOTE>
+        </DIV> saints of his, And give thanks to his holy memorial [name].</VERS>
+      <VERS vnumber="5">For his anger is but for a moment; His favor is for a lifetime: Weeping may spend the night, But joy [comes] in the morning.</VERS>
+      <VERS vnumber="6">As for me, I said in my prosperity, I will not be moved--forever.</VERS>
+      <VERS vnumber="7">You, Yahweh, of your favor had made my mountain to stand strong: You hid your face; I was troubled.</VERS>
+      <VERS vnumber="8">To you, O Yahweh, I will cry; And to the Lord I will plead for mercy:</VERS>
+      <VERS vnumber="9">What profit is there in my blood, when I go down to the pit? Will the dust praise you? Will it declare your truth?</VERS>
+      <VERS vnumber="10">Hear, O Yahweh, and have mercy on me: Yahweh, be my helper.</VERS>
+      <VERS vnumber="11">You have turned for me my mourning into dancing; You have loosed my sackcloth, and girded me with gladness;</VERS>
+      <VERS vnumber="12">So that glory will sing praise to you, and not be silent. O Yahweh my God, I will give thanks to you--forever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

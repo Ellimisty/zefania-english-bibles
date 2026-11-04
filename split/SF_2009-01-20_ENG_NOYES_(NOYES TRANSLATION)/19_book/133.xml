@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="133">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of the steps, or the goings up. By David.</STYLE> Behold, how good and pleasant it is For brethren to dwell together in unity!</VERS>
+      <VERS vnumber="2">It is like precious perfume upon the head, Which ran down upon the beard, The beard of Aaron; Which went down to the very border of his garments;</VERS>
+      <VERS vnumber="3">Like the dew of Hermon, Like that which descendeth upon the mountains of Zion. For there the LORD commandeth a blessing, Even life for evermore.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

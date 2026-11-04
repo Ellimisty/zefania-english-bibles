@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="110">
+      <VERS vnumber="1"> A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>. The <gr str="3068">LORD </gr>
+        <gr str="5002">said </gr>unto my <gr str="113">Lord</gr>, <gr str="3427">Sit </gr>thou at my right <gr str="3225">hand</gr>, <gr str="5704">until </gr>I <gr str="7896">make </gr>thine <gr str="341">enemies </gr>thy <gr str="1916 7272">footstool</gr>. </VERS>
+      <VERS vnumber="2"> The <gr str="3068">LORD </gr>shall <gr str="7971">send </gr>the <gr str="4294">rod </gr>of thy <gr str="5797">strength </gr>out of <gr str="4480 6726">Zion</gr>: <gr str="7287">rule </gr>thou in the <gr str="7130">midst </gr>of thine <gr str="341">enemies</gr>. </VERS>
+      <VERS vnumber="3"> Thy <gr str="5971">people </gr>
+        <STYLE css="color:#808080;font-style:italic"> shall </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE>
+        <gr str="5071">willing </gr>in the <gr str="3117">day </gr>of thy <gr str="2428">power</gr>, in the <gr str="1926">beauties </gr>of <gr str="6944">holiness </gr>from the <gr str="4480 7358">womb </gr>of the <gr str="4891">morning</gr>: thou hast the <gr str="2919">dew </gr>of thy <gr str="3208">youth</gr>. </VERS>
+      <VERS vnumber="4"> The <gr str="3068">LORD </gr>hath <gr str="7650">sworn</gr>, and will <gr str="3808">not </gr>
+        <gr str="5162">repent</gr>, <gr str="859">Thou </gr>
+        <STYLE css="color:#808080;font-style:italic"> art </STYLE> a <gr str="3548">priest </gr>
+        <gr str="5769">forever </gr>
+        <gr str="5921">after </gr>the <gr str="1700">order </gr>of <gr str="4442">Melchizedek</gr>. </VERS>
+      <VERS vnumber="5"> The <gr str="136">Lord </gr>
+        <gr str="5921">at </gr>thy right <gr str="3225">hand </gr>shall strike <gr str="4272">through </gr>
+        <gr str="4428">kings </gr>in the <gr str="3117">day </gr>of his <gr str="639">wrath</gr>. </VERS>
+      <VERS vnumber="6"> He shall <gr str="1777">judge </gr>among the <gr str="1471">heathen</gr>, he shall <gr str="4390">fill </gr>
+        <STYLE css="color:#808080;font-style:italic"> the </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> places </STYLE> with the dead <gr str="1472">bodies</gr>; he shall <gr str="4272">wound </gr>the <gr str="7218">heads </gr>
+        <gr str="5921">over </gr>
+        <gr str="7227">many </gr>
+        <gr str="776">countries</gr>. </VERS>
+      <VERS vnumber="7"> He shall <gr str="8354">drink </gr>of the <gr str="4480 5158">brook </gr>in the <gr str="1870">way</gr>: <gr str="5921 3651">therefore </gr>shall he lift <gr str="7311">up </gr>the <gr str="7218">head</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

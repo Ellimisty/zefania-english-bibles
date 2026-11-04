@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="King James Version PCE" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="5">
+      <VERS vnumber="1">To the chief Musician upon Nehiloth, A Psalm of David.  Give ear to my words, O <STYLE id="cl:divineName">Lord</STYLE>, consider my meditation.</VERS>
+      <VERS vnumber="2">Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray.</VERS>
+      <VERS vnumber="3">My voice shalt thou hear in the morning, O <STYLE id="cl:divineName">Lord</STYLE>; in the morning will I direct  my prayer  unto thee, and will look up.</VERS>
+      <VERS vnumber="4">For thou  art  not a God that hath pleasure in wickedness: neither shall evil dwell with thee.</VERS>
+      <VERS vnumber="5">The foolish shall not stand in thy sight: thou hatest all workers of iniquity.</VERS>
+      <VERS vnumber="6">Thou shalt destroy them that speak leasing: the <STYLE id="cl:divineName">Lord</STYLE> will abhor the bloody and deceitful man.</VERS>
+      <VERS vnumber="7">But as for me, I will come  into  thy house in the multitude of thy mercy:  and  in thy fear will I worship toward thy holy temple.</VERS>
+      <VERS vnumber="8">Lead me, O <STYLE id="cl:divineName">Lord</STYLE>, in thy righteousness because of mine enemies; make thy way straight before my face.</VERS>
+      <VERS vnumber="9">For  there is  no faithfulness in their mouth; their inward part  is  very wickedness; their throat  is  an open sepulchre; they flatter with their tongue.</VERS>
+      <VERS vnumber="10">Destroy thou them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against thee.</VERS>
+      <VERS vnumber="11">But let all those that put their trust in thee rejoice: let them ever shout for joy, because thou defendest them: let them also that love thy name be joyful in thee.</VERS>
+      <VERS vnumber="12">For thou, <STYLE id="cl:divineName">Lord</STYLE>, wilt bless the righteous; with favour wilt thou compass him as  with  a shield.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

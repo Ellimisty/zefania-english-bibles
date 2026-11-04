@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="47">
+      <VERS vnumber="1"> To the chief <gr str="5329">Musician</gr>, A <gr str="4210">Psalm </gr>for the <gr str="1121">sons </gr>of <gr str="7141">Korah</gr>. O <gr str="8628">clap </gr>your <gr str="3709">hands</gr>, <gr str="3605">all </gr>ye <gr str="5971">people</gr>; <gr str="7321">shout </gr>unto <gr str="430">God </gr>with the <gr str="6963">voice </gr>of <gr str="7440">triumph</gr>. </VERS>
+      <VERS vnumber="2">
+        <gr str="3588">For </gr>the <gr str="3068">LORD </gr>most <gr str="5945">high </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3372">terrible</gr>; <STYLE css="color:#808080;font-style:italic"> he </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="1419">great </gr>
+        <gr str="4428">King </gr>
+        <gr str="5921">over </gr>
+        <gr str="3605">all </gr>the <gr str="776">earth</gr>. </VERS>
+      <VERS vnumber="3"> He shall <gr str="1696">subdue </gr>the <gr str="5971">people </gr>
+        <gr str="8478">under </gr>us, and the <gr str="3816">nations </gr>
+        <gr str="8478">under </gr>our <gr str="7272">feet</gr>. </VERS>
+      <VERS vnumber="4"> He shall <gr str="977">choose </gr>
+        <gr str="*853" />our <gr str="5159">inheritance </gr>for us,  <gr str="*853" />the <gr str="1347">excellency </gr>of <gr str="3290">Jacob </gr>
+        <gr str="834">whom </gr>he <gr str="157">loved</gr>. <gr str="5542">Selah</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="430">God </gr>is gone <gr str="5927">up </gr>with a <gr str="8643">shout</gr>, the <gr str="3068">LORD </gr>with the <gr str="6963">sound </gr>of a <gr str="7782">trumpet</gr>. </VERS>
+      <VERS vnumber="6"> Sing <gr str="2167">praises </gr>to <gr str="430">God</gr>, sing <gr str="2167">praises</gr>: sing <gr str="2167">praises </gr>unto our <gr str="4428">King</gr>, sing <gr str="2167">praises</gr>. </VERS>
+      <VERS vnumber="7">
+        <gr str="3588">For </gr>
+        <gr str="430">God </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="4428">King </gr>of <gr str="3605">all </gr>the <gr str="776">earth</gr>: sing ye <gr str="2167">praises </gr>with <gr str="7919">understanding</gr>. </VERS>
+      <VERS vnumber="8">
+        <gr str="430">God </gr>
+        <gr str="4427">reigneth </gr>
+        <gr str="5921">over </gr>the <gr str="1471">heathen</gr>: <gr str="430">God </gr>
+        <gr str="3427">sitteth </gr>
+        <gr str="5921">upon </gr>the <gr str="3678">throne </gr>of his <gr str="6944">holiness</gr>. </VERS>
+      <VERS vnumber="9"> The <gr str="5081">princes </gr>of the <gr str="5971">people </gr>are gathered <gr str="622">together</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE> the <gr str="5971">people </gr>of the <gr str="430">God </gr>of <gr str="85">Abraham</gr>: <gr str="3588">for </gr>the <gr str="4043">shields </gr>of the <gr str="776">earth </gr>
+        <STYLE css="color:#808080;font-style:italic"> belong </STYLE> unto <gr str="430">God</gr>: he is <gr str="3966">greatly </gr>
+        <gr str="5927">exalted</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

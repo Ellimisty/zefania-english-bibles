@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="108">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">Song of a Psalm by David.</STYLE> - O God, my heart is ready, my heart is ready; I will sing and sing psalms with my glory.</VERS>
+      <VERS vnumber="2">Awake, psaltery and harp; I will awake early.</VERS>
+      <VERS vnumber="3">I will give thanks to thee, O Lord, among the people; I will sing praise to thee among the Gentiles.</VERS>
+      <VERS vnumber="4">For thy mercy is great above the heavens, and thy truth reaches to the clouds.</VERS>
+      <VERS vnumber="5">Be thou exalted, O God, above the heavens; and thy glory above all the earth.</VERS>
+      <VERS vnumber="6">That thy beloved ones may be delivered, save with thy right hand, and hear me. God has spoken in his sanctuary;</VERS>
+      <VERS vnumber="7">I will be exalted, and will divide Sicima, and will measure out the valley of tents.</VERS>
+      <VERS vnumber="8">Galaad is mine; and Manasses is mine; and Ephraim is the help of mine head; Judas is my king;</VERS>
+      <VERS vnumber="9">Moab is the caldron of my hope; over Idumea will I cast my sandal; the Philistines are made subject to me.</VERS>
+      <VERS vnumber="10">Who will bring me into the fortified city? or who will guide me to Idumea?</VERS>
+      <VERS vnumber="11">Wilt not thou, O God, who hast rejected us? and wilt not thou, O God, go forth with our hosts?</VERS>
+      <VERS vnumber="12">Give us help from tribulation: for vain is the help of man.</VERS>
+      <VERS vnumber="13">Through God we shall <DIV>
+          <NOTE type="x-studynote">Gr. work power</NOTE>
+        </DIV> do valiantly; and he will bring to nought our enemies.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

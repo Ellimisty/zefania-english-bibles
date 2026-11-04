@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="24" bname="Jeremia" bsname="Jer">
+    <CHAPTER cnumber="10">
+      <VERS vnumber="1">
+        <gr str="8085">Hear </gr>ye <gr str="*853" />the <gr str="1697">word </gr>
+        <gr str="834">which </gr>the <gr str="3068">LORD </gr>
+        <gr str="1696">speaketh </gr>
+        <gr str="5921">unto </gr>you, O <gr str="1004">house </gr>of <gr str="3478">Israel</gr>: </VERS>
+      <VERS vnumber="2">
+        <gr str="3541">Thus </gr>
+        <gr str="559">saith </gr>the <gr str="3068">LORD</gr>, <gr str="3925">Learn </gr>
+        <gr str="408">not </gr>the <gr str="1870">way </gr>of the <gr str="1471">heathen</gr>, and be <gr str="408">not </gr>
+        <gr str="2865">dismayed </gr>at the <gr str="4480 226">signs </gr>of <gr str="8064">heaven</gr>; <gr str="3588">for </gr>the <gr str="1471">heathen </gr>are <gr str="2865">dismayed </gr>at <gr str="4480 1992">them</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="3588">For </gr>the <gr str="2708">customs </gr>of the <gr str="5971">people </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="1892">vain</gr>: <gr str="3588">for </gr>
+        <STYLE css="color:#808080;font-style:italic"> one </STYLE>
+        <gr str="3772">cutteth </gr>a <gr str="6086">tree </gr>out of the <gr str="4480 3293">forest</gr>, the <gr str="4639">work </gr>of the <gr str="3027">hands </gr>of the <gr str="2796">workman</gr>, with the <gr str="4621">axe</gr>. </VERS>
+      <VERS vnumber="4"> They <gr str="3302">deck </gr>it with <gr str="3701">silver </gr>and with <gr str="2091">gold</gr>; they <gr str="2388">fasten </gr>it with <gr str="4548">nails </gr>and with <gr str="4717">hammers</gr>, that it <gr str="6328">move </gr>
+        <gr str="3808">not</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="1992">They </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="4749">upright </gr>as the palm <gr str="8560">tree</gr>, but <gr str="1696">speak </gr>
+        <gr str="3808">not</gr>: they must needs be <gr str="5375 5375">borne</gr>, <gr str="3588">because </gr>they <gr str="3808">cannot </gr>
+        <gr str="6805">go</gr>. Be <gr str="408">not </gr>
+        <gr str="3372">afraid </gr>
+        <gr str="4480">of </gr>them; <gr str="3588">for </gr>they <gr str="3808">cannot </gr>do <gr str="7489">evil</gr>, <gr str="369">neither </gr>
+        <gr str="1571">also </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <gr str="854">in </gr>them to do <gr str="3190">good</gr>. </VERS>
+      <VERS vnumber="6"> Forasmuch as <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="4480 369">none </gr>like unto <gr str="3644">thee</gr>, O <gr str="3068">LORD</gr>; <gr str="859">thou </gr>
+        <STYLE css="color:#808080;font-style:italic"> art </STYLE>
+        <gr str="1419">great</gr>, and thy <gr str="8034">name </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="1419">great </gr>in <gr str="1369">might</gr>. </VERS>
+      <VERS vnumber="7">
+        <gr str="4310">Who </gr>would <gr str="3808">not </gr>
+        <gr str="3372">fear </gr>thee, O <gr str="4428">King </gr>of <gr str="1471">nations</gr>? <gr str="3588">for </gr>to thee doth it <gr str="2969">appertain</gr>: <gr str="3588">forasmuch </gr>as among <gr str="3605">all </gr>the <gr str="2450">wise </gr>
+        <STYLE css="color:#808080;font-style:italic"> men </STYLE> of the <gr str="1471">nations</gr>, and in <gr str="3605">all </gr>their <gr str="4438">kingdoms</gr>, <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="4480 369">none </gr>like unto <gr str="3644">thee</gr>. </VERS>
+      <VERS vnumber="8"> But they are <gr str="259">altogether </gr>
+        <gr str="1197">brutish </gr>and <gr str="3688">foolish</gr>: the <gr str="6086">stock </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="4148">doctrine </gr>of <gr str="1892">vanities</gr>. </VERS>
+      <VERS vnumber="9">
+        <gr str="3701">Silver </gr>spread into <gr str="7554">plates </gr>is <gr str="935">brought </gr>from <gr str="4480 8659">Tarshish</gr>, and <gr str="2091">gold </gr>from <gr str="4480 210">Uphaz</gr>, the <gr str="4639">work </gr>of the <gr str="2796">workman</gr>, and of the <gr str="3027">hands </gr>of the <gr str="6884">founder</gr>: <gr str="8504">blue </gr>and <gr str="713">purple </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> their <gr str="3830">clothing</gr>: they <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="3605">all </gr>the <gr str="4639">work </gr>of <gr str="2450">cunning </gr>
+        <STYLE css="color:#808080;font-style:italic"> men </STYLE>. </VERS>
+      <VERS vnumber="10"> But the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="571">true </gr>
+        <gr str="430">God</gr>, <gr str="1931">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="2416">living </gr>
+        <gr str="430">God</gr>, and an <gr str="5769">everlasting </gr>
+        <gr str="4428">king</gr>: at his <gr str="4480 7110">wrath </gr>the <gr str="776">earth </gr>shall <gr str="7493">tremble</gr>, and the <gr str="1471">nations </gr>shall <gr str="3808">not </gr>be able to <gr str="3557">abide </gr>his <gr str="2195">indignation</gr>. </VERS>
+      <VERS vnumber="11">
+        <gr str="1836">Thus </gr>shall ye <gr str="560">say </gr>unto them, The <gr str="426">gods </gr>
+        <gr str="1768">that </gr>have <gr str="3809">not </gr>
+        <gr str="5648">made </gr>the <gr str="8065">heavens </gr>and the <gr str="778">earth</gr>, <STYLE css="color:#808080;font-style:italic"> even </STYLE> they shall <gr str="7">perish </gr>from the <gr str="4481 772">earth</gr>, and <gr str="4481">from </gr>
+        <gr str="8460">under </gr>
+        <gr str="429">these </gr>
+        <gr str="8065">heavens</gr>. </VERS>
+      <VERS vnumber="12"> He hath <gr str="6213">made </gr>the <gr str="776">earth </gr>by his <gr str="3581">power</gr>, he hath <gr str="3559">established </gr>the <gr str="8398">world </gr>by his <gr str="2451">wisdom</gr>, and hath stretched <gr str="5186">out </gr>the <gr str="8064">heavens </gr>by his <gr str="8394">discretion</gr>. </VERS>
+      <VERS vnumber="13"> When he <gr str="5414">uttereth </gr>his <gr str="6963">voice</gr>, <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="1995">multitude </gr>of <gr str="4325">waters </gr>in the <gr str="8064">heavens</gr>, and he causeth the <gr str="5387">vapors </gr>to <gr str="5927">ascend </gr>from the <gr str="4480 7097">ends </gr>of the <gr str="776">earth</gr>; he <gr str="6213">maketh </gr>
+        <gr str="1300">lightnings </gr>with <gr str="4306">rain</gr>, and bringeth <gr str="3318">forth </gr>the <gr str="7307">wind </gr>out of his <gr str="4480 214">treasures</gr>. </VERS>
+      <VERS vnumber="14">
+        <gr str="3605">Every </gr>
+        <gr str="120">man </gr>is <gr str="1197">brutish </gr>in <STYLE css="color:#808080;font-style:italic"> his </STYLE>
+        <gr str="4480 1847">knowledge</gr>: <gr str="3605">every </gr>
+        <gr str="6884">founder </gr>is <gr str="3001">confounded </gr>by the graven <gr str="4480 6459">image</gr>: <gr str="3588">for </gr>his molten <gr str="5262">image </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="8267">falsehood</gr>, and <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3808">no </gr>
+        <gr str="7307">breath </gr>in them. </VERS>
+      <VERS vnumber="15">
+        <gr str="1992">They </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="1892">vanity</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> the <gr str="4639">work </gr>of <gr str="8595">errors</gr>: in the <gr str="6256">time </gr>of their <gr str="6486">visitation </gr>they shall <gr str="6">perish</gr>. </VERS>
+      <VERS vnumber="16"> The <gr str="2506">portion </gr>of <gr str="3290">Jacob </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3808">not </gr>like <gr str="428">them</gr>: <gr str="3588">for </gr>
+        <gr str="1931">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="3335">former </gr>of <gr str="3605">all </gr>
+        <STYLE css="color:#808080;font-style:italic"> things </STYLE>; and <gr str="3478">Israel </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> the <gr str="7626">rod </gr>of his <gr str="5159">inheritance</gr>: The <gr str="3068">LORD </gr>of <gr str="6635">hosts </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> his <gr str="8034">name</gr>. </VERS>
+      <VERS vnumber="17"> Gather <gr str="622">up </gr>thy <gr str="3666">wares </gr>out of the <gr str="4480 776">land</gr>, O <gr str="3427">inhabitant </gr>of the <gr str="4693">fortress</gr>. </VERS>
+      <VERS vnumber="18">
+        <gr str="3588">For </gr>
+        <gr str="3541">thus </gr>
+        <gr str="559">saith </gr>the <gr str="3068">LORD</gr>, <gr str="2009">Behold</gr>, I will sling <gr str="7049">out </gr>
+        <gr str="*853" />the <gr str="3427">inhabitants </gr>of the <gr str="776">land </gr>at <gr str="2063">this </gr>
+        <gr str="6471">once</gr>, and will <gr str="6887">distress </gr>them, <gr str="4616">that </gr>they may <gr str="4672">find </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> so </STYLE>. </VERS>
+      <VERS vnumber="19">
+        <gr str="188">Woe </gr>is me <gr str="5921">for </gr>my <gr str="7667">hurt</gr>! my <gr str="4347">wound </gr>is <gr str="2470">grievous</gr>: but <gr str="589">I </gr>
+        <gr str="559">said</gr>, <gr str="389">Truly </gr>
+        <gr str="2088">this </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="2483">grief</gr>, and I must <gr str="5375">bear </gr>it. </VERS>
+      <VERS vnumber="20"> My <gr str="168">tabernacle </gr>is <gr str="7703">spoiled</gr>, and <gr str="3605">all </gr>my <gr str="4340">cords </gr>are <gr str="5423">broken</gr>: my <gr str="1121">children </gr>are gone <gr str="3318">forth </gr>of me, and they <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="369">not</gr>: <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="369">none </gr>to stretch <gr str="5186">forth </gr>my <gr str="168">tent </gr>any <gr str="5750">more</gr>, and to set <gr str="6965">up </gr>my <gr str="3407">curtains</gr>. </VERS>
+      <VERS vnumber="21">
+        <gr str="3588">For </gr>the <gr str="7462">pastors </gr>are become <gr str="1197">brutish</gr>, and have <gr str="3808">not </gr>
+        <gr str="1875">sought </gr>the <gr str="3068">LORD</gr>: <gr str="5921 3651">therefore </gr>they shall <gr str="3808">not </gr>
+        <gr str="7919">prosper</gr>, and <gr str="3605">all </gr>their <gr str="4830">flocks </gr>shall be <gr str="6327">scattered</gr>. </VERS>
+      <VERS vnumber="22">
+        <gr str="2009">Behold</gr>, the <gr str="6963">noise </gr>of the <gr str="8052">bruit </gr>is <gr str="935">come</gr>, and a <gr str="1419">great </gr>
+        <gr str="7494">commotion </gr>out of the north <gr str="4480 776 6828">country</gr>, to <gr str="7760">make </gr>
+        <gr str="*853" />the <gr str="5892">cities </gr>of <gr str="3063">Judah </gr>
+        <gr str="8077">desolate</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> a <gr str="4583">den </gr>of <gr str="8577">dragons</gr>. </VERS>
+      <VERS vnumber="23"> O <gr str="3068">LORD</gr>, I <gr str="3045">know </gr>
+        <gr str="3588">that </gr>the <gr str="1870">way </gr>of <gr str="120">man </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3808">not </gr>in himself: <STYLE css="color:#808080;font-style:italic"> it </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="3808">not </gr>in <gr str="376">man </gr>that <gr str="1980">walketh </gr>to <gr str="3559">direct </gr>
+        <gr str="*853" />his <gr str="6806">steps</gr>. </VERS>
+      <VERS vnumber="24"> O <gr str="3068">LORD</gr>, <gr str="3256">correct </gr>me, but <gr str="389">with </gr>
+        <gr str="4941">judgment</gr>; <gr str="408">not </gr>in thine <gr str="639">anger</gr>, <gr str="6435">lest </gr>thou bring me to <gr str="4591">nothing</gr>. </VERS>
+      <VERS vnumber="25"> Pour <gr str="8210">out </gr>thy <gr str="2534">fury </gr>
+        <gr str="5921">upon </gr>the <gr str="1471">heathen </gr>
+        <gr str="834">that </gr>
+        <gr str="3045">know </gr>thee <gr str="3808">not</gr>, and <gr str="5921">upon </gr>the <gr str="4940">families </gr>
+        <gr str="834">that </gr>
+        <gr str="7121">call </gr>
+        <gr str="3808">not </gr>on thy <gr str="8034">name</gr>: <gr str="3588">for </gr>they have eaten <gr str="398">up </gr>
+        <gr str="*853" />
+        <gr str="3290">Jacob</gr>, and <gr str="398">devoured </gr>him, and <gr str="3615">consumed </gr>him, and have made his <gr str="5116">habitation </gr>
+        <gr str="8074">desolate</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

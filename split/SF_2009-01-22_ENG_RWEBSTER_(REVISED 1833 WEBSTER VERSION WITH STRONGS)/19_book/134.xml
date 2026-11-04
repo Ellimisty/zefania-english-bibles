@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="134">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A <gr str="7892">Song </gr>of <gr str="4609">degrees</gr>.</STYLE> Behold, <gr str="1288">bless </gr>ye the <gr str="3068">LORD</gr>, all <STYLE css="font-style:italic">ye </STYLE>
+        <gr str="5650">servants </gr>of the <gr str="3068">LORD</gr>, who by <gr str="3915">night </gr>
+        <gr str="5975">stand </gr>in the <gr str="1004">house </gr>of the <gr str="3068">LORD</gr>.</VERS>
+      <VERS vnumber="2">Lift <gr str="5375">up </gr>your <gr str="3027">hands </gr>
+        <STYLE css="font-style:italic">in</STYLE> the <gr str="6944">sanctuary</gr>, and <gr str="1288">bless </gr>the <gr str="3068">LORD</gr>. <DIV>
+          <NOTE type="x-studynote">the sanctuary: or, holiness</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">The <gr str="3068">LORD </gr>that <gr str="6213">made </gr>
+        <gr str="8064">heaven </gr>and <gr str="776">earth </gr>
+        <gr str="1288">bless </gr>thee out of <gr str="6726">Zion</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

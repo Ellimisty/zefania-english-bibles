@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="42" bname="Luke" bsname="Luk">
+    <CHAPTER cnumber="16">
+      <VERS vnumber="1">Jesus said to his disciples:</VERS>
+      <VERS vnumber="14">All this was said within hearing of the Pharisees, who were lovers of money, and they began to sneer at Jesus.  crosswire  amateurish codings</VERS>
+      <VERS vnumber="15">said Jesus,</VERS>
+      <VERS vnumber="31">
+        crosswire  amateurish codings
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

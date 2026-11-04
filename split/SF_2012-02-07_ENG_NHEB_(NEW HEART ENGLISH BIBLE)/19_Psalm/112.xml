@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="New Heart English Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="112">
+      <VERS vnumber="1">Praise Yah!ALEPHBlessed is the man who fears the <STYLE id="cl:divineName">Lord</STYLE>,BETwho delights greatly in his commandments.GIMEL</VERS>
+      <VERS vnumber="2">His seed will be mighty in the land.DALETThe generation of the upright will be blessed.HEY</VERS>
+      <VERS vnumber="3">Wealth and riches are in his house.VAVHis righteousness endures forever.ZAYIN</VERS>
+      <VERS vnumber="4">Light dawns in the darkness for the upright,HETgracious, merciful, and righteous.TET</VERS>
+      <VERS vnumber="5">It is well with the man who deals graciously and lends.YODHe will maintain his cause in judgment.KAPH</VERS>
+      <VERS vnumber="6">For he will never be shaken.LAMEDThe righteous will be remembered forever.MEM</VERS>
+      <VERS vnumber="7">He will not be afraid of evil news.NUNHis heart is steadfast, trusting in the <STYLE id="cl:divineName">Lord</STYLE>.SAMEKH</VERS>
+      <VERS vnumber="8">His heart is established,he will not be afraidAYINuntil he gaze upon his adversaries.PEY</VERS>
+      <VERS vnumber="9">He has dispersed, he has given to the poor.TZADEHis righteousness endures forever.QOPHHis horn will be exalted with honor.RESH</VERS>
+      <VERS vnumber="10">The wicked will see it, and be grieved.SHINHe shall gnash with his teeth, and melt away.TAVThe desire of the wicked will perish.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

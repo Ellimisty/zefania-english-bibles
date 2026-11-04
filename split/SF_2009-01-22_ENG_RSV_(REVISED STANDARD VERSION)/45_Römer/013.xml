@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised Standard Version" type="x-bible">
+  <BIBLEBOOK bnumber="45" bname="Römer" bsname="Röm">
+    <CHAPTER cnumber="13">
+      <VERS vnumber="1">Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God.</VERS>
+      <VERS vnumber="2">Therefore he who resists the authorities resists what God has appointed, and those who resist will incur judgment.</VERS>
+      <VERS vnumber="3">For rulers are not a terror to good conduct, but to bad. Would you have no fear of him who is in authority? Then do what is good, and you will receive his approval,</VERS>
+      <VERS vnumber="4">for he is God's servant for your good. But if you do wrong, be afraid, for he does not bear the sword in vain; he is the servant of God to execute his wrath on the wrongdoer.</VERS>
+      <VERS vnumber="5">Therefore one must be subject, not only to avoid God's wrath but also for the sake of conscience.</VERS>
+      <VERS vnumber="6">For the same reason you also pay taxes, for the authorities are ministers of God, attending to this very thing.</VERS>
+      <VERS vnumber="7">Pay all of them their dues, taxes to whom taxes are due, revenue to whom revenue is due, respect to whom respect is due, honor to whom honor is due.</VERS>
+      <VERS vnumber="8">Owe no one anything, except to love one another; for he who loves his neighbor has fulfilled the law.</VERS>
+      <VERS vnumber="9">The commandments, "You shall not commit adultery, You shall not kill, You shall not steal, You shall not covet," and any other commandment, are summed up in this sentence, "You shall love your neighbor as yourself."</VERS>
+      <VERS vnumber="10">Love does no wrong to a neighbor; therefore love is the fulfilling of the law.</VERS>
+      <VERS vnumber="11">Besides this you know what hour it is, how it is full time now for you to wake from sleep. For salvation is nearer to us now than when we first believed;</VERS>
+      <VERS vnumber="12">the night is far gone, the day is at hand. Let us then cast off the works of darkness and put on the armor of light;</VERS>
+      <VERS vnumber="13">let us conduct ourselves becomingly as in the day, not in reveling and drunkenness, not in debauchery and licentiousness, not in quarreling and jealousy.</VERS>
+      <VERS vnumber="14">But put on the Lord Jesus Christ, and make no provision for the flesh, to gratify its desires.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

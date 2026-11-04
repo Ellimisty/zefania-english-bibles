@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="13">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">
+        <gr str="121">Adam</gr>, <gr str="8352">Sheth</gr>, <gr str="583">Enosh</gr>,</VERS>
+      <VERS vnumber="2">
+        <gr str="7018">Kenan</gr>, <gr str="4111">Mahalaleel</gr>, <gr str="3382">Jered</gr>,</VERS>
+      <VERS vnumber="3">
+        <gr str="2585">Henoch</gr>, <gr str="4968">Methuselah</gr>, <gr str="3929">Lamech</gr>,</VERS>
+      <VERS vnumber="4">
+        <gr str="5146">Noah</gr>, <gr str="8035">Shem</gr>, <gr str="2526">Ham</gr>, and <gr str="3315">Japheth</gr>.</VERS>
+      <VERS vnumber="5">The <gr str="1121">sons </gr>of <gr str="3315">Japheth</gr>; <gr str="1586">Gomer</gr>, and <gr str="4031">Magog</gr>, and <gr str="4074">Madai</gr>, and <gr str="3120">Javan</gr>, and <gr str="8422">Tubal</gr>, and <gr str="4902">Meshech</gr>, and <gr str="8494">Tiras</gr>.</VERS>
+      <VERS vnumber="6">And the <gr str="1121">sons </gr>of <gr str="1586">Gomer</gr>; <gr str="813">Ashchenaz</gr>, and <gr str="7384">Riphath</gr>, and <gr str="8425">Togarmah</gr>. <DIV>
+          <NOTE type="x-studynote">Riphath: or, Diphath as it is in some copies</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="7">And the <gr str="1121">sons </gr>of <gr str="3120">Javan</gr>; <gr str="473">Elishah</gr>, and <gr str="8659">Tarshish</gr>, <gr str="3794">Kittim</gr>, and <gr str="1721">Dodanim</gr>. <DIV>
+          <NOTE type="x-studynote">Dodanim: or, Rodanim, according to some copies</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">The <gr str="1121">sons </gr>of <gr str="2526">Ham</gr>; <gr str="3568">Cush</gr>, and <gr str="4714">Mizraim</gr>, <gr str="6316">Put</gr>, and <gr str="3667">Canaan</gr>.</VERS>
+      <VERS vnumber="9">And the <gr str="1121">sons </gr>of <gr str="3568">Cush</gr>; <gr str="5434">Seba</gr>, and <gr str="2341">Havilah</gr>, and <gr str="5454">Sabta</gr>, and <gr str="7484">Raamah</gr>, and <gr str="5455">Sabtecha</gr>. And the <gr str="1121">sons </gr>of <gr str="7484">Raamah</gr>; <gr str="7614">Sheba</gr>, and <gr str="1719">Dedan</gr>.</VERS>
+      <VERS vnumber="10">And <gr str="3568">Cush </gr>
+        <gr str="3205">begat </gr>
+        <gr str="5248">Nimrod</gr>: he <gr str="2490">began </gr>to be <gr str="1368">mighty </gr>upon the <gr str="776">earth</gr>.</VERS>
+      <VERS vnumber="11">And <gr str="4714">Mizraim </gr>
+        <gr str="3205">begat </gr>
+        <gr str="3866">Ludim</gr>, and <gr str="6047">Anamim</gr>, and <gr str="3853">Lehabim</gr>, and <gr str="5320">Naphtuhim</gr>,</VERS>
+      <VERS vnumber="12">And <gr str="6625">Pathrusim</gr>, and <gr str="3695">Casluhim</gr>, (of whom <gr str="3318">came </gr>the <gr str="6430">Philistines</gr>,) and <gr str="3732">Caphthorim</gr>.</VERS>
+      <VERS vnumber="13">And <gr str="3667">Canaan </gr>
+        <gr str="3205">begat </gr>
+        <gr str="6721">Zidon </gr>his <gr str="1060">firstborn</gr>, and <gr str="2845">Heth</gr>,</VERS>
+      <VERS vnumber="14">The <gr str="2983">Jebusite </gr>also, and the <gr str="567">Amorite</gr>, and the <gr str="1622">Girgashite</gr>,</VERS>
+      <VERS vnumber="15">And the <gr str="2340">Hivite</gr>, and the <gr str="6208">Arkite</gr>, and the <gr str="5513">Sinite</gr>,</VERS>
+      <VERS vnumber="16">And the <gr str="721">Arvadite</gr>, and the <gr str="6786">Zemarite</gr>, and the <gr str="2577">Hamathite</gr>.</VERS>
+      <VERS vnumber="17">The <gr str="1121">sons </gr>of <gr str="8035">Shem</gr>; <gr str="5867">Elam</gr>, and <gr str="804">Asshur</gr>, and <gr str="775">Arphaxad</gr>, and <gr str="3865">Lud</gr>, and <gr str="758">Aram</gr>, and <gr str="5780">Uz</gr>, and <gr str="2343">Hul</gr>, and <gr str="1666">Gether</gr>, and <gr str="4902">Meshech</gr>. <DIV>
+          <NOTE type="x-studynote">Meshech: or, Mash</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="18">And <gr str="775">Arphaxad </gr>
+        <gr str="3205">begat </gr>
+        <gr str="7974">Shelah</gr>, and <gr str="7974">Shelah </gr>
+        <gr str="3205">begat </gr>
+        <gr str="5677">Eber</gr>.</VERS>
+      <VERS vnumber="19">And to <gr str="5677">Eber </gr>were <gr str="3205">born </gr>
+        <gr str="8147">two </gr>
+        <gr str="1121">sons</gr>: the <gr str="8034">name </gr>of the <gr str="259">one </gr>
+        <STYLE css="font-style:italic">was </STYLE>
+        <gr str="6389">Peleg</gr>; because in his <gr str="3117">days </gr>the <gr str="776">earth </gr>was <gr str="6385">divided</gr>: and his <gr str="251">brother’s </gr>
+        <gr str="8034">name </gr>
+        <STYLE css="font-style:italic">was </STYLE>
+        <gr str="3355">Joktan</gr>. <DIV>
+          <NOTE type="x-studynote">Peleg: that is, division</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="20">And <gr str="3355">Joktan </gr>
+        <gr str="3205">begat </gr>
+        <gr str="486">Almodad</gr>, and <gr str="8026">Sheleph</gr>, and <gr str="2700">Hazarmaveth</gr>, and <gr str="3392">Jerah</gr>,</VERS>
+      <VERS vnumber="21">
+        <gr str="1913">Hadoram </gr>also, and <gr str="187">Uzal</gr>, and <gr str="1853">Diklah</gr>,</VERS>
+      <VERS vnumber="22">And <gr str="5858">Ebal</gr>, and <gr str="39">Abimael</gr>, and <gr str="7614">Sheba</gr>,</VERS>
+      <VERS vnumber="23">And <gr str="211">Ophir</gr>, and <gr str="2341">Havilah</gr>, and <gr str="3103">Jobab</gr>. All these <STYLE css="font-style:italic">were</STYLE> the <gr str="1121">sons </gr>of <gr str="3355">Joktan</gr>.</VERS>
+      <VERS vnumber="24">
+        <gr str="8035">Shem</gr>, <gr str="775">Arphaxad</gr>, <gr str="7974">Shelah</gr>,</VERS>
+      <VERS vnumber="25">
+        <gr str="5677">Eber</gr>, <gr str="6389">Peleg</gr>, <gr str="7466">Reu</gr>,</VERS>
+      <VERS vnumber="26">
+        <gr str="8286">Serug</gr>, <gr str="5152">Nahor</gr>, <gr str="8646">Terah</gr>,</VERS>
+      <VERS vnumber="27">
+        <gr str="87">Abram</gr>; the same <STYLE css="font-style:italic">is </STYLE>
+        <gr str="85">Abraham</gr>.</VERS>
+      <VERS vnumber="28">The <gr str="1121">sons </gr>of <gr str="85">Abraham</gr>; <gr str="3327">Isaac</gr>, and <gr str="3458">Ishmael</gr>.</VERS>
+      <VERS vnumber="29">These <STYLE css="font-style:italic">are</STYLE> their <gr str="8435">generations</gr>: The <gr str="1060">firstborn </gr>of <gr str="3458">Ishmael</gr>, <gr str="5032">Nebaioth</gr>; then <gr str="6938">Kedar</gr>, and <gr str="110">Adbeel</gr>, and <gr str="4017">Mibsam</gr>,</VERS>
+      <VERS vnumber="30">
+        <gr str="4927">Mishma</gr>, and <gr str="1746">Dumah</gr>, <gr str="4854">Massa</gr>, <gr str="2301">Hadad</gr>, and <gr str="8485">Tema</gr>, <DIV>
+          <NOTE type="x-studynote">Hadad: also called, Hadar</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="31">
+        <gr str="3195">Jetur</gr>, <gr str="5305">Naphish</gr>, and <gr str="6929">Kedemah</gr>. These are the <gr str="1121">sons </gr>of <gr str="3458">Ishmael</gr>.</VERS>
+      <VERS vnumber="32">Now the <gr str="1121">sons </gr>of <gr str="6989">Keturah</gr>, <gr str="85">Abraham’s </gr>
+        <gr str="6370">concubine</gr>: she <gr str="3205">bore </gr>
+        <gr str="2175">Zimran</gr>, and <gr str="3370">Jokshan</gr>, and <gr str="4091">Medan</gr>, and <gr str="4080">Midian</gr>, and <gr str="3435">Ishbak</gr>, and <gr str="7744">Shuah</gr>. And the <gr str="1121">sons </gr>of <gr str="3370">Jokshan</gr>; <gr str="7614">Sheba</gr>, and <gr str="1719">Dedan</gr>.</VERS>
+      <VERS vnumber="33">And the <gr str="1121">sons </gr>of <gr str="4080">Midian</gr>; <gr str="5891">Ephah</gr>, and <gr str="6081">Epher</gr>, and <gr str="2585">Henoch</gr>, and <gr str="28">Abida</gr>, and <gr str="420">Eldaah</gr>. All these <STYLE css="font-style:italic">are</STYLE> the <gr str="1121">sons </gr>of <gr str="6989">Keturah</gr>.</VERS>
+      <VERS vnumber="34">And <gr str="85">Abraham </gr>
+        <gr str="3205">begat </gr>
+        <gr str="3327">Isaac</gr>. The <gr str="1121">sons </gr>of <gr str="3327">Isaac</gr>; <gr str="6215">Esau </gr>and <gr str="3478">Israel</gr>.</VERS>
+      <VERS vnumber="35">The <gr str="1121">sons </gr>of <gr str="6215">Esau</gr>; <gr str="464">Eliphaz</gr>, <gr str="7467">Reuel</gr>, and <gr str="3266">Jeush</gr>, and <gr str="3281">Jaalam</gr>, and <gr str="7141">Korah</gr>.</VERS>
+      <VERS vnumber="36">The <gr str="1121">sons </gr>of <gr str="464">Eliphaz</gr>; <gr str="8487">Teman</gr>, and <gr str="201">Omar</gr>, <gr str="6825">Zephi</gr>, and <gr str="1609">Gatam</gr>, <gr str="7073">Kenaz</gr>, and <gr str="8555">Timna</gr>, and <gr str="6002">Amalek</gr>. <DIV>
+          <NOTE type="x-studynote">Zephi: or, Zepho</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="37">The <gr str="1121">sons </gr>of <gr str="7467">Reuel</gr>; <gr str="5184">Nahath</gr>, <gr str="2226">Zerah</gr>, <gr str="8048">Shammah</gr>, and <gr str="4199">Mizzah</gr>.</VERS>
+      <VERS vnumber="38">And the <gr str="1121">sons </gr>of <gr str="8165">Seir</gr>; <gr str="3877">Lotan</gr>, and <gr str="7732">Shobal</gr>, and <gr str="6649">Zibeon</gr>, and <gr str="6034">Anah</gr>, and <gr str="1787">Dishon</gr>, and <gr str="687">Ezer</gr>, and <gr str="1789">Dishan</gr>.</VERS>
+      <VERS vnumber="39">And the <gr str="1121">sons </gr>of <gr str="3877">Lotan</gr>; <gr str="2753">Hori</gr>, and <gr str="1950">Homam</gr>: and <gr str="8555">Timna </gr>
+        <STYLE css="font-style:italic">was </STYLE>
+        <gr str="3877">Lotan’s </gr>
+        <gr str="269">sister</gr>. <DIV>
+          <NOTE type="x-studynote">Homam: or, Hemam</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="40">The <gr str="1121">sons </gr>of <gr str="7732">Shobal</gr>; <gr str="5935">Alian</gr>, and <gr str="4506">Manahath</gr>, and <gr str="5858">Ebal</gr>, <gr str="8195">Shephi</gr>, and <gr str="208">Onam</gr>. And the <gr str="1121">sons </gr>of <gr str="6649">Zibeon</gr>; <gr str="345">Aiah</gr>, and <gr str="6034">Anah</gr>. <DIV>
+          <NOTE type="x-studynote">Alian: also called, Alvan</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">Shephi: also called, Shepho</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="41">The <gr str="1121">sons </gr>of <gr str="6034">Anah</gr>; <gr str="1787">Dishon</gr>. And the <gr str="1121">sons </gr>of <gr str="1787">Dishon</gr>; <gr str="2566">Amram</gr>, and <gr str="790">Eshban</gr>, and <gr str="3506">Ithran</gr>, and <gr str="3763">Cheran</gr>. <DIV>
+          <NOTE type="x-studynote">Amram: or, Hemdan</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="42">The <gr str="1121">sons </gr>of <gr str="687">Ezer</gr>; <gr str="1092">Bilhan</gr>, and <gr str="2190">Zavan</gr>, <STYLE css="font-style:italic">and </STYLE>
+        <gr str="3292">Jakan</gr>. The <gr str="1121">sons </gr>of <gr str="1789">Dishan</gr>; <gr str="5780">Uz</gr>, and <gr str="765">Aran</gr>. <DIV>
+          <NOTE type="x-studynote">Jakan: or, Akan</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="43">Now these <STYLE css="font-style:italic">are</STYLE> the <gr str="4428">kings </gr>that <gr str="4427">reigned </gr>in the <gr str="776">land </gr>of <gr str="123">Edom </gr>
+        <gr str="6440">before </gr>
+        <STYLE css="font-style:italic">any </STYLE>
+        <gr str="4428">king </gr>
+        <gr str="4427">reigned </gr>over the <gr str="1121">children </gr>of <gr str="3478">Israel</gr>; <gr str="1106">Bela </gr>the <gr str="1121">son </gr>of <gr str="1160">Beor</gr>: and the <gr str="8034">name </gr>of his <gr str="5892">city </gr>
+        <STYLE css="font-style:italic">was </STYLE>
+        <gr str="1838">Dinhabah</gr>.</VERS>
+      <VERS vnumber="44">And when <gr str="1106">Bela </gr>was <gr str="4191">dead</gr>, <gr str="3103">Jobab </gr>the <gr str="1121">son </gr>of <gr str="2226">Zerah </gr>of <gr str="1224">Bozrah </gr>
+        <gr str="4427">reigned </gr>in his stead.</VERS>
+      <VERS vnumber="45">And when <gr str="3103">Jobab </gr>was <gr str="4191">dead</gr>, <gr str="2367">Husham </gr>of the <gr str="776">land </gr>of the <gr str="8489">Temanites </gr>
+        <gr str="4427">reigned </gr>in his stead.</VERS>
+      <VERS vnumber="46">And when <gr str="2367">Husham </gr>was <gr str="4191">dead</gr>, <gr str="1908">Hadad </gr>the <gr str="1121">son </gr>of <gr str="911">Bedad</gr>, who <gr str="5221">smote </gr>
+        <gr str="4080">Midian </gr>in the <gr str="7704">field </gr>of <gr str="4124">Moab</gr>, <gr str="4427">reigned </gr>in his stead: and the <gr str="8034">name </gr>of his <gr str="5892">city </gr>
+        <STYLE css="font-style:italic">was </STYLE>
+        <gr str="5762">Avith</gr>.</VERS>
+      <VERS vnumber="47">And when <gr str="1908">Hadad </gr>was <gr str="4191">dead</gr>, <gr str="8072">Samlah </gr>of <gr str="4957">Masrekah </gr>
+        <gr str="4427">reigned </gr>in his stead.</VERS>
+      <VERS vnumber="48">And when <gr str="8072">Samlah </gr>was <gr str="4191">dead</gr>, <gr str="7586">Shaul </gr>of <gr str="7344">Rehoboth </gr>by the <gr str="5104">river </gr>
+        <gr str="4427">reigned </gr>in his stead.</VERS>
+      <VERS vnumber="49">And when <gr str="7586">Shaul </gr>was <gr str="4191">dead</gr>, <gr str="1177">Baalhanan </gr>the <gr str="1121">son </gr>of <gr str="5907">Achbor </gr>
+        <gr str="4427">reigned </gr>in his stead.</VERS>
+      <VERS vnumber="50">And when <gr str="1177">Baalhanan </gr>was <gr str="4191">dead</gr>, <gr str="1908">Hadad </gr>
+        <gr str="4427">reigned </gr>in his stead: and the <gr str="8034">name </gr>of his <gr str="5892">city </gr>
+        <STYLE css="font-style:italic">was </STYLE>
+        <gr str="6464">Pai</gr>; and his <gr str="802">wife’s </gr>
+        <gr str="8034">name </gr>
+        <STYLE css="font-style:italic">was </STYLE>
+        <gr str="4105">Mehetabel</gr>, the <gr str="1323">daughter </gr>of <gr str="4308">Matred</gr>, the <gr str="1323">daughter </gr>of <gr str="4314">Mezahab</gr>. <DIV>
+          <NOTE type="x-studynote">Hadad: or, Hadar</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">Pai: or, Pau</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="51">
+        <gr str="1908">Hadad </gr>
+        <gr str="4191">died </gr>also. And the <gr str="441">chiefs </gr>of <gr str="123">Edom </gr>were; <gr str="441">chief </gr>
+        <gr str="8555">Timnah</gr>, <gr str="441">chief </gr>
+        <gr str="5933">Aliah</gr>, <gr str="441">chief </gr>
+        <gr str="3509">Jetheth</gr>,</VERS>
+      <VERS vnumber="52">
+        <gr str="441">Chief </gr>
+        <gr str="173">Aholibamah</gr>, <gr str="441">chief </gr>
+        <gr str="425">Elah</gr>, <gr str="441">chief </gr>
+        <gr str="6373">Pinon</gr>,</VERS>
+      <VERS vnumber="53">
+        <gr str="441">Chief </gr>
+        <gr str="7073">Kenaz</gr>, <gr str="441">chief </gr>
+        <gr str="8487">Teman</gr>, <gr str="441">chief </gr>
+        <gr str="4014">Mibzar</gr>,</VERS>
+      <VERS vnumber="54">
+        <gr str="441">Chief </gr>
+        <gr str="4025">Magdiel</gr>, <gr str="441">chief </gr>
+        <gr str="5902">Iram</gr>. These <STYLE css="font-style:italic">are</STYLE> the <gr str="441">chiefs </gr>of <gr str="123">Edom</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

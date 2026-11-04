@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="54">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">To the chief <gr str="5329">Musician </gr>on <gr str="5058">Neginoth</gr>, <gr str="4905">Maschil</gr>, [A Psalm] of <gr str="1732">David</gr>, when the <gr str="2130">Ziphims </gr>
+          <gr str="935">came </gr>and <gr str="559">said </gr>to <gr str="7586">Saul</gr>, Doth not <gr str="1732">David </gr>
+          <gr str="5641">hide </gr>himself with us? </STYLE>
+        <gr str="3467">Save </gr>me, O <gr str="430">God</gr>, by thy <gr str="8034">name</gr>, and <gr str="1777">judge </gr>me by thy <gr str="1369">strength</gr>. <DIV>
+          <NOTE type="x-studynote">chief…: or, overseer</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">Maschil: or, of instruction</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="2">
+        <gr str="8085">Hear </gr>my <gr str="8605">prayer</gr>, O <gr str="430">God</gr>; give <gr str="238">ear </gr>to the <gr str="561">words </gr>of my <gr str="6310">mouth</gr>.</VERS>
+      <VERS vnumber="3">For <gr str="2114">strangers </gr>have risen <gr str="6965">up </gr>against me, and <gr str="6184">oppressors </gr>
+        <gr str="1245">seek </gr>after my <gr str="5315">soul</gr>: they have not <gr str="7760">set </gr>
+        <gr str="430">God </gr>before them. <gr str="5542">Selah</gr>.</VERS>
+      <VERS vnumber="4">Behold, <gr str="430">God </gr>
+        <STYLE css="font-style:italic">is</STYLE> my <gr str="5826">helper</gr>: the <gr str="136">Lord </gr>
+        <STYLE css="font-style:italic">is</STYLE> with them that <gr str="5564">uphold </gr>my <gr str="5315">soul</gr>.</VERS>
+      <VERS vnumber="5">He shall <gr str="7725">reward </gr>
+        <gr str="7451">evil </gr>to my <gr str="8324">enemies</gr>: cut them <gr str="6789">off </gr>in thy <gr str="571">truth</gr>. <DIV>
+          <NOTE type="x-studynote">mine…: Heb. those that observe me</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="6">I will <gr str="5071">freely </gr>
+        <gr str="2076">sacrifice </gr>to thee: I will <gr str="3034">praise </gr>thy <gr str="8034">name</gr>, O <gr str="3068">LORD</gr>; for <STYLE css="font-style:italic">it is </STYLE>
+        <gr str="2896">good</gr>.</VERS>
+      <VERS vnumber="7">For he hath <gr str="5337">delivered </gr>me out of all <gr str="6869">trouble</gr>: and my <gr str="5869">eye </gr>hath <gr str="7200">seen </gr>
+        <STYLE css="font-style:italic">its desire</STYLE> upon my <gr str="341">enemies</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

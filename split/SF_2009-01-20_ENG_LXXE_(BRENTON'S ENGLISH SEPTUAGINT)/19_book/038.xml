@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="38">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm of David for remembrance concerning the Sabbath-day.</STYLE> - O Lord, rebuke me not in thy wrath, neither chasten me in thine anger.</VERS>
+      <VERS vnumber="2">For thy weapons are fixed in me, and thou hast pressed thy hand heavily upon me.</VERS>
+      <VERS vnumber="3">For there is no health in my flesh because of thine anger; there is no peace to my bones because of my sins.</VERS>
+      <VERS vnumber="4">For my transgressions have gone over mine head: they have pressed heavily upon me like a weighty burden.</VERS>
+      <VERS vnumber="5">My bruises have become noisome and corrupt, because of my foolishness.</VERS>
+      <VERS vnumber="6">I have been wretched and bowed down continually: I went with a mourning countenance all the day.</VERS>
+      <VERS vnumber="7">For my soul is filled with mockings; and there is no health in my flesh.</VERS>
+      <VERS vnumber="8">I have been afflicted and brought down exceedingly: I have roared for the groaning of my heart.</VERS>
+      <VERS vnumber="9">But all my desire is before thee; and my groaning is not hidden from thee.</VERS>
+      <VERS vnumber="10">My heart is troubled, my strength has failed me; and the light of mine eyes is not with me.</VERS>
+      <VERS vnumber="11">My friends and my neighbours drew near before me, and stood still; and my nearest of kin stood afar off.</VERS>
+      <VERS vnumber="12">While they pressed hard upon me that sought my soul: and they that sought my hurt spoke vanities, and devised deceits all the day.</VERS>
+      <VERS vnumber="13">But I, as a deaf man, heard not; and was as a dumb man not opening his mouth.</VERS>
+      <VERS vnumber="14">And I was as a man that hears not, and who has no reproofs in his mouth.</VERS>
+      <VERS vnumber="15">For I hoped in thee, O Lord: thou wilt hear, O Lord my God.</VERS>
+      <VERS vnumber="16">For I said, Lest mine enemies rejoice against me: for when my feet were moved, they spoke boastingly against me.</VERS>
+      <VERS vnumber="17">For I am ready for <DIV>
+          <NOTE type="x-studynote">Gr. scourges</NOTE>
+        </DIV> plagues, and my grief is continually before me.</VERS>
+      <VERS vnumber="18">For I will declare mine iniquity, and be distressed for my sin.</VERS>
+      <VERS vnumber="19">But mine enemies live, and are mightier than I: and they that hate me unjustly are multiplied.</VERS>
+      <VERS vnumber="20">They that reward evil for good slandered me; because I followed righteousness.</VERS>
+      <VERS vnumber="21">Forsake me not, O Lord my God: depart not from me.</VERS>
+      <VERS vnumber="22">Draw nigh to my help, O Lord of my salvation.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

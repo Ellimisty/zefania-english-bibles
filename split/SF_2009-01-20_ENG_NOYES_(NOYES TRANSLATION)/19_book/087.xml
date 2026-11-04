@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="87">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of the sons of Korah.</STYLE> His foundation is in the holy mountains;</VERS>
+      <VERS vnumber="2">Jehovah loveth the gates of Zion More than all the dwellings of Jacob.</VERS>
+      <VERS vnumber="3">Glorious things are said of thee, O city of God! <STYLE css="font-style:italic">Pause.</STYLE>
+      </VERS>
+      <VERS vnumber="4">"I name Egypt and Babylon among them that know me; Behold! Philistia, Tyre, and Ethiopia,They also were born there."</VERS>
+      <VERS vnumber="5">And of Zion it shall be said, "Men of every nation were born there, And the Most High hath established her."</VERS>
+      <VERS vnumber="6">Jehovah, when he numbereth the nations, shall write, "These were born there!" <STYLE css="font-style:italic">Pause.</STYLE>
+      </VERS>
+      <VERS vnumber="7">Singers as well as dancers,All my springs are in thee!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

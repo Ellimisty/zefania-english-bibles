@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Douay Rheims" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="70">
+      <VERS vnumber="1">Unto the end, a psalm for David, to bring to remembrance that the Lord saved him.</VERS>
+      <VERS vnumber="2">O God, come to my assistance; O Lord, make haste to help me.</VERS>
+      <VERS vnumber="3">Let them be confounded and ashamed that seek my soul:</VERS>
+      <VERS vnumber="4">Let them be turned backward, and blush for shame that desire evils to me: Let them be presently turned away blushing for shame that say to me: 'T is well, 't is well.</VERS>
+      <VERS vnumber="5">Let all that seek thee rejoice and be glad in thee; and let such as love thy salvation say always: The Lord be magnified.</VERS>
+      <VERS vnumber="6">But I am needy and poor; O God, help me. Thou art my helper and my deliverer: O Lord, make no delay.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

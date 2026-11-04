@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Noyes Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="23">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A psalm of David.</STYLE> The LORD is my shepherd: I shall not want.</VERS>
+      <VERS vnumber="2">He maketh me to lie down in green pastures; He leadeth me beside the still waters.</VERS>
+      <VERS vnumber="3">He reviveth my soul; He leadeth me in paths of safety, For his names sake.</VERS>
+      <VERS vnumber="4">When I walk through a valley of deathlike shade, I fear no evil; for thou art with me; Thy crook and thy staff, they comfort me.</VERS>
+      <VERS vnumber="5">Thou preparest a table before me In the presence of mine enemies. Thou anointest my head with oil; My cup runneth over.</VERS>
+      <VERS vnumber="6">Surely goodness and mercy shall follow me all the days of my life, And I shall dwell in the house of the LORD for ever.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

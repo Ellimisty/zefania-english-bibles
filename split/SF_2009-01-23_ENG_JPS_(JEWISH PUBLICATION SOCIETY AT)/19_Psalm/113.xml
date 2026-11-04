@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Jewish Publication Society AT" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="113">
+      <VERS vnumber="1">Hallelujah. Praise, O ye servants of the LORD, praise the name of the LORD.</VERS>
+      <VERS vnumber="2">Blessed be the name of the LORD from this time forth and for ever.</VERS>
+      <VERS vnumber="3">From the rising of the sun unto the going down thereof the LORD'S name is to be praised.</VERS>
+      <VERS vnumber="4">The LORD is high above all nations, His glory is above the heavens.</VERS>
+      <VERS vnumber="5">Who is like unto the LORD our God, that is enthroned on high,</VERS>
+      <VERS vnumber="6">That looketh down low upon heaven and upon the earth?</VERS>
+      <VERS vnumber="7">Who raiseth up the poor out of the dust, and lifteth up the needy out of the dunghill;</VERS>
+      <VERS vnumber="8">That He may set him with princes, even with the princes of His people.</VERS>
+      <VERS vnumber="9">Who maketh the barren woman to dwell in her house as a joyful mother of children. Hallelujah.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

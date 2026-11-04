@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="26">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">Vindicate me, O Jehovah, because I have walked with <STYLE css="font-style:italic">a life-style of</STYLE> integrity and I have trusted you without wavering.</VERS>
+      <VERS vnumber="2">Examine me, O Jehovah, and test me. Look closely <STYLE css="font-style:italic">deeply</STYLE> into my heart and mind.</VERS>
+      <VERS vnumber="3">Your loving-kindness is in front of me. I walk in your truth.</VERS>
+      <VERS vnumber="4">I do not sit with deceitful men, and I will not be found among hypocrites.</VERS>
+      <VERS vnumber="5">I hate the assembly of evildoers and will not sit with wicked people.</VERS>
+      <VERS vnumber="6">I will wash my hands in innocence. I will walk around your altar, O Jehovah.</VERS>
+      <VERS vnumber="7">Let me publish with a voice of thanksgiving and recount all your wonders <STYLE css="font-style:italic">miracles</STYLE>.</VERS>
+      <VERS vnumber="8">O Jehovah, I love the place where you live, the home <STYLE css="font-style:italic">spiritual retreat</STYLE>
+        <STYLE css="font-style:italic">heart and mind</STYLE> where your glory dwells.</VERS>
+      <VERS vnumber="9">Do not sweep me away with hardened sinners or my life along with bloodthirsty people.</VERS>
+      <VERS vnumber="10">Evil schemes are in their hands. Their right hands are full of bribes.</VERS>
+      <VERS vnumber="11">As for me, I walk in my integrity. Redeem <STYLE css="font-style:italic">ransom</STYLE>
+        <STYLE css="font-style:italic">rescue</STYLE> me, and show me favor.</VERS>
+      <VERS vnumber="12">My feet stand on level ground. I will praise Jehovah in the congregation.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

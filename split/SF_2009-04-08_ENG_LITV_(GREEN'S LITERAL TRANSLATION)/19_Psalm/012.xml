@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Green's Literal Translation" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="12">
+      <VERS vnumber="1">  To the chief musician, on eight. A Psalm of David. Help, O Jehovah, for the saint ceases to be; for the faithful fail from among the sons of men.</VERS>
+      <VERS vnumber="2"> They speak vanity, each man with his neighbor; with flattering lips and a double heart they speak.</VERS>
+      <VERS vnumber="3"> Jehovah shall cut off all with flattering lips and the tongue that speaks great things;</VERS>
+      <VERS vnumber="4"> Who say, We shall be strong by our tongue; our lips are our own; who is lord over us?</VERS>
+      <VERS vnumber="5"> For the pain of the poor, for the sighing of the needy, I will now rise up, says Jehovah; I will set in safety; he pants for it.</VERS>
+      <VERS vnumber="6"> The words of Jehovah are pure words, like silver refined in an earthen furnace, purified seven times.</VERS>
+      <VERS vnumber="7"> You shall keep them, O Jehovah; You shall preserve them from this generation forever.</VERS>
+      <VERS vnumber="8"> The wicked walk around on every side, when vileness is exalted by the sons of men.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

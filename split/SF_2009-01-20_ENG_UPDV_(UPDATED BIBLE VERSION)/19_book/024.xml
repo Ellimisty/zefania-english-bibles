@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Updated Bible Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="24">
+      <VERS vnumber="1">A Psalm of David. The earth is Yahweh's, and the fullness of it; The world, and those who dwell in it.</VERS>
+      <VERS vnumber="2">For he has founded it on the seas, And established it on the floods.</VERS>
+      <VERS vnumber="3">Who will ascend into the hill of Yahweh? And who will stand in his holy place?</VERS>
+      <VERS vnumber="4">He who has innocent hands, and a pure heart; Who has not lifted up his soul to falsehood, And has not sworn deceitfully.</VERS>
+      <VERS vnumber="5">He will receive a blessing from Yahweh, And righteousness from the God of his salvation.</VERS>
+      <VERS vnumber="6">This is the generation of those who seek after him, That seek your face, Jacob. Selah.</VERS>
+      <VERS vnumber="7">Lift up your<DIV>
+          <NOTE type="x-emphasize">{+}</NOTE>
+        </DIV> heads, O you<DIV>
+          <NOTE type="x-emphasize">{+}</NOTE>
+        </DIV> gates; And be<DIV>
+          <NOTE type="x-emphasize">{+}</NOTE>
+        </DIV> lifted up, you<DIV>
+          <NOTE type="x-emphasize">{+}</NOTE>
+        </DIV> everlasting doors: And the King of glory will come in.</VERS>
+      <VERS vnumber="8">Who is the King of glory? Yahweh strong and mighty, Yahweh mighty in battle.</VERS>
+      <VERS vnumber="9">Lift up your<DIV>
+          <NOTE type="x-emphasize">{+}</NOTE>
+        </DIV> heads, O you<DIV>
+          <NOTE type="x-emphasize">{+}</NOTE>
+        </DIV> gates; Yes, lift them up, you<DIV>
+          <NOTE type="x-emphasize">{+}</NOTE>
+        </DIV> everlasting doors: And the King of glory will come in.</VERS>
+      <VERS vnumber="10">Who is this King of glory? Yahweh of hosts, He is the King of glory. Selah.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

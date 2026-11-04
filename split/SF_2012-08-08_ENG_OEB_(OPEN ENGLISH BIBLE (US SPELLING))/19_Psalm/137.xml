@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="137">
+      <VERS vnumber="1">By the waters of Babylon there we sat,and we wept at the thought of Zion.</VERS>
+      <VERS vnumber="2">There on the poplars we hung our harps.</VERS>
+      <VERS vnumber="3">For there our captors called for a song:our tormentors, rejoicing, saying:“Sing us one of the songs of Zion.” <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="4">How can we sing the <STYLE id="cl:divineName">Lord</STYLE>’s songin the foreigner’s land?</VERS>
+      <VERS vnumber="5">If I forget you, Jerusalem,may my right hand wither.</VERS>
+      <VERS vnumber="6">May my tongue stick to the roof of my mouth,if I am unmindful of you,or don’t set Jerusalemabove my chief joy. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">Remember the Edomites, <STYLE id="cl:divineName">Lord</STYLE>,the day of Jerusalem’s fall,when they said, “Lay her bare, lay her bare,right down to her very foundation.” <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="8">Babylon, despoiler,happy are they who pay you backfor all you have done to us.</VERS>
+      <VERS vnumber="9">Happy be they who seize and dashyour children against the rocks.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

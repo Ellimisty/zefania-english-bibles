@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Leeser Old Testament" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="70">
+      <VERS vnumber="1">To the chief musician, by David, to bring to remembrance. <DIV>
+          <NOTE type="x-studynote">(70:2)</NOTE>
+        </DIV> O God, <STYLE css="font-style:italic">arise</STYLE> to deliver me; O Lord, make haste to help me.</VERS>
+      <VERS vnumber="2">
+        <DIV>
+          <NOTE type="x-studynote">(70:3)</NOTE>
+        </DIV> Let those that seek after my life be made ashamed and put to the blush: let those that desire my unhappiness be turned backward and put to confusion.</VERS>
+      <VERS vnumber="3">
+        <DIV>
+          <NOTE type="x-studynote">(70:4)</NOTE>
+        </DIV> Let them be turned backward in consequence of their shame, that say, Aha, aha.</VERS>
+      <VERS vnumber="4">
+        <DIV>
+          <NOTE type="x-studynote">(70:5)</NOTE>
+        </DIV> Let all those that seek thee be glad and rejoice in thee: and let such as love thy salvation say continually, God is great.</VERS>
+      <VERS vnumber="5">
+        <DIV>
+          <NOTE type="x-studynote">(70:6)</NOTE>
+        </DIV> But I am poor and needy, O God: come hastily unto me; my help and my deliverer art thou: O Lord, do not delay.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

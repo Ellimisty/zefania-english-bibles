@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.3" biblename="New Heart English Bible ME" type="x-bible">
+  <BIBLEBOOK bnumber="19" bsname="PSA">
+    <CHAPTER cnumber="126">
+      <VERS vnumber="1" />
+      <VERS vnumber="2">Then our mouth was filled with laughter, and our tongue with singing. Then they said among the nations, "The LORD has done great things for them."</VERS>
+      <VERS vnumber="3">The LORD has done great things for us, and we are glad.</VERS>
+      <VERS vnumber="4">Restore our fortunes again, LORD, like the streams in the Negev.</VERS>
+      <VERS vnumber="5">Those who sow in tears will reap in joy.</VERS>
+      <VERS vnumber="6">He who goes out weeping, carrying seed for sowing, will certainly come again with joy, carrying his sheaves.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

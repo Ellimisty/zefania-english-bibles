@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="41">
+      <VERS vnumber="1"> To the chief <gr str="5329">Musician</gr>, A <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>. <gr str="835">Blessed </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> he that <gr str="7919 413">considereth </gr>the <gr str="1800">poor</gr>: the <gr str="3068">LORD </gr>will <gr str="4422">deliver </gr>him in <gr str="3117">time </gr>of <gr str="7451">trouble</gr>. </VERS>
+      <VERS vnumber="2"> The <gr str="3068">LORD </gr>will <gr str="8104">preserve </gr>him, and keep him <gr str="2421">alive</gr>; <STYLE css="color:#808080;font-style:italic"> and </STYLE> he shall be <gr str="833">blessed </gr>upon the <gr str="776">earth</gr>: and thou wilt <gr str="408">not </gr>
+        <gr str="5414">deliver </gr>him unto the <gr str="5315">will </gr>of his <gr str="341">enemies</gr>. </VERS>
+      <VERS vnumber="3"> The <gr str="3068">LORD </gr>will <gr str="5582">strengthen </gr>him <gr str="5921">upon </gr>the <gr str="6210">bed </gr>of <gr str="1741">languishing</gr>: thou wilt <gr str="2015">make </gr>
+        <gr str="3605">all </gr>his <gr str="4904">bed </gr>in his <gr str="2483">sickness</gr>. </VERS>
+      <VERS vnumber="4">
+        <gr str="589">I </gr>
+        <gr str="559">said</gr>, <gr str="3068">LORD</gr>, be <gr str="2603">merciful </gr>unto me: <gr str="7495">heal </gr>my <gr str="5315">soul</gr>; <gr str="3588">for </gr>I have <gr str="2398">sinned </gr>against thee. </VERS>
+      <VERS vnumber="5"> Mine <gr str="341">enemies </gr>
+        <gr str="559">speak </gr>
+        <gr str="7451">evil </gr>of me, <gr str="4970">When </gr>shall he <gr str="4191">die</gr>, and his <gr str="8034">name </gr>
+        <gr str="6">perish</gr>? </VERS>
+      <VERS vnumber="6"> And <gr str="518">if </gr>he <gr str="935">come </gr>to <gr str="7200">see </gr>
+        <STYLE css="color:#808080;font-style:italic"> me </STYLE>, he <gr str="1696">speaketh </gr>
+        <gr str="7723">vanity</gr>: his <gr str="3820">heart </gr>
+        <gr str="6908">gathereth </gr>
+        <gr str="205">iniquity </gr>to itself; <STYLE css="color:#808080;font-style:italic"> when </STYLE> he <gr str="3318">goeth </gr>
+        <gr str="2351">abroad</gr>, he <gr str="1696">telleth </gr>
+        <STYLE css="color:#808080;font-style:italic"> it </STYLE>. </VERS>
+      <VERS vnumber="7">
+        <gr str="3605">All </gr>that <gr str="8130">hate </gr>me <gr str="3907">whisper </gr>
+        <gr str="3162">together </gr>
+        <gr str="5921">against </gr>me: <gr str="5921">against </gr>me do they <gr str="2803">devise </gr>my <gr str="7451">hurt</gr>. </VERS>
+      <VERS vnumber="8"> An <gr str="1100">evil </gr>
+        <gr str="1697">disease</gr>, <STYLE css="color:#808080;font-style:italic"> say </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> they </STYLE>, cleaveth <gr str="3332">fast </gr>unto him: and <STYLE css="color:#808080;font-style:italic"> now </STYLE>
+        <gr str="834">that </gr>he <gr str="7901">lieth </gr>he shall rise <gr str="6965">up </gr>
+        <gr str="3808">no </gr>
+        <gr str="3254">more</gr>. </VERS>
+      <VERS vnumber="9">
+        <gr str="1571">Yea</gr>, mine own familiar <gr str="7965 376">friend</gr>, in <gr str="834">whom </gr>I <gr str="982">trusted</gr>, which did <gr str="398">eat </gr>of my <gr str="3899">bread</gr>, hath lifted <gr str="1431">up </gr>
+        <STYLE css="color:#808080;font-style:italic"> his </STYLE>
+        <gr str="6119">heel </gr>
+        <gr str="5921">against </gr>me. </VERS>
+      <VERS vnumber="10"> But <gr str="859">thou</gr>, O <gr str="3068">LORD</gr>, be <gr str="2603">merciful </gr>unto me, and raise me <gr str="6965">up</gr>, that I may <gr str="7999">requite </gr>them. </VERS>
+      <VERS vnumber="11"> By <gr str="2063">this </gr>I <gr str="3045">know </gr>
+        <gr str="3588">that </gr>thou <gr str="2654">favorest </gr>me, <gr str="3588">because </gr>mine <gr str="341">enemy </gr>doth <gr str="3808">not </gr>
+        <gr str="7321">triumph </gr>
+        <gr str="5921">over </gr>me. </VERS>
+      <VERS vnumber="12"> And as for <gr str="589">me</gr>, thou <gr str="8551">upholdest </gr>me in mine <gr str="8537">integrity</gr>, and <gr str="5324">settest </gr>me before thy <gr str="6440">face </gr>
+        <gr str="5769">forever</gr>. </VERS>
+      <VERS vnumber="13">
+        <gr str="1288">Blessed </gr>
+        <STYLE css="color:#808080;font-style:italic"> be </STYLE> the <gr str="3068">LORD </gr>
+        <gr str="430">God </gr>of <gr str="3478">Israel </gr>from <gr str="4480 5769">everlasting</gr>, and <gr str="5704">to </gr>
+        <gr str="5769">everlasting</gr>. <gr str="543">Amen</gr>, and <gr str="543">Amen</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

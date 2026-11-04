@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="138">
+      <VERS vnumber="1">I will thank you, O <STYLE id="cl:divineName">Lord</STYLE>, with all my heart:in the sight of the gods I will sing your praise.And, prostrate before your holy temple,will praise your name for your constant love.For you have exulted your promise above all. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">When I called you, you answered;you gave me strength, you inspired me.</VERS>
+      <VERS vnumber="4">All the kings of the earth shall praise you, O <STYLE id="cl:divineName">Lord</STYLE>,when they shall have heard the words you have uttered;</VERS>
+      <VERS vnumber="5">and they shall sing of the ways of the <STYLE id="cl:divineName">Lord</STYLE>,and tell of the <STYLE id="cl:divineName">Lord</STYLE>’s transcendent glory.</VERS>
+      <VERS vnumber="6">For, high though the <STYLE id="cl:divineName">Lord</STYLE> is, he looks on the lowly,and strikes down the haughty from far away. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">Though my way be distressful, yet you preserve me:you lay your hand on my angry foes,and your right hand gives me victory.</VERS>
+      <VERS vnumber="8">The <STYLE id="cl:divineName">Lord</STYLE> will accomplish all that which concerns me.Your kindness, O <STYLE id="cl:divineName">Lord</STYLE>, endures forever.O do not abandon the work of your hands.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

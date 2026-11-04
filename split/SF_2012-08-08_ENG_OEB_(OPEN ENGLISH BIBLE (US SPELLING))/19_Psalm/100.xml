@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="100">
+      <VERS vnumber="1">Shout, all the earth, to the <STYLE id="cl:divineName">Lord</STYLE>.Serve the <STYLE id="cl:divineName">Lord</STYLE> with gladness,approach him with ringing cries.Be sure that the <STYLE id="cl:divineName">Lord</STYLE> alone is God.It is he who has made us, and his we arehis people, the sheep of his pasture. <BR art="x-nl" /> Enter his gates with thanksgiving,his courts with praise.Give thanks to him, bless his name.For the <STYLE id="cl:divineName">Lord</STYLE> is good, his love is forever,and to all ages endures his faithfulness.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Rotherham Version" type="x-bible">
+  <BIBLEBOOK bname="Psalm" bnumber="19" bsname="Ps">
+    <CHAPTER cnumber="1">
+      <CAPTION vref="1">Every thing lofty, he beholdeth, he, is king over all ravenous beasts.</CAPTION>
+      <VERS vnumber="1">
+        <STYLE css="font-weight:bold"> BOOK THE FIRST</STYLE>  How happy the man, who hath not walked in the counsel of the lawless,and, in the way of sinners, hath not stood, and, in the seat of scoffers, hath not sat;</VERS>
+      <VERS vnumber="2">But, in the law of Yahweh, is his delight,and, in his law, doth he talk with himself day and night.</VERS>
+      <VERS vnumber="3">So doth he become like a tree planted by streams of waters,that yieldeth, its fruit, in its season, whose leaf, also doth not wither, and, whatsoever he doeth, prospereth.</VERS>
+      <VERS vnumber="4">Not so, the lawless,but as chaff which is driven about by the wind:</VERS>
+      <VERS vnumber="5">For this cause, shall the lawless not stand in the judgment,nor sinners in the assembly of the righteous.</VERS>
+      <VERS vnumber="6">For Yahweh doth acknowledge the way of the righteous; but, the way of the lawless, shall vanish.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="American King James Version" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="120">
+      <VERS vnumber="1">In my distress I cried to the LORD, and he heard me.</VERS>
+      <VERS vnumber="2">Deliver my soul, O LORD, from lying lips, and from a deceitful tongue.</VERS>
+      <VERS vnumber="3">What shall be given to you? or what shall be done to you, you false tongue?</VERS>
+      <VERS vnumber="4">Sharp arrows of the mighty, with coals of juniper.</VERS>
+      <VERS vnumber="5">Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!</VERS>
+      <VERS vnumber="6">My soul has long dwelled with him that hates peace.</VERS>
+      <VERS vnumber="7">I am for peace: but when I speak, they are for war.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

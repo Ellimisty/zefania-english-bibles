@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="101">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">I will sing of loving kindness and judgment. I will sing to you O Jehovah.</VERS>
+      <VERS vnumber="2">I will behave myself wisely in a perfect way. O when will you come to me? I will walk within my house with a perfect heart.</VERS>
+      <VERS vnumber="3">I will set no wicked thing before my eyes. I hate the work of unfaithful people. I want no part of it.</VERS>
+      <VERS vnumber="4">A perverse heart shall depart from me. I will not know a wicked person.</VERS>
+      <VERS vnumber="5">I will destroy anyone who secretly slanders his neighbor. I will not tolerate anyone with a conceited look or arrogant heart.</VERS>
+      <VERS vnumber="6">My eyes will be watching the faithful people in the land so that they may live with me. The person who lives with integrity will serve me.</VERS>
+      <VERS vnumber="7">The one who does deceitful things will not stay in my home. The one who tells lies will not remain in my presence.</VERS>
+      <VERS vnumber="8">Every morning I will destroy all the wicked people in the land to rid Jehovahs city of all troublemakers.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="12">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">For the end, A Psalm of David, upon the eighth.</STYLE> - Save me, O Lord; for the godly man has failed; for <DIV>
+          <NOTE type="x-studynote">Gr. truths are become rare</NOTE>
+        </DIV> truth is diminished from among the children of men.</VERS>
+      <VERS vnumber="2">Every one has spoken vanity to his neighbour: their lips are deceitful, they have spoken with a double heart.</VERS>
+      <VERS vnumber="3">Let the Lord destroy all the deceitful lips, and the tongue that speaks great words:</VERS>
+      <VERS vnumber="4">who have said, We will magnify our tongue; our lips are our own: who is Lord of us?</VERS>
+      <VERS vnumber="5">Because of the misery of the poor, and because of the sighing of the needy, now will I arise, saith the Lord, I will set them in safety; I will speak to them thereof openly.</VERS>
+      <VERS vnumber="6">The oracles of the Lord are pure oracles; as silver tried in the fire, proved in a <DIV>
+          <NOTE type="x-studynote">Gr. the earth</NOTE>
+        </DIV> furnace of earth, purified seven times.</VERS>
+      <VERS vnumber="7">Thou, O Lord, shalt keep us, and shalt preserve us, from this generation, and for ever.</VERS>
+      <VERS vnumber="8">The ungodly walk around: according to thy greatness thou has greatly exalted the sons of men.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="8">
+      <CAPTION vref="1">Psalm of David</CAPTION>
+      <VERS vnumber="1">O Jehovah, our Lord, how excellent is your majestic name in all the earth! You have displayed your glory above the heavens.</VERS>
+      <VERS vnumber="2">From the mouths of little children and infants, you have built a fortress against your opponents to silence the enemy and the avenger.</VERS>
+      <VERS vnumber="3">When I look at your heavens, the creation of your fingers, the moon and the stars that you have set in place,</VERS>
+      <VERS vnumber="4">what is man that you remember him or the son of man that you take care of him?</VERS>
+      <VERS vnumber="5">You made him a little lower than god-like ones <STYLE css="font-style:italic">God</STYLE>
+        <STYLE css="font-style:italic">Son of God</STYLE>
+        <STYLE css="font-style:italic">angels</STYLE>. You crowned him with glory and honor. (John 1:18)</VERS>
+      <VERS vnumber="6">You made him rule what your hands created. You have put everything under his control:</VERS>
+      <VERS vnumber="7">all the sheep and cattle, the wild animals,</VERS>
+      <VERS vnumber="8">the birds, the fish, whatever swims in the currents of the seas.</VERS>
+      <VERS vnumber="9">O Jehovah, our Lord, how excellent is your majestic <STYLE css="font-style:italic">magnificent</STYLE> name in all the earth!</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

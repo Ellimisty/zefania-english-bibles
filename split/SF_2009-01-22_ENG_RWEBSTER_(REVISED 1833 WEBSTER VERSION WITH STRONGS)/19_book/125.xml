@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="125">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A <gr str="7892">Song </gr>of <gr str="4609">degrees</gr>.</STYLE> They that <gr str="982">trust </gr>in the <gr str="3068">LORD </gr>
+        <STYLE css="font-style:italic">shall be</STYLE> as <gr str="2022">mount </gr>
+        <gr str="6726">Zion</gr>, <STYLE css="font-style:italic">which</STYLE> cannot be <gr str="4131">removed</gr>, <STYLE css="font-style:italic">but </STYLE>
+        <gr str="3427">abideth </gr>for <gr str="5769">ever</gr>.</VERS>
+      <VERS vnumber="2">As the <gr str="2022">mountains </gr>
+        <gr str="5439">surround </gr>
+        <gr str="3389">Jerusalem</gr>, so the <gr str="3068">LORD </gr>
+        <gr str="5439">surroundeth </gr>his <gr str="5971">people </gr>from henceforth even <gr str="5704">for </gr>
+        <gr str="5769">ever</gr>.</VERS>
+      <VERS vnumber="3">For the <gr str="7626">rod </gr>of the <gr str="7562">wicked </gr>shall not <gr str="5117">rest </gr>upon the <gr str="1486">lot </gr>of the <gr str="6662">righteous</gr>; <gr str="4616">lest </gr>the <gr str="6662">righteous </gr>put <gr str="7971">forth </gr>their <gr str="3027">hands </gr>to <gr str="5766">iniquity</gr>. <DIV>
+          <NOTE type="x-studynote">the wicked: Heb. wickedness</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="4">Do <gr str="2895">good</gr>, O <gr str="3068">LORD</gr>, to <STYLE css="font-style:italic">those that are </STYLE>
+        <gr str="2896">good</gr>, and <STYLE css="font-style:italic">to them that are </STYLE>
+        <gr str="3477">upright </gr>in their <gr str="3826">hearts</gr>.</VERS>
+      <VERS vnumber="5">As for such as turn <gr str="5186">aside </gr>to their crooked <gr str="6128">ways</gr>, the <gr str="3068">LORD </gr>shall lead them <gr str="3212">forth </gr>with the <gr str="6466">workers </gr>of <gr str="205">iniquity</gr>: <STYLE css="font-style:italic">but </STYLE>
+        <gr str="7965">peace </gr>
+        <STYLE css="font-style:italic">shall be</STYLE> upon <gr str="3478">Israel</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

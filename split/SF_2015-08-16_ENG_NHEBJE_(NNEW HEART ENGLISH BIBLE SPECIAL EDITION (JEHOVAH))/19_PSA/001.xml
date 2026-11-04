@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="New Heart English Bible JE" type="x-bible">
+  <BIBLEBOOK bnumber="19" bsname="PSA">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">Blessed is the man who doesn't walk in the counsel of the wicked, nor stand in the path of sinners, nor sit in the seat of scoffers;</VERS>
+      <VERS vnumber="2">but his delight is in the Law of Jehovah. On his Law he meditates day and night.</VERS>
+      <VERS vnumber="3">He will be like a tree planted by the streams of water, that brings forth its fruit in its season, whose leaf also does not wither. Whatever he does shall prosper.</VERS>
+      <VERS vnumber="4">The wicked are not so, but are like the chaff which the wind drives away.</VERS>
+      <VERS vnumber="5">Therefore the wicked shall not stand in the judgment, nor sinners in the congregation of the righteous.</VERS>
+      <VERS vnumber="6">For Jehovah knows the way of the righteous, but the way of the wicked shall perish.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

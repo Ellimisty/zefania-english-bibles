@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="King James Version PCE" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="16">
+      <VERS vnumber="1">Michtam of David.  Preserve me, O God: for in thee do I put my trust.</VERS>
+      <VERS vnumber="2">O my soul , thou hast said unto the <STYLE id="cl:divineName">Lord</STYLE>, Thou  art  my Lord: my goodness  extendeth  not to thee;</VERS>
+      <VERS vnumber="3">But  to the saints that  are  in the earth, and  to  the excellent, in whom  is  all my delight.</VERS>
+      <VERS vnumber="4">Their sorrows shall be multiplied  that  hasten  after  another  god : their drink offerings of blood will I not offer, nor take up their names into my lips.</VERS>
+      <VERS vnumber="5">The <STYLE id="cl:divineName">Lord</STYLE> is  the portion of mine inheritance and of my cup: thou maintainest my lot.</VERS>
+      <VERS vnumber="6">The lines are fallen unto me in pleasant  places ; yea, I have a goodly heritage.</VERS>
+      <VERS vnumber="7">I will bless the <STYLE id="cl:divineName">Lord</STYLE>, who hath given me counsel: my reins also instruct me in the night seasons.</VERS>
+      <VERS vnumber="8">I have set the <STYLE id="cl:divineName">Lord</STYLE> always before me: because  he is  at my right hand, I shall not be moved.</VERS>
+      <VERS vnumber="9">Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope.</VERS>
+      <VERS vnumber="10">For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption.</VERS>
+      <VERS vnumber="11">Thou wilt shew me the path of life: in thy presence  is  fulness of joy; at thy right hand  there are  pleasures for evermore.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

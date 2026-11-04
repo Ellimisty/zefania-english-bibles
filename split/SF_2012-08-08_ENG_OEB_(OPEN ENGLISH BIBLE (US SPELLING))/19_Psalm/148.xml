@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="148">
+      <VERS vnumber="1">Praise the <STYLE id="cl:divineName">Lord</STYLE> from the heavens,praise him in the heights.</VERS>
+      <VERS vnumber="2">Praise him, all his angels;praise him, all his hosts. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="3">Praise him, sun and moon;praise him, all stars of light.</VERS>
+      <VERS vnumber="4">Praise him, you highest heavens,and you waters above the heavens. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="5">Let them praise the name of the <STYLE id="cl:divineName">Lord</STYLE>,for at his command they were made.</VERS>
+      <VERS vnumber="6">And he fixed them for ever and everby a law which they dare not transgress. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">Praise the <STYLE id="cl:divineName">Lord</STYLE> from the earth:you depths, with your monsters, all.</VERS>
+      <VERS vnumber="8">Fire, hail, snow and ice,and stormy wind doing his word. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="9">All you mountains and hills,all you fruit trees and cedars,</VERS>
+      <VERS vnumber="10">all you wild beasts and tame,creeping things, birds on the wing. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="11">All you kings and nations of earth;all you princes and judges of earth:</VERS>
+      <VERS vnumber="12">young men and maidens together,old men and children together. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="13">Let them praise the name of the <STYLE id="cl:divineName">Lord</STYLE>,for his name alone is exalted.Over heaven and earth is his glory.</VERS>
+      <VERS vnumber="14">He has lifted his people to honour.Wherefore this chorus of praise from his saints,from Israel, the people who stand in his fellowship.Hallelujah.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

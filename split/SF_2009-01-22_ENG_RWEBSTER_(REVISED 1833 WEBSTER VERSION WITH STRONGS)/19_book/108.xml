@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="108">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A <gr str="7892">Song </gr>[or] <gr str="4210">Psalm </gr>of <gr str="1732">David</gr>.</STYLE> O <gr str="430">God</gr>, my <gr str="3820">heart </gr>is <gr str="3559">fixed</gr>; I will <gr str="7891">sing </gr>and give <gr str="2167">praise</gr>, even with my <gr str="3519">glory</gr>.</VERS>
+      <VERS vnumber="2">
+        <gr str="5782">Awake</gr>, <gr str="5035">psaltery </gr>and <gr str="3658">harp</gr>: I <STYLE css="font-style:italic">myself</STYLE> will <gr str="5782">awake </gr>
+        <gr str="7837">early</gr>.</VERS>
+      <VERS vnumber="3">I will <gr str="3034">praise </gr>thee, O <gr str="3068">LORD</gr>, among the <gr str="5971">people</gr>: and I will sing <gr str="2167">praises </gr>to thee among the <gr str="3816">nations</gr>.</VERS>
+      <VERS vnumber="4">For thy <gr str="2617">mercy </gr>
+        <STYLE css="font-style:italic">is </STYLE>
+        <gr str="1419">great </gr>above the <gr str="8064">heavens</gr>: and thy <gr str="571">truth </gr>
+        <STYLE css="font-style:italic">reacheth</STYLE> to the <gr str="7834">clouds</gr>. <DIV>
+          <NOTE type="x-studynote">clouds: or, skies</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="5">Be thou <gr str="7311">exalted</gr>, O <gr str="430">God</gr>, above the <gr str="8064">heavens</gr>: and thy <gr str="3519">glory </gr>above all the <gr str="776">earth</gr>;</VERS>
+      <VERS vnumber="6">That thy <gr str="3039">beloved </gr>may be <gr str="2502">delivered</gr>: <gr str="3467">save </gr>
+        <STYLE css="font-style:italic">with</STYLE> thy right <gr str="3225">hand</gr>, and <gr str="6030">answer </gr>me.</VERS>
+      <VERS vnumber="7">
+        <gr str="430">God </gr>hath <gr str="1696">spoken </gr>in his <gr str="6944">holiness</gr>; I will <gr str="5937">rejoice</gr>, I will <gr str="2505">divide </gr>
+        <gr str="7927">Shechem</gr>, and measure <gr str="4058">out </gr>the <gr str="6010">valley </gr>of <gr str="5523">Succoth</gr>.</VERS>
+      <VERS vnumber="8">
+        <gr str="1568">Gilead </gr>
+        <STYLE css="font-style:italic">is</STYLE> mine; <gr str="4519">Manasseh </gr>
+        <STYLE css="font-style:italic">is</STYLE> mine; <gr str="669">Ephraim </gr>also <STYLE css="font-style:italic">is</STYLE> the <gr str="4581">strength </gr>of my <gr str="7218">head</gr>; <gr str="3063">Judah </gr>
+        <STYLE css="font-style:italic">is</STYLE> my <gr str="2710">lawgiver</gr>;</VERS>
+      <VERS vnumber="9">
+        <gr str="4124">Moab </gr>
+        <STYLE css="font-style:italic">is</STYLE> my <gr str="7366 5518">washpot</gr>; over <gr str="123">Edom </gr>will I cast <gr str="7993">out </gr>my <gr str="5275">shoe</gr>; over <gr str="6429">Philistia </gr>will I <gr str="7321">triumph</gr>.</VERS>
+      <VERS vnumber="10">Who will <gr str="2986">bring </gr>me into the <gr str="4013">strong </gr>
+        <gr str="5892">city</gr>? who will <gr str="5148">lead </gr>me into <gr str="123">Edom</gr>?</VERS>
+      <VERS vnumber="11">
+        <STYLE css="font-style:italic">Wilt</STYLE> not <STYLE css="font-style:italic">thou</STYLE>, O <gr str="430">God</gr>, <STYLE css="font-style:italic">who</STYLE> hast cast us <gr str="2186">off</gr>? and wilt not thou, O <gr str="430">God</gr>, go <gr str="3318">forth </gr>with our <gr str="6635">armies</gr>?</VERS>
+      <VERS vnumber="12">
+        <gr str="3051">Give </gr>us <gr str="5833">help </gr>from <gr str="6862">trouble</gr>: for <gr str="7723">vain </gr>
+        <STYLE css="font-style:italic">is</STYLE> the <gr str="8668">help </gr>of <gr str="120">man</gr>.</VERS>
+      <VERS vnumber="13">Through <gr str="430">God </gr>we shall <gr str="6213">do </gr>
+        <gr str="2428">valiantly</gr>: for he will tread <gr str="947">down </gr>our <gr str="6862">enemies</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

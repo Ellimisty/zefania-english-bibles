@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version with Strongs" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="98">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm.</STYLE> O <gr str="7891">sing </gr>to the <gr str="3068">LORD </gr>a <gr str="2319">new </gr>
+        <gr str="7892">song</gr>; for he hath <gr str="6213">done </gr>marvellous <gr str="6381">things</gr>: his right <gr str="3225">hand</gr>, and his <gr str="6944">holy </gr>
+        <gr str="2220">arm</gr>, hath gotten him the <gr str="3467">victory</gr>.</VERS>
+      <VERS vnumber="2">The <gr str="3068">LORD </gr>hath made <gr str="3045">known </gr>his <gr str="3444">salvation</gr>: his <gr str="6666">righteousness </gr>hath he openly <gr str="1540">shown </gr>in the <gr str="5869">sight </gr>of the <gr str="1471">heathen</gr>. <DIV>
+          <NOTE type="x-studynote">openly…: or, revealed</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="3">He hath <gr str="2142">remembered </gr>his <gr str="2617">mercy </gr>and his <gr str="530">truth </gr>toward the <gr str="1004">house </gr>of <gr str="3478">Israel</gr>: all the <gr str="657">ends </gr>of the <gr str="776">earth </gr>have <gr str="7200">seen </gr>the <gr str="3444">salvation </gr>of our <gr str="430">God</gr>.</VERS>
+      <VERS vnumber="4">Make a joyful <gr str="7321">noise </gr>to the <gr str="3068">LORD</gr>, all the <gr str="776">earth</gr>: make a loud <gr str="6476">noise</gr>, and <gr str="7442">rejoice</gr>, and <gr str="2167">sing </gr>praise.</VERS>
+      <VERS vnumber="5">
+        <gr str="2167">Sing </gr>to the <gr str="3068">LORD </gr>with the <gr str="3658">harp</gr>; with the <gr str="3658">harp</gr>, and the <gr str="6963">voice </gr>of a <gr str="2172">psalm</gr>.</VERS>
+      <VERS vnumber="6">With <gr str="2689">trumpets </gr>and <gr str="6963">sound </gr>of <gr str="7782">cornet </gr>make a joyful <gr str="7321">noise </gr>
+        <gr str="6440">before </gr>the <gr str="3068">LORD</gr>, the <gr str="4428">King</gr>.</VERS>
+      <VERS vnumber="7">Let the <gr str="3220">sea </gr>
+        <gr str="7481">roar</gr>, and all it <gr str="4393">containeth</gr>; the <gr str="8398">world</gr>, and they that <gr str="3427">dwell </gr>in it. <DIV>
+          <NOTE type="x-studynote">the fulness…: or, all it containeth</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="8">Let the <gr str="5104">floods </gr>
+        <gr str="4222">clap </gr>
+        <STYLE css="font-style:italic">their </STYLE>
+        <gr str="3709">hands</gr>: let the <gr str="2022">hills </gr>be <gr str="7442">joyful </gr>
+        <gr str="3162">together</gr>
+      </VERS>
+      <VERS vnumber="9">
+        <gr str="6440">Before </gr>the <gr str="3068">LORD</gr>; for he <gr str="935">cometh </gr>to <gr str="8199">judge </gr>the <gr str="776">earth</gr>: with <gr str="6664">righteousness </gr>shall he <gr str="8199">judge </gr>the <gr str="8398">world</gr>, and the <gr str="5971">people </gr>with <gr str="4339">equity</gr>.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

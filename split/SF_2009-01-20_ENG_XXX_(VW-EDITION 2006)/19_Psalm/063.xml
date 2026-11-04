@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="VW-Edition 2006" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm">
+    <CHAPTER cnumber="63">
+      <CAPTION vref="1">A Psalm of David, when he was in the wilderness of Judah.</CAPTION>
+      <VERS vnumber="1">O God, You are my Mighty God. I will seek You earnestly; my soul thirsts for You; my flesh longs for You, as in a dry and weary land, where there is no water.</VERS>
+      <VERS vnumber="2">I have seen You in the sanctuary, to look upon Your power and Your glory.</VERS>
+      <VERS vnumber="3">Because Your lovingkindness is better than life, my lips shall praise You.</VERS>
+      <VERS vnumber="4">So I will bless You while I live; I will lift up my hands in Your name.</VERS>
+      <VERS vnumber="5">My soul shall be satisfied as with marrow and fatness; and my mouth shall praise You with joyful lips,</VERS>
+      <VERS vnumber="6">when I remember You upon my bed and meditate on You in the night watches.</VERS>
+      <VERS vnumber="7">Because You have been my help, therefore in the shadow of Your wings will I rejoice.</VERS>
+      <VERS vnumber="8">My soul has clung to You; Your right hand upholds me.</VERS>
+      <VERS vnumber="9">But those who seek my soul, to destroy it, shall go into the lower parts of the earth.</VERS>
+      <VERS vnumber="10">They shall fall by the sword; they shall be a portion for foxes.</VERS>
+      <VERS vnumber="11">But the king shall rejoice in God; everyone who swears by Him shall glory; but the mouth of those who speak lies shall be stopped.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

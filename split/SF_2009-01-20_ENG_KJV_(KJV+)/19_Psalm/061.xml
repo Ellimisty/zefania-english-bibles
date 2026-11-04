@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="61">
+      <VERS vnumber="1"> To the chief <gr str="5329">Musician </gr>
+        <gr str="5921">upon </gr>
+        <gr str="5058">Neginah</gr>, <STYLE css="color:#808080;font-style:italic"> A </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> Psalm </STYLE> of <gr str="1732">David</gr>. <gr str="8085">Hear </gr>my <gr str="7440">cry</gr>, O <gr str="430">God</gr>; attend <gr str="7181">unto </gr>my <gr str="8605">prayer</gr>. </VERS>
+      <VERS vnumber="2"> From the <gr str="4480 7097">end </gr>of the <gr str="776">earth </gr>will I <gr str="7121">cry </gr>
+        <gr str="413">unto </gr>thee, when my <gr str="3820">heart </gr>is <gr str="5848">overwhelmed</gr>: <gr str="5148">lead </gr>me to the <gr str="6697">rock </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE> is <gr str="7311">higher </gr>
+        <gr str="4480">than </gr>I. </VERS>
+      <VERS vnumber="3">
+        <gr str="3588">For </gr>thou hast <gr str="1961">been </gr>a <gr str="4268">shelter </gr>for me, <STYLE css="color:#808080;font-style:italic"> and </STYLE> a <gr str="5797">strong </gr>
+        <gr str="4026">tower </gr>
+        <gr str="4480 6440">from </gr>the <gr str="341">enemy</gr>. </VERS>
+      <VERS vnumber="4"> I will <gr str="1481">abide </gr>in thy <gr str="168">tabernacle </gr>
+        <gr str="5769">forever</gr>: I will <gr str="2620">trust </gr>in the <gr str="5643">covert </gr>of thy <gr str="3671">wings</gr>. <gr str="5542">Selah</gr>. </VERS>
+      <VERS vnumber="5">
+        <gr str="3588">For </gr>
+        <gr str="859">thou</gr>, O <gr str="430">God</gr>, hast <gr str="8085">heard </gr>my <gr str="5088">vows</gr>: thou hast <gr str="5414">given </gr>
+        <STYLE css="color:#808080;font-style:italic"> me </STYLE> the <gr str="3425">heritage </gr>of those that <gr str="3373">fear </gr>thy <gr str="8034">name</gr>. </VERS>
+      <VERS vnumber="6"> Thou wilt <gr str="3254">prolong </gr>the <gr str="4428">king </gr>'s <gr str="3117 5921 3117">life</gr>: <STYLE css="color:#808080;font-style:italic"> and </STYLE> his <gr str="8141">years </gr>
+        <gr str="3644">as </gr>many <gr str="1755 1755">generations</gr>. </VERS>
+      <VERS vnumber="7"> He shall <gr str="3427">abide </gr>
+        <gr str="6440">before </gr>
+        <gr str="430">God </gr>
+        <gr str="5769">forever</gr>: O <gr str="4487">prepare </gr>
+        <gr str="2617">mercy </gr>and <gr str="571">truth</gr>, <STYLE css="color:#808080;font-style:italic"> which </STYLE> may <gr str="5341">preserve </gr>him. </VERS>
+      <VERS vnumber="8">
+        <gr str="3651">So </gr>will I sing <gr str="2167">praise </gr>unto thy <gr str="8034">name </gr>
+        <gr str="5703">forever</gr>, that I may <gr str="3117 3117">daily </gr>
+        <gr str="7999">perform </gr>my <gr str="5088">vows</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

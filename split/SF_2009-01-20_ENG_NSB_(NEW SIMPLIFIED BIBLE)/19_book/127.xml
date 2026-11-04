@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="127">
+      <CAPTION vref="1">Psalm of Solomon</CAPTION>
+      <VERS vnumber="1">If Jehovah does not build the house, it is vain for the builders to work on it. If Jehovah does not protect a city, it is vain for the guard to stay alert.</VERS>
+      <VERS vnumber="2">It is vain to work hard for the food you eat by getting up early and going to bed late. Jehovah gives food to those he loves while they sleep.</VERS>
+      <VERS vnumber="3">Children are an inheritance from Jehovah. They are a blessing from him.</VERS>
+      <VERS vnumber="4">The children born to a man when he is young are like arrows in the hand of a warrior.</VERS>
+      <VERS vnumber="5">Blessed is the man who has filled his quiver with them. He will not be put to shame when he speaks with his enemies in the city gate.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

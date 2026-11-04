@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Bible in Basic English" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="142">
+      <VERS vnumber="1"> Maschil. Of David. A prayer when he was in the hole of the rock. </VERS>
+      <VERS vnumber="2">\142:1\The sound of my cry went up to the Lord; with my voice I made my prayer for grace to the Lord.</VERS>
+      <VERS vnumber="3">\142:2\I put all my sorrows before him; and made clear to him all my trouble.</VERS>
+      <VERS vnumber="4">\142:3\When my spirit is overcome, your eyes are on my goings; nets have been secretly placed in the way in which I go.</VERS>
+      <VERS vnumber="5">\142:4\Looking to my right side, I saw no man who was my friend: I had no safe place; no one had any care for my soul.</VERS>
+      <VERS vnumber="6">\142:5\I have made my cry to you, O Lord; I have said, You are my safe place, and my heritage in the land of the living.</VERS>
+      <VERS vnumber="7">\142:6\Give ear to my cry, for I am made very low: take me out of the hands of my haters, for they are stronger than I.</VERS>
+      <VERS vnumber="8">\142:7\Take my soul out of prison, so that I may give praise to your name: the upright will give praise because of me; for you have given me a full reward.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

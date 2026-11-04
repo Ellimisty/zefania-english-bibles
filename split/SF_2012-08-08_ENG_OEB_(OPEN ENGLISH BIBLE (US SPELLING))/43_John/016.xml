@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.22" biblename="Open English Bible (US Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="43" bname="John" bsname="Joh">
+    <CHAPTER cnumber="16">
+      <VERS vnumber="1">I have spoken to you in this way so that you may not falter.</VERS>
+      <VERS vnumber="17">At this some of his disciples said to one another: “What does he mean by saying to us and by saying</VERS>
+      <VERS vnumber="18">What does he mean by they said; “we do not know what he is speaking about.”</VERS>
+      <VERS vnumber="19">Jesus saw that they were wanting to ask him a question, and said:</VERS>
+      <VERS vnumber="29">“At last,” exclaimed the disciples, “you are using plain words and not speaking in figures at all.</VERS>
+      <VERS vnumber="30">Now we are sure that you know everything, and need not wait for anyone to question you. This makes us believe that you did come from God.”  crosswire  amateurish codings</VERS>
+      <VERS vnumber="31">Jesus answered.</VERS>
+      <VERS vnumber="33">
+        crosswire  amateurish codings
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

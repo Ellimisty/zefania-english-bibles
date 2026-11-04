@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="John Wycliffe Bible" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="1">
+      <VERS vnumber="1">
+Blessid is the man, that yede not in the councel of wickid men; and stood not in the weie of synneris, and sat not in the chaier of pestilence.
+</VERS>
+      <VERS vnumber="2">
+But his wille is in the lawe of the Lord; and he schal bithenke in the lawe of hym dai and nyyt.
+</VERS>
+      <VERS vnumber="3">
+And he schal be as a tree, which is plauntid bisidis the rennyngis of watris; which tre schal yyue his fruyt in his tyme. And his leef schal not falle doun; and alle thingis which euere he schal do schulen haue prosperite.
+</VERS>
+      <VERS vnumber="4">
+Not so wickid men, not so; but thei ben as dust, which the wynd castith awei fro the face of erthe.
+</VERS>
+      <VERS vnumber="5">
+Therfor wickid men risen not ayen in doom; nethir synneres in the councel of iust men.
+</VERS>
+      <VERS vnumber="6">
+For the Lord knowith the weie of iust men; and the weie of wickid men schal perische.
+</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

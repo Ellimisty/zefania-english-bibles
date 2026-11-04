@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="World English Bible - Messianic Edition" type="x-bible">
+  <BIBLEBOOK bnumber="40" bname="Matthew" bsname="Mat">
+    <CHAPTER cnumber="25">
+      <VERS vnumber="13">
+        
+      </VERS>
+      <VERS vnumber="18">
+        
+      </VERS>
+      <VERS vnumber="20">
+        
+      </VERS>
+      <VERS vnumber="21">
+        
+      </VERS>
+      <VERS vnumber="22">
+        
+      </VERS>
+      <VERS vnumber="23">
+        
+      </VERS>
+      <VERS vnumber="25">
+        
+      </VERS>
+      <VERS vnumber="30">
+        
+      </VERS>
+      <VERS vnumber="36">
+        
+      </VERS>
+      <VERS vnumber="39">
+        
+      </VERS>
+      <VERS vnumber="43">
+        
+      </VERS>
+      <VERS vnumber="44">
+        
+      </VERS>
+      <VERS vnumber="46">
+        
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="98">
+      <VERS vnumber="1">Sing a new song to the <STYLE id="cl:divineName">Lord</STYLE>,for he has done wonders;his right hand and holy armhave won him the victory.</VERS>
+      <VERS vnumber="2">The <STYLE id="cl:divineName">Lord</STYLE> has made his victory known,and revealed to the eyes of the nations his righteousness.</VERS>
+      <VERS vnumber="3">Mindful he was of his kindness to Jacob,faithful he was to the house of Israel.All the ends of the earth have seenthe victory of our God. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="4">Shout, all the earth, to the <STYLE id="cl:divineName">Lord</STYLE>:break into cries and music.</VERS>
+      <VERS vnumber="5">Play on the lyre to the <STYLE id="cl:divineName">Lord</STYLE>,on the lyre and with loud melody.</VERS>
+      <VERS vnumber="6">With trumpet and sound of horn,shout before the king. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">Let the sea and its fulness roar,the world and the dwellers upon it.</VERS>
+      <VERS vnumber="8">Let the streams clap their hands,let the hills shout for gladness together</VERS>
+      <VERS vnumber="9">before the <STYLE id="cl:divineName">Lord</STYLE> for he comes,he comes to judge the earth.He will judge the world with justiceand the nations with equity.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

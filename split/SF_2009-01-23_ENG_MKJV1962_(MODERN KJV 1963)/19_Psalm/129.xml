@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Modern KJV 1963" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="129">
+      <VERS vnumber="1">A Song of degrees. Many times they have afflicted me from my youth, Israel may now say;</VERS>
+      <VERS vnumber="2">many times they have afflicted me from my youth; yet they have not prevailed over me.</VERS>
+      <VERS vnumber="3">The plowers plowed on my back; they made their furrows long.</VERS>
+      <VERS vnumber="4">The LORD [is] righteous; He cuts off the cords of the wicked.</VERS>
+      <VERS vnumber="5">Let them all be ashamed and turned back, those who hate Zion.</VERS>
+      <VERS vnumber="6">Let them be like the grass [on] the housetops, which dries up before it grows up,</VERS>
+      <VERS vnumber="7">with which the reaper does not fill his hand, nor the binder of sheaves his bosom.</VERS>
+      <VERS vnumber="8">And those who pass by have never said, The blessing of the LORD [be] on you; we bless you in the name of the LORD.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

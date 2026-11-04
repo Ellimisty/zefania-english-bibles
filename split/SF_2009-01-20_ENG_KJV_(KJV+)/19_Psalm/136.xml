@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="136">
+      <VERS vnumber="1"> O give <gr str="3034">thanks </gr>unto the <gr str="3068">LORD</gr>; <gr str="3588">for </gr>
+        <STYLE css="color:#808080;font-style:italic"> he </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="2896">good</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>. </VERS>
+      <VERS vnumber="2"> O give <gr str="3034">thanks </gr>unto the <gr str="430">God </gr>of <gr str="430">gods</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>. </VERS>
+      <VERS vnumber="3"> O give <gr str="3034">thanks </gr>to the <gr str="113">Lord </gr>of <gr str="113">lords</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>. </VERS>
+      <VERS vnumber="4"> To him who <gr str="905">alone </gr>
+        <gr str="6213">doeth </gr>
+        <gr str="1419">great </gr>
+        <gr str="6381">wonders</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>. </VERS>
+      <VERS vnumber="5"> To him that by <gr str="8394">wisdom </gr>
+        <gr str="6213">made </gr>the <gr str="8064">heavens</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>. </VERS>
+      <VERS vnumber="6"> To him that stretched <gr str="7554">out </gr>the <gr str="776">earth </gr>
+        <gr str="5921">above </gr>the <gr str="4325">waters</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>. </VERS>
+      <VERS vnumber="7"> To him that <gr str="6213">made </gr>
+        <gr str="1419">great </gr>
+        <gr str="216">lights</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>: </VERS>
+      <VERS vnumber="8">
+        <gr str="*853">
+        </gr>The <gr str="8121">sun </gr>to <gr str="4475">rule </gr>by <gr str="3117">day</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>: </VERS>
+      <VERS vnumber="9">
+        <gr str="*853">
+        </gr>The <gr str="3394">moon </gr>and <gr str="3556">stars </gr>to <gr str="4475">rule </gr>by <gr str="3915">night</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>. </VERS>
+      <VERS vnumber="10"> To him that <gr str="5221">smote </gr>
+        <gr str="4714">Egypt </gr>in their <gr str="1060">firstborn</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>: </VERS>
+      <VERS vnumber="11"> And brought <gr str="3318">out </gr>
+        <gr str="3478">Israel </gr>from <gr str="4480 8432">among </gr>them: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>: </VERS>
+      <VERS vnumber="12"> With a <gr str="2389">strong </gr>
+        <gr str="3027">hand</gr>, and with a stretched <gr str="5186">out </gr>
+        <gr str="2220">arm</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>. </VERS>
+      <VERS vnumber="13"> To him which <gr str="1504">divided </gr>the <gr str="5488">Red </gr>
+        <gr str="3220">sea </gr>into <gr str="1506">parts</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>: </VERS>
+      <VERS vnumber="14"> And made <gr str="3478">Israel </gr>to pass <gr str="5674">through </gr>the <gr str="8432">midst </gr>of it: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>: </VERS>
+      <VERS vnumber="15"> But <gr str="5286">overthrew </gr>
+        <gr str="6547">Pharaoh </gr>and his <gr str="2428">host </gr>in the <gr str="5488">Red </gr>
+        <gr str="3220">sea</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>. </VERS>
+      <VERS vnumber="16"> To him which <gr str="1980">led </gr>his <gr str="5971">people </gr>through the <gr str="4057">wilderness</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>. </VERS>
+      <VERS vnumber="17"> To him which <gr str="5221">smote </gr>
+        <gr str="1419">great </gr>
+        <gr str="4428">kings</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>: </VERS>
+      <VERS vnumber="18"> And <gr str="2026">slew </gr>
+        <gr str="117">famous </gr>
+        <gr str="4428">kings</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>: </VERS>
+      <VERS vnumber="19">
+        <gr str="5511">Sihon </gr>
+        <gr str="4428">king </gr>of the <gr str="567">Amorites</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>: </VERS>
+      <VERS vnumber="20"> And <gr str="5747">Og </gr>the <gr str="4428">king </gr>of <gr str="1316">Bashan</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>: </VERS>
+      <VERS vnumber="21"> And <gr str="5414">gave </gr>their <gr str="776">land </gr>for a <gr str="5159">heritage</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>: </VERS>
+      <VERS vnumber="22">
+        <STYLE css="color:#808080;font-style:italic"> Even </STYLE> a <gr str="5159">heritage </gr>unto <gr str="3478">Israel </gr>his <gr str="5650">servant</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>. </VERS>
+      <VERS vnumber="23"> Who <gr str="2142">remembered </gr>us in our low <gr str="7945 8216">estate</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>: </VERS>
+      <VERS vnumber="24"> And hath <gr str="6561">redeemed </gr>us from our <gr str="4480 6862">enemies</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>. </VERS>
+      <VERS vnumber="25"> Who <gr str="5414">giveth </gr>
+        <gr str="3899">food </gr>to <gr str="3605">all </gr>
+        <gr str="1320">flesh</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>. </VERS>
+      <VERS vnumber="26"> O give <gr str="3034">thanks </gr>unto the <gr str="410">God </gr>of <gr str="8064">heaven</gr>: <gr str="3588">for </gr>his <gr str="2617">mercy </gr>
+        <STYLE css="color:#808080;font-style:italic"> endureth </STYLE>
+        <gr str="5769">forever</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

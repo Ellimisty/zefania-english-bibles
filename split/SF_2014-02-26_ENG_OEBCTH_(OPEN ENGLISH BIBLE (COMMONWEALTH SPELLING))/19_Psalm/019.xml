@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Open English Bible (Commonwealth Spelling)" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="19">
+      <VERS vnumber="1">The heavens declare God’s glory,the sky tells what his hands have done.</VERS>
+      <VERS vnumber="2">Day tells it to day,night reveals it to night,</VERS>
+      <VERS vnumber="3">without speaking, without words;without the sound of voices.</VERS>
+      <VERS vnumber="4">But through all the world their voice carriestheir words to the ends of the earth. <BR art="x-nl" /> He has set in them a tent for the sun;</VERS>
+      <VERS vnumber="5">like a bridegroom coming forth from his chamberit joyfully runs its course like a hero.</VERS>
+      <VERS vnumber="6">From one end of the heavens it rises,and round it runs to the other,and nothing hides from its heat. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="7">The law of the <STYLE id="cl:divineName">Lord</STYLE> is perfect,renewing life.The decrees of the <STYLE id="cl:divineName">Lord</STYLE> are trusty,making simple ones wise. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="8">The behests of the <STYLE id="cl:divineName">Lord</STYLE> are right,rejoicing the heart.The command of the <STYLE id="cl:divineName">Lord</STYLE> is pure,giving light to the eyes. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="9">The fear of the <STYLE id="cl:divineName">Lord</STYLE> is clean,it endures forever.The <STYLE id="cl:divineName">Lord</STYLE>’s judgments are trueand right altogether. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="10">More precious are they than gold ---than fine gold in plenty,and sweeter they are than honey,that drops from the comb. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="11">By them is your servant warned;who keeps them has rich reward.</VERS>
+      <VERS vnumber="12">Who can know their flaws?Absolve me from those who I know not. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="13">Keep your servant from wilful sins ---from falling under their sway:then blameless and clear will I befrom great offense. <BR art="x-nl" />
+      </VERS>
+      <VERS vnumber="14">May the words of my mouth and the thoughts of my heartbe pleasing to you, <STYLE id="cl:divineName">Lord</STYLE>,my rock and redeemer.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

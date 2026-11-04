@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="95">
+      <VERS vnumber="1"> O <gr str="1980">come</gr>, let us <gr str="7442">sing </gr>unto the <gr str="3068">LORD</gr>: let us make a joyful <gr str="7321">noise </gr>to the <gr str="6697">rock </gr>of our <gr str="3468">salvation</gr>. </VERS>
+      <VERS vnumber="2"> Let us come <gr str="6923">before </gr>his <gr str="6440">presence </gr>with <gr str="8426">thanksgiving</gr>, and make a joyful <gr str="7321">noise </gr>unto him with <gr str="2158">psalms</gr>. </VERS>
+      <VERS vnumber="3">
+        <gr str="3588">For </gr>the <gr str="3068">LORD </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="1419">great </gr>
+        <gr str="410">God</gr>, and a <gr str="1419">great </gr>
+        <gr str="4428">King </gr>
+        <gr str="5921">above </gr>
+        <gr str="3605">all </gr>
+        <gr str="430">gods</gr>. </VERS>
+      <VERS vnumber="4"> In his <gr str="3027">hand </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> the deep <gr str="4278">places </gr>of the <gr str="776">earth</gr>: the <gr str="8443">strength </gr>of the <gr str="2022">hills </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> his also. </VERS>
+      <VERS vnumber="5"> The <gr str="3220">sea </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> his, and <gr str="1931">he </gr>
+        <gr str="6213">made </gr>it: and his <gr str="3027">hands </gr>
+        <gr str="3335">formed </gr>the <gr str="3006">dry </gr>
+        <STYLE css="color:#808080;font-style:italic"> land </STYLE>. </VERS>
+      <VERS vnumber="6"> O <gr str="935">come</gr>, let us <gr str="7812">worship </gr>and bow <gr str="3766">down</gr>: let us <gr str="1288">kneel </gr>
+        <gr str="6440">before </gr>the <gr str="3068">LORD </gr>our <gr str="6213">maker</gr>. </VERS>
+      <VERS vnumber="7">
+        <gr str="3588">For </gr>
+        <gr str="1931">he </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> our <gr str="430">God</gr>; and <gr str="587">we </gr>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE> the <gr str="5971">people </gr>of his <gr str="4830">pasture</gr>, and the <gr str="6629">sheep </gr>of his <gr str="3027">hand</gr>. <gr str="3117">Today </gr>
+        <gr str="518">if </gr>ye will <gr str="8085">hear </gr>his <gr str="6963">voice</gr>, </VERS>
+      <VERS vnumber="8">
+        <gr str="7185">Harden </gr>
+        <gr str="408">not </gr>your <gr str="3824">heart</gr>, as in the <gr str="4808">provocation</gr>, <STYLE css="color:#808080;font-style:italic"> and </STYLE> as <STYLE css="color:#808080;font-style:italic"> in </STYLE> the <gr str="3117">day </gr>of <gr str="4531">temptation </gr>in the <gr str="4057">wilderness</gr>: </VERS>
+      <VERS vnumber="9">
+        <gr str="834">When </gr>your <gr str="1">fathers </gr>
+        <gr str="5254">tempted </gr>me, <gr str="974">proved </gr>me, <gr str="1571">and </gr>
+        <gr str="7200">saw </gr>my <gr str="6467">work</gr>. </VERS>
+      <VERS vnumber="10">
+        <gr str="705">Forty </gr>
+        <gr str="8141">years </gr>long was I <gr str="6962">grieved </gr>with <STYLE css="color:#808080;font-style:italic"> this </STYLE>
+        <gr str="1755">generation</gr>, and <gr str="559">said</gr>, <gr str="1992">It </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="5971">people </gr>that do <gr str="8582">err </gr>in their <gr str="3824">heart</gr>, and <gr str="1992">they </gr>have <gr str="3808">not </gr>
+        <gr str="3045">known </gr>my <gr str="1870">ways</gr>: </VERS>
+      <VERS vnumber="11"> Unto <gr str="834">whom </gr>I <gr str="7650">swore </gr>in my <gr str="639">wrath </gr>
+        <gr str="518">that </gr>they should not <gr str="935">enter </gr>
+        <gr str="413">into </gr>my <gr str="4496">rest</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

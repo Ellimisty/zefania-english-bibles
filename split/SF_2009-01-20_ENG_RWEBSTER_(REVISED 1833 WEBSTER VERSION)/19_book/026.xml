@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Revised 1833 Webster Version" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="26">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">[A Psalm] of David.</STYLE> Judge me, O LORD; for I have walked in my integrity: I have trusted also in the LORD; <STYLE css="font-style:italic">therefore</STYLE> I shall not slide.</VERS>
+      <VERS vnumber="2">Examine me, O LORD, and test me; try my reins and my heart.</VERS>
+      <VERS vnumber="3">For thy lovingkindness <STYLE css="font-style:italic">is</STYLE> before my eyes: and I have walked in thy truth.</VERS>
+      <VERS vnumber="4">I have not sat with vain persons, neither will I go in with hypocrites.</VERS>
+      <VERS vnumber="5">I have hated the congregation of evildoers; and will not sit with the wicked.</VERS>
+      <VERS vnumber="6">I will wash my hands in innocency: so will I go about thy altar, O LORD:</VERS>
+      <VERS vnumber="7">That I may proclaim with the voice of thanksgiving, and tell of all thy wondrous works.</VERS>
+      <VERS vnumber="8">LORD, I have loved the habitation of thy house, and the place where thy honour dwelleth. <DIV>
+          <NOTE type="x-studynote">where…: Heb. of the tabernacle of thy honour</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="9">Gather not my soul with sinners, nor my life with bloody men: <DIV>
+          <NOTE type="x-studynote">Gather…: or, Take not away</NOTE>
+        </DIV>
+        <DIV>
+          <NOTE type="x-studynote">bloody…: Heb. men of blood</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="10">In whose hands <STYLE css="font-style:italic">is</STYLE> mischief, and their right hand is full of bribes. <DIV>
+          <NOTE type="x-studynote">full…: Heb. filled with</NOTE>
+        </DIV>
+      </VERS>
+      <VERS vnumber="11">But as for me, I will walk in my integrity: redeem me, and be merciful to me.</VERS>
+      <VERS vnumber="12">My foot standeth in an even place: in the congregations will I bless the LORD.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

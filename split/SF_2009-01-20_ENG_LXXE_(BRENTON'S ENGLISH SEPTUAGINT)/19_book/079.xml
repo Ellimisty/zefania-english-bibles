@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="79">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">A Psalm for Asaph.</STYLE> - O God, the heathen are come into thine inheritance; they have polluted thy holy temple; they have made Jerusalem a storehouse of fruits.</VERS>
+      <VERS vnumber="2">They have given the dead bodies of thy servants to be food for the birds of the sky, the flesh of thy holy ones for the wild beasts of the earth.</VERS>
+      <VERS vnumber="3">They have shed their blood as water, round about Jerusalem; and there was none to bury them.</VERS>
+      <VERS vnumber="4">We are become a reproach to our neighbours, a scorn and derision to them that are round about us.</VERS>
+      <VERS vnumber="5">How long, O Lord? wilt thou be angry for ever? shall thy jealousy burn like fire?</VERS>
+      <VERS vnumber="6">Pour out thy wrath upon the heathen that have not known thee, and upon the kingdoms which have not called upon thy name.</VERS>
+      <VERS vnumber="7">For they have devoured Jacob, and laid his place waste.</VERS>
+      <VERS vnumber="8">Remember not our old transgressions; let thy tender mercies speedily prevent us; for we are greatly impoverished.</VERS>
+      <VERS vnumber="9">Help us, O God our Saviour; for the glory of thy name, O Lord, deliver us; and be merciful to our sins, for thy name’s sake.</VERS>
+      <VERS vnumber="10">Lest haply they should say among the heathen, Where is their God? and let the avenging of thy servant’s blood that has been shed be known among the heathen before our eyes.</VERS>
+      <VERS vnumber="11">Let the groaning of the prisoners come in before thee; according to the greatness of thine arm preserve the <DIV>
+          <NOTE type="x-studynote">i. e. men appointed to die</NOTE>
+        </DIV> sons of the slain ones.</VERS>
+      <VERS vnumber="12">Repay to our neighbours sevenfold into their bosom their reproach, with which they have reproached thee, O Lord.</VERS>
+      <VERS vnumber="13">For we are thy people and the sheep of thy pasture; we will give thee thanks for ever; we will declare thy praise throughout all generations.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

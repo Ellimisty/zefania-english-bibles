@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="King James Version PCE" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Psa">
+    <CHAPTER cnumber="6">
+      <VERS vnumber="1">To the chief Musician on Neginoth upon Sheminith, A Psalm of David.  O <STYLE id="cl:divineName">Lord</STYLE>, rebuke me not in thine anger, neither chasten me in thy hot displeasure.</VERS>
+      <VERS vnumber="2">Have mercy upon me, O <STYLE id="cl:divineName">Lord</STYLE>; for I  am  weak: O <STYLE id="cl:divineName">Lord</STYLE>, heal me; for my bones are vexed.</VERS>
+      <VERS vnumber="3">My soul is also sore vexed: but thou, O <STYLE id="cl:divineName">Lord</STYLE>, how long?</VERS>
+      <VERS vnumber="4">Return, O <STYLE id="cl:divineName">Lord</STYLE>, deliver my soul: oh save me for thy mercies’ sake.</VERS>
+      <VERS vnumber="5">For in death  there is  no remembrance of thee: in the grave who shall give thee thanks?</VERS>
+      <VERS vnumber="6">I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears.</VERS>
+      <VERS vnumber="7">Mine eye is consumed because of grief; it waxeth old because of all mine enemies.</VERS>
+      <VERS vnumber="8">Depart from me, all ye workers of iniquity; for the <STYLE id="cl:divineName">Lord</STYLE> hath heard the voice of my weeping.</VERS>
+      <VERS vnumber="9">The <STYLE id="cl:divineName">Lord</STYLE> hath heard my supplication; the <STYLE id="cl:divineName">Lord</STYLE> will receive my prayer.</VERS>
+      <VERS vnumber="10">Let all mine enemies be ashamed and sore vexed: let them return  and  be ashamed suddenly.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

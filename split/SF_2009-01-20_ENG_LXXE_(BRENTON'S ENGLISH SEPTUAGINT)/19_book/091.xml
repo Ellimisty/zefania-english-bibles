@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="Brenton's English Septuagint" type="x-bible">
+  <BIBLEBOOK bnumber="19">
+    <CHAPTER cnumber="91">
+      <VERS vnumber="1">
+        <STYLE css="font-style:italic">Praise of a Song, by David.</STYLE> - He that dwells in the help of the Highest, shall sojourn under the shelter of the God of heaven.</VERS>
+      <VERS vnumber="2">He shall say to the Lord, Thou art my helper and my refuge: my God; I will hope in him.</VERS>
+      <VERS vnumber="3">For he shall deliver thee from the snare of the hunters, from every troublesome matter.</VERS>
+      <VERS vnumber="4">He shall overshadow thee with his shoulders, and thou shalt trust under his wings: his truth shall cover thee with a shield.</VERS>
+      <VERS vnumber="5">Thou shalt not be afraid of terror by night; nor of the arrow flying by day;</VERS>
+      <VERS vnumber="6">nor of the evil <DIV>
+          <NOTE type="x-studynote">See verse 3</NOTE>
+        </DIV> thing that walks in darkness; nor of calamity, and the evil spirit at noon-day.</VERS>
+      <VERS vnumber="7">A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee.</VERS>
+      <VERS vnumber="8">Only with thine eyes shalt thou observe and see the reward of sinners.</VERS>
+      <VERS vnumber="9">For thou, O Lord, art my hope: thou, my soul, hast made the Most High thy refuge.</VERS>
+      <VERS vnumber="10">No evils shall come upon thee, and no scourge shall draw night to thy dwelling.</VERS>
+      <VERS vnumber="11">For he shall give his angels charge concerning thee, to keep thee in all thy ways.</VERS>
+      <VERS vnumber="12">
+        <DIV>
+          <NOTE type="x-studynote">Mt 4:6</NOTE>
+        </DIV> They shall bear thee up on their hands, lest at any time thou dash thy foot against a stone.</VERS>
+      <VERS vnumber="13">Thou shalt tread on the asp and basilisk: and thou shalt trample on the lion and dragon.</VERS>
+      <VERS vnumber="14">For he has hoped in me, and I will deliver him: I will protect him, because he has known my name.</VERS>
+      <VERS vnumber="15">He shall call upon me, and I will hearken to him: I am with him in affliction; and I will deliver him, and glorify him.</VERS>
+      <VERS vnumber="16">I will satisfy him with length of days, and shew him my salvation.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

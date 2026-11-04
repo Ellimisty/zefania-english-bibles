@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="Douay Rheims" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="63">
+      <VERS vnumber="1">A psalm of David when he was in the desert of Edom.</VERS>
+      <VERS vnumber="2">O God, my God, to thee do I watch at break of day. For thee my soul hath thirsted; for thee my flesh, O how many ways!</VERS>
+      <VERS vnumber="3">In a desert land, and where there is no way, and no water: so in the sanctuary have I come before thee, to see thy power and thy glory.</VERS>
+      <VERS vnumber="4">For thy mercy is better than lives: thee my lips shall praise.</VERS>
+      <VERS vnumber="5">Thus will I bless thee all my life long: and in thy name I will lift up my hands.</VERS>
+      <VERS vnumber="6">Let my soul be filled as with marrow and fatness: and my mouth shall praise thee with joyful lips.</VERS>
+      <VERS vnumber="7">If I have remembered thee upon my bed, I will meditate on thee in the morning:</VERS>
+      <VERS vnumber="8">because thou hast been my helper. And I will rejoice under the covert of thy wings:</VERS>
+      <VERS vnumber="9">my soul hath stuck close to thee: thy right hand hath received me.</VERS>
+      <VERS vnumber="10">But they have sought my soul in vain, they shall go into the lower parts of the earth:</VERS>
+      <VERS vnumber="11">They shall be delivered into the hands of the sword, they shall be the portions of foxes.</VERS>
+      <VERS vnumber="12">But the king shall rejoice in God, all they shall be praised that swear by him: because the mouth is stopped of them that speak wicked things.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

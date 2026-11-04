@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="58">
+      <VERS vnumber="1"> To the chief <gr str="5329">Musician</gr>, <gr str="516">Al </gr>-taschith, <gr str="4387">Michtam </gr>of <gr str="1732">David</gr>. Do ye <gr str="552">indeed </gr>
+        <gr str="1696">speak </gr>
+        <gr str="6664">righteousness</gr>, O <gr str="482">congregation</gr>? do ye <gr str="8199">judge </gr>
+        <gr str="4339">uprightly</gr>, O ye <gr str="1121">sons </gr>of <gr str="120">men</gr>? </VERS>
+      <VERS vnumber="2">
+        <gr str="637">Yea</gr>, in <gr str="3820">heart </gr>ye <gr str="6466">work </gr>
+        <gr str="5766">wickedness</gr>; ye <gr str="6424">weigh </gr>the <gr str="2555">violence </gr>of your <gr str="3027">hands </gr>in the <gr str="776">earth</gr>. </VERS>
+      <VERS vnumber="3"> The <gr str="7563">wicked </gr>are <gr str="2114">estranged </gr>from the <gr str="4480 7358">womb</gr>: they go <gr str="8582">astray </gr>as soon as they be <gr str="4480 990">born</gr>, <gr str="1696">speaking </gr>
+        <gr str="3577">lies</gr>. </VERS>
+      <VERS vnumber="4"> Their <gr str="2534">poison </gr>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="1823">like </gr>the <gr str="2534">poison </gr>of a <gr str="5175">serpent</gr>: <STYLE css="color:#808080;font-style:italic"> they </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> are </STYLE>
+        <gr str="3644">like </gr>the <gr str="2795">deaf </gr>
+        <gr str="6620">adder </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE>
+        <gr str="331">stoppeth </gr>her <gr str="241">ear</gr>; </VERS>
+      <VERS vnumber="5">
+        <gr str="834">Which </gr>will <gr str="3808">not </gr>
+        <gr str="8085">hearken </gr>to the <gr str="6963">voice </gr>of <gr str="3907">charmers</gr>, <gr str="2266 2267">charming </gr>never so <gr str="2449">wisely</gr>. </VERS>
+      <VERS vnumber="6">
+        <gr str="2040">Break </gr>their <gr str="8127">teeth</gr>, O <gr str="430">God</gr>, in their <gr str="6310">mouth</gr>: break <gr str="5422">out </gr>the great <gr str="4459">teeth </gr>of the young <gr str="3715">lions</gr>, O <gr str="3068">LORD</gr>. </VERS>
+      <VERS vnumber="7"> Let them melt <gr str="3988">away </gr>
+        <gr str="3644">as </gr>
+        <gr str="4325">waters </gr>
+        <STYLE css="color:#808080;font-style:italic"> which </STYLE>
+        <gr str="1980">run </gr>continually: <STYLE css="color:#808080;font-style:italic"> when </STYLE> he <gr str="1869">bendeth </gr>
+        <STYLE css="color:#808080;font-style:italic"> his </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> bow </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> to </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> shoot </STYLE> his <gr str="2671">arrows</gr>, let them be <gr str="3644">as </gr>cut in <gr str="4135">pieces</gr>. </VERS>
+      <VERS vnumber="8">
+        <gr str="3644">As </gr>a <gr str="7642">snail </gr>
+        <STYLE css="color:#808080;font-style:italic"> which </STYLE>
+        <gr str="8557">melteth</gr>, let <STYLE css="color:#808080;font-style:italic"> every </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> one </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> of </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> them </STYLE> pass <gr str="1980">away</gr>: <STYLE css="color:#808080;font-style:italic"> like </STYLE> the untimely <gr str="5309">birth </gr>of a <gr str="802">woman</gr>, <STYLE css="color:#808080;font-style:italic"> that </STYLE> they may <gr str="1077">not </gr>
+        <gr str="2372">see </gr>the <gr str="8121">sun</gr>. </VERS>
+      <VERS vnumber="9">
+        <gr str="2962">Before </gr>your <gr str="5518">pots </gr>can <gr str="995">feel </gr>the <gr str="329">thorns</gr>, he shall take them away as with a <gr str="8175">whirlwind</gr>, <gr str="3644">both </gr>
+        <gr str="2416">living</gr>, and <gr str="3644">in </gr>
+        <STYLE css="color:#808080;font-style:italic"> his </STYLE>
+        <gr str="2740">wrath</gr>. </VERS>
+      <VERS vnumber="10"> The <gr str="6662">righteous </gr>shall <gr str="8055">rejoice </gr>
+        <gr str="3588">when </gr>he <gr str="2372">seeth </gr>the <gr str="5359">vengeance</gr>: he shall <gr str="7364">wash </gr>his <gr str="6471">feet </gr>in the <gr str="1818">blood </gr>of the <gr str="7563">wicked</gr>. </VERS>
+      <VERS vnumber="11"> So that a <gr str="120">man </gr>shall <gr str="559">say</gr>, <gr str="389">Verily </gr>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="6529">reward </gr>for the <gr str="6662">righteous</gr>: <gr str="389">verily </gr>he <gr str="3426">is </gr>a <gr str="430">God </gr>that <gr str="8199">judgeth </gr>in the <gr str="776">earth</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

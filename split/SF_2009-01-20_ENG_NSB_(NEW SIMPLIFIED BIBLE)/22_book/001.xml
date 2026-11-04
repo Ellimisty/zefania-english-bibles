@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="New Simplified Bible" type="x-bible">
+  <BIBLEBOOK bnumber="22">
+    <CHAPTER cnumber="1">
+      <CAPTION vref="1">(Writer: Solomon) (1020 B.C.E.)</CAPTION>
+      <VERS vnumber="1">The Song of Songs, which is Solomon's.</VERS>
+      <VERS vnumber="2">
+        <STYLE css="font-style:italic">The Shulamite</STYLE> »Let him kiss me with the kisses of his mouth. Your love is better than wine.</VERS>
+      <VERS vnumber="3">»Your good ointment has a pleasing aroma. Your name is like pure ointment. Therefore the maidens do love you.</VERS>
+      <VERS vnumber="4">»Draw me away. <STYLE css="font-style:italic">Daughters of Jerusalem</STYLE> »We will run after you.« <STYLE css="font-style:italic">The Shulamite</STYLE> »The king brought me into his chambers.« <STYLE css="font-style:italic">Daughters of Jerusalem</STYLE> »We will be glad and rejoice in you. We will remember your love more than wine!« <STYLE css="font-style:italic">The Shulamite</STYLE> »They are right to love you.«</VERS>
+      <VERS vnumber="5">»I am lovely and black, O you daughters of Jerusalem. I am like the tents of Kedar and the curtains of Solomon.</VERS>
+      <VERS vnumber="6">»Do not look at me because I am black. The sun has tanned me. My mother's sons were angry with me. They made me the keeper of the vineyards. I have not kept my own vineyard!</VERS>
+      <VERS vnumber="7">
+        <STYLE css="font-style:italic">To Her Beloved</STYLE> »Tell me, O you whom I love where you feed your flock and where you make it rest at noon. Why should I be as one who veils herself by the flocks of your companions?«</VERS>
+      <VERS vnumber="8">
+        <STYLE css="font-style:italic">The Beloved</STYLE> »If you do not know, O you fairest among women, follow the footsteps of the flock. Feed your kids beside the shepherds' tents.</VERS>
+      <VERS vnumber="9">»I have compared you, O my love, to a company of horses in Pharaoh's chariots.</VERS>
+      <VERS vnumber="10">»Your cheeks are lovely with jewels and your neck with chains of gold.«</VERS>
+      <VERS vnumber="11">
+        <STYLE css="font-style:italic">Daughters of Jerusalem</STYLE> »We will make you ornaments of gold with studs of silver.«</VERS>
+      <VERS vnumber="12">
+        <STYLE css="font-style:italic">The Shulamite</STYLE> »While the king sits at his table, my perfume sends forth its fragrance.</VERS>
+      <VERS vnumber="13">»My beloved is like a cluster of myrrh to me. He will lie all night between my breasts.</VERS>
+      <VERS vnumber="14">»My beloved is to me as a cluster of camphire in the vineyards of En-gedi.«</VERS>
+      <VERS vnumber="15">
+        <STYLE css="font-style:italic">The Beloved</STYLE> »Behold, you are fair, my love. Behold, you are fair. You have doves' eyes.«</VERS>
+      <VERS vnumber="16">
+        <STYLE css="font-style:italic">The Shulamite</STYLE> »Behold, you are handsome, my beloved, yes, pleasant! Also our bed is green.</VERS>
+      <VERS vnumber="17">»The beams of our house are cedar, and our rafters of fir.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

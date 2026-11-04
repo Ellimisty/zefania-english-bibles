@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="King James Version with Apokryphen" type="x-bible">
+  <BIBLEBOOK bnumber="19" bname="Psalm" bsname="Ps">
+    <CHAPTER cnumber="100">
+      <CAPTION vref="1">A Psalm of praise.</CAPTION>
+      <VERS vnumber="1">Make a joyful noise unto the LORD, all ye lands.</VERS>
+      <VERS vnumber="2">Serve the LORD with gladness: come before his presence with singing.</VERS>
+      <VERS vnumber="3">Know ye that the LORD he is God: it is he that hath made us, and not we ourselves; we are his people, and the sheep of his pasture.</VERS>
+      <VERS vnumber="4">Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name.</VERS>
+      <VERS vnumber="5">For the LORD is good; his mercy is everlasting; and his truth endureth to all generations.</VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

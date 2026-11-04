@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="2.0.1.18" biblename="KJV+" type="x-bible">
+  <BIBLEBOOK bnumber="18" bname="Hiob" bsname="Hi">
+    <CHAPTER cnumber="19">
+      <VERS vnumber="1"> Then <gr str="347">Job </gr>
+        <gr str="6030">answered </gr>and <gr str="559">said</gr>, </VERS>
+      <VERS vnumber="2"> How <gr str="5704 575">long </gr>will ye <gr str="3013">vex </gr>my <gr str="5315">soul</gr>, and break me in <gr str="1792">pieces </gr>with <gr str="4405">words</gr>? </VERS>
+      <VERS vnumber="3">
+        <gr str="2088">These </gr>
+        <gr str="6235">ten </gr>
+        <gr str="6471">times </gr>have ye <gr str="3637">reproached </gr>me: ye are <gr str="3808">not </gr>
+        <gr str="954">ashamed </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE> ye make yourselves <gr str="1970">strange </gr>to me. </VERS>
+      <VERS vnumber="4">
+        <gr str="637">And </gr>be it <gr str="551">indeed </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE> I have <gr str="7686">erred</gr>, mine <gr str="4879">error </gr>
+        <gr str="3885">remaineth </gr>
+        <gr str="854">with </gr>myself. </VERS>
+      <VERS vnumber="5">
+        <gr str="518">If </gr>
+        <gr str="551">indeed </gr>ye will <gr str="1431">magnify </gr>
+        <STYLE css="color:#808080;font-style:italic"> yourselves </STYLE>
+        <gr str="5921">against </gr>me, and <gr str="3198">plead </gr>
+        <gr str="5921">against </gr>me my <gr str="2781">reproach</gr>: </VERS>
+      <VERS vnumber="6">
+        <gr str="3045">Know </gr>
+        <gr str="645">now </gr>
+        <gr str="3588">that </gr>
+        <gr str="433">God </gr>hath <gr str="5791">overthrown </gr>me, and hath <gr str="5362 5921">compassed </gr>me with his <gr str="4685">net</gr>. </VERS>
+      <VERS vnumber="7">
+        <gr str="2005">Behold</gr>, I cry <gr str="6817">out </gr>of <gr str="2555">wrong</gr>, but I am <gr str="3808">not </gr>
+        <gr str="6030">heard</gr>: I cry <gr str="7768">aloud</gr>, but <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE>
+        <gr str="369">no </gr>
+        <gr str="4941">judgment</gr>. </VERS>
+      <VERS vnumber="8"> He hath fenced <gr str="1443">up </gr>my <gr str="734">way </gr>that I <gr str="3808">cannot </gr>
+        <gr str="5674">pass</gr>, and he hath <gr str="7760">set </gr>
+        <gr str="2822">darkness </gr>
+        <gr str="5921">in </gr>my <gr str="5410">paths</gr>. </VERS>
+      <VERS vnumber="9"> He hath stripped me <gr str="6584 4480 5921">of </gr>my <gr str="3519">glory</gr>, and <gr str="5493">taken </gr>the <gr str="5850">crown </gr>
+        <STYLE css="color:#808080;font-style:italic"> from </STYLE> my <gr str="7218">head</gr>. </VERS>
+      <VERS vnumber="10"> He hath <gr str="5422">destroyed </gr>me on every <gr str="5439">side</gr>, and I am <gr str="1980">gone</gr>: and mine <gr str="8615">hope </gr>hath he <gr str="5265">removed </gr>like a <gr str="6086">tree</gr>. </VERS>
+      <VERS vnumber="11"> He hath also <gr str="2734">kindled </gr>his <gr str="639">wrath </gr>
+        <gr str="5921">against </gr>me, and he <gr str="2803">counteth </gr>me unto him as <STYLE css="color:#808080;font-style:italic"> one </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> of </STYLE> his <gr str="6862">enemies</gr>. </VERS>
+      <VERS vnumber="12"> His <gr str="1416">troops </gr>
+        <gr str="935">come </gr>
+        <gr str="3162">together</gr>, and raise <gr str="5549">up </gr>their <gr str="1870">way </gr>
+        <gr str="5921">against </gr>me, and <gr str="2583">encamp </gr>round <gr str="5439">about </gr>my <gr str="168">tabernacle</gr>. </VERS>
+      <VERS vnumber="13"> He hath put my brethren <gr str="7368 251">far </gr>
+        <gr str="4480 5921">from </gr>me, and mine <gr str="3045">acquaintance </gr>are <gr str="389">verily </gr>
+        <gr str="2114">estranged </gr>
+        <gr str="4480">from </gr>me. </VERS>
+      <VERS vnumber="14"> My <gr str="7138">kinsfolk </gr>have <gr str="2308">failed</gr>, and my familiar <gr str="3045">friends </gr>have <gr str="7911">forgotten </gr>me. </VERS>
+      <VERS vnumber="15"> They that <gr str="1481">dwell </gr>in mine <gr str="1004">house</gr>, and my <gr str="519">maids</gr>, <gr str="2803">count </gr>me for a <gr str="2114">stranger</gr>: I <gr str="1961">am </gr>an <gr str="5237">alien </gr>in their <gr str="5869">sight</gr>. </VERS>
+      <VERS vnumber="16"> I <gr str="7121">called </gr>my <gr str="5650">servant</gr>, and he gave <STYLE css="color:#808080;font-style:italic"> me </STYLE>
+        <gr str="3808">no </gr>
+        <gr str="6030">answer</gr>; I <gr str="2603">entreated </gr>him <gr str="1119">with </gr>my <gr str="6310">mouth</gr>. </VERS>
+      <VERS vnumber="17"> My <gr str="7307">breath </gr>is <gr str="2114">strange </gr>to my <gr str="802">wife</gr>, though I <gr str="2603">entreated </gr>for the <gr str="1121">children </gr>'s <STYLE css="color:#808080;font-style:italic"> sake </STYLE> of mine own <gr str="990">body</gr>. </VERS>
+      <VERS vnumber="18">
+        <gr str="1571">Yea</gr>, young <gr str="5759">children </gr>
+        <gr str="3988">despised </gr>me; I <gr str="6965">arose</gr>, and they <gr str="1696">spoke </gr>against me. </VERS>
+      <VERS vnumber="19">
+        <gr str="3605">All </gr>my <gr str="5475">inward </gr>
+        <gr str="4962">friends </gr>
+        <gr str="8581">abhorred </gr>me: and they <gr str="2088">whom </gr>I <gr str="157">loved </gr>are <gr str="2015">turned </gr>against me. </VERS>
+      <VERS vnumber="20"> My <gr str="6106">bone </gr>
+        <gr str="1692">cleaveth </gr>to my <gr str="5785">skin </gr>and to my <gr str="1320">flesh</gr>, and I am <gr str="4422">escaped </gr>with the <gr str="5785">skin </gr>of my <gr str="8127">teeth</gr>. </VERS>
+      <VERS vnumber="21"> Have pity <gr str="2603">upon </gr>me, have pity <gr str="2603">upon </gr>me, O <gr str="859">ye </gr>my <gr str="7453">friends</gr>; <gr str="3588">for </gr>the <gr str="3027">hand </gr>of <gr str="433">God </gr>hath <gr str="5060">touched </gr>me. </VERS>
+      <VERS vnumber="22">
+        <gr str="4100">Why </gr>do ye <gr str="7291">persecute </gr>me <gr str="3644">as </gr>
+        <gr str="410">God</gr>, and are <gr str="3808">not </gr>
+        <gr str="7646">satisfied </gr>with my <gr str="4480 1320">flesh</gr>? </VERS>
+      <VERS vnumber="23"> Oh <gr str="4310">that </gr>my <gr str="4405">words </gr>
+        <gr str="5414">were </gr>
+        <gr str="645">now </gr>
+        <gr str="3789">written</gr>! oh <gr str="4310">that </gr>they <gr str="5414">were </gr>
+        <gr str="2710">printed </gr>in a <gr str="5612">book</gr>! </VERS>
+      <VERS vnumber="24"> That they were <gr str="2672">graven </gr>with an <gr str="1270">iron </gr>
+        <gr str="5842">pen </gr>and <gr str="5777">lead </gr>in the <gr str="6697">rock </gr>
+        <gr str="5703">forever</gr>! </VERS>
+      <VERS vnumber="25"> For <gr str="589">I </gr>
+        <gr str="3045">know </gr>
+        <STYLE css="color:#808080;font-style:italic"> that </STYLE> my <gr str="1350">redeemer </gr>
+        <gr str="2416">liveth</gr>, and <STYLE css="color:#808080;font-style:italic"> that </STYLE> he shall <gr str="6965">stand </gr>at the <gr str="314">latter </gr>
+        <STYLE css="color:#808080;font-style:italic"> day </STYLE>
+        <gr str="5921">upon </gr>the <gr str="6083">earth</gr>: </VERS>
+      <VERS vnumber="26"> And <STYLE css="color:#808080;font-style:italic"> though </STYLE>
+        <gr str="310">after </gr>my <gr str="5785">skin </gr>
+        <STYLE css="color:#808080;font-style:italic"> worms </STYLE>
+        <gr str="5362">destroy </gr>
+        <gr str="2063">this </gr>
+        <STYLE css="color:#808080;font-style:italic"> body </STYLE>, yet in my <gr str="4480 1320">flesh </gr>shall I <gr str="2372">see </gr>
+        <gr str="433">God</gr>: </VERS>
+      <VERS vnumber="27">
+        <gr str="834">Whom </gr>
+        <gr str="589">I </gr>shall <gr str="2372">see </gr>for myself, and mine <gr str="5869">eyes </gr>shall <gr str="7200">behold</gr>, and <gr str="3808">not </gr>
+        <gr str="2114">another</gr>; <STYLE css="color:#808080;font-style:italic"> though </STYLE> my <gr str="3629">reins </gr>be <gr str="3615">consumed </gr>
+        <gr str="2436">within </gr>me. </VERS>
+      <VERS vnumber="28">
+        <gr str="3588">But </gr>ye should <gr str="559">say</gr>, <gr str="4100">Why </gr>
+        <gr str="7291">persecute </gr>we him, seeing the <gr str="8328">root </gr>of the <gr str="1697">matter </gr>is <gr str="4672">found </gr>in me? </VERS>
+      <VERS vnumber="29"> Be ye <gr str="1481">afraid </gr>
+        <gr str="4480 6440">of </gr>the <gr str="2719">sword</gr>: <gr str="3588">for </gr>
+        <gr str="2534">wrath </gr>
+        <STYLE css="color:#808080;font-style:italic"> bringeth </STYLE> the <gr str="5771">punishments </gr>of the <gr str="2719">sword</gr>, <gr str="4616">that </gr>ye may <gr str="3045">know </gr>
+        <STYLE css="color:#808080;font-style:italic"> there </STYLE>
+        <STYLE css="color:#808080;font-style:italic"> is </STYLE> a <gr str="7945 1779">judgment</gr>. </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>

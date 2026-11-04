@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<XMLBIBLE version="3.0.0.9.1" biblename="World English Bible - Messianic Edition" type="x-bible">
+  <BIBLEBOOK bnumber="66" bname="Revelation" bsname="Rev">
+    <CHAPTER cnumber="2">
+      <VERS vnumber="1">
+        
+        
+        
+      </VERS>
+      <VERS vnumber="7">
+        
+      </VERS>
+      <VERS vnumber="8">
+        
+        
+        
+      </VERS>
+      <VERS vnumber="11">
+        
+      </VERS>
+      <VERS vnumber="12">
+        
+        
+        
+      </VERS>
+      <VERS vnumber="17">
+        
+      </VERS>
+      <VERS vnumber="18">
+        
+        
+        
+      </VERS>
+      <VERS vnumber="29">
+        
+      </VERS>
+    </CHAPTER>
+  </BIBLEBOOK>
+</XMLBIBLE>
