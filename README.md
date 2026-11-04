@@ -20,6 +20,34 @@ split/SF_2009-01-23_ENG_KJV_(KING JAMES VERSION)/01_Genesis/001.xml
 python split_books.py
 ```
 
+## Linguistic graph engine (`build_graph.py`)
+
+A SQLite-backed knowledge graph over all translations enforcing strict DRYness:
+
+- **Shared token pool** — ~45M token instances collapse to ~92k unique token
+  nodes; identical surface forms are never duplicated.
+- **Translations as paths** — `verse_tokens` stores each translation's ordered
+  sequence through the shared pool (shared prefixes literally share nodes).
+- **Strong's anchor layer** — `<gr str="...">` markup is extracted into a
+  shared Greek/Hebrew `strongs` table (`G`/`H` prefixed by book), enabling
+  many-to-many semantic queries (e.g. how many English words map to *diakonos*).
+- **Divergence metrics** — per-verse shared-prefix length and Jaccard
+  vocabulary similarity against a reference translation (`similarity` table).
+
+```
+python build_graph.py ingest          # parse all *.xml -> bible_graph.db (~2.7 GB)
+python build_graph.py metrics --ref KJV
+python build_graph.py export James 1 1 --out james_1_1.json
+```
+
+`export` writes an [arrows.app](https://arrows.app)-compatible JSON graph:
+Book → Chapter → Verse hierarchy, per-translation token chains (`NEXT:<slug>`
+edges), and `TRANSLATES` edges into shared Strong's nodes. See
+`james_1_1.json` for an example.
+
+The prebuilt database is attached to the repo's Releases as
+`bible_graph.db.gz` (the raw file exceeds GitHub's file-size limit).
+
 ## Notes
 
 - `SF_2006-03-02_ENG_TTB_(TORREY'S TOPICAL TEXTBOOK).xml` contains no

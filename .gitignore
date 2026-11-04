@@ -1,0 +1,6 @@
+bible_graph.db*
+*.mhtml
+_gemini.*
+Untitled graph*.json
+nul
+__pycache__/
