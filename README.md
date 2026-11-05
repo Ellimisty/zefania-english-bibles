@@ -1,153 +1,139 @@
-# Zefania XML English Bibles
+# Zefania XML Bibles — extensible linguistic & translation-analysis system
 
-A collection of English Bible translations in [Zefania XML](http://bgfdb.de/zefaniaxml/bml/) format, split into per-book, per-chapter files.
+An offline-first, strictly-DRY corpus engine over Zefania XML Bible files.
+The goal: a reader/analyzer where you can open any Bible in the collection,
+compare translations structurally and semantically, inspect original-language
+relationships, and drop in new translations without redesigning anything.
 
-## Layout
+Motivation: translations overlap in small regions but diverge sharply in
+grammar, structure, vocabulary, and translation philosophy — "BBE and KJV
+are identical to that point, and then they diverge a lot." Every shared
+token, verse, and relationship should be stored exactly once, and every
+analytic layer should ride on top of that deduplicated core.
 
-- `*.xml` (root) — original Zefania XML files, one file per translation.
-- `split/<source-file-stem>/<NN>_<Book>/<NNN>.xml` — one XML file per chapter,
-  preserving the original `VERS` markup (including Strong's numbers where present).
+## Design principles
 
-Example:
+- **DRY everything** — one shared token dictionary; identical verses stored
+  once and referenced by many translations; identical Strong's codes pooled.
+- **Exact reconstruction** — punctuation, spacing at markup boundaries,
+  token order, and Strong's positions all round-trip byte-perfectly.
+- **Many-to-many everywhere** — `diakonos` → servant/minister/deacon; one
+  English word → several Greek roots; nothing assumes 1:1 mappings.
+- **Layered analysis** — each knowledge layer is an independent table/sidecar
+  keyed by (translation, book, chapter, verse[, position]); layers compose
+  but never rewrite each other.
+- **Offline-first** — SQLite everywhere; optional mirrors into Neo4j and
+  SurrealDB for graph queries.
+
+## Data layers (current & planned)
+
+| Layer | Where | Contents | Status |
+|---|---|---|---|
+| Token pool | pack `dictionary` / graph `tokens` | shared surface forms | done |
+| Verse sequences | pack `sequences` / graph `verse_tokens` | deduplicated token streams + space bits | done |
+| Strong's anchors | `strongs_dict`, `token_strongs` | G/H codes from `<gr str>` markup | done |
+| **strong_words** | pack `strong_words` | every surface word realizing each code (word→root map) | done |
+| **Lexical metadata** | `strongs_dict.lemma/gloss` | Greek (morphgnt lexemes.yaml) + Hebrew (openscriptures HebrewStrong.xml) | done |
+| **strong_equiv** | graph `strong_equiv` | equivalent/related/candidate code pairs from cross-translation audit | done |
+| **strong_class** | graph `strong_class` | prefix/particle codes (min-, eth, hoti) | done |
+| **strong_audit** | graph `strong_audit` | per-position conflicts/gaps between tagged translations | done |
+| Divergence metrics | graph `similarity` | shared-prefix len + Jaccard vs reference translation | done |
+| Greek truth layer | graph `greek_words` | morphgnt SBLGNT surface/lemma/parsing | done |
+| N-grams | graph `ngrams`, `translation_ngrams` | corpus n-gram frequencies (Rust feeder) | partial (45/~110 done) |
+| **CLAWS POS** | `<pack>.pos.db` `pos_tags` | UCREL C7 tags per token position | tooling done, KJV James 1 verified |
+| **USAS semantic** | planned `usas_tags` | single-word + MWE lexicons in `book/lexicons/` | pending |
+| **bible_layers metrics** | `<pack>.layers.db` `metrics` | words/sentences/dialogue%/passives/speech-verbs per verse | tooling done |
+| Strong's projection | planned | codes projected onto untagged translations (vocab priors + elimination + phrase spans) | designed |
+| Hebrew morphology | future | OT parsing beyond lemma/gloss | future |
+
+## Pipelines
+
+### Graph DB (`build_graph.py`) → `bible_graph.db`
+
+The analysis backbone (~45M+ token instances, 110+ translations):
 
 ```
-split/SF_2009-01-23_ENG_KJV_(KING JAMES VERSION)/01_Genesis/001.xml
-```
-
-## Regenerating the split files
-
-```
-python split_books.py
-```
-
-## Linguistic graph engine (`build_graph.py`)
-
-A SQLite-backed knowledge graph over all translations enforcing strict DRYness:
-
-- **Shared token pool** — ~45M token instances collapse to ~92k unique token
-  nodes; identical surface forms are never duplicated.
-- **Translations as paths** — `verse_tokens` stores each translation's ordered
-  sequence through the shared pool (shared prefixes literally share nodes).
-- **Strong's anchor layer** — `<gr str="...">` markup is extracted into a
-  shared Greek/Hebrew `strongs` table (`G`/`H` prefixed by book), enabling
-  many-to-many semantic queries (e.g. how many English words map to *diakonos*).
-- **Divergence metrics** — per-verse shared-prefix length and Jaccard
-  vocabulary similarity against a reference translation (`similarity` table).
-
-```
-python build_graph.py ingest          # parse all *.xml -> bible_graph.db (~2.7 GB)
+python build_graph.py ingest          # parse all *.xml
 python build_graph.py metrics --ref KJV
-python build_graph.py export James 1 1 --out james_1_1.json
+python build_graph.py export James 1 1 --out james_1_1.json   # arrows.app
 ```
 
-`export` writes an [arrows.app](https://arrows.app)-compatible JSON graph
-following the DAG-export conventions from `zachconc/antconc_ngram`:
+Export formats: `--format dag` (default: hierarchy + token chains +
+TRANSLATES + n-gram layer nodes with PART_OF/MERGE edges) or
+`--format simple` (token chains only).
 
-- Book → Chapter → Verse hierarchy (`pathGroup: "CANON"`)
-- per-translation token chains (`NEXT:<slug>` edges) plus `TRANSLATES`
-  edges into shared Strong's nodes, all tagged `pathGroup: <slug>`
-- n-gram layer nodes for n=2..3 built from **non-overlapping adjacent**
-  token partitions, with `PART_OF` edges from constituent tokens and
-  `MERGE` edges (`branch: "left"/"right"`) for every valid binary
-  decomposition
-- relationship ids are unique `e0, e1, ...` (never colliding with the
-  `n`-prefixed node ids); nodes carry `layer_index`/`size` properties
+### Reader packs (`build_pack.py`) → `*.pack` / `*.pack.xz`
 
-See `james_1_1.json` for an example. Use `--format simple` for the original
-token-chains-only export (hierarchy + `NEXT:<slug>` + `TRANSLATES` edges,
-no n-gram layers); `--format dag` is the default.
-
-The prebuilt database is attached to the repo's Releases as
-`bible_graph.db.gz` (the raw file exceeds GitHub's file-size limit).
-
-## Greek truth layer (`ingest_greek.py`)
-
-`ingest_greek.py` adds a translation-agnostic Greek NT layer to
-`bible_graph.db` (no existing tables are modified):
-
-    greek_words(translation_id NULL, bnumber, cnumber, vnumber, position,
-                surface, lemma, strong_id -> strongs.id, parsing)
-
-Source: MorphGNT SBLGNT (`github.com/morphgnt/sblgnt`, vendored at
-`zachconc/vendor/sblgnt_morphgnt/`, gitignored) with lemma→Strong's from
-`github.com/morphgnt/morphological-lexicon` `lexemes.yaml`
-(`zachconc/vendor/lexemes.yaml`). Book files `61-Mt`..`87-Re` map to
-`bnumber` 40..66. ~137.5k words, ~5.2k distinct Strong's codes linked;
-~500 rows (mostly punctuation-bearing forms / unmapped lemmas) keep
-`strong_id` NULL.
-
-Sample query — English words in KJV that realize each Greek lemma of
-James 1:1:
-
-```sql
-SELECT w.lemma, s.code, t.text
-FROM greek_words w
-JOIN strongs   s  ON s.id = w.strong_id
-JOIN verses    v  ON v.bnumber = w.bnumber AND v.cnumber = w.cnumber
-                  AND v.vnumber = w.vnumber
-JOIN token_strongs ts ON ts.verse_id = v.id AND ts.strong_id = w.strong_id
-JOIN verse_tokens  vt ON vt.translation_id = ts.translation_id
-                     AND vt.verse_id = ts.verse_id
-                     AND vt.position = ts.position
-JOIN tokens t ON t.id = vt.token_id
-WHERE w.bnumber = 59 AND w.cnumber = 1 AND w.vnumber = 1
-ORDER BY w.position;
-```
-
-## Reader pack (`build_pack.py` / `read_pack.py`)
-
-`bibles.pack` is a DRY, reader-optimized SQLite bundle: one shared token
-dictionary, verse *sequences* deduplicated across translations (identical
-verses stored once), and a `verses` index mapping
-(translation, book, chapter, verse) → sequence. The full 67-translation
-pack is ~168 MB vs ~273 MB of source XML; a Rust GUI reader lives in
-`zachconc/antconc_ngram` (`cargo run --bin reader -- bibles.pack`).
+Indexed-random-access SQLite bundles for the GUI reader. Tables:
+`translations`, `dictionary`, `sequences` (tokens+spaces+strongs+sha),
+`strongs_dict` (code, lemma, gloss), `strong_words`, `verses`, `meta`.
 
 ```
-python build_pack.py                      # full pack -> bibles.pack
-python build_pack.py --list               # list translation identifiers
+python build_pack.py                          # full pack
+python build_pack.py --list                   # what's in the source dir
 python build_pack.py --translations kjv --out bibles-kjv.pack
-python read_pack.py list
-python read_pack.py read KJV James 1 1 [--strongs]
-```
-
-`--translations` takes comma-separated substrings matched against each
-module's slug/identifier/name. Custom bundles and incremental extension:
-
-```
-# preview the marginal cost of adding translations to an existing pack
 python build_pack.py --base bibles-kjv.pack --translations web --estimate
-
-# actually merge them into a new bundle
 python build_pack.py --base bibles-kjv.pack --translations web \
                      --out bibles-kjv-web.pack
 ```
 
-Per-file output reports verses, new sequences, new dictionary words,
-new Strong's codes, and ~MB of sequence data — i.e. the true cost of each
-addition after dedup. Bundles ship as plain `.pack` files; the reader
-binary takes a path argument, so any subset works without code changes.
+`--src <dir>` builds from any folder of Zefania XMLs (batch per language).
+Parallel XML parse + `sha`-keyed base merges keep builds linear.
+`xz -6` → ~4× smaller; both readers accept `.pack.xz` directly.
 
-Compression: `xz -6` shrinks packs ~4× (full pack 168 MB → 42 MB,
-KJV+WEB bundle 44 MB → 9.5 MB) and decompresses in ~1–2 s. Both readers
-accept `.pack.xz` directly — `read_pack.py` and the Rust reader
-decompress to a temp file on open.
+### Sidecar DBs (per-pack, resumable)
 
-## Database backends
+- `tag_claws.py` — CLAWS POS tagging via UCREL web service
+  (requests-first, playwright fallback, ~85k words/submission):
+  `python tag_claws.py --pack bibles-kjv.pack --translation KJV`
+- `bible_layers.py` — per-verse metrics; joins `.pos.db` automatically:
+  `python bible_layers.py --pack bibles-kjv.pack --translation KJV`
 
-The same graph is mirrored into Neo4j and SurrealDB (both resumable):
+### Strong's integrity
+
+- `strong_audit.py` — aligns tagged translations position-by-position
+  (shared sequences = exact, difflib = near); writes `strong_audit`
+  conflicts/gaps
+- `strong_equiv.py` — curated equivalent/related pairs (halakh spellings,
+  qere/keriv, agapao/agape…) + auto-flagged `candidate` conflicts for review
+
+### Mirrors
 
 ```
-python migrate_neo4j.py      # bolt://localhost:7687, --start-at <stage>
-python migrate_surrealdb.py  # ws://127.0.0.1:8000/rpc, --start-at <stage>
+python migrate_neo4j.py      # bolt://localhost:7687
+python migrate_surrealdb.py  # ws://127.0.0.1:8000/rpc
 ```
+
+Both support `--start-at <stage>` for resumable migration.
+
+## GUI reader
+
+`zachconc/antconc_ngram` (Rust, egui):
+
+- translation/book/chapter browsing, **search** within a translation,
+  **parallel compare** view, **Strong's** highlighting + click-inspector
+  (code, lemma, gloss, *every word* the root collapsed into via
+  `strong_words`), chapter ◀▶ nav, **Go to** `James 1:5` box,
+  per-verse copy button, light/dark theme
+- double-click friendly: no-arg launch tries `bibles.pack` nearby, else
+  file picker; works on a temp copy so packs can be rebuilt while open
+- `cargo build --bin reader` → `target/debug/reader.exe <pack>`
+
+## Corpus layout
+
+- `*.xml` here — English Zefania modules (incl. JW-decrypted set: NWT
+  2013/1984, KJV-JW, ASV-JW, Living English, Emphasized, Kingdom
+  Interlinear — all "(Jehovah's Witnesses Edition)")
+- `split/<slug>/<book>/<ch>.xml` — per-chapter splits (`split_books.py`)
+- `D:\Bible\bibles\bibles_sorted\<LANG>/` — sorted multi-language tree:
+  Zef-XML zips extracted + Holy-Bible-XML-Format files converted to
+  Zefania (`D:\Bible\bibles\sort_bibles.py`, `manifest.csv` flags
+  content-duplicate files across archives)
+- `D:\Bible\bibles\packs\bibles-<LANG>.pack` — per-language reader packs
 
 ## Notes
 
-- `SF_2006-03-02_ENG_TTB_(TORREY'S TOPICAL TEXTBOOK).xml` contains no
-  `BIBLEBOOK` elements (it's a topical index, not Bible text), so it has no
-  split output.
-- Some translations exist in multiple editions/revisions; folder names use the
-  full original filename to keep them distinct.
-- `GER/` holds 49 German Zefania modules (zips); extract and point
-  `build_graph.py`/`build_pack.py --src` at the XMLs to ingest them.
+- Copyright status varies by module; some converted files carry explicit
+  `status` copyright strings — check before redistributing.
+- `SF_2006-03-02_ENG_TTB_*.xml` is a topical index (no BIBLEBOOK) — skipped.
+- JW files contain no `str=` Strong's markup, including the interlinear.
