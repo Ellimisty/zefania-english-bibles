@@ -4,11 +4,15 @@ Resources referenced across the chats, with what we already have.
 
 ## Acquire (open/public)
 
-- [ ] **MACULA datasets** — syntactic trees for Hebrew OT + Greek NT
-      (Biblical Humanist/openscriptures; the real "spaCy for biblical
-      languages" — parsing, not just morphology)
-- [ ] **OpenBible cross-references** — verse→verse xref edges
-      (feeds Project A's xref layer)
+- [x] **MACULA datasets** — cloned: Clear-Bible/macula-greek +
+      macula-hebrew (syntactic trees for both testaments)
+- [x] **OpenBible cross-references** — 344,800 voted edges ->
+      `cross-references/cross_references.txt`, ingested as
+      xref kind='openbible' (655k edges)
+- [x] **SWORD modules** — sword_get.py downloads all 464 rawzip
+      modules; TSK, BDBGlosses_Strongs, Nave, Easton, ISBE,
+      AbbottSmith, Smith fetched; sword_read.py decodes
+      zCom/zText/zLD formats (no e-Sword key needed)
 - [ ] **Dead Sea Scrolls corpus** (Qumran digital) — DSS Hebrew/Aramaic
       texts for period-matched corpus expansion
 - [ ] **Josephus** (Greek, public domain via Perseus/TLG) — corpus expansion
