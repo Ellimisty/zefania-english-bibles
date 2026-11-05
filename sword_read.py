@@ -31,8 +31,12 @@ class ZModule:
         self.t = testament
 
     def _files(self):
-        # observed layout: .bzz = zlib data, .bzv = 12B verse idx,
-        # .bzs = 8B block idx -> (offset, size) into .bzz
+        # .bzz = zlib data, .bzv = 12B idx, .bzs = block idx.
+        # chapter-level modules use .cz* variants, same layout.
+        for ext in ("bzz", "czz"):
+            s = os.path.join(self.dir, f"{self.t}.{ext}")
+            if os.path.exists(s):
+                return (s, s[:-1] + "v", s[:-1] + "s")
         return (os.path.join(self.dir, f"{self.t}.bzz"),
                 os.path.join(self.dir, f"{self.t}.bzv"),
                 os.path.join(self.dir, f"{self.t}.bzs"))

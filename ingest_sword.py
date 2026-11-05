@@ -41,8 +41,7 @@ def verse_map(c):
 def mod_dir(path, sub):
     """find modules/<drv>/<name>/ inside an extracted module dir"""
     for root, _, files in os.walk(path):
-        if "ot.bzv" in files or "nt.bzv" in files or \
-           any(f.endswith(".bzv") for f in files):
+        if any(f.endswith((".bzv", ".czv")) for f in files):
             return root
     return path
 
@@ -84,30 +83,60 @@ def ingest_tsk(modpath, db="bible_graph.db"):
     c.close()
 
 
+def chapter_map(c):
+    """testament -> {chapter_ordinal: [verse_ids]}"""
+    ot, nt = {}, {}
+    q = ("SELECT DISTINCT bnumber, cnumber FROM verses WHERE bnumber<=39"
+         " ORDER BY bnumber, cnumber")
+    for i, (b, ch) in enumerate(c.execute(q)):
+        ot[i] = [r[0] for r in c.execute(
+            "SELECT id FROM verses WHERE bnumber=? AND cnumber=? "
+            "ORDER BY vnumber", (b, ch))]
+    q = ("SELECT DISTINCT bnumber, cnumber FROM verses WHERE bnumber"
+         " BETWEEN 40 AND 66 ORDER BY bnumber, cnumber")
+    for i, (b, ch) in enumerate(c.execute(q)):
+        nt[i] = [r[0] for r in c.execute(
+            "SELECT id FROM verses WHERE bnumber=? AND cnumber=? "
+            "ORDER BY vnumber", (b, ch))]
+    return {"ot": ot, "nt": nt}
+
+
 def ingest_commentary(name, modpath, db="bible_graph.db"):
     c = sqlite3.connect(db, timeout=300)
     c.execute("PRAGMA busy_timeout=300000")
     c.execute("""CREATE TABLE IF NOT EXISTS commentary(
         verse_id INT, source TEXT, text TEXT,
         PRIMARY KEY(verse_id, source))""")
-    vm = verse_map(c)
     base = mod_dir(modpath, "comments")
+    chapter_level = any(f.endswith(".czz") for f in os.listdir(base)
+                        if os.path.isfile(os.path.join(base, f)))
+    if chapter_level:
+        vm = chapter_map(c)
+        per_entry = lambda m, i: m.get(i, [])
+    else:
+        vm = verse_map(c)
+        per_entry = lambda m, i: [m[i]] if i in m else []
     n = 0
     for t, m in (("ot", vm["ot"]), ("nt", vm["nt"])):
-        z = ZModule(base, t)
-        for i in range(z.nverses()):
+        try:
+            z = ZModule(base, t)
+            nv = z.nverses()
+        except Exception:
+            continue
+        for i in range(nv):
             try:
                 entry = z.read(i)
             except Exception:
                 continue
-            if not entry.strip() or i not in m:
+            if not entry.strip():
                 continue
-            # strip ThML tags for plain-text storage
-            txt = re.sub(r"<[^>]+>", " ", entry)
-            txt = re.sub(r"\s+", " ", txt).strip()
-            c.execute("INSERT OR REPLACE INTO commentary VALUES (?,?,?)",
-                      (m[i], name, txt))
-            n += 1
+            for vid in per_entry(m, i):
+                txt = re.sub(r"<[^>]+>", " ", entry)
+                txt = re.sub(r"\s+", " ", txt).strip()
+                c.execute(
+                    "INSERT OR REPLACE INTO commentary VALUES (?,?,?)",
+                    (vid, name, txt))
+                n += 1
     c.commit()
     print(f"{name} entries: {n}")
     c.close()
