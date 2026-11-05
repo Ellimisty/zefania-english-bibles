@@ -44,7 +44,8 @@ analytic layer should ride on top of that deduplicated core.
 | **USAS semantic** | planned `usas_tags` | single-word + MWE lexicons in `book/lexicons/` | pending |
 | **bible_layers metrics** | `<pack>.layers.db` `metrics` | words/sentences/dialogue%/passives/speech-verbs per verse | tooling done |
 | Strong's projection | graph `token_strongs_proj` | codes projected onto untagged ENG translations (word prior + per-verse consensus + equivalence pooling + spelling variants; method + confidence per tag) | running |
-| **Verse alignment** | `<pack>.align.db` | token-level difflib alignment between translation pairs; "identical to that point then diverge" as data; powers diff-highlighted compare view | in progress |
+| **Verse alignment** | `<pack>.align.db` `align` | token-level LCS alignment between translation pairs (n_eq, sim, encoded ops); reader highlights diffs live | done |
+| **Projection review** | graph `strong_review` | `no_consensus`/`unmatched` cases with candidate+consensus code lists for LLM adjudication (`export_review.py`) | done |
 | **OSHB Hebrew morphology** | graph `hebrew_words` | morphhb WLC surface/lemma/morph per Hebrew word — OT equivalent of greek_words (306,785 words, 98% Strong's-linked) | done |
 | **Torrey's topics** | graph `topics`/`topic_sub`/`topic_refs` | Torrey's Topical Textbook — 628 topics, 61,105 verse refs | done |
 | **Synoptic parallels** | graph `parallels` | verse-pair Jaccard across gospels (KJV tokens), 26,038 pairs ≥0.3 | done |

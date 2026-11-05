@@ -60,6 +60,24 @@ def load_lexicon():
     return lex
 
 
+def load_mwe():
+    """templates -> ([(literal_or_None)], tag); literal None = wildcard.
+    Template parts look like: 'word'_POS, word, *_POS, 'word'_* """
+    out = []
+    path = os.path.join(LEX_DIR, "usas_mwe.tsv")
+    with open(path, encoding="utf-8") as f:
+        for row in csv.DictReader(f, delimiter="\t"):
+            parts = []
+            for comp in row["mwe_template"].split():
+                comp = comp.strip("'\"")
+                lit = comp.split("_")[0].lower()
+                parts.append(None if lit in ("", "*") else lit)
+            if len(parts) > 1 and any(p is not None for p in parts):
+                out.append((parts, row["semantic_tags"].split()[0]))
+    out.sort(key=lambda x: -len(x[0]))  # longest match first
+    return out
+
+
 def lemmatize(w):
     w = w.lower()
     if w in LEX: return w
@@ -96,6 +114,8 @@ def main():
     global LEX
     LEX = load_lexicon()
     print(f"lexicon: {len(LEX)} lemmas")
+    mwe = load_mwe()
+    print(f"mwe templates: {len(mwe)}")
 
     con = sqlite3.connect(args.pack)
     tid = con.execute(
@@ -117,23 +137,46 @@ def main():
         q += " AND v.bnum=?"; p.append(args.book)
     q += " ORDER BY v.bnum, v.cnum, v.vnum"
 
-    n_tok = n_tag = 0
-    rows = []
+    odb.execute("""CREATE TABLE IF NOT EXISTS usas_mwe(
+        bnum INT, cnum INT, vnum INT, start_pos INT, end_pos INT,
+        template TEXT, tag TEXT,
+        PRIMARY KEY(bnum,cnum,vnum,start_pos,end_pos))""")
+
+    n_tok = n_tag = n_mwe = 0
+    rows, mrows = [], []
     for b, c, v, tb in con.execute(q, p):
-        for i, did in enumerate(varints(tb)):
+        ids = list(varints(tb))
+        words = [dic.get(d, "") for d in ids]
+        lemmas = [lemmatize(w) or w.lower() for w in words]
+        # multiword pass: longest templates first, skip covered positions
+        covered = set()
+        for parts, tag in mwe:
+            n = len(parts)
+            for i in range(len(lemmas) - n + 1):
+                if i in covered:
+                    continue
+                if all(p is None or p == lemmas[i + k] or p == words[i + k].lower()
+                       for k, p in enumerate(parts)):
+                    mrows.append((b, c, v, i, i + n - 1,
+                                  "/".join(p or "*" for p in parts), tag))
+                    covered.update(range(i, i + n))
+                    n_mwe += 1
+        for i, did in enumerate(ids):
             word = dic.get(did, "")
             if not word[:1].isalpha() and not word[:1].isdigit():
                 continue
-            lemma = lemmatize(word)
-            tag = LEX.get(lemma) if lemma else None
+            lemma = lemmas[i]
+            tag = LEX.get(lemma)
             n_tok += 1
             if tag:
                 rows.append((b, c, v, i, word, lemma, tag))
                 n_tag += 1
     odb.executemany("INSERT OR REPLACE INTO usas_tags VALUES (?,?,?,?,?,?,?)",
                     rows)
+    odb.executemany("INSERT OR REPLACE INTO usas_mwe VALUES (?,?,?,?,?,?,?)",
+                    mrows)
     odb.commit()
-    print(f"{n_tag}/{n_tok} tokens tagged -> {out}")
+    print(f"{n_tag}/{n_tok} tokens tagged, {n_mwe} MWE spans -> {out}")
     odb.close(); con.close()
 
 
