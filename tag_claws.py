@@ -114,7 +114,7 @@ def pack_verses(con, tid, bnum=None, cnum=None):
         text = "".join((" " if i > 0
                         and i // 8 < len(sb)
                         and (sb[i // 8] >> (i % 8)) & 1 else "")
-                       + dic.get(i, "") for i in ids)
+                       + dic.get(did, "") for i, did in enumerate(ids))
         yield b, c, v, text
 
 
