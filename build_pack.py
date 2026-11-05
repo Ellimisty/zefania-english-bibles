@@ -49,7 +49,8 @@ CREATE TABLE meta(key TEXT PRIMARY KEY, value);
 CREATE TABLE translations(id INTEGER PRIMARY KEY, slug TEXT UNIQUE,
                           name TEXT, identifier TEXT);
 CREATE TABLE dictionary(id INTEGER PRIMARY KEY, text TEXT UNIQUE);
-CREATE TABLE strongs_dict(id INTEGER PRIMARY KEY, code TEXT UNIQUE);
+CREATE TABLE strongs_dict(id INTEGER PRIMARY KEY, code TEXT UNIQUE,
+                          lemma TEXT, gloss TEXT);
 CREATE TABLE sequences(id INTEGER PRIMARY KEY, n_tokens INT,
                        tokens BLOB, spaces BLOB, strongs BLOB);
 CREATE TABLE verses(translation_id INT, bnum INT, cnum INT, vnum INT,
@@ -108,6 +109,37 @@ def seq_hash(tb, sb, stb):
     return hashlib.sha1(bytes(tb) + b"|" + bytes(sb) + b"|" + bytes(stb)).digest()
 
 
+LEXEMES = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                       "zachconc", "vendor", "lexemes.yaml")
+
+
+def load_strong_info(path=LEXEMES):
+    """Parse lexemes.yaml -> {strongs_int: (lemma, gloss)} — same hand
+    parser style as ingest_greek.py, inverted and gloss-aware."""
+    info = {}
+    lemma = strongs = gloss = None
+    if not os.path.isfile(path):
+        return info
+    def flush():
+        if isinstance(strongs, int):
+            info[strongs] = (lemma, gloss)
+    for line in open(path, encoding="utf-8"):
+        if line and not line[0].isspace():
+            flush()
+            lemma = strongs = gloss = None
+            m = re.match(r"^(.+):\s*$", line.rstrip("\n"))
+            lemma = m.group(1).strip() if m else None
+        elif lemma:
+            ls = line.lstrip()
+            if ls.startswith("strongs:"):
+                val = ls.split(":", 1)[1].strip()
+                strongs = int(val) if val.isdigit() else None
+            elif ls.startswith("gloss:"):
+                gloss = ls.split(":", 1)[1].strip()
+    flush()
+    return info
+
+
 def load_base(base_path, dict_ids, strong_ids, seq_ids):
     """Prefill dedup maps from an existing pack. Returns (max_dict_id,
     max_strong_id, max_seq_id, n_verses)."""
@@ -152,9 +184,16 @@ def build(src_dir, out_path, only=None, base=None, estimate=False):
         if base:
             base_esc = base.replace("'", "''")
             con.execute(f"ATTACH DATABASE '{base_esc}' AS base")
-            for t in ("translations", "dictionary", "strongs_dict",
-                      "sequences", "verses", "meta"):
-                con.execute(f"INSERT INTO {t} SELECT * FROM base.{t}")
+            # explicit columns: base may predate the lemma/gloss columns
+            for t, cols in (
+                ("translations", "id, slug, name, identifier"),
+                ("dictionary", "id, text"),
+                ("strongs_dict", "id, code"),
+                ("sequences", "id, n_tokens, tokens, spaces, strongs"),
+                ("verses", "translation_id, bnum, cnum, vnum, seq_id"),
+                ("meta", "key, value"),
+            ):
+                con.execute(f"INSERT INTO {t} ({cols}) SELECT {cols} FROM base.{t}")
         cur = con.cursor()
 
     def dict_id(text):
@@ -166,13 +205,20 @@ def build(src_dir, out_path, only=None, base=None, estimate=False):
             dict_rows.append((i, text))
         return i
 
+    strong_info = load_strong_info()
+    if strong_info:
+        print(f"loaded {len(strong_info)} strong->lemma entries from lexemes.yaml")
+
     def strong_id(code):
         nonlocal next_strong
         i = strong_ids.get(code)
         if i is None:
             i = next_strong; next_strong += 1
             strong_ids[code] = i
-            strong_rows.append((i, code))
+            lemma = gloss = None
+            if code[:1] == "G" and code[1:].isdigit():
+                lemma, gloss = strong_info.get(int(code[1:]), (None, None))
+            strong_rows.append((i, code, lemma, gloss))
         return i
 
     n_files_verses = 0
@@ -245,7 +291,7 @@ def build(src_dir, out_path, only=None, base=None, estimate=False):
               f"~{n_bytes / 1e6:.2f} MB seq data)")
 
     new_dict_bytes = sum(len(t) + 8 for _, t in dict_rows)
-    new_strong_bytes = sum(len(c) + 8 for _, c in strong_rows)
+    new_strong_bytes = sum(len(r[1]) + 8 for r in strong_rows)
     new_seq_bytes = sum(len(tb) + len(sb) + len(stb) + 20 for _, _, tb, sb, stb in seq_rows)
     verse_bytes = (len(verse_rows) if verse_rows else n_files_verses) * 28
     est_added = (new_dict_bytes + new_strong_bytes + new_seq_bytes + verse_bytes) * 1.15
@@ -261,7 +307,7 @@ def build(src_dir, out_path, only=None, base=None, estimate=False):
 
     print("writing...")
     cur.executemany("INSERT INTO dictionary VALUES (?,?)", dict_rows)
-    cur.executemany("INSERT INTO strongs_dict VALUES (?,?)", strong_rows)
+    cur.executemany("INSERT INTO strongs_dict VALUES (?,?,?,?)", strong_rows)
     cur.executemany("INSERT INTO sequences VALUES (?,?,?,?,?)", seq_rows)
     cur.executemany("INSERT OR REPLACE INTO verses VALUES (?,?,?,?,?)", verse_rows)
     cur.execute("INSERT OR REPLACE INTO meta VALUES ('format','bibles.pack.v1')")
