@@ -43,7 +43,7 @@ analytic layer should ride on top of that deduplicated core.
 | **CLAWS POS** | `<pack>.pos.db` `pos_tags` | UCREL C7 tags per token position | tooling done, KJV James 1 verified |
 | **USAS semantic** | planned `usas_tags` | single-word + MWE lexicons in `book/lexicons/` | pending |
 | **bible_layers metrics** | `<pack>.layers.db` `metrics` | words/sentences/dialogue%/passives/speech-verbs per verse | tooling done |
-| Strong's projection | planned | codes projected onto untagged translations (vocab priors + elimination + phrase spans) | designed |
+| Strong's projection | graph `token_strongs_proj` | codes projected onto untagged ENG translations (word prior + per-verse consensus + equivalence pooling + spelling variants; method + confidence per tag) | running |
 | **Verse alignment** | `<pack>.align.db` | token-level difflib alignment between translation pairs; "identical to that point then diverge" as data; powers diff-highlighted compare view | in progress |
 | **OSHB Hebrew morphology** | graph `hebrew_words` | morphhb WLC surface/lemma/morph per Hebrew word — OT equivalent of greek_words (306,785 words, 98% Strong's-linked) | done |
 | **Torrey's topics** | graph `topics`/`topic_sub`/`topic_refs` | Torrey's Topical Textbook — 628 topics, 61,105 verse refs | done |
