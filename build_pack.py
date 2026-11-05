@@ -51,6 +51,8 @@ CREATE TABLE translations(id INTEGER PRIMARY KEY, slug TEXT UNIQUE,
 CREATE TABLE dictionary(id INTEGER PRIMARY KEY, text TEXT UNIQUE);
 CREATE TABLE strongs_dict(id INTEGER PRIMARY KEY, code TEXT UNIQUE,
                           lemma TEXT, gloss TEXT);
+CREATE TABLE strong_words(strong_id INT, dict_id INT,
+                          PRIMARY KEY(strong_id, dict_id));
 CREATE TABLE sequences(id INTEGER PRIMARY KEY, n_tokens INT,
                        tokens BLOB, spaces BLOB, strongs BLOB);
 CREATE TABLE verses(translation_id INT, bnum INT, cnum INT, vnum INT,
@@ -71,6 +73,17 @@ def putvarint(buf, n):
         buf.append((n & 0x7F) | 0x80)
         n >>= 7
     buf.append(n)
+
+
+def getvarints(buf):
+    n = shift = 0
+    for b in buf:
+        n |= (b & 0x7F) << shift
+        if not b & 0x80:
+            yield n
+            n = shift = 0
+        else:
+            shift += 7
 
 
 def iter_runs(vers):
@@ -111,6 +124,29 @@ def seq_hash(tb, sb, stb):
 
 LEXEMES = os.path.join(os.path.dirname(os.path.abspath(__file__)),
                        "zachconc", "vendor", "lexemes.yaml")
+HEBREW_STRONG = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                             "zachconc", "vendor", "HebrewLexicon",
+                             "HebrewStrong.xml")
+
+_NS = "{http://openscriptures.github.com/morphhb/namespace}"
+
+
+def load_hebrew_info(path=HEBREW_STRONG):
+    """Parse HebrewStrong.xml -> {strongs_int: (hebrew_word, gloss)}."""
+    info = {}
+    if not os.path.isfile(path):
+        return info
+    root = ET.parse(path).getroot()
+    for entry in root.iter(f"{_NS}entry"):
+        sid = entry.get("id", "")
+        if not (sid[:1] == "H" and sid[1:].isdigit()):
+            continue
+        w = entry.find(f"{_NS}w")
+        lemma = (w.text or "").strip() if w is not None else None
+        defs = [d.text.strip() for d in entry.iter(f"{_NS}def") if d.text]
+        gloss = "; ".join(defs[:3]) if defs else None
+        info[int(sid[1:])] = (lemma, gloss)
+    return info
 
 
 def load_strong_info(path=LEXEMES):
@@ -165,6 +201,7 @@ def build(src_dir, out_path, only=None, base=None, estimate=False):
     seq_ids = {}           # sha1 -> sequence id
     next_dict = next_strong = next_seq = 1
     dict_rows, strong_rows, seq_rows, verse_rows = [], [], [], []
+    sw_pairs = set()           # (strong_id, dict_id) -> strong_words table
     base_bytes = 0
 
     if base:
@@ -173,6 +210,17 @@ def build(src_dir, out_path, only=None, base=None, estimate=False):
         next_dict, next_strong, next_seq = md + 1, ms + 1, mq + 1
         base_bytes = os.path.getsize(base)
         print(f"base: {base_verses} verses carried over")
+        # recover strong->word pairs from base sequences (ids are preserved)
+        bcon = sqlite3.connect(base)
+        for tb, stb in bcon.execute("SELECT tokens, strongs FROM sequences"):
+            ids = list(getvarints(tb))
+            pos = 0
+            it = iter(getvarints(stb))
+            for delta, sid_ in zip(it, it):
+                pos += delta
+                if pos < len(ids):
+                    sw_pairs.add((sid_, ids[pos]))
+        bcon.close()
 
     con = None
     cur = None
@@ -208,6 +256,9 @@ def build(src_dir, out_path, only=None, base=None, estimate=False):
     strong_info = load_strong_info()
     if strong_info:
         print(f"loaded {len(strong_info)} strong->lemma entries from lexemes.yaml")
+    hebrew_info = load_hebrew_info()
+    if hebrew_info:
+        print(f"loaded {len(hebrew_info)} strong->hebrew entries from HebrewStrong.xml")
 
     def strong_id(code):
         nonlocal next_strong
@@ -216,8 +267,9 @@ def build(src_dir, out_path, only=None, base=None, estimate=False):
             i = next_strong; next_strong += 1
             strong_ids[code] = i
             lemma = gloss = None
-            if code[:1] == "G" and code[1:].isdigit():
-                lemma, gloss = strong_info.get(int(code[1:]), (None, None))
+            if code[:1] in "GH" and code[1:].isdigit():
+                src = strong_info if code[0] == "G" else hebrew_info
+                lemma, gloss = src.get(int(code[1:]), (None, None))
             strong_rows.append((i, code, lemma, gloss))
         return i
 
@@ -263,14 +315,17 @@ def build(src_dir, out_path, only=None, base=None, estimate=False):
                     bits = 0; sbuf = bytearray()
                     last_pos = 0
                     for i, (text, lead, strongs) in enumerate(toks):
-                        putvarint(tb, dict_id(text))
+                        did = dict_id(text)
+                        putvarint(tb, did)
                         if lead and i > 0:
                             bits |= 1 << (i % 8)
                         if i % 8 == 7:
                             sb.append(bits); bits = 0
                         for s in strongs:
                             putvarint(sbuf, i - last_pos)
-                            putvarint(sbuf, strong_id(f"{lang}{s}"))
+                            swid = strong_id(f"{lang}{s}")
+                            putvarint(sbuf, swid)
+                            sw_pairs.add((swid, did))
                             last_pos = i
                     if len(toks) % 8:
                         sb.append(bits)
@@ -309,11 +364,14 @@ def build(src_dir, out_path, only=None, base=None, estimate=False):
     cur.executemany("INSERT INTO dictionary VALUES (?,?)", dict_rows)
     cur.executemany("INSERT INTO strongs_dict VALUES (?,?,?,?)", strong_rows)
     cur.executemany("INSERT INTO sequences VALUES (?,?,?,?,?)", seq_rows)
+    cur.executemany("INSERT OR IGNORE INTO strong_words VALUES (?,?)",
+                    sorted(sw_pairs))
     cur.executemany("INSERT OR REPLACE INTO verses VALUES (?,?,?,?,?)", verse_rows)
     cur.execute("INSERT OR REPLACE INTO meta VALUES ('format','bibles.pack.v1')")
     con.commit()
     # stats
-    for t in ("translations", "dictionary", "sequences", "verses", "strongs_dict"):
+    for t in ("translations", "dictionary", "sequences", "verses",
+              "strongs_dict", "strong_words"):
         print(t, cur.execute(f"SELECT count(*) FROM {t}").fetchone()[0])
     con.execute("VACUUM")
     con.close()
