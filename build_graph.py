@@ -134,7 +134,7 @@ BOOK_NUMBERS = {v.lower(): k for k, v in BOOK_NAMES.items()}
 
 
 def ingest(src_dir, db_path):
-    con = sqlite3.connect(db_path)
+    con = sqlite3.connect(db_path, timeout=300)
     con.executescript(SCHEMA)
     cur = con.cursor()
     cur.execute("PRAGMA journal_mode=WAL")
@@ -291,7 +291,7 @@ def metrics(db_path, ref_ident="KJV"):
     con.close()
 
 
-def export_verse(db_path, book, chapter, verse, out_path):
+def export_verse(db_path, book, chapter, verse, out_path, fmt="dag"):
     con = sqlite3.connect(db_path)
     if str(book).isdigit():
         bnum = int(book)
@@ -317,9 +317,9 @@ def export_verse(db_path, book, chapter, verse, out_path):
         sys.exit("verse not found")
     vid = row[0]
     nodes, rels, node_map = [], [], {}
-    counters = {"n": 0, "r": 0}
+    counters = {"n": 0, "e": 0}
 
-    def node(caption, labels, x=0.0, y=0.0):
+    def node(caption, labels, x=0.0, y=0.0, properties=None):
         key = (caption, tuple(sorted(labels)))
         if key not in node_map:
             counters["n"] += 1
@@ -331,15 +331,26 @@ def export_verse(db_path, book, chapter, verse, out_path):
                 "caption": caption,
                 "style": {},
                 "labels": labels,
-                "properties": {},
+                "properties": properties or {},
             })
         return node_map[key]
 
-    def edge(a, b, t):
-        counters["r"] += 1
+    def edge(a, b, t, path_group=None, branch=None):
+        # arrows.app relationship ids use the e0, e1, ... scheme so they can
+        # never collide with node ids (n1, n2, ...). `pathGroup` identifies
+        # which path/translation an edge belongs to ("CANON" for the shared
+        # Book/Chapter/Verse hierarchy); `branch` ("left"/"right") marks the
+        # two halves of a binary n-gram decomposition, as in export.rs.
+        props = {}
+        if branch is not None:
+            props["branch"] = branch
+        if path_group is not None:
+            props["pathGroup"] = path_group
+        rid = f"e{counters['e']}"
+        counters["e"] += 1
         rels.append({
-            "id": f"r{counters['r']}", "type": t, "style": {},
-            "properties": {}, "fromId": a, "toId": b,
+            "id": rid, "type": t, "style": {},
+            "properties": props, "fromId": a, "toId": b,
         })
 
     bname, ref = con.execute("SELECT bname, ref FROM verses WHERE id=?", (vid,)).fetchone()
@@ -347,9 +358,10 @@ def export_verse(db_path, book, chapter, verse, out_path):
     book_n = node(bname, ["Book"], -600, -600)
     chap_n = node(str(chapter), ["Chapter"], -300, -600)
     vers_n = node(f"{bname} {chapter}:{verse}", ["Verse"], 0, -600)
-    edge(book_n, chap_n, "HAS_CHAPTER")
-    edge(chap_n, vers_n, "HAS_VERSE")
+    edge(book_n, chap_n, "HAS_CHAPTER", path_group="CANON")
+    edge(chap_n, vers_n, "HAS_VERSE", path_group="CANON")
 
+    NGRAM_SIZES = (2, 3)
     for row_i, (tid, slug) in enumerate(con.execute("SELECT id, slug FROM translations")):
         toks = con.execute(
             "SELECT vt.position, t.text FROM verse_tokens vt JOIN tokens t ON t.id=vt.token_id "
@@ -358,32 +370,126 @@ def export_verse(db_path, book, chapter, verse, out_path):
         ).fetchall()
         if not toks:
             continue
-        y = row_i * 300
+        y = row_i * (500 if fmt == "dag" else 300)
         ver_n = node(slug, ["Translation"], -900, y)
         vtext_n = node(f"{slug}:{ref}", ["VerseText", slug], -600, y)
-        edge(vers_n, vtext_n, "HAS_TEXT")
-        edge(vtext_n, ver_n, "TRANSLATED_BY")
+        edge(vers_n, vtext_n, "HAS_TEXT", path_group=slug)
+        edge(vtext_n, ver_n, "TRANSLATED_BY", path_group=slug)
+
+        # token layer (size-1 n-grams): layer_index = position in verse
+        tok_nodes = {}
+        text_at = {}
         prev = None
         for pos, text in toks:
-            tok_n = node(text, ["Token"], pos * 160, y)
-            edge(vtext_n, tok_n, "CONTAINS_TOKEN")
+            tok_n = node(text, ["Token"], pos * 160, y,
+                         properties={"layer_index": pos, "size": 1} if fmt == "dag" else None)
+            tok_nodes[pos] = tok_n
+            text_at[pos] = text
+            edge(vtext_n, tok_n, "CONTAINS_TOKEN", path_group=slug)
             if prev is not None:
-                edge(prev, tok_n, f"NEXT:{slug}")
+                edge(prev, tok_n, f"NEXT:{slug}", path_group=slug)
             prev = tok_n
             for (code,) in con.execute(
                 "SELECT s.code FROM token_strongs ts JOIN strongs s ON s.id=ts.strong_id "
                 "WHERE ts.translation_id=? AND ts.verse_id=? AND ts.position=?",
                 (tid, vid, pos),
             ):
-                edge(tok_n, node(code, ["Strongs", "Greek" if code.startswith("G") else "Hebrew"], pos * 160, y - 200), "TRANSLATES")
+                edge(tok_n,
+                     node(code, ["Strongs", "Greek" if code.startswith("G") else "Hebrew"],
+                          pos * 160, y - 200),
+                     "TRANSLATES", path_group=slug)
+
+        # n-gram layers for n=2..3 built from NON-OVERLAPPING adjacent
+        # partitions of the token stream ("quick brown" + "fox jumps",
+        # never sliding "quick brown" + "brown fox"), per export.rs.
+        if fmt != "dag":
+            continue
+        positions = sorted(text_at)
+        # text -> node id, seeded with unigrams so decompositions can
+        # terminate at token nodes
+        ngram_ids = {text_at[p]: tok_nodes[p] for p in positions}
+        for size in NGRAM_SIZES:
+            layer_y = y - 400 - (size - 2) * 200
+            layer_idx = 0
+            i = 0
+            while i + size <= len(positions):
+                span = positions[i:i + size]
+                caption = " ".join(text_at[p] for p in span)
+                x = (span[0] + span[-1]) * 80
+                ng_n = node(caption, ["Ngram", slug], x, layer_y,
+                            properties={"layer_index": layer_idx, "size": size})
+                ngram_ids[caption] = ng_n
+                # PART_OF from each constituent token
+                for p in span:
+                    edge(tok_nodes[p], ng_n, "PART_OF", path_group=slug)
+                # all valid binary decompositions: split into (k)-gram +
+                # (size-k)-gram for k in 1..size-1, connecting only when
+                # both halves exist as nodes (Rust MERGE convention)
+                for k in range(1, size):
+                    left = " ".join(text_at[p] for p in span[:k])
+                    right = " ".join(text_at[p] for p in span[k:])
+                    if left in ngram_ids and right in ngram_ids:
+                        edge(ngram_ids[left], ng_n, "MERGE",
+                             path_group=slug, branch="left")
+                        edge(ngram_ids[right], ng_n, "MERGE",
+                             path_group=slug, branch="right")
+                layer_idx += 1
+                i += size
+
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump({
             "style": {
                 "font-family": "sans-serif",
                 "background-color": "#ffffff",
+                "background-image": "",
+                "background-size": "100%",
                 "node-color": "#ffffff",
-                "directionality": "directed",
+                "border-width": 4,
+                "border-color": "#000000",
+                "radius": 50,
+                "node-padding": 5,
+                "node-margin": 2,
+                "outside-position": "auto",
+                "node-icon-image": "",
+                "node-background-image": "",
+                "icon-position": "inside",
+                "icon-size": 64,
                 "caption-position": "inside",
+                "caption-max-width": 200,
+                "caption-color": "#000000",
+                "caption-font-size": 50,
+                "caption-font-weight": "normal",
+                "label-position": "inside",
+                "label-display": "pill",
+                "label-color": "#000000",
+                "label-background-color": "#ffffff",
+                "label-border-color": "#000000",
+                "label-border-width": 4,
+                "label-font-size": 40,
+                "label-padding": 5,
+                "label-margin": 4,
+                "directionality": "directed",
+                "detail-position": "inline",
+                "detail-orientation": "parallel",
+                "arrow-width": 5,
+                "arrow-color": "#000000",
+                "margin-start": 5,
+                "margin-end": 5,
+                "margin-peer": 20,
+                "attachment-start": "normal",
+                "attachment-end": "normal",
+                "relationship-icon-image": "",
+                "type-color": "#000000",
+                "type-background-color": "#ffffff",
+                "type-border-color": "#000000",
+                "type-border-width": 0,
+                "type-font-size": 16,
+                "type-padding": 5,
+                "property-position": "outside",
+                "property-alignment": "colon",
+                "property-color": "#000000",
+                "property-font-size": 16,
+                "property-font-weight": "normal",
             },
             "nodes": nodes,
             "relationships": rels,
@@ -406,6 +512,9 @@ def main():
     p.add_argument("chapter", type=int)
     p.add_argument("verse", type=int)
     p.add_argument("--out", default="graph_export.json")
+    p.add_argument("--format", choices=["dag", "simple"], default="dag",
+                   help="dag: full layered export with n-gram/PART_OF/MERGE layers; "
+                        "simple: original token-chain export only")
     p.add_argument("--db", default=DB_PATH)
     a = ap.parse_args()
     if a.cmd == "ingest":
@@ -413,7 +522,7 @@ def main():
     elif a.cmd == "metrics":
         metrics(a.db, a.ref)
     elif a.cmd == "export":
-        export_verse(a.db, a.book, a.chapter, a.verse, a.out)
+        export_verse(a.db, a.book, a.chapter, a.verse, a.out, a.format)
 
 
 if __name__ == "__main__":

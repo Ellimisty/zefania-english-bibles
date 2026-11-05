@@ -1,6 +1,11 @@
 bible_graph.db*
+bibles.pack
+*.pack
+surreal_data/
 *.mhtml
 _gemini.*
 Untitled graph*.json
 nul
 __pycache__/
+zachconc/vendor/
+zachconc/
