@@ -132,6 +132,59 @@ Once decoded:
 - [ ] TSK: not installed; grab from e-Sword downloads or use
       OpenBible (already in) + Nave's as xref sources
 
+## Project H — SWORD module integration (464 modules acquired)
+
+sword_get.py pulls all CrossWire rawzip modules to sword/mods/;
+sword_read.py decodes zCom/zText/zLD (zlib-block format, open spec).
+
+### Truth/textual layers
+- [ ] **Greek editions**: Byz, Elzevir, Nestle, Nestle1904, OxfordTR,
+      SBLGNT, StatResGNT, Tisch, TR, WHNU, Antoniades, MorphGNT,
+      GreekHebrew — multi-edition text comparison
+- [ ] **Hebrew**: Aleppo, WLC, OSHB, OSHM, HebDelitzsch, HebModern
+- [ ] **Apparatus**: SBLGNTApp, VarApp — textual-variant layer
+      (manuscript differences per verse)
+- [ ] **SPDSS** — Dead Sea Scrolls (shopping list!)
+- [ ] **LXX + FreLXX family** — Greek Septuagint (shopping list!)
+- [ ] **Ancient versions**: CopSahidicMSS/SahidicBible (Coptic),
+      Peshitta + Etheridge (Syriac), Vulgate family x6, Wulfila
+      (Gothic), Geez (Ethiopic)
+- [ ] **Josephus** module — shopping list!
+
+### Lexicon/dictionary layers
+- [ ] **StrongsGreek/StrongsHebrew** — canonical Strong's defs
+- [ ] **BDBGlosses_Strongs** — BDB glosses keyed to Strong's
+- [ ] **AbbottSmith/AbbottSmithStrongs, DBD, Dodson, Rieger,
+      Cawdrey, Webster1806/1828/1913** — more dictionary tables
+- [ ] **Localized Strong's**: Chis/Chit, Fre, Ger, Vie, MLStrong —
+      cross-language lemma bridge (foreign glosses per code)
+- [ ] **Nave, Torrey, Easton, Hitchcock, Smith, ISBE, 2BabDict,
+      ItaNomiBibbia, RusCARSDict** — topical + name dictionaries
+
+### Commentary layer -> commentary(verse_id, source, text)
+- [ ] **MHC** (Matthew Henry complete), MHCC, JFB, RWP, Barnes,
+      Clarke, CalvinCommentaries, Scofield, Wesley, Finney,
+      Lightfoot, Catena (patristic chains), KingComm family,
+      DutKingComm, GerKingComm, PorKingComments, TFG, NETnotesfree
+
+### Harmony/parallel data
+- [ ] **Eusebian_num + Eusebian_vs** — the Eusebian canon tables;
+      canonical pericope parallels (shopping list item!)
+- [ ] GHT/GHTG, BeaMRK — gospel harmony data
+
+### Long-form book layer -> book_chapters
+- [ ] Summa (Aquinas), Institutes (Calvin), Josephus, Didache,
+      Enoch/Jubilees/GezEnoch (pseudepigrapha), Imitation,
+      Pilgrim, Owen works (JO*), Edwards (JE*), LawGospel,
+      Orthodoxy, Spurious, Heretics, confessions, Daily,
+      QuotingPassages, Catena
+
+### Translations to merge into packs
+- [ ] ~200 translation modules incl. LEB, JPS, ASV, Geneva1599,
+      Diaglott, NETtext, OEB, Worsley, Murdock, Etheridge,
+      JST, GodsWord, ISV + ~50 German/French/Spanish/etc. —
+      dedupe vs existing Zefania files via manifest SHA
+
 ## Guardrails (from the chats — now partially built)
 
 - qa_checks.py regression suite — run before/after every ingest or
