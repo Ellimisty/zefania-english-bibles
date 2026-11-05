@@ -44,6 +44,15 @@ analytic layer should ride on top of that deduplicated core.
 | **USAS semantic** | planned `usas_tags` | single-word + MWE lexicons in `book/lexicons/` | pending |
 | **bible_layers metrics** | `<pack>.layers.db` `metrics` | words/sentences/dialogue%/passives/speech-verbs per verse | tooling done |
 | Strong's projection | planned | codes projected onto untagged translations (vocab priors + elimination + phrase spans) | designed |
+| **Verse alignment** | `<pack>.align.db` | token-level difflib alignment between translation pairs; "identical to that point then diverge" as data; powers diff-highlighted compare view | in progress |
+| **OSHB Hebrew morphology** | graph `hebrew_words` | Open Scriptures Morphological Hebrew Bible parsing (already in corpus: `SF_2012-04-21_HEB_OSMHB`) — OT equivalent of greek_words | pending |
+| **Torrey's topics** | graph `topics` | `SF_2006-03-02_ENG_TTB` is a topic→verses index (no BIBLEBOOK) — parse into topical layer | pending |
+| **Synoptic parallels** | graph `parallels` | Gospel harmony / Eusebian apparatus mapping same-pericope passages | pending |
+| **USAS semantic** | `<pack>.usas.db` | semantic-field tags via lexicon join + lemmatizer (lexicons vendored in `book/lexicons/`) | pending |
+| **Reader concordance** | GUI | every verse where any translation renders a Strong's root; all-translation word search | pending |
+| **Divergence coloring** | GUI + sidecar | `similarity` scores exported to pack sidecar; color verses vs chosen reference | pending |
+| **Bookmarks** | GUI | persist last reading position per pack | pending |
+| **Spelling-variant table** | planned | begat/begot, sabbaoth-era variants for cross-era matching (feeds projection) | pending |
 | Hebrew morphology | future | OT parsing beyond lemma/gloss | future |
 
 ## Pipelines
