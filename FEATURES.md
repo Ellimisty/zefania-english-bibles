@@ -96,6 +96,34 @@ The reader + packs are the foundation; this is the productized app on top.
 - [ ] **Translation families**: cluster translations by word-order/
       vocabulary (similarity matrix -> "KJV-family", "NHEB-family", etc.)
 
+## Project G — e-Sword module integration (user's library, 182 files)
+
+BLOCKER: e-Sword 11+ modules are RSC-encrypted blobs inside SQLite
+(sqliteplus_license). Need e-Sword's own export, a community RSC
+decoder, or older 9.x plaintext modules. `ingest_esword.py` scaffolds
+the pipelines; decode hook pending.
+
+Once decoded:
+- [ ] `.lexx` (bdb, thayer, mounce, kjc) → `lexicon_extra(code, dict,
+      defn)` — real lexicon definitions joined on Strong's codes;
+      upgrades the reader's inspector panel
+- [ ] `.dctx` topical (nave, torrey, scofield refs) → `topic_refs` +
+      `xref kind='nave'` — more sermon-engine edges
+- [ ] `.dctx` general (easton, hastings, hitchcock, isbe, webster,
+      fausset, smith, vines-ot/nt) → `dictionary(topic, dict, defn)`
+      layer; name/place lookups in reader
+- [ ] `.topx` (Christian Faith) → `xref kind='esword_topx'`
+- [ ] `.cmtx` commentaries (barnes, clarke, bullinger, cambridge,
+      vincent, wesley, spurgeon, scofield) → `commentary(verse_id,
+      source, text)` — reader "commentary pane" per verse
+- [ ] `.refx` books (ante-nicene fathers, josephus works, devotionals)
+      → `book_chapters(book, ch, text)` sidecar; searchable long-form
+- [ ] `.mapx` maps → probably image assets; low priority
+- [ ] `.bblx` bibles → redundant with Zefania XMLs; skip except
+      `+`-tagged variants if they carry Strong's we lack
+- [ ] TSK: not installed; grab from e-Sword downloads or use
+      OpenBible (already in) + Nave's as xref sources
+
 ## Guardrails (from the chats — now partially built)
 
 - qa_checks.py regression suite — run before/after every ingest or

@@ -22,6 +22,10 @@ Resources referenced across the chats, with what we already have.
 - [ ] **Gesenius Hebrew Grammar** (PD) — for decoding morphhb morph codes
       into readable forms
 - [ ] **Universal Dependencies Ancient Greek** (Perseus TLG treebanks)
+- [ ] **e-Sword RSC codec decoder** — 11+ modules (.bblx/.lexx/.dctx/
+      .topx/.refx) are SQLite but content blobs are RSC-encrypted;
+      need e-Sword app export or a community decoder (es2text, the
+      'esword' crate) — THEN all 182 modules are readable
 - [ ] **e-Sword module formats spec** (.bblx/.cmtx/.dctx/.topx) — for
       direct e-Sword module import (they're SQLite)
 - [ ] **Spelling-variant datasets** — more ME spelling maps if we want
