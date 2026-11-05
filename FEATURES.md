@@ -83,6 +83,19 @@ The reader + packs are the foundation; this is the productized app on top.
 - [ ] **Collab study** (future): shared notebooks for groups
 - [ ] n-gram/linguistic-pattern tool: antconc_ngram plugs in as the analysis engine — authorship-anomaly/frequency views over greek_words
 
+## Project F — Ultra/Fractal Bible (from DRY-Bible + Story-mining chats)
+
+- [ ] **Ultra Verses**: merge near-identical passages into canonical
+      "superverses" (parallels + align sims already compute the overlap)
+- [ ] **Fractal/RAID Bible**: pericope-level derivability tree —
+      pairwise verse↔verse similarity chunked by book (parallel jobs,
+      store into `similarity`-style table per book pair)
+- [ ] **Story/truth mining**: thematic arcs (Cain→mercy/mark, cities→
+      Babel, "lies told about God") — topical graph over topics+USAS+
+      parallels; LLM-assisted extraction → reviewed `story_threads`
+- [ ] **Translation families**: cluster translations by word-order/
+      vocabulary (similarity matrix -> "KJV-family", "NHEB-family", etc.)
+
 ## Guardrails (from the chats — now partially built)
 
 - qa_checks.py regression suite — run before/after every ingest or
