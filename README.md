@@ -45,7 +45,7 @@ analytic layer should ride on top of that deduplicated core.
 | **bible_layers metrics** | `<pack>.layers.db` `metrics` | words/sentences/dialogue%/passives/speech-verbs per verse | tooling done |
 | Strong's projection | planned | codes projected onto untagged translations (vocab priors + elimination + phrase spans) | designed |
 | **Verse alignment** | `<pack>.align.db` | token-level difflib alignment between translation pairs; "identical to that point then diverge" as data; powers diff-highlighted compare view | in progress |
-| **OSHB Hebrew morphology** | graph `hebrew_words` | Open Scriptures Morphological Hebrew Bible parsing (already in corpus: `SF_2012-04-21_HEB_OSMHB`) — OT equivalent of greek_words | pending |
+| **OSHB Hebrew morphology** | graph `hebrew_words` | morphhb WLC surface/lemma/morph per Hebrew word — OT equivalent of greek_words (306,785 words, 98% Strong's-linked) | done |
 | **Torrey's topics** | graph `topics` | `SF_2006-03-02_ENG_TTB` is a topic→verses index (no BIBLEBOOK) — parse into topical layer | pending |
 | **Synoptic parallels** | graph `parallels` | Gospel harmony / Eusebian apparatus mapping same-pericope passages | pending |
 | **USAS semantic** | `<pack>.usas.db` `usas_tags` | semantic-field tags via lexicon join + lemmatizer (`ingest_usas.py`; ~99% coverage) | tooling done |
