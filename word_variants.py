@@ -23,6 +23,60 @@ ARCHAIC = {
     "hereof":"of-this","thereof":"of-it","wherein":"in-which",
 }
 
+# Middle English / Wycliffe / Tyndale spellings -> canonical modern form
+ME = {
+    "bigynne":"begin","bigunne":"begin","bygynnynge":"beginning",
+    "gaderide":"gather","gadered":"gathered","gadere":"gather",
+    "heelide":"healed","heelide":"healed","heelith":"heal",
+    "knewe":"know","knyght":"knight","knoue":"know","knowe":"know",
+    "myghti":"mighty","nyght":"night","ryght":"right","syght":"sight",
+    "lyght":"light","hygh":"high","saugh":"saw","sayde":"said",
+    "seye":"say","seyde":"said","seyde":"said","tolde":"told",
+    "solde":"sold","bolde":"bold","colde":"cold","holde":"hold",
+    "whiche":"which","whil":"while","whanne":"when","werre":"war",
+    "wyf":"wife","lyf":"life","wyne":"wine","synne":"sin",
+    "fadir":"father","modir":"mother","bretheren":"brethren",
+    "euere":"ever","neuere":"never","ouer":"over","vndir":"under",
+    "aftir":"after","bifore":"before","aboue":"above","sone":"son",
+    "sonne":"sun","worlde":"world","worde":"word","lord":"lord",
+    "heuene":"heaven","erthe":"earth","watir":"water","fir":"fire",
+    "foule":"fowl","foweles":"fowls","scheep":"sheep","scheeld":"shield",
+    "swerde":"sword","werre":"war","werrede":"waged-war",
+    "peple":"people","temple":"temple","disciplis":"disciples",
+    "prohetis":"prophets","prestis":"priests","kyng":"king",
+    "quene":"queen","lordes":"lords","seruaunt":"servant",
+    "seruauntis":"servants","childre":"children","men":"men",
+    "wommen":"women","foolis":"fools","wise":"wise","wnwise":"unwise",
+    "cité":"city","cyte":"city","cytee":"city","flee":"flee",
+    "sle":"slay","sleen":"slain","se":"see","seen":"seen",
+    "go":"go","goon":"gone","comen":"came","cam":"came",
+    "taak":"take","token":"took","maad":"made","maade":"made",
+    "hadd":"had","hedde":"had","saide":"said","saugh":"saw",
+    "bare":"bore","brake":"broke","fond":"found","stood":"stood",
+    "sat":"sat","lay":"lay","layn":"lain","fleysh":"flesh",
+    "fleisch":"flesh","blod":"blood","breed":"bread","deed":"dead",
+    "dede":"dead","deeth":"death","lyue":"live","lyueth":"lives",
+    "dye":"die","deyde":"died","hool":"whole","coold":"cold",
+    "sooth":"sooth","treuthe":"truth","verray":"very","parfit":"perfect",
+    "perfit":"perfect","poure":"poor","riche":"rich","stronge":"strong",
+    "yonge":"young","olde":"old","newe":"new","trewe":"true",
+    "fewe":"few","grete":"great","litel":"little","mydel":"middle",
+    "good":"good","god":"god","euyll":"evil","euil":"evil",
+    "hele":"heal","heleth":"heals","helpe":"help","hope":"hope",
+    "loue":"love","loued":"loved","loueth":"loves","hatith":"hates",
+    "dredith":"fears","drede":"fear","ferde":"feared","wondir":"wonder",
+    "wondride":"wondered","wepte":"wept","slepte":"slept",
+    "kepte":"kept","lafte":"left","raught":"reached",
+    "wrouhte":"wrought","soughte":"sought","broughte":"brought",
+    "thouhte":"thought","taughte":"taught","kaughte":"caught",
+    "southe":"south","northe":"north","eest":"east","weste":"west",
+    "faste":"fast","laste":"last","firste":"first","nexte":"next",
+    "othir":"other","another":"another","ech":"each","suche":"such",
+    "myche":"much","litil":"little","no":"no","nat":"not",
+    "noght":"not","nought":"not","nouht":"not","yee":"yea",
+    "yis":"yes","sothly":"truly","certis":"certainly","peraduenture":"perhaps",
+}
+
 SUFFIX = ("eth", "est", "th", "st", "ed", "es", "s")
 
 
@@ -33,6 +87,8 @@ def stems(w):
             yield w[:-len(s)]
     if w in ARCHAIC:
         yield ARCHAIC[w]
+    if w in ME:
+        yield ME[w]
 
 
 def main():
