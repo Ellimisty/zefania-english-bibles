@@ -63,7 +63,7 @@ def main():
     print(f"parallel edges: {n}")
 
     # strong co-occurrence: verses sharing >=2 strong codes (KJV tags)
-    share = defaultdict(lambda: defaultdict(int))
+    share = defaultdict(list)
     for vid, code in c.execute("""
         SELECT ts.verse_id, ts.strong_id FROM token_strongs ts
         JOIN translations tr ON tr.id=ts.translation_id
