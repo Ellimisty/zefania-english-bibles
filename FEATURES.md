@@ -1,0 +1,78 @@
+# Feature roadmap (mined from chats + built so far)
+
+Consolidated plan. Architecture invariant from the chats:
+**Layer 0 immutable canonical text / Layer 1 deterministic algorithmic
+edges / Layer 2 inferred edges with confidence + review / Layer 3 derived
+experiences.** Bug rule: never mutate Layer 0; every inferred edge carries
+method + confidence + reversibility check.
+
+## Done (see README layer table)
+
+- DRY pack format + shared dictionary + dedup sequences + xz bundles
+- Strong's anchors, lemmas (Greek + Hebrew), strong_words, strong_equiv,
+  strong_audit, strong_class
+- CLAWS POS (`pos_tags` sidecar), USAS semantic (`usas_tags`/`usas_mwe`),
+  per-verse metrics (`bible_layers`), verse alignment (`align` sidecar)
+- word_variants (archaic + ME), word→code prior, token_strongs_proj
+  (~30M projected tags, method+confidence), strong_review buckets
+- OSHB Hebrew morphology (306k words), Torrey's topics (61k refs),
+  synoptic parallels (26k pairs), QA suite (qa_checks.py)
+- Reader: browse/search/compare(diff-highlight)/Strong's inspector/
+  concordance/projected-tag overlay/divergence coloring/bookmarks/
+  theme/file-picker/temp-staging
+- 844 per-language packs; ingest/migration tooling; mojibake QA + repair
+
+## Project A — Sola Scriptura engine (sermon/devotional generator)
+
+Goal from chat: devotionals composed **100% of scripture** — a "Superverse"
+where every sentence decompresses into cross-references, not human prose.
+
+- [ ] `xref` layer: cross-reference edges verse→verse
+      (sources: Torrey's refs done; OpenBible crossrefs; our own
+      `parallels` + `strong_words` co-occurrence + `similarity`)
+- [ ] `expansion`: click a phrase → decompress into its scriptural
+      expansions (Strong's co-definition verses, OT/NT overlays,
+      imperative parallels) — Phase 1-4 assembler from the chat
+- [ ] `sermon.py <topic|anchor>`: 4-phase exposition assembler
+      (anchor verse → definitional expansion → illustrative parallel →
+      imperative application), all from graph layers
+- [ ] confidence gates: candidate edges only activate in "exploratory"
+      mode until review-approved (strong_review is the seed table)
+
+## Project B — Expanding/contracting visual map (the original DAG idea)
+
+- [ ] 12-byte binary DAG nodes (LeftChildID+RightChildID+frequency)
+      — exists in antconc/graph_feed; needs pack-side table `dag_nodes`
+- [ ] interactive visualizer: expandable compound nodes
+      (egui eg_graph or three-d/WebGL canvas for >10k nodes)
+- [ ] arrows.app export is done; richer: cytoscape/gexf exports
+- [ ] compression view: pruned single-use high-N nodes (frequency>1 kept)
+
+## Project C — Review dashboard ("Scribe gate")
+
+- [ ] strong_review UI: approve/reject/adjust projected tags +
+      conflict candidates; writes `strong_review_verdicts`
+- [ ] equivalence proposal queue (strong_equiv candidates 283)
+- [ ] MWE/USAS spot-checks; mojibake/glued-token repair queue
+      (Rotherham 1967, ORTHJBC 357, German ~600 flagged)
+
+## Project D — Remaining data gaps
+
+- [ ] Middle-English second pass on word_variants (Wycliffe/Tyndale
+      unmatched ~544k)
+- [ ] spelling-aware projection rerun for ME translations
+- [ ] POS-aware USAS disambiguation once pos_tags complete
+- [ ] verse-alignment sidecar generalization (per-pair align db)
+- [ ] pack-side `dag_nodes` + n-gram feeder resume (45/110 done)
+- [ ] glued-token source repairs (Rotherham etc. — needs per-file
+      spacing fix, QA-flagged)
+
+## Guardrails (from the chats — now partially built)
+
+- qa_checks.py regression suite — run before/after every ingest or
+  layer build; add checks as new layers land
+- immutable Layer 0: all inferred layers are separate tables/sidecars
+- method + confidence columns on every projected row
+- round-trip: pack decode == source tokens (already verified by design;
+  add a qa round-trip test that re-encodes a sample verse)
+- review-before-commit for inferred edges (strong_review_verdicts)
