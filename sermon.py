@@ -28,10 +28,11 @@ BOOKS = ("Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth "
 BMAP = {b.lower().replace("_", " "): i + 1 for i, b in enumerate(BOOKS)}
 
 
-def verse_text(c, vid):
-    rows = c.execute("""SELECT t.word FROM verse_tokens vt
-        JOIN tokens t ON t.id=vt.token_id WHERE vt.verse_id=?
-        ORDER BY vt.position""", (vid,)).fetchall()
+def verse_text(c, vid, tid):
+    rows = c.execute("""SELECT t.text FROM verse_tokens vt
+        JOIN tokens t ON t.id=vt.token_id
+        WHERE vt.verse_id=? AND vt.translation_id=?
+        ORDER BY vt.position""", (vid, tid)).fetchall()
     return " ".join(r[0] for r in rows)
 
 
@@ -63,6 +64,8 @@ def main():
     anchor_ref = sys.argv[1]
     db = sys.argv[2] if len(sys.argv) > 2 else "bible_graph.db"
     c = sqlite3.connect(db)
+    tid = c.execute(
+        "SELECT id FROM translations WHERE identifier='KJV'").fetchone()[0]
     vid = get_verse(c, anchor_ref)
     print(f"### {anchor_ref} — sola-scriptura exposition\n")
 
@@ -70,11 +73,11 @@ def main():
     phases = [
         ("I. Anchor", [vid]),
         ("II. Definitional expansion",
-         [v for v, _ in top_edges(c, vid, ("strong",))]),
+         [v for v, _ in top_edges(c, vid, ("openbible", "strong"), 6)]),
         ("III. Illustrative parallel",
-         [v for v, _ in top_edges(c, vid, ("parallel", "topic"))]),
+         [v for v, _ in top_edges(c, vid, ("parallel", "openbible"), 10)]),
         ("IV. Imperative application",
-         [v for v, _ in top_edges(c, vid, ("topic",))]),
+         [v for v, _ in top_edges(c, vid, ("topic", "openbible"), 10)]),
     ]
     for title, vids in phases:
         print(f"\n**{title}**")
@@ -82,7 +85,7 @@ def main():
             if v in seen and title != "I. Anchor":
                 continue
             seen.add(v)
-            print(f"- {ref(c, v)}: {verse_text(c, v)[:300]}")
+            print(f"- {ref(c, v)}: {verse_text(c, v, tid)[:300]}")
     c.close()
 
 

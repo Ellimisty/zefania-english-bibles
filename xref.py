@@ -12,6 +12,7 @@ duplicates across kinds are merged with max weight).
 Usage: python xref.py [bible_graph.db]
 """
 
+import os
 import sqlite3
 import sys
 from collections import defaultdict
@@ -86,6 +87,62 @@ def main():
                       (b, a, "strong", 0.5))
             n += 2
     print(f"strong edges: {n}")
+
+    # openbible: voted human cross-references
+    ob_map = {"gen": 1, "exo": 2, "lev": 3, "num": 4, "deut": 5, "josh": 6,
+              "judg": 7, "ruth": 8, "1sam": 9, "2sam": 10, "1kgs": 11,
+              "1kin": 11, "2kgs": 12, "2kin": 12, "1chr": 13, "2chr": 14,
+              "ezra": 15, "neh": 16, "esth": 17, "job": 18, "ps": 19,
+              "psa": 19, "prov": 20, "eccl": 21, "song": 22, "isa": 23,
+              "jer": 24, "lam": 25, "ezek": 26, "dan": 27, "hos": 28,
+              "joel": 29, "amos": 30, "obad": 31, "jonah": 32, "mic": 33,
+              "nah": 34, "hab": 35, "zeph": 36, "hag": 37, "zech": 38,
+              "mal": 39, "matt": 40, "mark": 41, "luke": 42, "john": 43,
+              "acts": 44, "rom": 45, "1cor": 46, "2cor": 47, "gal": 48,
+              "eph": 49, "phil": 50, "col": 51, "1thess": 52, "2thess": 53,
+              "1tim": 54, "2tim": 55, "titus": 56, "phlm": 57, "heb": 58,
+              "jas": 59, "james": 59, "1pet": 60, "2pet": 61, "1john": 62,
+              "2john": 63, "3john": 64, "jude": 65, "rev": 66}
+    vid_of2 = {r[0]: r[1] for r in c.execute(
+        "SELECT bnumber||'.'||cnumber||'.'||vnumber, id FROM verses")}
+
+    def ob_ref(s):
+        s = s.strip()
+        m = s.split(".")
+        if len(m) < 3:
+            return None
+        b = ob_map.get(m[0].lower().replace(" ", ""))
+        if not b:
+            return None
+        return f"{b}.{m[1]}.{m[2]}"
+
+    n = 0
+    path = "cross-references/cross_references.txt"
+    if os.path.exists(path):
+        for line in open(path, encoding="utf-8"):
+            if line.startswith("#") or "\t" not in line:
+                continue
+            parts = line.split("\t")
+            if len(parts) < 3:
+                continue
+            a0, b0, votes = parts[0], parts[1], parts[2]
+            try:
+                votes = int(votes)
+            except ValueError:
+                continue
+            # expand "B.C.V1-B.C.V2" ranges to first verse only (graph
+            # granularity)
+            b1 = b0.split("-")[0]
+            a = vid_of2.get(ob_ref(a0) or "")
+            b = vid_of2.get(ob_ref(b1) or "")
+            if a and b:
+                w = min(0.5 + votes / 200.0, 1.0)
+                c.execute("INSERT OR REPLACE INTO xref VALUES (?,?,?,?)",
+                          (a, b, "openbible", w))
+                c.execute("INSERT OR REPLACE INTO xref VALUES (?,?,?,?)",
+                          (b, a, "openbible", w))
+                n += 2
+    print(f"openbible edges: {n}")
 
     c.execute("CREATE INDEX IF NOT EXISTS idx_xref ON xref(v1)")
     c.commit()
