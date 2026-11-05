@@ -19,6 +19,20 @@ Schema:
 
 Usage:
   python build_pack.py [--src .] [--out bibles.pack]
+                       [--translations KJV,WEB,...] [--list]
+                       [--base existing.pack] [--estimate]
+
+--translations takes comma-separated substrings matched case-insensitively
+against the translation slug, identifier, and name — e.g. --translations kjv
+builds a pack with every KJV-family module (KJV, KJVAK, KJ2000, MKJV1962,
+RKJVNT, KJVCNT, BIBLE.AKJV, KJVPCE). Because verse sequences are deduplicated
+globally, family packs stay tiny.
+
+--base merges new translations into an existing pack: the base pack's
+dictionary, sequences, and verses are carried over untouched, and only the
+requested translations are parsed. Per-file output shows the marginal cost
+(new sequences / dictionary words / Strong's codes / ~MB). --estimate does
+the same analysis without writing a pack.
 """
 
 import argparse
@@ -90,18 +104,58 @@ def verse_tokens(vers):
     return out
 
 
-def build(src_dir, out_path):
-    if os.path.exists(out_path):
-        os.remove(out_path)
-    con = sqlite3.connect(out_path)
-    con.executescript(SCHEMA)
-    cur = con.cursor()
+def seq_hash(tb, sb, stb):
+    return hashlib.sha1(bytes(tb) + b"|" + bytes(sb) + b"|" + bytes(stb)).digest()
 
+
+def load_base(base_path, dict_ids, strong_ids, seq_ids):
+    """Prefill dedup maps from an existing pack. Returns (max_dict_id,
+    max_strong_id, max_seq_id, n_verses)."""
+    bcon = sqlite3.connect(base_path)
+    max_dict = bcon.execute("SELECT COALESCE(MAX(id),0) FROM dictionary").fetchone()[0]
+    for i, t in bcon.execute("SELECT id, text FROM dictionary"):
+        dict_ids[t] = i
+    max_strong = bcon.execute("SELECT COALESCE(MAX(id),0) FROM strongs_dict").fetchone()[0]
+    for i, c in bcon.execute("SELECT id, code FROM strongs_dict"):
+        strong_ids[c] = i
+    max_seq = bcon.execute("SELECT COALESCE(MAX(id),0) FROM sequences").fetchone()[0]
+    for sid_, tb, sb, stb in bcon.execute(
+            "SELECT id, tokens, spaces, strongs FROM sequences"):
+        seq_ids[seq_hash(tb, sb, stb)] = sid_
+    n_verses = bcon.execute("SELECT COUNT(*) FROM verses").fetchone()[0]
+    bcon.close()
+    return max_dict, max_strong, max_seq, n_verses
+
+
+def build(src_dir, out_path, only=None, base=None, estimate=False):
     dict_ids = {}          # text -> pack dictionary id
     strong_ids = {}        # code -> pack strongs_dict id
     seq_ids = {}           # sha1 -> sequence id
     next_dict = next_strong = next_seq = 1
     dict_rows, strong_rows, seq_rows, verse_rows = [], [], [], []
+    base_bytes = 0
+
+    if base:
+        print(f"loading base pack {base}...")
+        md, ms, mq, base_verses = load_base(base, dict_ids, strong_ids, seq_ids)
+        next_dict, next_strong, next_seq = md + 1, ms + 1, mq + 1
+        base_bytes = os.path.getsize(base)
+        print(f"base: {base_verses} verses carried over")
+
+    con = None
+    cur = None
+    if not estimate:
+        if os.path.exists(out_path):
+            os.remove(out_path)
+        con = sqlite3.connect(out_path)
+        con.executescript(SCHEMA)
+        if base:
+            base_esc = base.replace("'", "''")
+            con.execute(f"ATTACH DATABASE '{base_esc}' AS base")
+            for t in ("translations", "dictionary", "strongs_dict",
+                      "sequences", "verses", "meta"):
+                con.execute(f"INSERT INTO {t} SELECT * FROM base.{t}")
+        cur = con.cursor()
 
     def dict_id(text):
         nonlocal next_dict
@@ -121,6 +175,7 @@ def build(src_dir, out_path):
             strong_rows.append((i, code))
         return i
 
+    n_files_verses = 0
     files = sorted(f for f in os.listdir(src_dir) if f.lower().endswith(".xml"))
     for fn in files:
         try:
@@ -132,13 +187,22 @@ def build(src_dir, out_path):
             print(f"{fn}: no BIBLEBOOK elements, skipped"); continue
 
         slug = safe_slug(os.path.splitext(fn)[0])
-        cur.execute(
-            "INSERT OR IGNORE INTO translations(slug, name, identifier) VALUES (?,?,?)",
-            (slug, root.get("biblename", "").strip(),
-             (root.findtext("./INFORMATION/identifier") or "").strip()))
-        tid = cur.execute("SELECT id FROM translations WHERE slug=?", (slug,)).fetchone()[0]
+        biblename = root.get("biblename", "").strip()
+        ident = (root.findtext("./INFORMATION/identifier") or "").strip()
+        if only is not None:
+            hay = f"{slug} {ident} {biblename}".lower()
+            if not any(p in hay for p in only):
+                continue
+        if cur is not None:
+            cur.execute(
+                "INSERT OR IGNORE INTO translations(slug, name, identifier) VALUES (?,?,?)",
+                (slug, biblename, ident))
+            tid = cur.execute("SELECT id FROM translations WHERE slug=?", (slug,)).fetchone()[0]
+        else:
+            tid = -1
 
-        n_verses = n_seq_new = 0
+        n_verses = n_seq_new = n_bytes = 0
+        d0, s0 = len(dict_rows), len(strong_rows)
         for book in books:
             bnum = int(book.get("bnumber", "0") or 0)
             lang = "H" if bnum <= 39 else "G"
@@ -164,23 +228,43 @@ def build(src_dir, out_path):
                             last_pos = i
                     if len(toks) % 8:
                         sb.append(bits)
-                    h = hashlib.sha1(bytes(tb) + b"|" + bytes(sb) + b"|" + bytes(sbuf)).digest()
+                    h = seq_hash(tb, sb, sbuf)
                     sid_ = seq_ids.get(h)
                     if sid_ is None:
                         sid_ = next_seq; next_seq += 1
                         seq_ids[h] = sid_
                         seq_rows.append((sid_, len(toks), bytes(tb), bytes(sb), bytes(sbuf)))
                         n_seq_new += 1
-                    verse_rows.append((tid, bnum, cnum, vnum, sid_))
+                        n_bytes += len(tb) + len(sb) + len(sbuf)
+                    if cur is not None:
+                        verse_rows.append((tid, bnum, cnum, vnum, sid_))
                     n_verses += 1
-        print(f"{fn}: {n_verses} verses, {n_seq_new} new sequences")
+                    n_files_verses += 1
+        print(f"{fn}: {n_verses} verses, {n_seq_new} new seqs "
+              f"(+{len(dict_rows) - d0} dict, +{len(strong_rows) - s0} strongs, "
+              f"~{n_bytes / 1e6:.2f} MB seq data)")
+
+    new_dict_bytes = sum(len(t) + 8 for _, t in dict_rows)
+    new_strong_bytes = sum(len(c) + 8 for _, c in strong_rows)
+    new_seq_bytes = sum(len(tb) + len(sb) + len(stb) + 20 for _, _, tb, sb, stb in seq_rows)
+    verse_bytes = (len(verse_rows) if verse_rows else n_files_verses) * 28
+    est_added = (new_dict_bytes + new_strong_bytes + new_seq_bytes + verse_bytes) * 1.15
+
+    if estimate:
+        print("\n-- estimate only, no pack written --")
+        print(f"new content: {len(seq_rows)} sequences, {len(dict_rows)} dict words, "
+              f"{len(strong_rows)} strongs, {n_files_verses} verse refs")
+        print(f"estimated added size: ~{est_added / 1e6:.1f} MB"
+              + (f" (base {base_bytes / 1e6:.1f} MB -> ~{(base_bytes + est_added) / 1e6:.1f} MB total)"
+                 if base else ""))
+        return
 
     print("writing...")
     cur.executemany("INSERT INTO dictionary VALUES (?,?)", dict_rows)
     cur.executemany("INSERT INTO strongs_dict VALUES (?,?)", strong_rows)
     cur.executemany("INSERT INTO sequences VALUES (?,?,?,?,?)", seq_rows)
     cur.executemany("INSERT OR REPLACE INTO verses VALUES (?,?,?,?,?)", verse_rows)
-    cur.execute("INSERT INTO meta VALUES ('format','bibles.pack.v1')")
+    cur.execute("INSERT OR REPLACE INTO meta VALUES ('format','bibles.pack.v1')")
     con.commit()
     # stats
     for t in ("translations", "dictionary", "sequences", "verses", "strongs_dict"):
@@ -194,5 +278,39 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--src", default=os.path.dirname(os.path.abspath(__file__)))
     ap.add_argument("--out", default="bibles.pack")
+    ap.add_argument("--translations", default=None,
+                    help="comma-separated substrings to include "
+                         "(slug/identifier/name), e.g. KJV,WEB")
+    ap.add_argument("--base", default=None,
+                    help="existing .pack to extend — carries over its "
+                         "dictionary/sequences/verses and adds only the "
+                         "requested translations")
+    ap.add_argument("--estimate", action="store_true",
+                    help="report marginal cost per translation without "
+                         "writing a pack")
+    ap.add_argument("--list", action="store_true",
+                    help="list available translation identifiers and exit")
     args = ap.parse_args()
-    build(args.src, args.out)
+
+    if args.list:
+        # identifiers live in each XML's INFORMATION block; scan cheaply
+        for fn in sorted(os.listdir(args.src)):
+            if not fn.lower().endswith(".xml"):
+                continue
+            try:
+                root = ET.parse(os.path.join(args.src, fn)).getroot()
+            except ET.ParseError:
+                continue
+            ident = (root.findtext("./INFORMATION/identifier") or "").strip()
+            name = root.get("biblename", "").strip()
+            if root.findall("BIBLEBOOK") or root.findall(".//BIBLEBOOK"):
+                print(f"{ident or safe_slug(os.path.splitext(fn)[0]):24} {name}")
+        raise SystemExit
+
+    only = None
+    if args.translations:
+        only = [p.strip().lower() for p in args.translations.split(",") if p.strip()]
+    if args.base and not only:
+        print("note: --base without --translations reprocesses every source file "
+              "(idempotent, but slow). Pass --translations to add specific ones.")
+    build(args.src, args.out, only=only, base=args.base, estimate=args.estimate)

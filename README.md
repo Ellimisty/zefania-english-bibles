@@ -94,6 +94,49 @@ WHERE w.bnumber = 59 AND w.cnumber = 1 AND w.vnumber = 1
 ORDER BY w.position;
 ```
 
+## Reader pack (`build_pack.py` / `read_pack.py`)
+
+`bibles.pack` is a DRY, reader-optimized SQLite bundle: one shared token
+dictionary, verse *sequences* deduplicated across translations (identical
+verses stored once), and a `verses` index mapping
+(translation, book, chapter, verse) → sequence. The full 67-translation
+pack is ~168 MB vs ~273 MB of source XML; a Rust GUI reader lives in
+`zachconc/antconc_ngram` (`cargo run --bin reader -- bibles.pack`).
+
+```
+python build_pack.py                      # full pack -> bibles.pack
+python build_pack.py --list               # list translation identifiers
+python build_pack.py --translations kjv --out bibles-kjv.pack
+python read_pack.py list
+python read_pack.py read KJV James 1 1 [--strongs]
+```
+
+`--translations` takes comma-separated substrings matched against each
+module's slug/identifier/name. Custom bundles and incremental extension:
+
+```
+# preview the marginal cost of adding translations to an existing pack
+python build_pack.py --base bibles-kjv.pack --translations web --estimate
+
+# actually merge them into a new bundle
+python build_pack.py --base bibles-kjv.pack --translations web \
+                     --out bibles-kjv-web.pack
+```
+
+Per-file output reports verses, new sequences, new dictionary words,
+new Strong's codes, and ~MB of sequence data — i.e. the true cost of each
+addition after dedup. Bundles ship as plain `.pack` files; the reader
+binary takes a path argument, so any subset works without code changes.
+
+## Database backends
+
+The same graph is mirrored into Neo4j and SurrealDB (both resumable):
+
+```
+python migrate_neo4j.py      # bolt://localhost:7687, --start-at <stage>
+python migrate_surrealdb.py  # ws://127.0.0.1:8000/rpc, --start-at <stage>
+```
+
 ## Notes
 
 - `SF_2006-03-02_ENG_TTB_(TORREY'S TOPICAL TEXTBOOK).xml` contains no
@@ -101,3 +144,5 @@ ORDER BY w.position;
   split output.
 - Some translations exist in multiple editions/revisions; folder names use the
   full original filename to keep them distinct.
+- `GER/` holds 49 German Zefania modules (zips); extract and point
+  `build_graph.py`/`build_pack.py --src` at the XMLs to ingest them.
