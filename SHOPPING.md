@@ -15,6 +15,12 @@ Resources referenced across the chats, with what we already have.
       for n-gram probability
 - [ ] **Greek LXX text** (Rahlfs/Swete, PD) — the Septuagint proper; we
       only have Brenton's *English* translation (LXXE)
+- [ ] **Treasury of Scripture Knowledge (TSK)** — the classic public-domain
+      cross-reference set (~500k links); often the base xref source
+- [ ] **LSJ / Abbott-Smith Greek lexicons** (Perseus/Internet Archive) —
+      fuller definitions beyond Strong's one-line glosses
+- [ ] **Gesenius Hebrew Grammar** (PD) — for decoding morphhb morph codes
+      into readable forms
 - [ ] **Universal Dependencies Ancient Greek** (Perseus TLG treebanks)
 - [ ] **e-Sword module formats spec** (.bblx/.cmtx/.dctx/.topx) — for
       direct e-Sword module import (they're SQLite)
