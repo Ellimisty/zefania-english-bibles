@@ -43,7 +43,7 @@ analytic layer should ride on top of that deduplicated core.
 | **CLAWS POS** | `<pack>.pos.db` `pos_tags` | UCREL C7 tags per token position | tooling done, KJV James 1 verified |
 | **USAS semantic** | planned `usas_tags` | single-word + MWE lexicons in `book/lexicons/` | pending |
 | **bible_layers metrics** | `<pack>.layers.db` `metrics` | words/sentences/dialogue%/passives/speech-verbs per verse | tooling done |
-| Strong's projection | graph `token_strongs_proj` | codes projected onto untagged ENG translations (word prior + per-verse consensus + equivalence pooling + spelling variants; method + confidence per tag) | running |
+| Strong's projection | graph `token_strongs_proj` + pack `proj_tags` | 29.9M projected codes (prior/consensus/variant), baked into packs; reader shows italic teal overlay | done |
 | **Verse alignment** | `<pack>.align.db` `align` | token-level LCS alignment between translation pairs (n_eq, sim, encoded ops); reader highlights diffs live | done |
 | **Projection review** | graph `strong_review` | `no_consensus`/`unmatched` cases with candidate+consensus code lists for LLM adjudication (`export_review.py`) | done |
 | **OSHB Hebrew morphology** | graph `hebrew_words` | morphhb WLC surface/lemma/morph per Hebrew word — OT equivalent of greek_words (306,785 words, 98% Strong's-linked) | done |
@@ -51,10 +51,17 @@ analytic layer should ride on top of that deduplicated core.
 | **Synoptic parallels** | graph `parallels` | verse-pair Jaccard across gospels (KJV tokens), 26,038 pairs ≥0.3 | done |
 | **USAS semantic** | `<pack>.usas.db` `usas_tags` | semantic-field tags via lexicon join + lemmatizer (`ingest_usas.py`; ~99% coverage) | tooling done |
 | **Reader concordance** | GUI | every verse where a Strong's root appears — clickable refs in inspector | done |
-| **Divergence coloring** | GUI + sidecar | `similarity` scores exported to pack sidecar; color verses vs chosen reference | pending |
+| **Divergence coloring** | GUI | verse numbers colored green→red by LCS diff ratio in compare mode | done |
 | **Bookmarks** | GUI | persist last reading position per pack | done |
-| **Spelling-variant table** | graph `word_variants` | surface→canonical clustering (archaic -eth/-est, inflections, curated map): 29,331 variants | done |
-| Hebrew morphology | future | OT parsing beyond lemma/gloss | future |
+| **Spelling-variant table** | graph `word_variants` | surface→canonical clustering (archaic -eth/-est, inflections, Middle-English): 29,448 variants | done |
+| **Cross-references** | graph `xref` | 10.4M verse→verse edges: openbible voted (655k), TSK (9.1M), Torrey topics (281k), synoptic parallels (24k), shared-Strong's (3.1M); kind + weight per edge | done |
+| **Commentary** | graph `commentary` | 20,408 verse notes: MHC, JFB, Clarke, Wesley, Barnes, RWP, Scofield, Calvin, Catena, Lightfoot | done |
+| **Lexicon extra** | graph `lexicon_extra` | 29,087 definitions: StrongsGreek/Hebrew, AbbottSmith, BDBGlosses, Smith, Nave | done |
+| **Eusebian parallels** | graph `parallels` | 274 canon-table pairs (pericope apparatus) | done |
+| **Sermon engine** | `sermon.py` + GUI | 4-phase sola-scriptura exposition: anchor → definitional expansion → illustrative parallel → imperative application | done |
+| **Study panel** | GUI | click verse number → commentary + clickable xref sidebar + exposition button | done |
+| **SWORD corpus** | `sword/mods/` | 463 CrossWire modules downloaded; zCom/zText/zLD/rawld decoders in `sword_read.py` | done |
+| **Chat mining** | `process_chats.py` | MHTML→text extraction + FEATURES.md/SHOPPING.md consolidation | done |
 
 ## Pipelines
 
@@ -94,6 +101,21 @@ Parallel XML parse + `sha`-keyed base merges keep builds linear.
 ### Sidecar DBs (per-pack, resumable)
 
 - `tag_claws.py` — CLAWS POS tagging via UCREL web service
+- `sword_get.py` — bulk-download all 464 CrossWire SWORD rawzip modules → `sword/mods/`
+- `sword_read.py` — decoders for zCom commentaries, zText bibles, zLD/rawld lexicons
+- `ingest_sword.py` — `--tsk`/`--commentary`/`--lexicon`/`--eusebian` loaders → `xref`, `commentary`, `lexicon_extra`, `parallels`
+- `xref.py` — builds `xref` edges from Torrey's topics, parallels, Strong's co-occurrence, `cross-references/cross_references.txt` (openbible)
+- `sermon.py` — 4-phase sola-scriptura exposition over `xref` (also in reader GUI)
+- `process_chats.py` — MHTML→text chat extractor (`chats/` → `_*.txt`)
+- `qa_checks.py` — integrity/encoding/consistency checks over graph + packs
+- `pack_proj.py` — bakes `token_strongs_proj` → pack `proj_tags`
+- `project_strongs.py` / `export_review.py` — projection + `strong_review` buckets
+- `ingest_usas.py` — USAS semantic tags + MWE (`<pack>.usas.db`)
+- `bible_align.py` — verse-pair LCS sidecars (`<pack>.align.db`)
+- `ingest_esword.py` — e-Sword module scaffold (RSC codec pending; SWORD covers same content)
+- `ingest_hebrew.py` / `ingest_topics.py` — OSHB morphology + Torrey's topics
+- `find_parallels.py` — computed synoptic parallels
+- `word_variants.py` — spelling/archaic/ME variant clustering
   (requests-first, playwright fallback, ~85k words/submission):
   `python tag_claws.py --pack bibles-kjv.pack --translation KJV`
 - `bible_layers.py` — per-verse metrics; joins `.pos.db` automatically:
