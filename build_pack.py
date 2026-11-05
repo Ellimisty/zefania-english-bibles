@@ -37,6 +37,9 @@ the same analysis without writing a pack.
 
 import argparse
 import hashlib
+import sys
+
+sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 import os
 import re
 import sqlite3
