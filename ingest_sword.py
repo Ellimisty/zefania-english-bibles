@@ -206,7 +206,57 @@ def ingest_lexicon(name, modpath, db="bible_graph.db",
     c.close()
 
 
+
+def ingest_eusebian(modpath, db="bible_graph.db",
+                    kjv_pack="bibles-kjv-web.pack"):
+    c = sqlite3.connect(db, timeout=300)
+    c.execute("PRAGMA busy_timeout=300000")
+    c.execute("""CREATE TABLE IF NOT EXISTS parallels(
+        b1 INT, c1 INT, v1 INT, b2 INT, c2 INT, v2 INT, score REAL,
+        PRIMARY KEY(b1, c1, v1, b2, c2, v2))""")
+    pk = sqlite3.connect(kjv_pack)
+    tid = pk.execute(
+        "SELECT id FROM translations WHERE identifier='KJV'"
+        ).fetchone()[0]
+    kjv = pk.execute(
+        "SELECT bnum, cnum, vnum FROM verses WHERE translation_id=? AND "
+        "bnum BETWEEN 40 AND 66 ORDER BY bnum, cnum, vnum",
+        (tid,)).fetchall()
+    pk.close()
+    z = ZModule(os.path.join(modpath, "modules/texts/ztext/eusebian"),
+                "nt")
+    groups = {}
+    for i in range(min(z.nverses(), len(kjv))):
+        try:
+            num = z.read(i).strip().lstrip(".")
+        except Exception:
+            continue
+        if not num:
+            continue
+        groups.setdefault(num, []).append(kjv[i])
+    n = 0
+    seen = set()
+    for num, vs in groups.items():
+        if len(vs) < 2:
+            continue
+        for i, a in enumerate(vs):
+            for b in vs[i + 1:]:
+                key = (min(a, b), max(a, b))
+                if key in seen:
+                    continue
+                seen.add(key)
+                c.execute(
+                    "INSERT OR REPLACE INTO parallels VALUES (?,?,?,?,?,?,?)",
+                    (a[0], a[1], a[2], b[0], b[1], b[2], 1.0))
+                n += 1
+    c.commit()
+    print(f"eusebian pairs: {n}")
+    c.close()
+
 if __name__ == "__main__":
+    if "--eusebian" in sys.argv:
+        ingest_eusebian(sys.argv[sys.argv.index("--eusebian") + 1])
+        sys.exit()
     if "--lexicon" in sys.argv:
         i = sys.argv.index("--lexicon")
         pref = (sys.argv[sys.argv.index("--prefix") + 1]
