@@ -116,8 +116,16 @@ Once decoded:
 - [ ] `.cmtx` commentaries (barnes, clarke, bullinger, cambridge,
       vincent, wesley, spurgeon, scofield) → `commentary(verse_id,
       source, text)` — reader "commentary pane" per verse
-- [ ] `.refx` books (ante-nicene fathers, josephus works, devotionals)
-      → `book_chapters(book, ch, text)` sidecar; searchable long-form
+- [ ] `.refx` books → `book_chapters(book, ch, text)` sidecar;
+      searchable long-form. Library now includes:
+      ante-nicene fathers (9 vols), Josephus (Antiquities, Wars),
+      E.M. Bounds prayer works (7), Tozer (Knowledge of the Holy),
+      Edersheim (Jewish Social Life, Life and Times of Jesus),
+      F.B. Meyer character studies (Joseph, David, Jeremiah, Peter),
+      Torrey works, Wurmbrand, In His Steps, Foxe-style devotionals
+- [ ] `tsk.cmtx` (Treasury of Scripture Knowledge) — 29,675
+      VerseCommentary entries; decode Comments -> parse ref lists ->
+      `xref kind='tsk'` (parser written in ingest_esword.py)
 - [ ] `.mapx` maps → probably image assets; low priority
 - [ ] `.bblx` bibles → redundant with Zefania XMLs; skip except
       `+`-tagged variants if they carry Strong's we lack
