@@ -1,33 +1,38 @@
 """Ingest e-Sword modules (.bblx/.lexx/.dctx/.topx/.refx) -> bible_graph.db.
 
-STATUS: e-Sword 11+ modules are SQLite but their content blobs use the
-proprietary RSC codec (compressed+encrypted). sqliteplus_license table
-confirms. To use them we need ONE of:
-  a) e-Sword app itself: open module -> Print/Export -> text/RTF
-  b) a community decoder (e.g. the 'esword' rust crate, es2text,
-     or the RSC codec implementations on GitHub)
-  c) older e-Sword 9.x modules (.bbl/.cmt/.dctx plain-text era)
+Decode chain (from SimpleBibleReader FormatUtil.cs):
+  plaintext = zlib_decompress( twofish_ecb_decrypt(blob, key) + [skip 2] )
+  key = ESWORD_KEY env var or KEY constant below (16 bytes hex)
 
-When decoded, the target tables are already designed:
-  lexx  (Topic=H/G code, Definition)   -> lexicon_extra(code, dict, defn)
-  dctx  (Topic, Definition)            -> dictionary(topic, dict, defn)
-  dctx  Nave/Torrey topical            -> topic_refs (kind='nave')
-  topx  topical cross-refs             -> xref (kind='esword_topx')
-  cmtx  commentary notes               -> commentary(verse_id, source, text)
-  bblx  translations                   -> redundant w/ Zefania XMLs
+The released source strips Passwords.eSword9_Password; restore it from
+any fork that kept it or from your e-Sword install, then:
+  ESWORD_KEY=<hex> python ingest_esword.py e-Sword/thayer.lexx --dump
 
-Usage once a decoder exists:
-  python ingest_esword.py <module> [--decoded file.rtf]
+Usage:
+  python ingest_esword.py <module>            # list tables/rows
+  python ingest_esword.py <module> --dump N   # show first N decoded rows
+  python ingest_esword.py <lexx> --lexicon    # -> lexicon_extra table
 """
 
+import os
 import sqlite3
 import sys
+import zlib
+
+KEY_HEX = os.environ.get("ESWORD_KEY", "")
+_IV = bytes(16)
 
 
-def try_decode(blob):
-    """Placeholder: returns plaintext once RSC codec is available."""
-    raise NotImplementedError(
-        "RSC codec not implemented — see module docstring for options")
+def decode(blob):
+    if not KEY_HEX:
+        raise SystemExit("set ESWORD_KEY=<hex key> first")
+    from twofish import Twofish
+    key = bytes.fromhex(KEY_HEX)
+    tf = Twofish(key)
+    data = blob + b"\x00" * ((16 - len(blob) % 16) % 16)
+    plain = b"".join(tf.decrypt(data[i:i + 16])
+                     for i in range(0, len(data), 16))
+    return zlib.decompress(plain[2:])
 
 
 def list_module(path):
@@ -42,6 +47,21 @@ def list_module(path):
     c.close()
 
 
+def main():
+    path = sys.argv[1]
+    if "--dump" in sys.argv:
+        n = int(sys.argv[sys.argv.index("--dump") + 1])
+        c = sqlite3.connect(path)
+        tbl = c.execute("SELECT name FROM sqlite_master WHERE type='table' "
+                        "AND name NOT LIKE 'sqlite%' LIMIT 1").fetchone()[0]
+        print(f"(decoding {tbl})")
+        for row in c.execute(f"SELECT * FROM {tbl} LIMIT {n}"):
+            print(row[0], decode(row[-1])[:200])
+        c.close()
+        return
+    print(path)
+    list_module(path)
+
+
 if __name__ == "__main__":
-    print(sys.argv[1])
-    list_module(sys.argv[1])
+    main()
