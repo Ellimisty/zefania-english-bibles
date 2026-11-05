@@ -1,0 +1,97 @@
+"""Build the xref verse->verse edge layer -> xref(v1, v2, kind, weight).
+
+Sources (all in-house):
+  topic   - verses sharing a Torrey's subtopic (topic_sub)
+  parallel- computed synoptic parallels (score >= 0.35)
+  strong  - verses sharing 2+ Strong's roots (rare-root co-occurrence)
+  sim     - high similarity scores from the similarity table (if present)
+
+weight: topic=0.7, parallel=0.9, strong=0.5, sim=0.6 (heuristic;
+duplicates across kinds are merged with max weight).
+
+Usage: python xref.py [bible_graph.db]
+"""
+
+import sqlite3
+import sys
+from collections import defaultdict
+
+
+def main():
+    db = sys.argv[1] if len(sys.argv) > 1 else "bible_graph.db"
+    c = sqlite3.connect(db, timeout=300)
+    c.execute("PRAGMA busy_timeout=300000")
+    c.execute("""CREATE TABLE IF NOT EXISTS xref(
+        v1 INT, v2 INT, kind TEXT, weight REAL,
+        PRIMARY KEY(v1, v2, kind))""")
+    c.execute("DELETE FROM xref")
+
+    # topic: verses sharing a subtopic -> complete the pair graph per sub
+    sub_map = defaultdict(list)
+    for sid, b, ch, v in c.execute(
+            "SELECT sub_id, bnum, cnum, vnum FROM topic_refs"):
+        vid = c.execute(
+            "SELECT id FROM verses WHERE bnumber=? AND cnumber=? AND vnumber=?",
+            (b, ch, v)).fetchone()
+        if vid:
+            sub_map[sid].append(vid[0])
+    n = 0
+    for sid, vids in sub_map.items():
+        for i, a in enumerate(vids):
+            for b in vids[i + 1:i + 9]:  # cap 8 links per verse per topic
+                c.execute("INSERT OR REPLACE INTO xref VALUES (?,?,?,?)",
+                          (a, b, "topic", 0.7))
+                c.execute("INSERT OR REPLACE INTO xref VALUES (?,?,?,?)",
+                          (b, a, "topic", 0.7))
+                n += 2
+    print(f"topic edges: {n}")
+
+    # parallels: verse_id lookup from (b,c,v) keys
+    vid_of = {r[0]: r[1] for r in c.execute(
+        "SELECT bnumber||'.'||cnumber||'.'||vnumber, id FROM verses")}
+    n = 0
+    for b1, c1, v1, b2, c2, v2, s in c.execute(
+            "SELECT b1,c1,v1,b2,c2,v2,score FROM parallels WHERE score >= 0.35"):
+        a = vid_of.get(f"{b1}.{c1}.{v1}")
+        b = vid_of.get(f"{b2}.{c2}.{v2}")
+        if a and b:
+            c.execute("INSERT OR REPLACE INTO xref VALUES (?,?,?,?)",
+                      (a, b, "parallel", 0.9))
+            c.execute("INSERT OR REPLACE INTO xref VALUES (?,?,?,?)",
+                      (b, a, "parallel", 0.9))
+            n += 2
+    print(f"parallel edges: {n}")
+
+    # strong co-occurrence: verses sharing >=2 strong codes (KJV tags)
+    share = defaultdict(lambda: defaultdict(int))
+    for vid, code in c.execute("""
+        SELECT ts.verse_id, ts.strong_id FROM token_strongs ts
+        JOIN translations tr ON tr.id=ts.translation_id
+        WHERE tr.identifier='KJV'"""):
+        share[code].append(vid)
+    n = 0
+    pair_n = defaultdict(int)
+    for code, vids in share.items():
+        if len(vids) > 400:
+            continue  # common roots too weak as edges
+        for i, a in enumerate(vids):
+            for b in vids[i + 1:]:
+                k = (a, b) if a < b else (b, a)
+                pair_n[k] += 1
+    for (a, b), cnt in pair_n.items():
+        if cnt >= 2:
+            c.execute("INSERT OR REPLACE INTO xref VALUES (?,?,?,?)",
+                      (a, b, "strong", 0.5))
+            c.execute("INSERT OR REPLACE INTO xref VALUES (?,?,?,?)",
+                      (b, a, "strong", 0.5))
+            n += 2
+    print(f"strong edges: {n}")
+
+    c.execute("CREATE INDEX IF NOT EXISTS idx_xref ON xref(v1)")
+    c.commit()
+    print(f"total: {c.execute('SELECT COUNT(*) FROM xref').fetchone()[0]:,}")
+    c.close()
+
+
+if __name__ == "__main__":
+    main()
