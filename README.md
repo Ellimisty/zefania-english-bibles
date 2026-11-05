@@ -46,7 +46,7 @@ analytic layer should ride on top of that deduplicated core.
 | Strong's projection | planned | codes projected onto untagged translations (vocab priors + elimination + phrase spans) | designed |
 | **Verse alignment** | `<pack>.align.db` | token-level difflib alignment between translation pairs; "identical to that point then diverge" as data; powers diff-highlighted compare view | in progress |
 | **OSHB Hebrew morphology** | graph `hebrew_words` | morphhb WLC surface/lemma/morph per Hebrew word — OT equivalent of greek_words (306,785 words, 98% Strong's-linked) | done |
-| **Torrey's topics** | graph `topics` | `SF_2006-03-02_ENG_TTB` is a topic→verses index (no BIBLEBOOK) — parse into topical layer | pending |
+| **Torrey's topics** | graph `topics`/`topic_sub`/`topic_refs` | Torrey's Topical Textbook — 628 topics, 61,105 verse refs | done |
 | **Synoptic parallels** | graph `parallels` | Gospel harmony / Eusebian apparatus mapping same-pericope passages | pending |
 | **USAS semantic** | `<pack>.usas.db` `usas_tags` | semantic-field tags via lexicon join + lemmatizer (`ingest_usas.py`; ~99% coverage) | tooling done |
 | **Reader concordance** | GUI | every verse where a Strong's root appears — clickable refs in inspector | done |
