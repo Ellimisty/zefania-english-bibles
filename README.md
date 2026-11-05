@@ -52,7 +52,7 @@ analytic layer should ride on top of that deduplicated core.
 | **Reader concordance** | GUI | every verse where a Strong's root appears — clickable refs in inspector | done |
 | **Divergence coloring** | GUI + sidecar | `similarity` scores exported to pack sidecar; color verses vs chosen reference | pending |
 | **Bookmarks** | GUI | persist last reading position per pack | done |
-| **Spelling-variant table** | planned | begat/begot, sabbaoth-era variants for cross-era matching (feeds projection) | pending |
+| **Spelling-variant table** | graph `word_variants` | surface→canonical clustering (archaic -eth/-est, inflections, curated map): 29,331 variants | done |
 | Hebrew morphology | future | OT parsing beyond lemma/gloss | future |
 
 ## Pipelines
