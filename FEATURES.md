@@ -67,6 +67,22 @@ where every sentence decompresses into cross-references, not human prose.
 - [ ] glued-token source repairs (Rotherham etc. — needs per-file
       spacing fix, QA-flagged)
 
+## Project E — Re-Sword (e-Sword ground-up rebuild, from the PRD chat)
+
+The reader + packs are the foundation; this is the productized app on top.
+
+- [ ] **Interlinear mode**: stacked view English + Greek/Hebrew + transliteration + morphology (greek_words + hebrew_words ready)
+- [ ] **Color-coded morphology**: inline POS/morph coloring (pos_tags + parsing data ready)
+- [ ] **Hover tooltips**: Strong's/cross-ref/morph popups without clicks (inspector is close; needs hover variant)
+- [ ] **Semantic NL search**: "verses about anxiety when starting something new" — embedding or USAS-based query over all translations
+- [ ] **Dockable workspaces**: saved layouts (parallel-reading vs word-study)
+- [ ] **Markdown notes + bidirectional [[links]]**: notes keyed to verse refs, wiki-style graph of personal study
+- [ ] **Module ecosystem**: packs ARE modules — needs a downloader/UI for .pack.xz bundles + custom bundle builder front-end
+- [ ] **Sync (optional layer)**: notes/highlights sync via diff-push; offline-first stays the rule
+- [ ] **AI summarization** (future): commentary digests — deferred, but the xref/topics layers are the data backend
+- [ ] **Collab study** (future): shared notebooks for groups
+- [ ] n-gram/linguistic-pattern tool: antconc_ngram plugs in as the analysis engine — authorship-anomaly/frequency views over greek_words
+
 ## Guardrails (from the chats — now partially built)
 
 - qa_checks.py regression suite — run before/after every ingest or
