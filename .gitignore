@@ -8,4 +8,6 @@ Untitled graph*.json
 nul
 __pycache__/
 zachconc/vendor/
-zachconc/
+zachconc/*
+!zachconc/antconc_ngram/
+zachconc/antconc_ngram/target/

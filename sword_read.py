@@ -60,6 +60,65 @@ class ZModule:
         return raw[start:start + ln].decode("utf-8", "replace")
 
 
+class ZLD:
+    """zLD lexicon reader.
+
+    dict.zdt = zlib blocks -> stream of 8B (offset,size) pairs + text.
+    Pair i -> entry i text. dict.dat = key list ('name\\r\\n'+u32+u32+'\\r\\n').
+    """
+
+    def __init__(self, dirpath):
+        import glob as _g
+        zdtp = (_g.glob(os.path.join(dirpath, "*.zdt")) or [None])[0]
+        zdxp = (_g.glob(os.path.join(dirpath, "*.zdx")) or [None])[0]
+        idxp = (_g.glob(os.path.join(dirpath, "*.idx")) or [None])[0]
+        datp = (_g.glob(os.path.join(dirpath, "*.dat")) or [None])[0]
+        self.raw = b""
+        if zdtp and zdxp:
+            zdt = open(zdtp, "rb").read()
+            zdx = open(zdxp, "rb").read()
+            for i in range(len(zdx) // 8):
+                off, _usize = struct.unpack_from("<II", zdx, i * 8)
+                self.raw += zlib.decompress(zdt[off:])
+        self.idx = open(idxp, "rb").read() if idxp else b""
+        dat = open(datp, "rb").read() if datp else b""
+        self.keys = []
+        self.pair_idx = []
+        if not self.raw:
+            # rawld: uncompressed .dat records, .idx = (off,size) pairs
+            self.raw = dat
+            n = len(self.idx) // 8
+            for i in range(n):
+                off, size = struct.unpack_from("<II", self.idx, i * 8)
+                rec = dat[off:off + size]
+                k = rec.split(b"\r\n", 1)[0].split(b"\\", 1)[0]
+                self.keys.append(k.decode("utf-8", "replace").strip())
+                self.pair_idx.append((off, size))
+        else:
+            # zld: dat records = key\r\n + u32 + u32(pair ordinal) + \r\n
+            pos = 0
+            while pos < len(dat):
+                eol = dat.find(b"\r\n", pos)
+                if eol < 0:
+                    break
+                self.keys.append(dat[pos:eol].decode("utf-8", "replace"))
+                pos = eol + 2
+                _a, b = struct.unpack_from("<II", dat, pos)
+                self.pair_idx.append(b)
+                pos += 8
+                if dat[pos:pos + 2] == b"\r\n":
+                    pos += 2
+        self.n = len(self.keys)
+
+    def entry(self, i):
+        p = self.pair_idx[i]
+        if isinstance(p, tuple):
+            off, size = p  # rawld direct (offset,size)
+        else:            # zld: embedded pair stream
+            off, size = struct.unpack_from("<II", self.raw, p * 8)
+        return self.raw[off:off + size].decode("utf-8", "replace")
+
+
 def main():
     path = sys.argv[1]
     t = sys.argv[2] if len(sys.argv) > 2 and sys.argv[2] in ("ot", "nt") \

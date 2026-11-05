@@ -23,25 +23,44 @@ from sword_read import ZModule
 from ingest_esword import parse_refs
 
 
-def verse_map(c):
-    """testament -> {sword_index: our verse_id}"""
+def verse_map(c, kjv_pack="bibles-kjv-web.pack"):
+    """testament -> {sword_index: graph verse_id}.
+
+    SWORD indexes by KJV v11n verse ordinal. Build the ordinal list
+    from the pack's KJV verse set (exact v11n) so non-canonical rows
+    (v0 prologues, expanded verse counts) can't shift the mapping.
+    """
+    vid_of = {r[0]: r[1] for r in c.execute(
+        "SELECT bnumber||'.'||cnumber||'.'||vnumber, id FROM verses")}
+    pk = sqlite3.connect(kjv_pack)
+    tid = pk.execute(
+        "SELECT id FROM translations WHERE identifier='KJV'"
+        ).fetchone()[0]
     ot = {}
     nt = {}
-    for i, vid in enumerate(c.execute(
-            "SELECT id FROM verses WHERE bnumber<=39 ORDER BY "
-            "bnumber, cnumber, vnumber")):
-        ot[i] = vid[0]
-    for i, vid in enumerate(c.execute(
-            "SELECT id FROM verses WHERE bnumber BETWEEN 40 AND 66 "
-            "ORDER BY bnumber, cnumber, vnumber")):
-        nt[i] = vid[0]
+    rows = pk.execute(
+        "SELECT bnum, cnum, vnum FROM verses WHERE translation_id=? "
+        "ORDER BY bnum, cnum, vnum", (tid,)).fetchall()
+    pk.close()
+    i_ot = i_nt = 0
+    for b, ch, v in rows:
+        vid = vid_of.get(f"{b}.{ch}.{v}")
+        if not vid:
+            continue
+        if b <= 39:
+            ot[i_ot] = vid
+            i_ot += 1
+        else:
+            nt[i_nt] = vid
+            i_nt += 1
     return {"ot": ot, "nt": nt}
 
 
 def mod_dir(path, sub):
     """find modules/<drv>/<name>/ inside an extracted module dir"""
     for root, _, files in os.walk(path):
-        if any(f.endswith((".bzv", ".czv")) for f in files):
+        if any(f.endswith((".bzv", ".czv", ".zdt", ".idx"))
+               for f in files):
             return root
     return path
 
@@ -83,21 +102,28 @@ def ingest_tsk(modpath, db="bible_graph.db"):
     c.close()
 
 
-def chapter_map(c):
-    """testament -> {chapter_ordinal: [verse_ids]}"""
+def chapter_map(c, kjv_pack="bibles-kjv-web.pack"):
+    """testament -> {chapter_ordinal: [graph verse_ids]} — KJV v11n."""
+    pk = sqlite3.connect(kjv_pack)
+    tid = pk.execute(
+        "SELECT id FROM translations WHERE identifier='KJV'"
+        ).fetchone()[0]
+    rows = pk.execute(
+        "SELECT DISTINCT bnum, cnum FROM verses WHERE translation_id=? "
+        "ORDER BY bnum, cnum", (tid,)).fetchall()
+    pk.close()
     ot, nt = {}, {}
-    q = ("SELECT DISTINCT bnumber, cnumber FROM verses WHERE bnumber<=39"
-         " ORDER BY bnumber, cnumber")
-    for i, (b, ch) in enumerate(c.execute(q)):
-        ot[i] = [r[0] for r in c.execute(
-            "SELECT id FROM verses WHERE bnumber=? AND cnumber=? "
-            "ORDER BY vnumber", (b, ch))]
-    q = ("SELECT DISTINCT bnumber, cnumber FROM verses WHERE bnumber"
-         " BETWEEN 40 AND 66 ORDER BY bnumber, cnumber")
-    for i, (b, ch) in enumerate(c.execute(q)):
-        nt[i] = [r[0] for r in c.execute(
-            "SELECT id FROM verses WHERE bnumber=? AND cnumber=? "
-            "ORDER BY vnumber", (b, ch))]
+    i_ot = i_nt = 0
+    for b, ch in rows:
+        vids = [r[0] for r in c.execute(
+            "SELECT id FROM verses WHERE bnumber=? AND cnumber=? AND "
+            "vnumber>0 ORDER BY vnumber", (b, ch))]
+        if b <= 39:
+            ot[i_ot] = vids
+            i_ot += 1
+        else:
+            nt[i_nt] = vids
+            i_nt += 1
     return {"ot": ot, "nt": nt}
 
 
@@ -142,7 +168,51 @@ def ingest_commentary(name, modpath, db="bible_graph.db"):
     c.close()
 
 
+def ingest_lexicon(name, modpath, db="bible_graph.db",
+                   prefix_map=None):
+    """zLD lexicon -> lexicon_extra(code, dict, defn).
+
+    Keys like '00001'/'G1'/'Aaron' -> code. prefix_map converts numeric
+    keys to codes, e.g. {'g':'G','h':'H'} picks by module.
+    """
+    from sword_read import ZLD
+    base = mod_dir(modpath, "lexdict")
+    c = sqlite3.connect(db, timeout=300)
+    c.execute("PRAGMA busy_timeout=300000")
+    c.execute("""CREATE TABLE IF NOT EXISTS lexicon_extra(
+        code TEXT, dict TEXT, defn TEXT,
+        PRIMARY KEY(code, dict))""")
+    z = ZLD(base)
+    n = 0
+    for i, key in enumerate(z.keys):
+        k = key.strip()
+        if not k:
+            continue
+        code = k
+        if k.isdigit() and prefix_map:
+            code = prefix_map + k
+        try:
+            txt = z.entry(i)
+        except Exception:
+            continue
+        txt = re.sub(r"<[^>]+>", " ", txt)
+        txt = re.sub(r"\s+", " ", txt).strip()
+        if txt:
+            c.execute("INSERT OR REPLACE INTO lexicon_extra VALUES (?,?,?)",
+                      (code, name, txt))
+            n += 1
+    c.commit()
+    print(f"{name}: {n} entries")
+    c.close()
+
+
 if __name__ == "__main__":
+    if "--lexicon" in sys.argv:
+        i = sys.argv.index("--lexicon")
+        pref = (sys.argv[sys.argv.index("--prefix") + 1]
+                if "--prefix" in sys.argv else None)
+        ingest_lexicon(sys.argv[i + 1], sys.argv[i + 2], prefix_map=pref)
+        sys.exit()
     if "--tsk" in sys.argv:
         ingest_tsk(sys.argv[sys.argv.index("--tsk") + 1])
     elif "--commentary" in sys.argv:
