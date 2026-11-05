@@ -128,6 +128,11 @@ new Strong's codes, and ~MB of sequence data — i.e. the true cost of each
 addition after dedup. Bundles ship as plain `.pack` files; the reader
 binary takes a path argument, so any subset works without code changes.
 
+Compression: `xz -6` shrinks packs ~4× (full pack 168 MB → 42 MB,
+KJV+WEB bundle 44 MB → 9.5 MB) and decompresses in ~1–2 s. Both readers
+accept `.pack.xz` directly — `read_pack.py` and the Rust reader
+decompress to a temp file on open.
+
 ## Database backends
 
 The same graph is mirrored into Neo4j and SurrealDB (both resumable):

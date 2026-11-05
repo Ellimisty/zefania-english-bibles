@@ -8,8 +8,11 @@ Usage:
 """
 
 import argparse
+import lzma
+import os
 import sqlite3
 import sys
+import tempfile
 
 BOOK_NAMES = {
     "genesis":1,"exodus":2,"leviticus":3,"numbers":4,"deuteronomy":5,
@@ -74,7 +77,18 @@ def main():
     ap.add_argument("--pack", default="bibles.pack")
     ap.add_argument("--strongs", action="store_true")
     a = ap.parse_args()
-    con = sqlite3.connect(a.pack)
+
+    pack = a.pack
+    tmp = None
+    if pack.endswith(".xz"):
+        # decompress once to a temp file (~2s for the full pack)
+        tmp = tempfile.NamedTemporaryFile(suffix=".pack", delete=False)
+        tmp.close()
+        with lzma.open(pack, "rb") as f_in, open(tmp.name, "wb") as f_out:
+            while chunk := f_in.read(1 << 22):
+                f_out.write(chunk)
+        pack = tmp.name
+    con = sqlite3.connect(pack)
 
     if a.cmd == "list":
         for r in con.execute(
@@ -119,6 +133,10 @@ def main():
                 toks = text.split()
                 word = toks[pos] if pos < len(toks) else "?"
                 print(f"    [{pos}] {word} -> {', '.join(strong_names.get(c, str(c)) for c in codes)}")
+
+    if tmp:
+        con.close()
+        os.unlink(tmp.name)
 
 
 if __name__ == "__main__":
