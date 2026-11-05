@@ -47,7 +47,7 @@ analytic layer should ride on top of that deduplicated core.
 | **Verse alignment** | `<pack>.align.db` | token-level difflib alignment between translation pairs; "identical to that point then diverge" as data; powers diff-highlighted compare view | in progress |
 | **OSHB Hebrew morphology** | graph `hebrew_words` | morphhb WLC surface/lemma/morph per Hebrew word — OT equivalent of greek_words (306,785 words, 98% Strong's-linked) | done |
 | **Torrey's topics** | graph `topics`/`topic_sub`/`topic_refs` | Torrey's Topical Textbook — 628 topics, 61,105 verse refs | done |
-| **Synoptic parallels** | graph `parallels` | Gospel harmony / Eusebian apparatus mapping same-pericope passages | pending |
+| **Synoptic parallels** | graph `parallels` | verse-pair Jaccard across gospels (KJV tokens), 26,038 pairs ≥0.3 | done |
 | **USAS semantic** | `<pack>.usas.db` `usas_tags` | semantic-field tags via lexicon join + lemmatizer (`ingest_usas.py`; ~99% coverage) | tooling done |
 | **Reader concordance** | GUI | every verse where a Strong's root appears — clickable refs in inspector | done |
 | **Divergence coloring** | GUI + sidecar | `similarity` scores exported to pack sidecar; color verses vs chosen reference | pending |
