@@ -109,7 +109,8 @@ def main():
             except Exception:
                 continue
             words = tokenize(text)
-            if not words:
+            if not words or len(words) > 500:
+                # 500+ tokens/verse = runaway read (bad index record)
                 continue
             vid = vm[i]
             for pos, w in enumerate(words):
